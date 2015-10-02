@@ -1,0 +1,30 @@
+<!doctype html>
+<html >
+  <head>
+    
+
+  </head>
+  <body>
+
+	<div>
+
+		<div style = "position: absolute; top: 10%; left: 30%">
+		<div>
+		<form method="post" action="{{url_for('query')}}">
+		{{form.hidden_tag()}}
+		{{form.querytext.label}}
+		{{form.querytext}}
+		<button type="submit">Search</button>
+		</form>
+		</div>
+			
+
+		
+
+		</div>
+	</div>
+
+
+
+  </body>
+</html>
