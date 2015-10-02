@@ -116,17 +116,3 @@ def is_number(token):
         return True
     except ValueError:
         return False
-
-"""
-prints the proper command usage
-"""
-
-
-# for each option parsed
-
-# if missing out on an argument, print usage to user and exit
-
-if (RECORD_TIME): start = timeit.default_timer()                              # start time
-index(document_directory, dictionary_file, postings_file)   # call the indexer
-if (RECORD_TIME): stop = timeit.default_timer()                               # stop time
-if (RECORD_TIME): print ('Indexing time:' + str(stop - start))                # print time taken
