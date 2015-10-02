@@ -3,7 +3,7 @@ from forms import QueryForm,eovn
 from search import search,load_dictionary,process_query,load_posting_list,shunting_yard,boolean_NOT,boolean_OR,boolean_AND
 from index import index,is_number
 app = Flask(__name__)
-app.secret_key = 'bits-pharmacy-hyderabad'
+app.secret_key = 'bits-hyderabad'
 @app.route('/')
 def hello_world():
     return 'Hello World!'
