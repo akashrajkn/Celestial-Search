@@ -1,41 +1,36 @@
-from flask import Flask,render_template,request
-from forms import QueryForm,eovn
-from search import search,load_dictionary,process_query,load_posting_list,shunting_yard,boolean_NOT,boolean_OR,boolean_AND
-from index import index,is_number
+from flask import Flask, render_template, request
+from forms import QueryForm
+from search import search
+from index import index
+
 app = Flask(__name__)
 app.secret_key = 'bits-hyderabad'
 
 docs = {}
+corpus_path = 'static/wikipedia/'
 
-@app.route('/')
-def hello_world():
-    return 'Hello World!'
-
-@app.route('/query',methods=['GET','POST'])
+@app.route('/', methods=['GET', 'POST'])
 def query():
-	form=QueryForm()
-	global docs
-	
-	if not docs:
-		docs = index('static/yahooanswers', 'dictionary-list', 'postings-list')
+    form=QueryForm()
+    global docs
 
-	if request.method=='GET':
-		eovn('static/wikipedia', 'alpha', 'beta')
-		return render_template('querytext.html',form=form)
-	elif request.method=='POST':
+    # If indexing not yet done, then index the corpus
+    if not docs:
+        docs = index(corpus_path, 'dictionary-list', 'postings-list')
 
-		qstring = 'queried string: ' + form.querytext.data
-		ans = search('dictionary-list', 'postings-list', form.querytext.data, 'output')
+    if request.method=='GET':
+        return render_template('querytext.html', form=form)
+    elif request.method == 'POST':
+        qstring = 'Queried string: ' + form.querytext.data
+        results = search('dictionary-list', 'postings-list', form.querytext.data)
 
-		ans = sorted(ans, key=lambda x: x[1], reverse=True)
+        results = sorted(results, key=lambda x: x[1], reverse=True)
 
-		output = ''
-		for docID, count in ans:
-			output += 'DocID: ' + str(docID) + ' Count: ' + str(count) + ' Link: ' + '<a href="./static/yahooanswers/' + docs[int(docID)] + '">' + docs[int(docID)] + '</a>' + '</br>'
-		'''
-		print '~~~~~~~~'
-		print output
-		'''
-		return qstring+'<br/><br/>Search Results: ' + output
+        output = ''
+        for docID, count in results:
+            output += 'DocID: ' + str(docID) + ' Count: ' + str(count) + ' Link: ' + '<a href=".' + corpus_path + docs[int(docID)] + '">' + docs[int(docID)] + '</a>' + '</br>'
+
+        return qstring + '<br/><br/>Search Results: ' + output
+
 if __name__ == '__main__':
-	app.run(debug = True)
+    app.run(debug = True)
