@@ -1,0 +1,6 @@
+Do you know of an internet site like this?
+A site for cooking where a person can put in certain ingredients to find recipes, which would be good for cleaning out remaining ingredients in a pantry. Like if a person has tomatoes, apples, and mayonaise, puts it in the search generator, then gets recipes that only has those three ingredients.
+
+Some DS games such as Cooking Guide have incorporated this type of feature - but they're are extremely limited because they don't have many recipes in the database. Any internet site will be just as limited and not very useful.
+
+You can always just google all of the items you plan to use and the word recipe in one search and see what recipes come up.

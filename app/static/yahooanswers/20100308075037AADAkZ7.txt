@@ -1,0 +1,8 @@
+is it difficult to get a new ip number from your interenet server?
+i'd like a new ip addy, i was curious if you can just call your server and get a new one, any ideas on how to get one? do you have to have a valid reason? if so, what do they consider valid?
+
+comcast cable your allowed up to five.not sure if they charge you for it,i think they do.looked into once a while back
+i think you can just ask.
+
+you shouldn't need a reason but if you do say somthing like "my security needs to be strengthended by changing my IP address.
+Actually, I think all you have to do to get a new IP address is to restart your modem. Turning it off, then on again usually gives you a new IP. It works over here.

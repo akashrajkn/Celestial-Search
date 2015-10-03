@@ -1,0 +1,8 @@
+how can adjust how to save downloads on firefox?
+Whenever I download files in the past from firefox, it prompts me to either Save or Open. now i can only save my files which has a small hassle to it because I have to do that extra step of of extracting is need be.   im using OSX. thanks
+
+My goodness, it always amazes me how some people can be so oblivious
+
+In firefox, Click Tools>Options
+
+Go to the "General" tab, and select "Save files to". Specify a folder, and voila

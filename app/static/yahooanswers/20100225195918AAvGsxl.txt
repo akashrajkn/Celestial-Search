@@ -1,0 +1,5 @@
+Buy Now button sends customers to paypal home page. Can't finish purchase. Why?
+I just created a paypal account (primier) to sell my cd and buy now button. I placed button on myspace, but when someone clicks the button it takes them to paypal home page with no option for continuing with purchase. What am I doing wrong?  Please someone help.
+
+better you ask paypal customer care by phone or email,
+its fast and easy

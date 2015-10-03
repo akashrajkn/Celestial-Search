@@ -1,0 +1,6 @@
+I lost a taskbar (History, View, File, Bookmarks, Tools, etc.) all on the same bar.?
+Since losing the bar, I can't click on to bring it back, like I now can't get into options and all my bookmarks. Please help. Thank you. If you can help, explane it slow and easy read directions. Again thanks. Robert
+
+You may have gone into full-screen mode.  Try pressing the F11 key to get out of it.
+
+Hope that helps.

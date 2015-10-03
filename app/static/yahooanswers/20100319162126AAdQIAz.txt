@@ -1,0 +1,11 @@
+I need help with a Firefox problem?
+I have Firefox 3.6 and I have the Smart Bookmarks Bar add-on and it doesn't work on the initial start-up. I have to go to tools>add-ons>find updates>then restart firefox for it to work.
+
+Things I have tried:
+1. reinstall Smart Bookmarks Bar
+2. reinstall Firefox 3.6
+
+Thanks.
+
+00
+i think smart bookmarks bar is not suitable for firefox 3.6

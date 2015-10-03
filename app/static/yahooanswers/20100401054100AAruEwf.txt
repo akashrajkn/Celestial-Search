@@ -1,0 +1,11 @@
+why do GIF's that i've saved open in internet explorer when i click on them?
+from the website i went 
+right click -> save picture as..
+and when i go to view it, it opens up with internet explorer instead of the normal picture viewer. how do i save the actual thing onto my computer?
+
+thanks
+
+It is saved on your computer. You just need to tell Windows which program to open it with. Go to Windows Explorer, Click Tools, Folder Options and then click File Types Tag. Scroll to find .gif and then click Change in the open with section. The select the program you want to open gifs with and voila!
+If you are using Vista or 7, you have to change the default program by right clicking on it, then to properties, then next to opens with click change, and when selecting the program like Windows live gallery, make sure the always use selected program option is checked near the bottom left of the window.  Note: Animated gifs will not animate in any of the Vista or 7 default programs except in Internet Explorer, otherwise install a gif viewing program. 
+
+If using XP or older, change the default program just like Vista or 7 as stated in the previous paragraph. Animated gifs will animate in windows picture and fax viewer.

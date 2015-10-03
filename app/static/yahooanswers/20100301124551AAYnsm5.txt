@@ -1,0 +1,12 @@
+Unwanted adverts filling the entire monitor - normal?
+I suddenly seem to be getting quite a lot of really annoying adverts which fill the entire screen, and they interupt whatever i am doing, randomly. For example, i will click on a site like Youtube, then suddenly an advert (cheap looking one, in the local language - Dutch, since I'm in Holland), and the ONLY way to get rid of the advert it a small little click link at the top or bottom of the screen, saying "skip ad".  Is this a virus or something i can stop from happening.
+
+I think you're being careless with your mouse, there have been loads of annoying ads lately, all it takes for them to come out is to rollover!
+
+Try a pop-up blocker, it won't stop them all but it will help and be more careful where you scroll.
+On the 'Tools' menu of your Internet browser, click on preferences and check whether the pop ups and cookies are blocked, if not then on the drop down box click on 'block all pop ups'. Hope it will do.
+I had something like this a long time ago and hubby told me to use Firefox instead with the Ad blocker installed.
+
+I haven't had the same problem since, and as he's a techie I'll assume he knows what he's talking about.
+
+So ditch IE and use Firefox instead and then problem solved :0)

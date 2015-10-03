@@ -1,0 +1,19 @@
+PrizeRebel Point Generator?
+Has anyone got a PrizeRebel points generator that works with 0 points, if not is there any point generators?
+
+that's illegal it really bad because that pocket editing
+I have only known one working point generator, but I trusted it only because the creator received a cease-and-desist email from the PrizeRebel staff. He had to take down the video. As a rule, there's no such thing as a point generator. More often than not, what you download is a virus or a phishing (account stealing) tool. I see thousands of fake "hacked link" videos that are really an attempt to earn referrals (they usually "require" a certain number of points/offers). 
+
+When completing offers, make sure your zip code, phone number, and address are fake but match your location. Other than that, you can use fake info. Use the same fake information every time, but create a new (not temporary) email every few offers.
+
+Your best bet is to check out the RewardsQuiz and PlaySushi offers (15 points total). They credit instantly, and do not require much work (20 minutes). 
+
+Here's a trick for the RQ offers: fill out the quiz with random answers, giving the same fake but plausible information you use on other offers. When you reach the optional offers (a list of yes/no options usually), begin to close the window but hit "cancel" when a popup says something along the lines of "Wait! Stop!" Let the quiz results load, change the "1" at the end of the URL to a 0 and hit enter. This makes the offer think you completed the optional offers instead of bypassing them. The offer will credit in minutes.
+
+For PlaySushi offers: only complete the ones that say "use Sandboxie." Look up Sandboxie in Google, install it, then open Sandboxie Control. Right click on Sandbox Default Box, Run Sandboxed, and click "Run Web Browser." Your default browser will open, and go to PR and click on a PlaySushi offer that requires Sandboxie. Install the game (make sure you uncheck all the optional toolbars), play it for one or two minutes, and go to the PlaySushi homepage. After thirty seconds, go back to Sandboxie Control, right click on Default Box, and click "Delete Content." Hit "OK" or "Enter" and all the installed content will be deleted. Go back to PR and you should have the points.
+
+See the source for miscellaneous information and a link to the PrizeRebel forums. Good luck! I've earned over 173 points in half a year - without referrals.
+The only way u can get points is by signing up and obtianig them by refferels and offers
+1. sign up at http://www.prizerebel.com/index.php?r=2035566
+2. complete offers
+3. redeem prizes

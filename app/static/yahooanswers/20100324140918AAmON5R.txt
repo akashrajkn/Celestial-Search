@@ -1,0 +1,5 @@
+Why does my laptops Firefox browser keep saying Problem Loading Page & Server Not Found?
+Odd times, one minute its fine, next it isn't. I go on my internet connection settings, and it says that i'am connected. Four bars out of five. And it seems fine, yet when I want to go on the site, it says Problem Loading Page and Server Not Found. Please help, it has happened when I want to ask these quesitions as well. Thanks : )
+
+I have no clue. I had Firefox. I hated it, it ran slowly. So I went to Google.com and downloaded Google chrome. It works really fast. Just don't be all freaked out cause' it looks different. It works really well.
+Have you tried uninstalling Firefox then install the latest version from their web site?

@@ -1,0 +1,8 @@
+Can you give me some feedback to make my blog better?
+I'm starting a blog for songwriters/guitarists. Take a look at it and tell me what I can do to make it more interesting, attractive, etc. www.muzicatto.com
+
+Theres a lot of open white space on the left side of the screen that is...um...weird...
+Perhaps you could include some light color there, like a nice light green or something, not too harsh, nothing to draw the eye, but to keep the eye from being drawn to the blank white. Other than that I like the simple nature of the site. Keeps the focus on the content of the posts.
+I think one important thing is to decide your categories and tags. Like in the post caged theory the category would be something along the links of 'learning music' or 'guitar learning' and the tags would be fretboard, caged theory. These can be displayed in the left column to add an additional navigation feature to the website.Also, there is a lot of blank after the logo at the top. Scope there for some type of image, banner, etc.
+
+Also in left column you can add links to useful resources for your target visitors. Wordpress offers a lot of scope so you can look at useful information on plugins and on websites in general. A couple of resources below from blogs I subscribe to but there are many others.

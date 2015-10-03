@@ -1,0 +1,5 @@
+my computer cant function normally, because the IE there does not work.How can i revive it?
+IE restoration
+the fact is that i cant open IE to see or correct any mistakes
+
+It depends on the reason that it doesn't work.  Odds are you have some form of malware.  The first thing I would do it open up IE and click 'Tools' then 'Internet Options'.  After that click 'Connections' 'Lan Settings' and make sure that everything there is unchecked.  After that try to download malwarebytes or superantispyware.  I bet that'll get you going again.

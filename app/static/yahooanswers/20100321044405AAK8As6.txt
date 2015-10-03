@@ -1,0 +1,26 @@
+my internet keeps disconnecting (bt home hub 2.0)?
+I am with BT and using a BT home hub 2.0 
+My computer is using a dynamode 802.11N wireless USB adapter (WL-700N-M)
+Recently at least once an hour, my google chrome will come up with this error:
+This web page is not available.
+
+The web page at null might be temporarily down or it may have moved permanently to a new web address.
+
+Here are some suggestions:
+Reload this web page later.
+  More information on this error
+Below is the original error message
+
+Error 105 (net::ERR_NAME_NOT_RESOLVED): The server could not be found.
+
+ 
+
+i have tried firefox and other browsers and they all seem to be coming up with that error or similar.
+please help me if you can and thank you for your time.
+
+Hi
+
+I seem to have similar problem and for me closing the browser then reopen sometimes works or reload password or repair option gets things working.But have not found a fix but on one restart microsoft pop up said known fault but no fix yet?So I'm hoping they get back with a fix soon.
+Its happening to me too! Its really annoying I have a coursework deadline for tomorrow. I live in Norfolk and near Norwich and I know its not happening to everyone. Im not getting any errors when I go online its just my Home Hub 2.0 keeps getting and Orange light on the broadband section!
+
+If anyone knows whats happening, it may be they're doing some works but I thought that would be notified beefore it happened, please let me know thanks.

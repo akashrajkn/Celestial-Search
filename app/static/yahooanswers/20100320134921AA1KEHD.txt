@@ -1,0 +1,4 @@
+Internet Explorer not working even though internet connection is fine?
+Whenever I open internet explorer, it would always say the web could not be displayed even though my internet connection is fine and I tried everything it told me to do for the information and I tried to click on the diagnose problems but it couldn't load. So I can't access my Itunes Store or Yahoo Messenger.
+
+Reset IE8 to Defaults in Options, Advanced...I would also use Malwarebytes, ccleaner, and restart PC...

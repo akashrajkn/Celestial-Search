@@ -1,0 +1,53 @@
+The IP address for the website channel 131?
+So basically,channel 131 was blocked by my daddy using the Netgear Firewall. Proxies are stupid and cause viruses. Can somebody tell me how to either kill the firewall or give me a proxy that allows javascript and dosen't suck or giveme theip address for channel 131? Please and thankyous.
+
+PS: please don't tell me that i should just talk to my dad cause we do NOT get along. ever. no questions asked.
+
+DNS. Learn it.
+First you say proxies are stupid and cause viruses (they don't)
+
+Then you ask us for a proxy address. 
+
+They're stupid but you want one anyway? *confused*
+Domain: ch131.com
+Status: Protected
+
+DNS:
+        ns1.ch131.com
+        ns2.ch131.com
+
+Created: 2008-08-08 04:38:10
+Expires: 2011-08-08 04:38:10
+Last Modified: 2009-02-04 18:36:17
+
+Registrant Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0
+
+Administrative Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0
+
+Technical Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0
+
+Billing Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0
+try with these:
+
+http://www.homecomputer.ro
+http://www.findyourdating.com

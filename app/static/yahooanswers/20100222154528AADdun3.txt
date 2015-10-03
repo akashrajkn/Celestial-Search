@@ -1,0 +1,16 @@
+My internet keeps cutting out...?
+Ever since Christmas I have been having this problem where at least once an hour my internet will cut in and out for a short period of time. At Christmas I only had my laptop and I was thinking it was something wrong with it but then about a month ago I got a new gaming computer and it's having the same problem! I was dealing with it but today I was in an intense game (of L4D2) and it just cut, and my team lost! That was the last straw... and if it's possible I would like a solution that doesn't involve calling Shaw. (because they take hours to respond)
+
+It could be MULTIPLE things, but the fact that it is happening on several computers means it's not the computers fault. The issue may be
+1 your isp
+2 your modem (reboot before playing)
+3 your router (REAL gamers SHOULD play with NIC), not wifi, but if you use wifi, you sould reboot the router before playing. they have a FIFO buffer and rebooting clears the buffer
+4 junk on your computer. A "vampire" like P2P software that is chewing up your cpu and ramm cycles as well as your bandwidth. IF you have P2P it's ALWAYS on, even if you don't think you're using it (just check your process monitor if you don't believe me). Always shut down anything unneeded in bios/msconfig/autoruns before playing and a gamer doesn't P2P on his good computer.
+5 could be heat related, but your gaming computer has better heat shedding so I doubt it.
+6 if you have DSL, it may be you need better filters of could be line interference. This is storm season in my area. Spikes through the phone line and spikes on the ac line may bump you. You are a gamer, so I'm assuming your PC is on a UPC (which has built in surge supression), but is your modem and router?
+
+good luck
+
+
+
+did you get any messages on screen when it cuts out?

@@ -1,0 +1,24 @@
+Dial-up internet questions?
+So I have dial-up, but it won't stay connected long enough for me to download itunes.  I downloaded it on my old computer overnight, and I tried putting the setup file on a flash drive and putting it on my new computer, but it is an older version, too old for my itouch.  Where in control panel or wherever can I change this setting that disconnects me from the internet after it has been on for awhile?  Or can I change it at all?
+
+Also, if I get a wifi box-thingy, will it be extremely unbearably slow with dial-up?
+
+Thanks!
+
+wifi is wireless broadband, how the hell can you survive with only dial up in todays times
+you should need to go with broadband for the wifi thing for the dissconection problem i think it will be a setting in the dial up box when you start it up if you cant find it ring the dial up/ internet provider
+ok what you have to do is get a the latest download from itunes to work with your itunes touch now about your internet disconnecting that dial-up will boot its users becuase of to much use. Well if you get a router ( wifi box-thingy) i would strongly suggest you get a better internet service with that because you will just be expierencing the same speeds.
+if your computer is very old i doubt if it will be able to use the WIFI (wireless broadband) is it a laptop or desktop pc. If it was a laptop then most of them have inbuilt wifi cards which can work with wifi network connection,
+
+the connection drop thing is a problem with dialup, long connections do get to drop in a dialup
+
+regards
+What are you paying for Dial up because for marginally more (like $5 a month or less) you can have a reliable cable/dsl line. Wifi and dialup sounds like a network nightmare to me.
+Of all my computer work, and seeing some of the unbelievable things some people do to their computer. And of all the computer problems I have ran into, This a first. I have never heard of anyone trying to use a router for wifi with dialup. Somehow I just don't think it will work. It might, but you're not going to be happy with it.
+Wi-fi doesn't work with dial-up, at least not directly.  Wireless routers require a network connection, which uses a different connector and communication standard than old-fashioned dial-up.  You would need broadband, like cable or DSL.  You *could* use wi-fi between two computers with one connected via dial-up, but the slowest connection speed would dictate the speed of the wi-fi shared connection.  In other words, sharing a dial-up connection over wi-fi would be as slow as the dial-up itself.
+
+One thing you can do to improve your download results would be to use a download manager, which browsers like Firefox and Opera have built-in (I don't know about IE any more, but version 6 and earlier don't have download management).  A download manager is designed to let you download files a little bit at a time, meaning you can manually stop, continue, or restart a download as time permits.  They can also better deal with interrupted communications.  They're not flawless, though.
+
+An even better option would be to use a torrent downloader.  Torrents are specifically designed to allow large files to be downloaded in small pieces.  The downsides are that many ISPs don't like torrents (they're often used to share illegally copied movies, music, and software) and thus discourage their use to one degree or another, and you can only use a torrent downloader if the file has been converted to a torrent (if it's not offered as a torrent you can't force it).
+In MandaPandaE's defense, believe it or not, there are still areas in this country that do not have access to affordable high speed internet service.  I personally feel it's inexcusable but it's a fact.  If a person lives in an area without cable or dsl service their only option is dial-up or a super expensive satellite service provider.
+For the record, some places your only option is dial up. Example: a year ago, the place i lived, while our closest neighbor had high speed via Wireless signal from a nearby tower, our house, just next door, was too low to receive the signal, and to get an antenna to reach it, would have cost more than a grand. and believe me, it was not fun. luckily, i also had internet at school, as well as a flash drive. :)

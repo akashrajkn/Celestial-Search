@@ -1,0 +1,5 @@
+Is there a way to see everything you've ever downloaded while using Opera?
+Is there a way to redownload them?
+
+Do one of the following:
+right click on the item in the browser then click "show in folder" or open "my document" there is folder named "downloads" which was automatically created by opera. All downloaded items is there. But i dont know how to re-download

@@ -1,0 +1,66 @@
+Firefox / Anyway to save and open all the tabs at once next time?
+So I always open about 6 tabs and it's always hte same webs, so I want to know how to open them at once. I already know how to bookmark but still I have to create extra tabs and click differernt bookmark icons.
+
+force it to crash use alt-control-delete. and end the process called Firefox.exe there may be a plugin but i am to lazy to find it
+Yes!  Under the Tools menu, click Options....  Under the General tab, in the Startup group, go to the When Firefox starts: drop down menu.  Select Show my windows and tabs from last time.
+It should ask you automatically when you press the red close x if you want to save your tabs. If this isn't happening you can open all the tabs you want to save and go to tools>options> and in the general tab you can click use currents pages as homepages. That will save it. Or you can click the middle mouse button over your bookmarks which will load them in a new tab.
+The best way to open all 6 tabs every time you start Firefox is to load only the 6 tabs you want to start up, then go to Firefox menu > Tools > Options > General section > Home Page section -- click button to select "Use current pages."
+
+This will load all 6 tabs at every loading of Firefox, and when you close them, or go to different pages and want to load all 6 again, click on your "home" button. It will keep your current tabs open, plus open the 6 home pages you set.
+HI,
+
+There are various types of solutions for your query...
+
+
+1. This seems to be the easiest option of them all.
+
+When you have opened all the six tabs (or more) go to "Tools" menu click on "Options".
+
+Now click on "General" icon (usually the first icon) and in the "StartUp" section, under "Home Page" text box you will find a button called "Use current pages". 
+
+Click on "Use Current Pages"
+
+Now whenever you open your browser, you will find your sites open in six tabs...., 
+
+You can get these six tabs even when you click on the home icon near the address bar (the shortcut for home is usually "Alt+Home"). 
+
+
+2. You can terminate the process by going to Task Manager (ctrl+alt+del or right click on taskbar and selecting "Task Manager").
+
+Go to  process tab and end Firefox.exe
+
+Thus, the next time you open your firefox it will ask for restore session.
+
+
+3. You and try the addon called "Tab Mix Plus" by going to :
+
+https://addons.mozilla.org/en-US/firefox/addon/1122
+
+After installing the addon, restart your firefox browser and go to
+
+Tools --> Tab Mix Plus Options
+
+Click on the "Session" icon (usually the last icon)
+
+Click on the check box to select "Enable Session Manager"
+
+Let the other options to be the same (or you can play around if you want to explore more)
+
+Click "Ok"
+
+Now, if you close your browser with the six tabs intact, the next time you open your browser, this addon will ask for a "session restore" if you click "Ok" your previous tabs will be restored.
+
+
+4. When you have opened all the six tabs (or more) go to "Bookmarks" menu and click on "Bookmark all tabs" (usually the shortcut to bookmark all tabs is Ctrl+Shift+D).
+
+Provide a folder name and click on "Add bookmarks".
+
+Now go back to "Bookmarks" menu, hover over the folder you created...
+
+You will find an option called "Open All in Tabs". Usually this option is placed at the bottom of all bookmarks, in a particular folder.
+
+
+Hope this helps, :)
+
+Regards,
+Johnny Litson

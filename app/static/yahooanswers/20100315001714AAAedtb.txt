@@ -1,0 +1,15 @@
+Torrent downloading help. New at this...?
+I want to download this episode of a talk show with an actress so I started looking for a free download but only torrents came up. I downloaded Vuze and searched for the episode I wanted. I found it and clicked download. Then after a while the status was still downloading and I noticed there was no progress to it at all. Apparently I wasn't connected to any 'seeds'. I tried searching for the episode elsewhere but it always ends up with something I have to be a member of and pay. I want to download it for free. Can anyone help? Maybe 'guide' me step by step how to download the torrent using Vuze...?
+Please don't bash me. Many thanks.
+
+Unless people are seeding the torrent you want there's nothing you can do. Except try to find a different copy that is being seeded.
+I've never used Vuze, and never will.
+The torrent downloader I use is called ?Torrent, you can download it at www.utorrent.com
+For a torrent website, I suggest www.thepiratebay.org
+Now, here's what you want to do:
+On www.thepiratebay.org, you search for what you want to find, then once the results come in, notice the two columns of numbers on the far right of the search results. Click the box at the top of the left column. There you get the most seeders.
+Then open the torrent in your torrent downloader (I will explain this for ?Torrent)
+
+Open the preferences, on the ?Torrent toolbar you can find it by clicking the golden thing on the far right.
+Then go to the bandwidth tab and change Global Maximum Number of Connections to 500 or higher.
+Change the Maximum Number of Peers per Torrent to 500 or higher.

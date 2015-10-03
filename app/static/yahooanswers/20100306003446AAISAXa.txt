@@ -1,0 +1,4 @@
+Wordpress.I think i chose d option"dont show visual mode when editing posts"or something..now i dont want html?
+well i had chosen an option to NOT show visual mode while editing posts i think.....but now i don't want the html mode, i want the visual mode and option to switch back isn't there near the text box.....i cant find it!
+
+Right where you are adding/editing a post, you will find 2 tabs - Visual / Html, choose visual

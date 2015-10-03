@@ -1,0 +1,31 @@
+My computer says I have Mozilla browser, what happened to my Internet Explorer browser? Should I get that back?
+An error message popped up and told me the website is not compatable with my Mozilla browser. First of all, how did I get Mozilla? And should I get Internet Explorer back?
+
+Nope.  Firefox (mozilla) is far better than I.E.  And Google Chrome is quickly becoming even better than Firefox, so I'd actually download that if I were you.
+Mozilla is currently your default browser, launch IE and set it as the default. How you got it to begin with is you downloaded it.
+I'm not sure how you ended with having a Mozilla browser. And no you shouldn't get Internet Explorer back as it is inferior web browser. Trust me I've been using Mozilla FireFox since it first came out and IE is just a waste of time when compared to Mozilla FireFox.
+maybe somebody else downloaded it for you. But just as he said Mozilla is faster  and more manageable than IE so you should keep it.But for the sake of those websites that are not compatible with either, then keep them both. To open the website, you have to be on IE then; and if it can't because IE is not the default browser then make IE the default by going to CONTROL PANEL- PROGRAMS - DEFAULT PROGRAMS - SET YOUR DEFAULT PROGRAMS and select IE and make default.
+You can have two or more browsers on your computer.  One will be the default one, that is automatically open when one is needed. 
+
+Mozilla is an open source browser with several names Firefox is by far the most common one. You got it by downloading and installing it or someone using your computer did. 
+
+ A few web site most importantly Microsoft Windows updates are not compatible with Mozilla and so you must use IE
+
+Internet Explorer is still on your computer and you can still use it.
+
+As for which is better.. that is an argument that will never end. They both are great as are a number of other browsers. Just like is Chevy better than Ford or Honda.  Its your choice.
+
+To revert to IE as the default go to Internet options > Programs Tab in the control panel and make the change.
+First of all.... who is your IT person. Talk to them. There may be a reason for them having IE (internet Explorer) as the one you do not want. One possible reason, Cookies and Temp files lead to security vulnerabilities. 
+
+With FF (Firefox), the main thing is that you can set it up to keep you more secure. Many companies are now trying to go the route of security and safety. With businesses being a target for worms, trojans, etc... the company might want to have less problematic situations. Such things are when you browse a certain site in FF, it will ask you if you want to go there... if a previous person had a virus or worm, before you go there.
+
+However, there is still a need for IE. Windows updates will not update, without IE. Yes, you can use Netscape to update Windows, but it has security issues too.  Another fall back for not using other browsers, other than IE..... Corporate and other sites cannot guarantee sites will work on anything other than IE. For example, one major broadcaster only writes music scheduling sites to work in IE, nothing else.
+
+It's a good idea to ask you IT person about why this is happening...and if you should make the switch back or not. It depends on your needs and the business you need to do.
+
+If you do need to go back to IE... re-open it back up... it will ask you if you want that as your main/default browser.... if you do want it to be the main one... click "Yes." That is, if your default browser is now FF. It won't ask you, if you do not have FF as your default browser.
+
+If you are not at work, FF should be fine, except when updating windows or a few other sites....unless you are on Linux... then FF is just fine all alone.
+
+Note that IE is never recommended for linux users. However, linux does not get viruses, it leaves cookies and temp files, which could be a clogging issue, when you have too many temp files.

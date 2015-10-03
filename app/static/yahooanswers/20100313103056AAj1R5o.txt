@@ -1,0 +1,33 @@
+Whats up with babblesex.com?
+Every time I try to go to babblesex.com, it directs me to godaddy.com.... why? I was on the website a few days ago.
+
+maybe the domain name expired.
+yea i know it totaly sucks this happened last year it lasted for like a whole week i hope it comes back soon!!
+Add these three lines temporarily to your 'hosts' file under C:\WINDOWS\system32\drivers\etc\
+
+174.37.22.18 www.babblesex.com
+174.36.228.186 babblesex.com
+174.36.228.186 livehubs.com
+
+Reboot to have this take effect.
+
+Edit: If you're having trouble saving the file (in Vista), you should be able to "Run as Administrator"
+
+*Start | All Programs | Accessories
+*right-click (NOT left-click) on "Notepad"
+*select "Run as Administrator"
+
+... and make the changes shown above.
+
+Some "security" programs will set the 'hosts' file to read-only. Before editing the file, you should be able to right-click on it in the File | Open dialog, select Properties, and clear the "Read-Only" checkbox. "Apply" the change; click "OK" to close the Properties page. You should be back at the File | Open dialog. Select the 'hosts' file as normal and add the lines.
+Sat, unfortunately my dear, that doesn't work for those of us using Vista. It won't allow us to Save the file. :(
+Thanks Satyr.... it works... i m now connected
+Satyr, with what program should I open the "hosts" file?
+I do not want to screw up system files and the whole computer, so I want to know exactly what I am doing.
+
+Thanks;
+
+Derek.
+the page is down, and dont get up again.
+the site will be up and running again soon enough, sides if it stopped working for any length of time all the poor cam girls would be in trouble
+

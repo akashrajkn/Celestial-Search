@@ -1,0 +1,21 @@
+My internet is annoying me soo much?
+I can search on the interent and access some websites.... but most wont work (interent explorer cannot display this website)
+
+Any links a click dont work.....
+
+Im going to go crazy
+
+I know my dad changed the settings a while ago and wont admit that hes messed it up and he also has parental controls
+
+Can anyone think of some possibilities to fix it!
+
+Ill be thankful forever
+
+Go into options and look around in there
+What browser are you using? I would try downloading Google Chrome.
+Mine used to be very messed up at time and Chrome runs on so much less and doesn't hold as high of a cache. 
+
+Everything wen't back to perfect for me! Worth a shot, good luck !
+download google or firefox and set ur own settings
+Well, try going into Control panel from the start button. Then click on Internet Options.Then where it says Browsing History click on Delete, this will get rid of old unnecessary temporary files which could be blocking up your computer. It helped mine.
+Firefox is a much better browser (IE just lays down and dies on some trivial little errors on websites), but if it's the parental controls that are blocking you, no browser will get to those sites.  Since you get here with no problem, I'm betting it's the parental controls.  (And without the password you can't change that.)

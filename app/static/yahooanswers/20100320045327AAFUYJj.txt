@@ -1,0 +1,22 @@
+Internet pages load intermittently?
+I have a problem loading pages on my computer, it doesn't matter what browser i use  they all do the same  the pages load sometimes, sometimes they only load showing half the text and no pictures, just the red cross appears where the pictures should be, have done all the deleting that should be done, but still its the same, the computer in question is running windows xp, have another computer and a laptop and they both work fine, anyone with any ideas would be appreciated
+
+You could try resetting IE, if thats what u use.
+download aa program called cc cleaner and run a scan on all your programs to delete all your cache and cookies Etc, the run a scan on your registry with cc cleaner to see if that helps.
+
+then download the free version of malware anti bytes from  http://www.malwarebytes.org/
+
+you might have to copy and paste            http://www.malwarebytes.org/           into the address bar, download the free version of that and run it also.
+
+after the computer restarts, if you still can not get it working better, maybe it is a problem with your internet connection, maybe your router - it might just be a very slow connection - try running a ping test.
+
+go to your start bar and find Run, type in cmd and press enter
+
+
+then in the black box type in ping www.google.com - this will tell you how fast your connection is basically.
+
+at the bottom it will minimum = xxx and maximum = xxx and average = xxx
+
+if your average is over 100ms then you will have quite a slow internet connection, if it is really high like 250ms then you would suffer from Images not loading.
+
+if you have a normal speed like 10ms or something then i dont know what to suggest

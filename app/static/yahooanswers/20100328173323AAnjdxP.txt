@@ -1,0 +1,12 @@
+How to remove bottom browser bar?
+http://i578.photobucket.com/albums/ss229/schoolstuff12345/whatttt.jpg
+
+See the bottom bar with grease monkey and firefox personas on it? 
+
+How can I remove it?
+
+There is no reason for it to be removed.
+So there is no way of removing it (on FireFox at least).
+
+If you want a bit more room, make it so your taskbar auto hides.
+View > Status Bar

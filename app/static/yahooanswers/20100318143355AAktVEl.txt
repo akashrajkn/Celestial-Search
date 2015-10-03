@@ -1,0 +1,4 @@
+Why when I type "yahoo" into firefox, yahoo.com does not come up, but it says file not found?
+
+
+Doesn't it drop down a list of sites starting with Y? Type yahoo.com, or make a bookmark and put it in the toolbar folder.

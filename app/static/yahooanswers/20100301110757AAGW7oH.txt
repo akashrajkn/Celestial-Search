@@ -1,0 +1,28 @@
+Paypal error message?
+Okay, so every time I try to pay an invoice, or send money, I get the following error:
+
+Sorry ¡ª your last action could not be completed
+If you were making a purchase or sending money, we recommend that you check both your PayPal account and your email for a transaction confirmation after 30 minutes.
+
+If you came to this page from another website, please return to that site (don't use your browser's Back button) and restart your activity.
+
+If you came from PayPal's website, click the PayPal logo in the upper-left corner to return to our home page and restart your activity. You might have to log in again.
+
+This is really starting to piss me off, since I buy a lot of things on the internet. I have emailed paypal about 3 times and they haven't sent anything back regarding this issue. Any clues on how to fix this, or why it may be? There is more than enough money to cover it, so lack of funds is not it. Thanks for the help
+This has been going on for more than a month. I emailed them three times in the span of 3 weeks, since they said I would have a reply 3 days from the asked date. Thank you for the phone numbers.
+
+"I have emailed paypal about 3 times and they haven't sent anything back regarding this issue"
+
+You and a few million other people. Be patient. They can't possibly get back to you quick. Not even same day likely.
+
+Try calling them:
+
+"Contact Us
+PayPal Customer Service:
+1-402-935-2050
+(a U.S. telephone number)
+
+4:00 AM PST to 10:00 PM PST Monday through Friday
+6:00 AM PST to 8:00 PM PST Saturday and Sunday"
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_contact-phone

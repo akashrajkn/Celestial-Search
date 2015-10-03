@@ -1,0 +1,6 @@
+internet explorer add-ons off?
+Whenever I open internet explorer, it brings me to a page that says all add-ons are currently off. I checked them all and they are all enabled, but it still says they are off. How do I turn them on?
+
+Tools| manage add-ons then make sure they're on.  
+
+http://support.microsoft.com/kb/883256

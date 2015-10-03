@@ -1,0 +1,4 @@
+Auto save webcam uploaded image?
+My friend has a web cam that automatically uploads a new pic every 10 minutes to a online URL, How can i make my computer automatically save this image every 10 minutes?
+
+Unless you're the owner of the website, I don't think you can do it..

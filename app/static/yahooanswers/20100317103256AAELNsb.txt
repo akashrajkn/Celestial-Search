@@ -1,0 +1,4 @@
+In firefox how do i open a blank page in a new tab?
+Right now when I open a new tab it opens yahoo search page. I want it to open a blank page but I can't find anywere to change it. Can Simone tell me how to change it.
+
+hold Alt then press t

@@ -1,0 +1,10 @@
+Need help with paypal :(?
+Ive bought something via paypal and it was out of stock but i paid for it anyway and i emailed them and i got a refund but the money is in my paypal account because when i go to my bank the money isnt in my bank. Do you know how i could transfer it? 
+Thanks
+
+just click on "Withdraw" and follow the instructions
+There is a facility to do this on the PayPal site. Just look carefully
+If your PayPal Account isn't attached to your bank, you need to attach it first. To do this go to My Account->Profile>Bank Accounts->Add a Bank Account->Enter Details and follow confirming instructions
+
+Once you have attached your bank account go to My Account->Withdraw->Bank account in {Country}->Choose amount->Click ok->Click confirm
+leave it there and buy something else.  it cost money to withdraw it, if its a small amount.

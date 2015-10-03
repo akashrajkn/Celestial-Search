@@ -1,0 +1,21 @@
+Why is my Internet always slow in the evening?
+Im My House we have 3 computers (Used everyday) And An Xbox (Used Everyday) all using internet. My computers Internet is always really slow in the evening always after roughly 7pm. Its really annoying because i can only go online in the day time! Please help
+
+All your neighbors are online too!
+Because everyone else is there!
+
+Why is this a problem if you can only go online in the daytime?
+Because there are more people online at that time of day.  You'll find if you go on in the early hours your computer is generally much faster.
+Because everyone else is using it as well, the busier a network is, the slower it goes.
+Everyone else is using it and your ISP is traffic shaping you
+Contention.
+You don't have a private connection to the internet (at least, I very much doubt it!) but you share one with several other houses. You don't spend your whole time downloading - if you load a page in a second, then spend a minute reading it then the rest of the time is available for your neighbours to download what they're doing. The number of people you share with is called the contention ratio - if you share with 25 then you have a contention ratio of 25:1.
+
+OK - with me so far?
+
+Right - now if people all start watching YouTube (which has a lot of data being transferred) or filesharing or just using it a lot just after dinnertime then it all slows down until you feel like you're wading in mud.
+
+There's not much you can do except complain to your provider or shoot your neighbours, I'm afraid. Or pay for a faster service, but that doesn't actually improve the contention ratio.
+TOO MANY PEOPLE MIGHT BE ONLINE THE SAME TIME WHEN YOU ON IT
+As there is only a limited bandwidth internet providers cap the internet speeds to allow all the users to have a connection, albeit at a slightly reduced speed. They uncap speed during the night as there is fewer people online at that time, so download speed increases significantly.
+It all to do with fair usage policy

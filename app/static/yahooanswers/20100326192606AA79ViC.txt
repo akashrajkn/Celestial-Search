@@ -1,0 +1,15 @@
+Why is my laptop's internet so slow?
+Whenever I get on my laptop on FireFox or Internet Explorer, the internet takes forever to load (this problem presented itself in the past week).  My Mom's laptop she's borrowing from school has great access to my father's wireless router network upstairs.  Our connections are the same, but hers is nice and fast (like my dad's computers upstairs where the router is) and mine takes a single page to load from 15 Mississippi seconds to 15 minutes with no exaggeration.  I've not downloaded anything recently, and I'm good with running SpybotS&D, CCleaner, McAfee Scans/Shreds.  I even ran a defrag twice, cleared my internet caches, .tmps, and .dmps, and even did a System Restore.  The rest of my computer works just fine, great infact, just whenever I get on FireFox or IE (as a back-up, of course), on comes the lag.  Should I reboot the wireless router?  I've kinda ruled out malware, so maybe internet settings??
+
+You can try buying and using a new USB wifi adapter. Maybe your Wi-Fi adapter is dieing.
+Laptops are slower than desktops
+you can speed it up by turning off some stuff you dont use.
+in your startup shut off anything you dont use
+when you turn it on many pgms run that you do not need
+also try right click on the task bar on bottom and open 
+task manager - then click things like msmsg and end process
+I end lots of stuff
+if it screws up restart and try to end other stuff
+I usualy end processes till there is no slide bar at right
+then there is a smaller number of things running in the background
+this is a trial and error process

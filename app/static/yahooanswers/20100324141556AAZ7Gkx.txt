@@ -1,0 +1,7 @@
+Download of movie stopped half way!?
+I just downloaded a movie and halfway through the movie just stopped downloading like it was through. The movie doesn't play. Even though I have half of the download it's just useless. Is there any way I can continue the download where I left off.
+
+you have to start the download again.
+if you want VLC will let you watch what you did get successfully.
+
+http://www.videolan.org/vlc/download-windows.html

@@ -1,0 +1,9 @@
+Scrolling seems a little buggy in Firefox 3.6?
+I'm using FireFox 3.6, and scrolling, highlighting text, and even typing seems to be a little bit slow.
+
+It works fine for about a minute, but then there's like 1 or 2 seconds where the whole application just freezes.
+Sometimes it's the whole Firefox application, but other times it's simply the website I'm browsing.
+
+Anyone else having a similar problem?
+
+ZOMG. I thought it was just me!!! The left-click on my laptop is a little wonky, and I have a USB modem, so I thought it was my clicker and connection. It's really frustrating when I'm on deviantART or Bloodlines on FB and all of the sudden it all freezes. *JIGGLYPUFF ANGRY FACE!!!*

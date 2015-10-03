@@ -1,0 +1,6 @@
+How do you recover your Login ID in your JobsDB account?
+I forgot both my password and ID but I know there's a way of retrieving your password, but not your ID, can anybody help?
+
+Go to the login page and look for 'Forget ID' button. If you register that account by another email, the system may send you account information to your registered email account.
+
+Later, try some freeware like CyberDash (http://www.totoware.com) to manage your account.

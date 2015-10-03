@@ -1,0 +1,30 @@
+If i uninstalled mozilla firefox?  10 pts best answer???? HELP?
+If i uninstalled mozilla firefox, will the pages i was on before i uninstalled it be saved?  (When ever you open mozilla up the page you were on before ex:Facebook will it be on again when i install it?)  Thanks!
+
+If you don't know what i mean here:
+
+If i installed mozilla and i want to install it again, will the web page that i was on before i uninstalled it be on mozilla firefox when i re-install it?  
+
+(I uninstalled it because there was a page i could not close down, it was inappropriate!  Please help!
+@DJK, it was very gross and i could not close it.  every time i pressed X it would pop little questions/things up! :(
+
+This answer is actually up to you. Within the uninstallation of Mozilla, they have a part during this process where they ask you if you want to save all of your data; you then have the option to archive it then in case you install Mozilla later. 
+
+However, one thing to keep in mind, it is this type of archived data that hackers and trojans go after, its easy targets. So if your going to do this, make sure your security is up to date.
+I have in the past done this and it has saved all of my web pages but sometimes it simply doesn't. I don't know the reason for this. What you can do is import all your settings to another web-browser ensuring that you won't have lost any of your history.
+
+Or if you go onto the Mozilla site you should be able to just upgrade your version w/o having to manually uninstall the previous one.
+I think I am confused. I think the answer to your question is, probably not.
+No, I don't think so. Why are you uninstalling because of a page you can't close? there might be other ways of solving this.
+try this:
+when you close mozilla firefox, it will ask you wether to save the pages you were on so that you can get them next time when you run mozilla. So, when it asks you that click on 'no' or 'don't save'
+
+next time you run it it will start from your homepage.
+
+But, to answer your question, I don't think you can get them again after reinstalling. I'm 90% sure.
+
+Hope it helps.
+
+Good luck.
+Uninstall and history/session goes with it.
+It won't come up with the same page because its memory has been removed from you hard drive. When you do install it you will have to redo all the customized settings. All you history and bookmarks from it will also be gone.

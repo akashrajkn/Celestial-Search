@@ -1,0 +1,13 @@
+How do I access this wireless internet?
+How do I access my schools wifi, 
+I think they use a VPN server http://vpn-1.elthamcollege.vic.edu.au
+I have filled everything out in the VPN settings I just don't know the secret/
+
+Whats the secret?
+
+Thanks,
+
+iSlayer
+Oh and the schools network is called EW and is unsecured
+
+It must be protected by a password, likely you cannot access. check with the school personnel, don't try hacking.

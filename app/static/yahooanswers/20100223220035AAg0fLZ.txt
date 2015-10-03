@@ -1,0 +1,14 @@
+I REALLY NEED YOU COMPUTER PEOPLE TO STOP BEING STINGY WITH YOUR KNOWLEDGE AND HELP ME FIGURE THIS OUT.?
+I just switched from a USB modem to a wireless router, and all of a sudden, God forbid,...utorrent wont download anything. So I noticed a few people having problems with utorrent and routers..whats all that about? How can I dl torrents without directly connecting to my modem? In laymans term please, walk me through it.
+haha..ok sorry...It was my firewall..alot of programs have been firewalled since I got the router. Anyways, thanks for helping! Oh and for those who are overly sensitive, the whole "stingy" comment was just a little joke...and hey, it got your attention right ? Thanks for the link anyways!
+
+hmmmmm
+The router should not be an issue unless there is a firewall on the router or blocked ports on the router.    You need admin access to the router to review these things
+Enable port forwarding on your router to the port of your choosing (configurable in utorrent).
+You could also enable uPnP on your router from the web interface.
+
+People are stingy with knowledge for two factors:
+
+1) People don't listen or care about details, often don't take the time to help themselves and are rude
+2) We're providing a free service, if you have problems with that then by all means go be charged by your local computer shop.
+I cant imagine why this may be a issue unless you switch your internet provider which some providers limit your upload speed causeing peer to peer to download much slower. I suggest reinstalling utorrent or restoring to default settings incase you had change some settings. For example if you lowered your upload speed your download speed will be lowed too. I hope  this helps.

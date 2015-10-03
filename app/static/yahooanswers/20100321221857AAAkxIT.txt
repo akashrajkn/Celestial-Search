@@ -1,0 +1,25 @@
+FIREFOX IS THE OLD INTERNET EXPLORER?
+DID firefox become so popular that its now the center of attraction for spyware/viruses??, cause whenver I open a firefox browser my computer starts acting up (like a vacuum cleaner) and is really slow, I think I'm gonna switch to internet explorer for now. And firefox 3.6 is lame.
+
+Firefox became popular because it supports css3.
+
+now firefox is on the verge of becoming obsolete now that chrome and safari support webkit.
+
+as of right now google chrome IS the best browser, then safari. (chrome supports webkit and is the fastest browser)
+
+Internet explorer is outdated. It STILL doesnt support CSS 3.0 thats sad.
+
+If everyone used webkit we could make sites load in milliseconds on any internet connection. internet explorers lack of supporting anything is keeping us web developers back.
+
+
+
+also get a Mac. Your complaining about windows. another obsolete product when Apple has been advertising the shit out of you that something better is out there.
+The more popular a browser is the bigger a target it is for attack. There are extensions to stave off the problem but it slows the browser down. I switched to chrome and it seems to work for me.
+sounds like someone got hit with a bug! Run spybot search and destroy that will help with the problem. Also run ccleaner, this program gets rid of all the temporary files on your computer that no other program will. Both are free programs! Feel free to let me know the results of your spybot scan.
+There are issues with Firefox 3.6 that need to be resolved.
+Well in that case, you should probably head over here:
+http://www.microsoft.com/windows/Internet-explorer/default.aspx
+
+Cheers,
+Kyler
+IE8 Outreach Team

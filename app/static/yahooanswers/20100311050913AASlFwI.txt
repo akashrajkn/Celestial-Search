@@ -1,0 +1,14 @@
+Trouble installing Google Earth?
+After downloading the installer from http://earth.google.com/support/bin/answer.py?hl=en&answer=21955# for a direct installation, I run GoogleEarthWin.exe.  The installation completes and there's a popup thanking me for installing Google Earth.  But then I can't find it anywhere!  
+
+Where is it hiding or wasn't it installed?  Is it not compatible with Windows 7?
+
+Thanks.
+Thanks!
+
+It's not in programs, unfortunately.  
+
+That must be the problem.  I've got the 64 bit version.  I assume nothing was installed then and that there is nothing to uninstall?
+
+Did you look in Programs?  Its in there.
+From what i have found, it is not possible to have it run on Windows 7 at a 64 bit rate.  You may just have to give them time to make a 64 bit version. you could also e-mail their help.

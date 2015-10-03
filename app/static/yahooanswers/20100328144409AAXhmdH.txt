@@ -1,0 +1,9 @@
+I want to hold a class online- i want the students to see me teaching anatomy. How can i?
+So there will be some students here in Vancouver. Some will be joining us from all over the province. I want to be seen teaching the anatomy by all at home. I might also like to show images from my computer. I may also like to record it to post it for students who missed the class. Please help. I run a mac- but the software so far says it only works with PC. Thanks.
+
+You can use the site called Blog TV (Link Below).  This site allows you to do a live presentation and record it so others can see it at a later date.  It also allows your viewers to directly interact with you live.
+http://www.wiziq.com/virtual_classroom.aspx is a site I found that lets you do videoconferencing and upload content.  There is a premium membership option with more features.
+Below is free screen sharing webinar application that works with Macs or PCs, it doesn't do live video, there's a possibility that some webcam monitor software might show up in the screen share.
+
+For creating canned tutorials on a Mac ScreenFlow ($99) is the best, combining camera feed and screen recording, with the screen cap on a 3D slant.
+As I know, this site has top listing of such college courses online - schools.iblogger.org

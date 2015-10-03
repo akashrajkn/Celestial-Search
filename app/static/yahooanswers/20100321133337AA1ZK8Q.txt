@@ -1,0 +1,16 @@
+What are the exact steps to take to get my blog seen by more people and which is the best site meter?
+I've joined technorati, stumbleupon, digg, facebook, twitter, and have submitted my sight to them.  Still the sight URL will not index on google.  It has been over a week now.  How do the experts get their sights at the top of the search lists?  And what is the best free web analytics?  I've tried sitemeter and google analytics, which does not show any activity.
+
+Use Rss Feed for advertising.
+Have you actually posted some blog posts yet?
+
+If you have, make sure you go and tell the various ping engines that you have new content.  Usually doing this will tell the search engine spiders to come to your site.  A good way that is free is:
+
+http://pingoat.net/
+
+In addition, make sure the RSS feeds are turned on for your blog.  Grab the RSS feed URL and submit it to feed aggregator sites like:
+
+http://ping.fm
+
+In addition to this, write a few articles about your blog topic and submit them to goarticles.com, ezine articles and a few others.  Those get indexed all the time.  In the article, make sure you link back to your website.
+In addition to the other suggestions, you can submit sitemaps to the search engines, like https://siteexplorer.search.yahoo.com/ here on Yahoo! or Webmaster Tools in Google or the equivalent in Bing. In WordPress there is even a plugin that will generate the sitemap file and submit your site to search engines on demand or periodically. You don't mention what blog software you use, but look to see if it offers SEO.

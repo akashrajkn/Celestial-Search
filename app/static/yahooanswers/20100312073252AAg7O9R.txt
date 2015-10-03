@@ -1,0 +1,10 @@
+Firefox error, question?
+I am getting an error "invalid URL", and I am not sure what to do.
+I did a virus check there was some i removed them but they weren't the problem.
+A registry check
+Update Firefox downgrade Firefox
+Updated the flash and other plugins
+I even restored computer to earlier time.
+I am still getting the error.
+
+Check the URL and make sure you can actually get to the right site. Second option, if you know the actual URL of the site (not the www.xxxx.xxxx.com etc, the 53.231.234 etc address), try using that instead.

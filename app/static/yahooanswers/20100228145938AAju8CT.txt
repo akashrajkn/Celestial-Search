@@ -1,0 +1,14 @@
+I got a virus and now I can't open any programs.. PLEASE HELP!?
+okay so i got a virus, but i have no idea where from. i just used system restore and the virus did not pop back up. i've used this before and it usually takes care of it. but now i can't open anything. my virus protection (avg and malwarebytes) will not open. firefox won't open, aim won't open, even notepad won't open. "open with" pops and says "chose the program you want to use to open this file" also, i can't install anything to run, like virus protection. i tried installing some stuff from questions relating to similar virus issues here, but none worked. it downloads it, but when i try to run it, it still says "chose a program" and none work. i only have adobe 7 too, so i can't even use that, as some programs said i need 8, and again, can't install it. PLEASE HELP ME! :( i'm cyber schooled and NEED to be able to use my computer. also, i'm on ie8 now, but i prefer firefox, and i can't log into school on ie8, only runs with firefox. please help!!
+
+Have had this happen before to me. The virus simply messes up your file association. Please only use this site if you have win xp. It fixes file associations which sounds like it is an issue for you here. http://www.dougknox.com/xp/file_assoc.htm
+
+This link is for vista
+http://www.mydigitallife.info/2008/06/22/reset-and-fix-broken-windows-vista-file-ext-and-type-associations-include-exe-com-sys-zip-lnk-folder-drive/
+
+Both of these sites give you .reg files that restore your .exe file association so you can sucessfully open the programs again.
+
+Just make sure the registry association fix you run is compatible with your operating system. If you are not comfortable with doing this then grab your operating system disc and do a repair install.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

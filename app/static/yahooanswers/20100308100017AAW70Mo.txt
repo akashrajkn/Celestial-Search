@@ -1,0 +1,7 @@
+How can I get my site removed from IE's anti phishing filter ?
+The donations page for a legit church site that I maintain for my client has been added to IE's phishing filter. How can I get it removed ? Thanks.
+i dont use IE but many of my clients do, and many of their patrons do. you cannot tell anonymous donors to your site that "you suck for using IE, go get FF".
+
+i need serious answers only, thanks.
+
+Promote use of other web browsers. IE sucks, try firefox or opera

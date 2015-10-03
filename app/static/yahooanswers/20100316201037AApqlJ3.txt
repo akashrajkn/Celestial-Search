@@ -1,0 +1,13 @@
+I can't read asian font on my internet explorer! I've tried several solutions but didn't work.. help?
+So my encoding is on unicode (UTF-8) and I also went to tools under internet options to add the languages, but I still can't read korean, chinese, or japanese. They show up as boxes on the internet:(
+Thanks for any help!!
+
+You can try installing korean, chinese, or japanese fonts
+
+http://www.clearchinese.com/resources/fonts.htm for chinese fonts
+you can download a free brower namede mozilla Firefox,it can show asian characters easily.
+Well, I'm guessing you don't have windows Vista/Win7 because those come with it by default. So I think you have XP or lower. That said you'll need to install them or activate them if they have not yet been turned on.
+
+I had the same problem, on XP it would just show or something very simular. So I found a site(one I can't recall, google "Language installation packages") and I installed my asian language (Japanese). Though I do recall XP may not recognize it at first, so try using the links below.
+
+Hope I helped. :D

@@ -1,0 +1,11 @@
+Try to log into a web sight that I have been using and this error is what I get, HELP?
+http://www.therapy247.com/index.php
+
+What did I do?  How can I fix this and log on?  I've even tried to join again and got same message.  What does it mean?  I am not the owner of the web sight so I don't know why it offers me the 500.
+Yeah, I can get to the sight, I just can't log in.  Every time I try, I get that error.  Would some one else try login or join and let me know if it is me or their sight?
+
+You may want to check your FTP and make sure you all files are the way you had them when it was working. check permissions, check your index file, your configuration. if this is a CMS you are using try to search the error in support.
+
+ACTUALLY Your site works OK to me just don't place Index.php at the end 
+
+http://www.therapy247.com/

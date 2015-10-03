@@ -1,0 +1,9 @@
+If you close a tab on Firefox, is there a way to get it back?
+Suppose you had multiple tabs opened and you accidentally closed one of them but forgot the URL, is there a short cut or something that allows you to get it back? Maybe there's an add-on or something?
+
+maybe check history on when you closed it or temp internet files
+Right click the line where tabs go, and click "Undo Close Tab"
+It happens to everyone, and it's annoying. Sometimes the wrong tab gets closed in Firefox, but it's OK. There's a solution to the problem, and it comes in the form of CTRL + SHIFT + T
+
+or you can add this addon for better use
+https://addons.mozilla.org/en-US/firefox/addon/3082

@@ -1,0 +1,4 @@
+What does it mean when streaming audio is 128k, 64 or 96k?
+
+
+That is the quality of the audio.  That means that there is 128 kilobytes per second.  The higher the number, the higher quality music.

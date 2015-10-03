@@ -1,0 +1,7 @@
+Wireless Internet Connection Connects then Disconnects Repeatedly!?
+So, I have a dell net book and the wireless connection has always been fine and then all of a sudden the connection comes and goes! it's so frustrating! I don't think I've done anything different to my computer. Somebody please help me!
+
+device manager > network adapters > uninstall wireless lan > restart your computer and let windows reload and refresh the drivers.....you will see a message ''found new hardware'' on restarting your computer
+this happens to me all the time on my iPod touch. it's just something interfering with the signal.  I find that when someone is on the phone (landline) or it is ringing, it is very low to no signal.  it's the chance you take with wifi.
+if your still not sure on what to do
+then go to your local computer store and get them to look at it and fix it for you

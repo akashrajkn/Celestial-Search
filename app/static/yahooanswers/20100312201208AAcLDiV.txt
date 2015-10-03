@@ -1,0 +1,4 @@
+internet explorer for windows 7?
+I have windows 7 and I was wondering how I can remove internet explorer from my computer? I went to add/remove programs and it wasn't listed and when I searched it on my file menu it didn't come up as a folder so I could not select the option of uninstalling it. I downloaded firefox and I don't want internet explorer anymore.
+
+Its one of those things that you just should have. Not everything runs with firefox, and IE is a good backup for some programs.

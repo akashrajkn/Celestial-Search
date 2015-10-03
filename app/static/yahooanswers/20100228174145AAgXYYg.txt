@@ -1,0 +1,10 @@
+Internet connection on laptop?
+My laptop says I have a connection to the internet but when I open my browser it says I have no connection. Any suggestions?
+Also, I have a connection on my desktop using the same router.
+
+If you're running wifi on vista/xp you can going to network & sharing connection, then try repairing.
+If that doesn't work try disconnecting & connecting.
+If that doesn't work try checking your router, it probably has a plug loose that barely passes a signal.
+
+Answer mine?
+http://answers.yahoo.com/question/index;_ylt=Aj.8PJFICHoiQKIUC97Gy4jsy6IX;_ylv=3?qid=20100228161319AAYxADd

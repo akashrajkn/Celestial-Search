@@ -1,0 +1,17 @@
+How do I get my own URL name hosted by blogger.com?
+Some blogs hosted by blogger.com or blogspot.com have their own url name for example bakeralla.com.  How do I get this instead of saying bakeralla.blogspot.com?
+
+You need a domain name and someone to help set it up. You have to purchase the domain you want, from somewhere like www.123-reg.co.uk, that's where I buy mine, costs me ?8 a year
+As you may know a domain name is just a name, not a real website/weblog. If you are going to create your blog website: 1- Buy a domain name. A domain name is a name you want to call your website (ex: www.yahoo.com).  To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your blog online at your purchased domain name.
+
+If you¡¯re going to start your blog at your own domain with different pages, you need a web host providing wordpress.
+
+Take a look at:
+http://www.threehosts.com/blog
+There you can reach the three reputable companies that are leaders in the blog/wordpress website hosting industry.
+
+Another useful link:
+http://www.threehosts.com/build
+There you can find a step-by-step guide to start your website.
+
+Hope this helps.

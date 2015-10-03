@@ -1,0 +1,25 @@
+if you have internet on your phone can you hook it up to a laptop so the laptop will have internet?
+if so what are the steps so i can hook it up
+
+Nobody has "internet on their phone" speak english
+unless you have dialup with a ISP but that'd be horrible.
+Not always. Some phones are able to tether to laptops, and other items similar, but the providers won't let the phone "power" the laptops internet.
+That's called "tethering." The short answer is "yes, it can be done." But it's not a step-by-step procedure for all phones. Some phones support it, but most don't, and most cell providers don't support it either. Some phones (like some of the Android phones, for example) have to be "rooted" and modded to get tethering to work.
+
+My suggestion would be to google the make and model of the phone with the work "tether".
+Some laptops *used* to have a connector (hole) for a phone cord connection.  It is now less popular.
+
+You may want to buy an external converter, depending on the laptop you have.
+
+Clarify:  Landline phone or wireless (like Blackberry / iPhone)?
+if you have a modem at home, you need to buy a wireless router to plug to the modem. Then this modem will send the internet signar (wirelessly) to your laptop, or any other device that has the built in wifi or antenna. If you have internet in cell phone, I have no idea, dont think is possible.
+no. you are an idiot. thats a retarded question. just use ur fone. duh
+Yes, that is called tethering.
+
+The steps depends on your cell phone's plan with regards to tethering.  Some cell phone plans do NOT allow tethering and some do but you pay a higher data plan.  For example, if you have an iPhone with 3G or 3Gs coverage, AT&T does NOT allow tethering in the USA but can in Europe; unless you have a jailbroken iPhone.
+
+The best way to find out if your cell phone plan has a large data plan to support tethering is to call your cell phone provider.  If you do have a large enough data plan, then simply ask them how to do it.  Otherwise, come back here, list your cell phone make and model plus the computer/laptop make and model plus the operating system you are using.  Someone in the Y!Answer community should be able to assist.
+
+Good luck and I hope this helps.
+
+

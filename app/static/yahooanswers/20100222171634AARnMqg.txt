@@ -1,0 +1,6 @@
+how do you set up verizon webmail?
+i am helping a friend set up verizon webmail and i just want some tips/pointers
+
+I assume for the following that it's the same as my FIOS if not the following may not apply:
+
+He should have a User id he got from them that starts with "VZ" and them some more text and words.  Then go to Verizon.com and you should see a "My Verizon Sign In" box.  Type in the user name that starts with VZ along with the password they gave you.  Next click on the "My Account" tab.  And select "Add Sub Account/Email".  Follow the steps it'll tell you and there you go.

@@ -1,0 +1,16 @@
+Firefox default Search Engine help?
+Ok, so I'm hoping here that some of the tech-savvy people out there can help with this one, because god knows I've tried as hard as I can
+
+Recently, I download this stupid piece of software (I can't even remember the name of it anymore) and while I was installing it, I changed the default search engine for Firefox. Now, when I say the default search engine, I mean when you type something into the address bar and a search comes up matching the words from Google. After installing this software, It's been changed to some "Freecause" crap, and it bugs the hell outta me because it never turns up anything useful, whereas I can count on google to give me a decent result. 
+
+So basicly,  Does anyone know how to change the search engine that's used when you type something into the address bar in Firefox? I'd use the search bar at the side, but I'm used to using to address bar..
+
+Thanks A LOT for any help in advance :)
+Thank you so much Will that worked like a charm, If I ever meet you in the real world, i'm going to give you a million dollars!
+Or whichever currency you're using :P
+
+Found a page on it:
+
+http://blog.taragana.com/index.php/archive/how-to-change-your-firefox-location-bar-search-engine/
+
+hope it helps!

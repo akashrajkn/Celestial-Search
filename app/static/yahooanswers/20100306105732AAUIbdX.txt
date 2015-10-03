@@ -1,0 +1,10 @@
+'public' wifi connection with utorrent?
+I share a wifi connection with my landlord and utorrent hasn't worked since I started using it. I'm assuming its because of that, though I'm really not sure. I get a decent enough connection to the internet and my utorrent is up to date. Any suggestions on getting it to download my queue?
+
+maybe the port you are using is blocked by the router another possibility is the port you are using is forwarded to another pc in the router settings
+
+So try changing the port used
+
+http://www.johntp.com/2006/04/19/how-to-increase-download-speeds-of-utorrent/
+
+BTW torrents can kill the internet speed for all other users so be wary using them

@@ -1,0 +1,6 @@
+Block CPALead - How Can I Bypass CPALead Surveys?
+As the title says, is there a way to block cpalead? I think i speak for everyone when i say im sick of having to fill out survey's to access content. And sometimes i do surveys and nothing even unlocks. I wouldnt mind doing them, but sometimes i spend 20 minutes doing one, and its just endless. 
+
+So any help?
+
+I know how you feel, they can get so annoying sometimes. Especially when its something so simple behind the gateway. You can download the page and remove the script tag from the HTML. But if your not that tech savy, use something like http://www.blockcpalead.com . It works pretty much in the same way, just the output looks a bit funny. But still works awesome

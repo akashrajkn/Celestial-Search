@@ -1,0 +1,11 @@
+Any good text-to-speech websites with a range of voices?
+I want to use them in a flash animation.
+
+Check this website
+
+http://text-to-speech.imtranslator.net/
+Here's some
+AT&T Labs - http://www.research.att.com/~ttsweb/tts/demo.php
+YAKiToMe - http://www.yakitome.com
+
+...

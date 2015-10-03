@@ -1,0 +1,11 @@
+How to connect to the internet?
+Okay, so I have a linsys router and I have a little attena hooked up to the back of my PC to connect to it. I have what looks like an IP adress for the router, the name the network is called and the password.
+How do I connect it?
+My question is how do I connect to the internet. Like how to I set it up or whatever.
+yes and yes
+
+I'm just wondering how you asked this question...
+I have a question for you? What in  the world is your question?
+little antenna on ur computer????? is it a wireless adapter???? if it is go into the wireless settings on your computer and look for your wireless name. 
+
+btw is the linksys wireless capable?

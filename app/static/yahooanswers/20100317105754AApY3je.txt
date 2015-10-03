@@ -1,0 +1,12 @@
+Adobe Flash Player on Windows 7?
+My computer's system type is 64-bit. But I know that only 32-bit ones work with Adobe Flash Player. So what can I do?
+I see that I would need to run the 32-bit browser. But is there any detailed step in how to run the 32-bit browser in the 64-bit operating system? 
+GREATLY appreciate your help!
+
+Hi YCV,
+
+According to Adobe Flash Player site - "Adobe Flash Player is not supported for playback in a 64-bit browser. However, you can run Flash Player in a 32-bit browser running on a 64-bit operating system." For additional information, visit http://kb2.adobe.com/cps/000/6b3af6c9.html.
+
+Cheers,
+Cassandra
+Microsoft Windows Outreach

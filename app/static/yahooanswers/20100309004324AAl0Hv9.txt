@@ -1,0 +1,4 @@
+If you erase photos that are archived in your microsoft myphone account will you loose all your photos in your?
+phone
+
+no it should not, this services is a backup service,so can del old archive and create new one, the data in your phone should remain intact, the data from the website in your myphone account will only be deleted. You can to delete that from the website

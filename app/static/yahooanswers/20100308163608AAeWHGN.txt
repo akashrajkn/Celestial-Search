@@ -1,0 +1,24 @@
+How do you PERMANENTLY delete your IE Address Bar?
+Okay, so it's getting really full and I want to delete it!
+
+I can delete my address bar history, but when whenever I look at the past websites I've visited by pressing on the arrow, they all show up, so OBVIOUSLY something hasn't been deleted and I don't know how to delete it!!!!
+
+Anyways, I hope you can help ;) Btw, don't say to just delete my browsing history because it DOES NOT work ... Remember, I'm using IE
+
+Thanks!! :P
+
+it really depends on your version of ie. Remember clearing browser history isnt the only side. You also need to clear cache/cookies.
+
+How to manually delete cookie files in Internet Explorer 8
+
+   1. Exit Internet Explorer 8, and then exit any instances of Windows Explorer.
+   2. Do one of the following:
+          * In Windows Vista, click Start
+            Collapse this imageExpand this image
+            Start button
+            , type inetcpl.cpl in the Start Search box, and then press ENTER
+          * In Windows XP, click Start, click Run, type inetcpl.cpl in the Open box, and then press ENTER.
+   3. On the General tab, click Delete under Browsing History in the Internet Properties dialog box.
+   4. In the Delete Browsing History dialog box, click to clear all of the check boxes except for the Cookies check box.
+   5. Click Delete.
+Try a free program called "CCleaner" that works on IE & firefox and does all the job like, emptying the recycle bin, cleaning temporary internet files which clogs everytime you use your browser to surf the internet, and some other features. its small and compact and very very handy.

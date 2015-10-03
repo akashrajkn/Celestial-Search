@@ -1,0 +1,24 @@
+How to stop Firefox download window from popping up in Mac?
+I have a Mac and use the latest version of Firefox. I want the download window to stop popping up every time i save like a picture or something. For instance when i save a picture i see in firefox, the download window pops up saying what i've downloaded and stuff. How do i get that pop up window to stop popping up everytime i save something to my computer (like a picture) in Firefox? I can't find anything in preferences in firefox either. PLEASE HELP!
+
+I hated that too.
+
+I use Windows, but as far as I know, the extensions work in both operating systems. I use an extension called Download Statusbar. Instead of using the downloads window, it puts all the downloads on a little strip at the bottom of the screen. It's far less intrusive, and it looks pretty nice too.
+
+https://addons.mozilla.org/en-US/firefox/addon/26
+
+Good luck!
+
+Lucien Briscoe
+In the location field of Firefox, type:
+about:config
+
+Press Return.
+
+You will see a long list of parameters. In the "Filter" field at top, type:
+browser.download.manager.showWhenStarting
+(That is "browser. download. manager. showWhenStarting" but without the spaces. Yahoo Answers is wacky about not allowing long "words")
+
+Where you see "true", double-click to change it to "false".
+
+(By the way, this isn't a Mac thing. You need to do the exact same thing in Firefox for Windows or Linux.)

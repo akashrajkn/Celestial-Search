@@ -1,0 +1,6 @@
+Could anyone answer this,In Mozilla or any other browsers,when we click or open website,Unwanted adds and some?
+hi
+
+You have a virus causing the random ads if your getting them from every link you click on.
+Use Malwarebytes, Hitman Pro, ccleaner and restart PC...
+you should use Antivirus or Antimalware that  block pop-ups.......

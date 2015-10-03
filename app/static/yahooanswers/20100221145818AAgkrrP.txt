@@ -1,0 +1,14 @@
+My computer says it has virus and worms. and everytime i try to download a program to get rid of it.?
+after it downloads it says it has worms also. so is there any virus scan i can get of anything to fix it? i have windows XP
+
+some freeware, i would install and run malwarebytes first
+http://www.malwarebytes.org
+and then install this
+http://www.superantispyware.com
+Installing something after you get the viruses doent work, it wont see everything as the viruses hide as system files.  the only way to really get rid of it all is to whipe your hard drive clean and install a fresh copy of windows.  Take it to a local computer shop, meaning NOT best buy, and have them do it, it will take a few hours and they should be able to save all of your data.  If you have a setup disk and dont care about the stuff on it, just put the cd in and do an xp installation, make sure to delete all partitions and create one new one and format as NTFS.
+McAfee is the best virus program I have ever used. Its not the cheapest but its also not too expensive. And it works.VERY good. It has something called the Shredder. I wen thru 7 virus protection programs before i found Mcafee. The shredder got rid of my problems instantly. First u run a scan to find where the virus is then drag that file into the shredder. Haven't had problems since.
+don't worry about trying to download anything to fix it just totally wipe computer and re install windows but this time put on MICROSOFT SECURITY ESSENTIALS  to protect you from all the nasties.it is freeware,just go to windows update and do a search for it
+The little popups telling you that "Your PC has a virus and you need to install spyware to get rid of it" Are actually the ones giving you the viruses. Only use trusted spyware like McAffee or Norton360. I'd suggest you download one of those, or get someone down there to fix your computer.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

@@ -1,0 +1,8 @@
+How do I bridge my internet connection?
+When i click bridge connection it always says "you must select at least two lan or high speed internet connections that are not used by internet connection sharing"? So what does that mean?
+
+If you have more than one network connection, you can combine the two and end up with a faster connection. In theory, that is. 
+
+In the real world, you would have to pay for two internet connections to make this work, and have two network cards installed in your computer. Paying for two internet connections means two broadband modems in your home. Most ISP's have a "business class" service available, for less than it costs for two separate internet accounts, and the speeds are usually more than double, and you don't have to deal with the extra modem and network card, and set up the bridge. 
+
+The only real-world application I have ever used this for is to get a faster connection to my co-workers computer (we both had dual lan cards anyway) to transfer some huge disk image files. He was in the same building, and we still didn't see a 200% in through put. So the usefulness of this feature is dubious at best.

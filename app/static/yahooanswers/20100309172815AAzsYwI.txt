@@ -1,0 +1,9 @@
+Help! I accidentally disabled my internet connection and don't know how to bring it back!?
+
+
+Is this a joke?
+you wouldnt be able to post a question if you didnt have internet.
+You can turn the wireless switch off and on, right click the network icon and troubleshoot problems where eventually it will give you the option to enable internet, hope that helps.
+If wireless press wireless button or go in network and sharing.
+Go to the control panel and find the Network Connections applet. Double-click on it and find you network connection. Then right-click on it and select enable.
+You can turn the wireless switch off and on, hope that helps.

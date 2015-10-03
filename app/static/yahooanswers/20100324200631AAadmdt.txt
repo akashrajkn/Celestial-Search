@@ -1,0 +1,3 @@
+Blue screens after Firefox update?
+I updated Firefox yesterday (from 3.6 to the ltest version) and immediately thereafter it crashed and wouldn't load back up. I ignored it and turned off my computer; however, on boot up today my computer is now getting hit by blue screens and crashing on boot up. What can I do? I going to try and uninstall through safemode plus check drivers through my other partition. Does anyone know what is going on?
+

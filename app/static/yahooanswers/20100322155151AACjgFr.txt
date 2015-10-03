@@ -1,0 +1,5 @@
+How can I make Firefox stop alerting me when I open a new tab?
+I just updated to the latest version of Firefox. Now, whenever I open up a new tab, I get a box titled "Alert" that says "Firefox doesn't know how to open this address, because the protocol (mhtb) isn't associated with any program." How do I stop it from alerting me about this? It's annoying!
+
+switch to google chrome
+that will make firefox shut up

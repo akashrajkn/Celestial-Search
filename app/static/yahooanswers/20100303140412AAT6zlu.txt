@@ -1,0 +1,16 @@
+Is regular phone cord OK to use to connect my DSL modem?
+It's just regular phone cord, the kind you can get 50 feet of at Wal-Mart.  Will that support the bandwidth, or do I need something special?
+I should've been more specific: this is the cable that will connect the modem to the wall - not the ethernet cable . . .
+
+It'll work provided the plug on each end has 4 metal contacts. Some only have two so that may not work. Simple answer is try it!
+Yes, you need something special.  It's called a network cable.  A bit more expenisive, but a phone cable just wont do it.
+
+There are 8 plugs in your network port, and only 4 pins on a phone cable.  8 pins, because it needs them to do it's job.
+
+Grab a network cable.  Specifically a Patch cable.
+Yes, it will work but I would use the shortest one possible.That will only work to connect your modem to the phone jack on the wall;-)
+
+BTW: It does have to have 4 contacts on it and there are usually green in color.
+It should work, that's what I'm using now.
+I hope you don't mean DSL out to Computer, for that you need an Ethernet cable. But for phone line into DSL modem any regular phone line should work.
+I have dsl networking/ you must have a phone line to the wall jack, mine 25 feet long, but to the cpu, you need a ethernet cord, mine yellow from the dsl to the cpu - yes!

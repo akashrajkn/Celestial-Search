@@ -1,0 +1,48 @@
+TROJAN - HELP PLEASE!?
+Hi I have a trojan - but managed to get it 'under control' so can still use the internet, but it won't let
+me run my c.d's or get to certain files. Under 'users' it's named as TRUSTED INSTALLER, I'm unable to remove it, a message pops up as 'access denied'.
+I'm considering removing explorer.exe as it won't let me access the internet that way, but explore.exe (without the R) is fine. Also when I run various scans I've downloaded they don't pick it up either. If only I could find where the trojan is hidden I could kill it - how do you find that out?
+The trojan was originally in explore.exe. Also got Prevx scanning constantly, it does'nt pick it up.
+Thanks everyone
+p.s I done System Restore, Scans, downloaded anti-malware, etc so really need to know how to
+find it - any idea's?
+Thanks everyone - great answers!
+
+Wow you really got nailed here.  You would need to provide windows version but the only way you are even going to begin to attack that one since its already installed itself as a user is by booting to safe mode for starters.  If the internet is working safe mode with networking will allow you to download other antivirals I found that MBAM (Malware Bytes Anti-Malware) is very solid at removing trojans once they had seated themselves from safe mode.  I also recommend that you download the installers for MBAM, SAS, and AVG to an external drive, that way if you get another virus, you will not have to worry about the lockout from the antiviral executables and internet browsing that occurs to prevent you from downloading removal programs.
+1. Installing anti-virus (Nod32 is my favorite)
+2. Startup in Safe Mode (just google how to)
+3. Run Anti-virus
+4. If it doesn't remove it you most likely need to do a complete reformat (I'd find a techy person to do it)
+
+System restore sucks, it creates more problems then it solves I never-ever use it.
+ok what you need to do is
+1) go into safemode if you can 
+2) get an antivirus
+3) scan
+4) remove
+i recomend avg free antivirus for now, unless you have a better one preinstalled then use that
+
+if none of that works then im sorry but your whole computer is pretty much fucked. 
+
+The only way to fix this would be to get your operating system disk, weather that is xp, vista or 7,etc... And then when you next start your computer, before windows loads press somthing like f9 or somthing, boot the cd, format your hard drive, and reinstall windows.
+Buy and Install a good security programme like McAfee or Norton and then Scan your complete system on a regular basis. If you have a good security system installed they will scan and warn you if any websites you want to visit by showing the McAfee Symbol in Red if a website contains 'threats'.
+
+If you have security installed now then scan your computer now and when these 'trojans' are picked up on select the 'clear' button when asked to do so.
+
+Hope this helps, Regards from David
+
+P.S  You should never open any emails which you receive and don't recognise, Spam and Delete them immediately.
+Trojan horses are designed to allow a hacker remote access to a target computer system. Once a Trojan horse has been installed on a target computer system it is possible for a hacker to access it remotely and perform operations. The operations that a hacker can perform are limited by user privileges on the target computer system and the design of the Trojan horse itself.
+
+Operations which could be performed by a hacker on a target computer system include:
+
+Use of the machine as part of a Botnet (e.g. to perform Distributed Denial-of-service (DDoS) attacks) 
+Data Theft (e.g. passwords, security codes, credit card information) 
+Installation of software (including other malware) 
+Downloading of files 
+Uploading of files 
+Deletion of files 
+Modification of files 
+Keystroke logging 
+Viewing the user's screen 
+http://trojan-checking.com/Trojan/

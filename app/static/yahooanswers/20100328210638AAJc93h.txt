@@ -1,0 +1,7 @@
+How can I find my downloads in Internet Explorer 8?
+I need to find the website where I downloaded something from and I can't find the download tab/window in Internet Explorer 8.
+
+Websites you've visited are usually stored in History, unless you're paranoid and delete it every time you log off.
+
+Otherwise, IE8 doesn't keep track of downloads like Firefox and some other browsers do. You might as well just ask where to find what you downloaded before.
+unless you or your settings ran a cleanup you can open (click the star) favorites under History (Tab).

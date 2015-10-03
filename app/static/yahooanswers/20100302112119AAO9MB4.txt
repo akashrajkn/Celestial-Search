@@ -1,0 +1,4 @@
+Where are these tweets coming from?
+For the third time today I logged onto twitter and there were updates from my name that I DID NOT post. They are usually about clicking a link to win a prize. Underneath the tweet it says it was posted from API which I clicked on but I'm not sure what it is. I changed my password and my tweets are already protected. Is there anything else I can do?
+
+When was your last virus scan? I would do a scan and check for trojans, as long as your computer is infected changing your password will do you no good. If you have scanned and its clean, you may have twitter configured to allow blog/website updates to be tweeted through your account. If you look through twitters FAQ you should find information on how to disable this option.

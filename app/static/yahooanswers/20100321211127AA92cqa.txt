@@ -1,0 +1,6 @@
+How do i kick someone off my...?
+router but i don't want to turn it off like where do i go in the 192.168.1.1 for westell verizon . because my brothers on myspace all day and i get home around like 8 and i would like to play a round or 2 of call of duty or world of warcraft but its soo laggy cause hes on myspace
+
+Merely being on Myspace should not create enough lag to interfere with World of Warcraft or other online games.  Are u sure he is not doing some other activity...such as downloading items from torrents or similar activities?
+
+But to directly answer your question...Yes u can find his MAC address and ban it in the router's configuration screen.  The router should report the MAC address somewhere in its status reports so u can get it that way.  Routers differ on where this function is located, so u will have to browse the setup screens.

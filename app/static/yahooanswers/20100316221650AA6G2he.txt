@@ -1,0 +1,10 @@
+do you HAVE to have paypal account to send money?
+do i need to sign up for their service, or can i just send someone money using a card?
+how do you go about sending money then (if its possible) and NOT signing up
+
+You should register with them and they will verify your card details. Then only you can send money. But if you have some balance in your paypal account you can send them without using your card.
+No you dont have to have an account but if you are buying off ebay for example, most sellers only accept credit/debit cards through paypal.  Only a small amount of sellers can accept direct card payments.
+Other sites might be different. You only need their paypal email address to send money.
+
+See https://cms.paypal.com/us/cgi-bin/?cmd=_render-content&content_ID=marketing_us/send_money
+all you need is their email address.

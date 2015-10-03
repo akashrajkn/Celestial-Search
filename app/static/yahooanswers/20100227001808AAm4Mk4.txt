@@ -1,0 +1,4 @@
+Why won't this Firefox theme work?
+I installed it, then clicked "restart" and the default theme appears, not the theme I downloaded, here's link to it: https://addons.mozilla.org/en-US/firefox/addon/11186
+
+Since Firefox has had a few updates recently some things have stopped working. I know that some people have has persona issues like this and I also know there have been issues with HP printer stuff. Just use a different theme and wait for a Firefox update that fixes the issue. That's all you can do.

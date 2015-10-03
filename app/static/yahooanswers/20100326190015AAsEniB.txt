@@ -1,0 +1,8 @@
+I accidentally downloaded a toolbar for Safari that I don't want. How do I delete it?
+
+
+use firefox, it pwnes safari big-time, otherwise, google it!
+If you are useing firefox you can go to "tools" then click "add=ons" then find the safari add on in the Extensions or plugins tab, and just uninstall it. Safari can not be much different. also switch to Firefox.. much better
+if you have windows then go to windows defender, then go to tools, then click on software explorer, and look for the toolbar and uninstall it.
+Firefox is much better and much safer.  Uninstall safari
+To simply hide it from view, go to the top of the page and click on "View."  On the drop-down menu, click on "Toolbars."  Uncheck the ones you don't want to see by clicking on the checkmark beside them.

@@ -1,0 +1,12 @@
+What makes the internet on a certain country or place fast?
+Really curious.
+
+The speed of your internet depends on how far away the host of the site you are visiting is (for example, if you lived in Australia, it is usually faster to view a page in Australia rather than in America) and the internet 'packages' available for that country. (ADSL, ADSL2+ etc.)
+ur dsl connection.if its of 125kb/s it will be slow.if it is of 256,512kb/s it will be fast,if it is of 1 mb or 4mb it will be fasster
+It depends on the cable infrastructure in that country. Some countries like South Korea have invested heavily in fibre optic connections to most of their citizens and backed it up with a substantial data backbone connecting the various ISPs and telecoms companies. It can also depend on how their connection to other countries is enacted and whether their ISPs are Tier 1 or otherwise.
+
+A Tier 1 provider has a direct connection to every other network on the internet without having to pay a third party to provide them with access. Typically they have very large amounts of bandwidth.
+
+So if you're in a small country with slow internet speed, it's likely that the ISP is sub-letting bandwidth from a telecoms company who are in turn sub-letting international bandwidth from another provider.
+
+In summary, a country's internet speed is limited by the national infrastructure (is it fibre optic, copper cable, or a mixture of the two?), the international telecoms cable links it has (fibre, copper, etc) and whether its ISPs are Tier 1 or lower.

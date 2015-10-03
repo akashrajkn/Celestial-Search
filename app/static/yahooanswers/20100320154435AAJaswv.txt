@@ -1,0 +1,5 @@
+how do i keep internet explorer from closing all windows?
+when i have more than one window(not tab) open and i close another like from those pop-up ads it closes all my windows
+how to fix this?
+
+Hello you have to reset the settings for Internet Explorer, follow the link below on how to fix this problem. The tutorial below was made for you!

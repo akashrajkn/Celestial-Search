@@ -1,0 +1,22 @@
+How do i get my webcam to work on chatroulette?
+My camera worked for a while (several months) on chatroulette. I downloaded a program called manycam and my camera continued to work on chatroulette. I then started roulettexxx.com instead of chatroulette. Everything worked fine on roulettexxx.com but now, when I tried to switch back to chat roulette, there is a new, updated version of the website and it won't let me use my camera. In the box that asks which camera to use, it had an option for manycam and another option for my camera, a "microsoft lifecam." Neither one worked. I decided to uninstall the manycam program because I thought that it might be the problem, but it still isn't working. I can see the other people, but they can't see me.
+
+Does anyone know what I can do about this? How do you fix it?
+
+Thank you everyone for your help :)
+
+Hello there,
+
+I'm unsure as to how true it is, but I heard ChatRoulette is beginning to block applications like ManyCam from being used on their website. This will be to stop the fake videos being streamed, fake pictures being used etc. This is no doubt why your webcam won't work after the recent update.
+
+The only suggestion I have is to go to http://chatroulette.com/classic/
+
+This is the original ChatRoulette before the update, where ManyCam is still accepted, and should work just as it always did.
+
+I hope this helps you out!
+
+- Am¨¦lie
+Update your flash player and web-cam driver
+
+You can also use Chat Roulette Classic
+http://www.chatroulette.com/classic/

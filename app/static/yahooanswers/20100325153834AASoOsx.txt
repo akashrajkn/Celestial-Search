@@ -1,0 +1,33 @@
+Can you get a virus on your ipod?
+I sync my brother's ipod with my computer and he's downloading all this crap from limewire on his laptop and then putting it on his ipod. I already told him not to do it because he could get a virus. Is it still safe for me to connect his ipod to my computer or could I get a virus from his ipod?
+
+Just in case I wasn't clear, he's downloading the limewire crap on HIS laptop and he's gonna want to sync with MY computer, I don't give a crap about is laptop, just my computer.
+
+Also I already do have antivirus, don't know about him.
+
+yup.
+
+and your anti virus needs to be set to scan attacthced devices, which most are not by default...
+You can get a virus on your iPod, but it's very unlikely. My English teacher told me this.
+yes it is safe as long as you have protection
+Your iPod is not likely to be able to get any virus that your friend PC picks up. The OS for the iPod is based on UNIX and is not likely to be compatible with a Windows based virus. Your PC on the other hand is likely to pick something up. It's something like 60-70% of all files shared on Limewire are infected with some kind of crap.
+it is safe for the ipod to sync to your computer.  ipods are apple products which dont get viruses
+1. It is impossible for the iPod to get a virus. The syncing process does not overwrite any system files.
+
+2. It is impossible for an .mp3 (right click the file and click properties to check) to contain a virus. You can get viruses from Limewire, and the program will probably install spyware on your computer, but .mp3s themselves (which are the only files besides .AAC that an ipod will sync) cannot contain viruses.
+
+Now, it it's a .exe, that's when you're effed.
+
+EDIT: By the way, the first answer only refers to iPhone hacking, and not viruses, and Tomas B's link is a joke.
+Yep its possible.
+I have my ipod enabled for disk use meaning I can store files on it like a harddrive.. I have gotten trojans, a couple at this point in college and I'v brought them home with me onto my laptop.
+
+Chances of getting one just on your Ipod are very slim, never heard of it if you haven't disk use enabled apart from the virus that infects mp3 files:
+
+http://bilb02.livejournal.com/373.html
+
+My 120GB ipod is working fine and I have music from torrents and warez forums on it and I have disk use enabled... I get public domain music from these places by the way :)
+Sync'ing an ipod will delete everything on the ipod and allow you to move files from itunes on the currently synced computer. If he has a virus on the ipod in a file he got from limewire, it might get into your computer when the ipod is hooked up and turned on, regardless of virus protection. Even if you have virus protection, you can still get viruses if you let them in. In other words, TELL HIM TO KEEP HIS OWN STUFF ON HIS OWN COMPUTER, HE SCREWS IT UP ITS HIS FAULT
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

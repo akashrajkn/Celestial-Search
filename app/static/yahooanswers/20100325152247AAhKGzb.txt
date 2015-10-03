@@ -1,0 +1,4 @@
+Why does only my Firefox connect to the internet?
+Neither my Internet Explorer nor Google Chrome is able to connect to the internet. Only Firefox works. What could be wrong?
+
+you  probably got to many tool bars on your computer.  Each  tool bar has a  security setting.  And their  all working  against each other.  And also make sure your fire wall is locked down.

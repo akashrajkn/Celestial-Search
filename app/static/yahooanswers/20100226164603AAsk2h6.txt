@@ -1,0 +1,6 @@
+hotebar tab comes up when i start firefox?
+this weird search bar thing pops up and its really annoying. if you can tell me how to get rid of it i owe you 10!
+
+In Windows XP go to Control Panel, Add Remove programs,remove it from there.
+
+Or in Firefox View and uncheck the toolbar (might be under VIEW>Toolbars)

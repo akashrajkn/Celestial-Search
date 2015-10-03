@@ -1,0 +1,8 @@
+How to send automatic shipping emails on ebay?
+I was curious as to how to setup something to send automatic emails to the buyer after i ship their item on ebay. It would be after i printed the label of course. And if i can't do this how do i click to notify them that I shipped their item without having to manual send them a message telling them i shipped it?
+
+Thanks~
+
+I think this section might help you http://pages.ebay.ie/help/sell/sm-smpro-ov.html  this is set for Ireland, if you type "selling tools" in the help section for your country it should give you similar information. 
+
+I sell around 10 items per week, what I usually do is copy and paste a general "thank you for your payment, your item is being shipped within the next 2 days" message to each buyer when they pay and changing the "2 days" to "3 days" or "next Monday", whatever is appropriate. It only takes a few minutes. If you sell hundreds of items then an automated email system might be worthwhile.

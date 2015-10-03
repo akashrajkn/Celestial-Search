@@ -1,0 +1,21 @@
+How can I connect to the Internet?
+I have recently rebuilt a computer, ie. Reinstalled XP on it!
+
+However, whenever I go to try the internet it tells me that it can't connect.  I have tried setting up connections using the wizard but they don't work.
+
+In Network Settings, the only thing available is the 1394 Net Adapter.  But I'm not using Firewire.  I have tried disabling this but that doesn't work either.
+
+The thing is, the 1394 adapter connects, well says that it's been online for "x" mins etc, but I just can't get IE to see that!
+
+I love macs... lol!  Seriously though, anyone know???
+I love macs, this isn't a mac, I'm doing a favour for someone got stuck here.  Suspected drivers are required just wanted to check!
+
+You need to install the driver for your NIC.
+Okay, rebuilt, running XP, and apparently it's a Mac.
+
+I doubt that. You'll want to ascertain what kind of computer you're using.
+It sounds like you need to install the driver for Network Interface Card (NIC).  Right-click on My Computer, select Properties, select the Hardware tab, and go into Device Manager.  If you see one of the NICs with a yellow question mark or exclamation point next to it, you need to install the driver.  Go to the Manufacturers web site using a different computer to try to locate the driver.  Save the driver on a flash drive and install it on your computer.
+You have to install the drivers for your hardware used to connect to the internet. For example, if you are using a wireless card you need to install the disc that came with it. If you are using onboard ethernet then you need the driver disc that should have come with your PC. 
+an easier approach is to search for the latest drivers you need online using a different PC. Borrow a friends laptop or something like that. Search the site of whoever manufacturers your PC/laptop. A good place to start is Support section. 
+Don't blame Windows for your ignorance. Do you suppose every computer automatically knows what every single piece of electronics are on the planet? Of course not... you have to install the drivers that help it communicate with those devices. I'm sure that if you have not even done that very simple step then you most likely did not install any other drivers needed as well. You need to find ALL the drivers your PC needs, i.e. video, audio, chipset, etc...
+If you love MACs then why are you rebuilding a Windows PC?

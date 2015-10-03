@@ -1,0 +1,16 @@
+Tiny red X's where pictures should be?
+I just got a brand new laptop,
+so it shouldn't be having problems yet.
+But when I get on the internet, little red X's appear were pictures should be.
+what causes them to be there? 
+and is there any way I can fix it?
+thankkyou! :)
+& they don't appear on ALL pictures. just on a lot of them. and its annoying..
+
+Maybe it's the internet. Either get faster internet or your looking at a site with a lot of broken pictures.
+The red X is a filler for a missing picture.
+
+
+First off, obviously make sure it is happening frequently, not just on a website here and there because their can be a problem with the server hosting the website. You can also try refreshing a page (refresh or F5). You can verify Internet Explorer is setup to show images by going to Tool, Internet Options, click the advanced tab and under Multimedia make sure Show Pictures is checked. Make sure you have the latest updates for Internet Explorer from Windows Update.
+
+http://support.microsoft.com/kb/283807

@@ -1,0 +1,58 @@
+i'm 16. What do you think of my website- (please be honest!)?
+i'm 16... In the future, i'd love to become a journalist. So I made a little news website and I've written some short news reports on it. 
+
+Please could you ;
+- Say If you think everything sounds okay - or not 
+- Say what you think of the colour scheme/layout
+- and... what I could improve on it. 
+
+http://www.arrowbristolnews.com/ (It's for news in Bristol, England. I was going to do a UK news website, but it'd take too long). 
+
+Cheers!
+
+looks good, im no good at that stuff, but you have talent.
+It doesn't look too bad, but I find that some of the elements are too close together - and "Bristol News" at the top is cut off on the right hand side. (I'm using Google Chrome)
+
+Also looking at the sites HTML, you are using a lot of inline styles (<div style="...">) you should avoid doing this and always use separate files for all the CSS.
+
+It looks like it was made using a website builder instead of handwritten HTML/CSS, which makes the page much bulkier and difficult to manage.
+yeah looks really great.... colour scheme and layout looks good.... everything sounds okay yeah great thumbs up gd luck 4 the future :-)
+it seems okay for a 16yr old but you could try to hyper link the title and picture of each different stuffs instead of making a 'Click here for more' button. and the background could look better if it was rather some other colour  than grey.
+I will be totally honest with you. I think it is very stylish , it catches your eye the lay out is good with good use of colors the pictures and logos are good.
+I think its a great site and i think you could get a job doing web design there is good money in that.
+I think you need to download some new fonts.
+This Arial i think it is looks too common
+
+You need to space out the pictures and bars a bit more its all to squashed
+Rmove that line where it says last updates blah blah to somewhere else and i think you need a logo
+
+At the very bottom where it says contact us and copyright info, the links dont work.
+Not bad. Its a good start. Everything looks ok. I think its kinda too green but the layout is nice.
+It's a 100 times better that I could do a website.
+Personally I think it's very good. You have the right idea. However [yes that dreaded word!] your constructive criticism!
+
+You want spread it out a bit as there is too much grey on both sides and the green wants toning down a fraction. It's too dark.
+
+The S in News is butted right up to the side. The Last Updated bit needs a space between it and Bristol News. 
+
+The clock is chopped in half and I think a bigger digital one would be better between the Suspension Bridge picture and Bristol News. The references to the pictures are also chopped in half.
+
+The left hand panel definitely wants stretching as well as all the writing is all bunched up. Capitalisation would look a lot better as well and make it more professional.
+
+The ?2010 line needs a space between it and the line above.
+
+Other than that, very well done.
+Nice website m8!!
+
+although the sport section is quite basic, its got all the info i need! ;) cheers
+Good start but honestly I think the gray background makes it look like a PDF file or word file which isn't great and I think that the green colour makes it look a bit childish (perhaps try a different green tone). I think that it looks too blocky with all the rectangle shapes and a bit too congested (maybe try smaller font) and the Arial font style looks very basic and boring.
+
+My favorite page is the newsroom blog, I like the limited 'boxes' of green, the gray on white text looks far better than white on green, It looks more simple (as a positive) yet stylish and professional; the weather page however is my least favorite with it's blockiness and masses of green and white text.
+
+I don't like the layout of the homepage, I'm not sure why but I feel like it could do with a makeover, I think it would also be good if the photos in the headlines had hyperlinks as well as the headline itself. 
+
+Finally I think that the banner at the top of the homepage should appear on all the pages (except the 'contact us' and 'copyright info' pages) and the links at the top of the pages other than the home page could do with being larger and perhaps on a button like box, and also I think that the link entitled 'Arrow Bristol News' should be renamed to 'Home' as it is the home page after-all
+
+P.S. if you don't know already, make sure that you get permission to use any photos you get from the internet unless they're free from copyright.
+
+Hopefully you will appreciate the criticism and good luck with the site and becoming a journalist.

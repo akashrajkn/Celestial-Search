@@ -1,0 +1,7 @@
+Malware that stops IE or Windows Update from connecting?
+About two weeks ago I got some kind of malware that prevents IE from connecting to the internet even though Firefox works fine.  It also prevents Windows Update and Malwarebytes AntiMalware from connecting and updating but does not seem to bother Symantec Endpoint.  Any ideas what I can do to fix it.  Scans come up with nothing.
+
+Have you tried the Coral IE tab add on for Firefox? This may allow you to get to Microsoft/Windows Updates and download them. Worth a try.
+i have used SpyNoMore,it can found every kelogger that the common antivirus can't found and uninstalled,i feel so good ,maybe you can try it
+
+http://www.mobi32.com/Other-Software/Other_Tools/SpyNoMore.html

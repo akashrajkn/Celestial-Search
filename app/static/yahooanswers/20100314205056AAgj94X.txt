@@ -1,0 +1,17 @@
+newest version of firefox 3.6 crashing problem?
+why is firefox 3.6 freezing all the time and has just crashed and restarted firefox, why is this what could be the cause? I am not an amature computer used i have 13years experience but would like someone with simular or more experience to help if they know the reason as to why it is crashing...
+
+thanks in advance :)
+
+There seems to be this happening to quite a few people.  There are four possible fixes.
+
+1.  Try uninstalling and reinstalling.
+2.  Install an older version of Flash (see sources for where to get them from).
+3.  Try the alpha of 3.7 (but bear in mind it is an alpha version).
+4.  Go back to 3.5.8 (which seems what most of the people have done).
+
+As far as I know Mozilla are aware of the problem, but aren't sure what the cause is at the moment.
+
+Good luck and let me know how you get on.
+Every file present in your registry contains a command or direction for every program and application on your computer. Registry files are the files that give your computer the instructions for what to do next. If these registry files get corrupt or misplaced, your computer fails to understand what to do. In these instances, your computer loses control, eventually leading to a crash.At this stage the priority is to fix these registry files. In such situations it is suggested that you do not try to fix the registry yourself. Immediately find registry cleaner software and scan your computer to locate any errors. This software will identify all the missing entries or errors, restoring them right away. In many cases, your computer will be back to normal. It is recommended that you run this software once a month for best results. I should like to commend Registry Easy http://cleanup-comuter-run-perfectly.com
+  to you !

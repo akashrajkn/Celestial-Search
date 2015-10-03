@@ -1,0 +1,6 @@
+I have an annoying problem with Firefox?
+You know how in Microsoft Word or Yahoo Answers when you are typing there is a flashing bar after the words?  I've been seeing this flashing bar when I click on random things on pages all over the internet.  I can click on where it says "Yahoo!Answers" on the top for example and a large flashing bar will appear a little in front of the "Y".  When I read articles or something on the internet I can click on the works and there will be a flashing bar as if I'm writing the article.
+
+How can I get rid of this stupid thing?  It's super annoying.
+
+Just press F7 to disable the caret browsing.

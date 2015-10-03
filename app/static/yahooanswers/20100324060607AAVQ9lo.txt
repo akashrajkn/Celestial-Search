@@ -1,0 +1,12 @@
+How do I get rid of this "Bing" toolbar?
+Ever since then this Bing toolbar has appeared, I have received pop-ups.  How do I make the toolbar disappear?  Thanks in advance.
+
+The popups are probabbly adware. A good antivirus will rid you of these.
+
+You should be able to uninstall the toolbar from the windows control panel > add or remove programs.
+On your internet web page go to view then Toolbars then uncheck bing.
+
+OR you have to uninstall it from your computer C-Drive
+just check out in the web browser in toolbars menu which is present in view menu........
+You can uninstall it via the Control Panel (Add/Remove Programs), or directly from the browser. Also make sure you have a good antivirus that offers adware protection, like Auslogics Antivirus.
+In both IE and Fire Fox go to "View" in the menu bar in the upper left hand corner click on "Toolbars" and in the drop-down box uncheck Bing Toolbar

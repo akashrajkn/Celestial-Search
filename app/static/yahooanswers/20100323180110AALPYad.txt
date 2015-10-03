@@ -1,0 +1,26 @@
+New to Firefox - the look of it just changed on my computer?
+I've only been using FF 3.5.8 on WinXP for about a week, but one thing I did like about it was that it let me see the different tabs/websites that I had open at a time.  Suddenly, now, I see that the tabs are not visible anymore and when I click the "X" up in the right-top corner, the page shuts down and doesn't ask me if I want to close out of FF anymore.  It just closes.  How can I reset it so I see the tabs again?  I made many other changes, so I don't really want to do a System Restore.  TIA.
+Thanks!!  Works like it used to.  You were all correct - I'll wait till I can close this answer and then pick the first one as best answer.  (!)
+Oh, not quite the same yet.  I did what you all said, but I still only see one tab, and a different URL in my address bar (on top).  I'd like to see two tabs, to see what I have open.  Now I can only see the one I'm on.  How can I do this? (thanks again)
+'Guess what I'm asking is, how do I see multiple tabs (at top) when I have multiple windows open, so I can switch back and forth between them easily?
+
+open up firefox.
+
+go to Tools -> Options
+
+Go to the Tabs section
+
+Everything should be checked except the last option. If they aren't then check them off
+
+Restart Firefox
+
+Or update to the latest 3.6.2
+go to tools menu, options, tabs, check "warn me when closing multiple tabs"
+There's an option to show the tabs even when only a single website is open.  Here's how to set it:
+
+1. Click the Tools->Options menu item.
+2. Click the Tabs page.
+3. Check the "Always show the Tab bar" checkbox.
+4. Click OK.
+
+Hope that helps.

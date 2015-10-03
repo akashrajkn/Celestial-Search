@@ -1,0 +1,9 @@
+How do you make these sort of website things?
+www.whoisthecutest.com
+
+My friend sent me that.
+I see links like that all the time though.
+With customized stuff when you click.
+Where do you do that?
+
+You need to learn HTML, Javascript, CSS, and a server-side programming language like PHP, Python, or Ruby. Once you know how to program, you just open up a text editor and write your code. There is no program that can do it for you.

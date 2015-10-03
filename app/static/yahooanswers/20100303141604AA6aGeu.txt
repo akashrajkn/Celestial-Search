@@ -1,0 +1,17 @@
+Each time I start Firefox I get the same AVG warning..?
+C:\Users\M T\AppData\Roaming\Mozilla\Firefox\Profiles\9awj4r0r.default\cookies.sqlite
+
+Found Tracking cookie.Yieldmanager
+
+Is that a threat? What to do?
+
+Thanks
+
+yieldmanager is actually a yahoo cookie that suppllies the ads >
+allow or delete its no biggie.
+delete your cookies
+Not a major one.  Tracking cookies are little bits of text that tattle to their websites as to where you've been browsing, hence, the "tracking" part of the name.
+
+Other than that, they're harmless.  Your machine can't get anything from them.  Also, even if you delete them, they get created again the next time you go to their websites.  Depending on your habits, this could be five minutes after you delete them.
+
+Hope that helps.

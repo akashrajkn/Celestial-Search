@@ -1,0 +1,22 @@
+Ebay question, can you help?
+Hi there. I sold an item on ebay and the buyer payed quickly through paypal and I processed the payment. The item was advertised as pick up only as it was heavy. Buyer emailed me later, saying that he did not read the whole advert (saying pickup only) and cannot pick up the item as its too far away. Now he is asking me to cancel the transaction after payment. He has caused a problem and should have read the advert, so how do I cancel the transaction and get my fees back as they have already been paid. What would you do? Can you help? Thanks
+
+I buy alot on ebay but have never run into this problem. You might want to check the FAQs on ebay.
+
+Personally, I would explain that you can refund his money minus the fees you paid. If he has a problem, tell him you have no obligation to give his money back because it was his mistake.
+go to PAYPAL and refund him minus Ebay fee,mistakes happen.
+go to paypal and click on details next to the users payment
+There is a refund link so you can refund the buyer the full amount paid.
+Once initiated this process is complete HOWEVER.
+You still have the final value fees to pay as ebay think your item sold.
+
+There are now two options
+1 is a mutual withdrawal from sale which the buyer has to agree to by replying to the auto email ebay sends. See the following link.
+
+Second option is to file a non paid item dispute, again see the following link.
+
+http://pages.ebay.co.uk/help/sell/credits.html
+
+Failure to refund in full can mean the buyer can file a not recieved item against you in paypal. This sort of refund must be completed in full or your paypal account can be suspended.
+
+The reason they paid by paypal is because ebay made it policy that all listings display paypal as a payment method. Collection only items should never be paid for by paypal as the seller cannot prove delivery. If the buyer files a non received dispute the buyer cannot supply a signature of receipt from a postage company so the buyer would get their money back. Collection items should always be stated as PAYMENT ON COLLECTION. any payments made with paypal on a collection item should be fully refunded.

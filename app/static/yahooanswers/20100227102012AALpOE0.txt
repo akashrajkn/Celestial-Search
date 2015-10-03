@@ -1,0 +1,8 @@
+I Can't Paste Anything on the internet?
+I can copy something to paste it on notepad, but I cannot on the internet. I tried restarting my computer and that didn't work...help
+
+What browser are you using? (Firefox, Internet Explorer, etc.) The problem isn't with the internet - it's with the program you use to access websites.
+
+[EDIT]: One common fix for major browsers is to disable any add-ons or extensions you have installed, then re-enable them until the problem comes back again. The extension that you enabled last would be the one responsible.
+
+[EDIT]: If nothing works, uninstall and reinstall your browser.

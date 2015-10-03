@@ -1,0 +1,28 @@
+Google Chrome vs Firefox?
+which one is better in your opinion?
+explaining would help :D
+I'm not sure which one to install..so..yea haha
+i have a windows xp on a laptop by the way.
+
+Security wise, they are very close
+http://en.wikipedia.org/wiki/Comparison_of_web_browsers#Vulnerabilities
+Considering FF has about 24% of market share & Chrome 5%
+http://marketshare.hitslink.com/browser-market-share.aspx?qprid=1
+you would expect FF to be less secure most of the time (theory is, the more popular the less secure), however FF is pretty much on par with chrome as far as security goes (refer to link above).
+Once Chrome gets as popular as FF, will it be as secure as FF? That's a question that only time will tell.
+
+A test was run on XP measuring JavaScript speed performance, Chrome & FF scored similar (Opera scored the best, IE the worst)
+http://sputnik.googlelabs.com/compare
+With this said, & my experience, Chrome opens much faster than FF. However, once FF is open it is pretty fast as well
+
+Chome uses more memory
+http://cache.gawker.com/assets/images/17/2010/01/500x_browser_splash.jpg
+
+My personal opinion is I like FF better because of the shear number of addons
+Chrome is faster, but Firefox has more add-ons (last time I looked). So if you just browse and need speed go with Chrome, if you like a ton of add-ons to personalize your browsing, then go with Firefox.\
+
+Both are pretty safe, except Chrome has a sandbox type feature that makes it a little more secure.
+Chrome is faster than Firefox. Chrome is very simple and user friendly. But one thing is that, many of the addons are only for firefox. The downloader in google chrome is also fast.
+In my opinion : Firefox is still best for me only for addons. but google chrome is very fast and user friendly too... Google chrome now has lot of addons, but its not much user friendly yet. hope it will cover soon. then google chrome will be the best one.
+If you are a normal user then go for google chrome.
+Google Chrome is better because its faster and easier to use.

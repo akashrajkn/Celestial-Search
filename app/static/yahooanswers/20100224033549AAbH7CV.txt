@@ -1,0 +1,4 @@
+why do certain web pages not load?
+i am trying to do my joshua's law on the internet but for some reason internet explorer or Firefox wont load the page. There are a few others that also wont load.
+
+What website did you take the course on? Sometimes this could be a flash issue and you need to either download or upgrade your Adobe flash. The customer support reps should be able to walk you through whatever issue it is.

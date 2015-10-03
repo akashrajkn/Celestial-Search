@@ -1,0 +1,47 @@
+does my Internet provider knows everything i do and everywhere i go on-line?
+for example i logged onto adult site than does it block me to access it or call me and inform  me about that 
+please tell
+
+yes you will now be under arrest for looking at porn when you are under 18!! hahah! just kidding, you won't get in trouble unless you're with a family isp who send every FRICKEN site you visit on the bills!!
+yes, but the internet is still a really good way of getting information out there.
+
+Please help, by answering this question, I gave you a star.
+HAHA for example yes they do no where you have been but they wont block you.
+Of course. Internet providers know which sites you visit and who you are. They know everything in case something bad happens.
+oh well hav to watch wat i go on haha
+If they wanted to know, they could list every url or IP address yu have connected to. If unencrypted, they could probably make out what data was transferred too.
+
+Due to the amount of users an ISP has, they would need to have good reason to target you specifically.
+As for blocks and notifications, the address you are connecting to must already be blacklisted or flagged by teh ISP
+I don't think they know what you are looking at because it is saved on your hdd.
+However if the site is clean and doesn't have children / animals having sex then you are doing nothing illegal.
+
+However people can see what you are looking at online, for example the police may watch you due to terrorist activity and can access most websites you see. But that is only if you go on so called 'flag' websites, these are things like how to make a home made bomb etc and this word flashes up on a database, and if you then access any other websites like this the police can investigate you, but if you are just watching no frills porn, it's not illegal to do.
+Well possibly yes but i donot think they will even bother because they must have got hundreds/thousands of customers.but unless if you are using very high bandwidth then they might consider watching you up.
+Yes, records are kept, but not reviewed by people.
+The records exist as a list of Ip's and resolutions like this:
+  2   514 ms   597 ms   539 ms  per-pow-stg-lns1-lo-30.tpgi.com.au [202.7.162.166] 
+  3   237 ms   271 ms   273 ms  per-pow-stg-crt1.tpgi.com.au [202.7.190.193] 
+  4   298 ms   271 ms   325 ms  202-7-162-18.tpgi.com.au [202.7.162.18] 
+  5   333 ms   324 ms   325 ms  202.7.171.18 
+  6   294 ms   271 ms   297 ms  66.249.95.224 
+  7   314 ms   326 ms   324 ms  64.233.174.242 
+  8   292 ms   269 ms    72 ms  syd01s01-in-f99.1e100.net [66.102.11.99] 
+
+This information is only turned over to Police by request and under warrant.
+It is usually inconclusive as most people have a dynamic ip.
+ISP's may also monitor bandwidth in order to restrict torrent patterns.
+records of every site you visit will be logged via you IP address on the sites you visit or some other net work. You should delete your cookies as they pass information about you?. But where they say your IP has been logged is not proof you accessed a site, your IP did. 
+
+You can and so can others, change your IP so a hacker could be using your PC without you knowing it or storing crap on your pc without you know.... SO SCAN & KEEP YOUR ANTI VIRUS UP TOO DATE. 
+
+Or if your wireless router is not protected, someone in a car or in your street could log on using your wifi. But it would all be traced back too you and not them as the data is going through your router.
+
+Then their are all the free web mail providers like google who scan all your emails. They say this is so any key words you write like ASPIRIN, they can use it to target you with relevant adverts???
+
+The nets full of free adult stuff and your provider will not block you unless your downloading stuff illegally and the adult film industry can prove it. You'll get a warning letter and maybe cut off for a period of time. But human rights groups say this could be illegal and an Infinement of your rights. As They would need to prove YOU accessed something like JO GUEST on her site without paying....
+Internet provider only trace your usage details not your surfing sites information.If you fear so then go to google and type anonymous and then download that software so that your ip address will be changed so that you can surf anywhere no one will trace your sites visiting information
+
+One more thing is that if they are monitoring the adult site who are visiting then why should the allow you to browser is better that they can block ............
+
+Think it and do it

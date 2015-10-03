@@ -1,0 +1,9 @@
+How do I get a blog post to always stay on top?
+I use html coding, so no wordpress, blogger, ect...
+
+Is there a html code to make a post stay on top.
+also how do I put a comments module on?
+
+To keep something at the top of an html-only page, either don't write anything above it in the code or contain that block of text in a div and use CSS to absolutely position it at the top.
+
+As for the comments module, you'll either need a database (mysql) and a php processor for the form or you'll need to learn how to use javascript to create a flat file document that it would process to accept and display responses.

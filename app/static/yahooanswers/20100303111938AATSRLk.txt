@@ -1,0 +1,9 @@
+Favorites folder/sub folder missing in IE?
+I'm not sure how and what happened but when I pull up the favorites I'm missing an entire folder and sub folder with many saved sites/bookmarks. This is in Internet Explorer. Some of the favorites not in a separate folder still appear but everything else is gone especially the folders I need. I checked the recycle bin which was empty and then attempted a system restore which didn't help. I really need to locate these files. Any suggestions would be greatly appreciated. Thanks
+I tried doing a system restore a few times each time going back further on the date. Still the folder doesn't appear. I also tried going into the c/documnet/favorite folder. It's almost like my folder was either deleted from the system or didn't exist. Anything else I can try?
+
+Try this:
+C:\Documents and Settings\<your login account>\Favorites\
+This is where IE bookmarks are kept.
+If you can't find them there, you will have to go through your Internet history to restore your favorites
+Try doing a system restore. On the bottom toolbar, click "Start", "All Programs", "Accessories", "System Tools", "System Restore". In the pop-up window, select "Restore My System To An Earlier Time" then click "Next". Hopefully there will be an available (bold text) date highlighted, pick one when you know the favorites folder was still on your computer, then hit "Next" then "Next" again. Should restore the folder, If not, try an earlier restore date.

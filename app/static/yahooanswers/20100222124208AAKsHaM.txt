@@ -1,0 +1,11 @@
+What's the best way to stylize a ComicPress installation for my webcomic?
+I am attempting to revolutionize the Internet (with a revolutionary new webcomic) and have stumbled into a most unfortunate barrier. Apparently "ComicPress" is not so plug-and-play, user-friendly, easy-to-use as it is advertised to be.
+
+Upon installing ComicPress (an arduous task I shan't bore you with the details of) I have discovered that I lack the knowledge to customize it beyond the predetermined themes. Perhaps I have missed the option available for such a task. Regardless, I require help, and have come to Yahoo! Answers in hopes of receiving at least some insight into this conundrum of coding.
+
+Site (for reference): http://teh1337sauce.net/
+I think I should be able to style a ComicPress install without having to learn an entirely new language. That's ridiculous. Millions of people have websites, and I doubt all of them are expert programmers.
+
+Try ComicPress 2.5 it's the Windows XP of the ComicPress versions with everything after being the Vista versions of ComicPress.  They're supposedly coming out with a ComicPress 3.0 which the webcomic community is hoping will be the Windows 7 version of ComicPress.
+
+ComicPress 2.5 is fairly easy to customize with lots of tutorials online and documentation IN the files.  I don't know of anyone who's had an easy time adapting the newer versions of ComicPress.

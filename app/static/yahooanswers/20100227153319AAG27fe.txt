@@ -1,0 +1,30 @@
+internet explore is being mean!!!!!?
+whenever i search on Google with internet exp. and click a tab it opens another internet exp. when i am done doing a project i have to X out of all of them and theirs like 47!!!!!!!!!!!!!!!!! how do you disable this
+
+get google chrome already!
+i think that you should try to get a new browser. your internet would then go faster. trust me :)
+either get Google Chrome, or Modzilla Firefox. they're both good anyways :) they make your internet go vroooom! hahaha :D
+
+http://www.google.com/chrome 
+
+OR
+
+http://www.mozilla.com/en-US/firefox/personal.html?from=getfirefox
+don`t choose open a new windows...choose open a new tab
+.
+.
+or download firefox (secure,faster,free)
+http://www.filehippo.com/download_firefox/
+Mozilla firefox is my preferred browser
+Sounds to me like you already have a virus. Internet Explorer was conceived by the terrorists in an attempt to crash Americas computers to better inflict terror upon our country.
+The U.S. Government had set up an attempt to eliminate the "Internet Explorer" threat from the system and have succeeded on the most part, however, there have been scattered reports described in the same form as your problem that confirm that the virus is still out there affecting some computers, including yours.
+If you set Internet Explorer as your default browser we will all surely die, you must go through a series of extremely complicated technical procedures that involve numerous codes and require extensive computer programming skills to remove the virus threat from your computer before it spreads to others, you usually have approximately 13 hours before it takes over and spreads to computers around the country. If you don't complete this highly tiresome and very complicated process in 13 hours then the terrorists WIN.
+Good luck, we're all counting on you.
+In internet explorer go to your inernetoptions choose for the "main" button . There you will find the settings for " browse with tabs" . You can choose for opening a new window, a new tab in the active window or the link in the active tabpage, now you should choose for  open in a new tabpage in the active window , so he will not have to start up 47 new windows nomore.
+Internet Options ? General ? Tabs ? Settings ? Remove the tick from "Enabled Tabbed Browsing" ? OK ? Apply & OK
+
+That'll stop that bit. You might like to pop along to Privacy as well.
+
+At the bottom you will see "In Private" ? put ticks in "Do not collect Data" and "Disable Toolbars and Extensions in Private Browsing" ? OK ? Apply & OK
+
+That'll even stop more crap!

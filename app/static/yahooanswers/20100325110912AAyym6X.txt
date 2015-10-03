@@ -1,0 +1,30 @@
+Can you explain these blogging directions more clearly?
+I'm trying to post a podcast using a certain player on my blog. I'm using the directions from this web page: http://www.macloo.com/examples/audio_player/
+
+I don't understand this important part of it:
+To use this player with a blog hosted at Blogger, take out all the code above the <object> tag and place it in your Blogger template (instead). In the Blogger template, place it above the </head> tag, as shown: 
+
+<script language="JavaScript" src="http://www.fakedomain.com/myname/audio/audio-player.js"></script>
+</head> 
+Then each time you use the player in a blog post, you will paste only the <object> code into your blog post. 
+
+Can someone please explain how to do this? Any help would be appreciated! I've spent so much time on this and I'm really hoping that somebody out there can help me out with this. :) Thank you!
+I have a Blogger blog.
+
+Basically you need to edit the HTML template in Blogger.
+
+Look for the closing head tag i.e. </HEAD> and paste the following code just before it.
+
+<script language="JavaScript" src="http://www.fakedomain.com/myname/audio/audio-player.js"></script>
+
+Of course, change the fakedomain.com to your domain name (you need your own webspace for this).  Remember to upload the files player.swf and audio-player.js to the audio folder.
+
+Then paste the object code to where you want the player to be.  Again you need to edit the HTML template for your blogger blog.
+
+<object type="application/x-shockwave-flash" data="http://www.fakedomain.com/myname/audio/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://www.fakedomain.com/myname/audio/player.swf">
+<param name="FlashVars" value="playerID=audioplayer1&soundFile=http://www.fakedomain.com/myname/audio/music.mp3">
+<param name="quality" value="high">
+<param name="menu" value="false">
+<param name="wmode" value="transparent">
+</object>

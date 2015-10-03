@@ -1,0 +1,44 @@
+Help! I got a virus and now it tells me the only way i can fix things is if i buy something?
+Well firs of all I don't understand what is going on because i don't go on any other websites so I don't know why i would get a virus. I think i visit secure websites these are the only websites which i visit
+boxingscene.com
+espn.com
+ringtv.com
+myspace.com
+facebook.com
+yahoo answers
+youtube
+ebay(i have never bought from there tho)
+
+thats pretty much all i visit
+
+so i keep getting this pop up and it starts scanning for viruses and tells me i have been infected with 31 viruses.
+
+i have wndows xp.
+
+lately my computer will just shut down or logg off the internet totally random.
+
+So am i infected?
+
+and there is this pop up that tells me to get rid of my viruses by buying XP Antimalware 2010, there is also something that tells me that my firewall is not on and when i try to turn it on it leads me to a xp antimalware 2010 pop up that tells me to buy it to fix it. Is that all i can really do?
+
+
+What do i do? Please help me, thank you
+
+dont ever buy anything online when you got  a virus. .... go here and read instructions, www.delete-virus.com
+Relax, it's only a pop-up. I get the same one. When you try to close it, it brings up a fake "My Computer" page and generates a randomized number of viruses. Just close it when you can, it is completely harmless otherwise. Internet Explorer is an unstable pile of coded shit anyway, it crashes all of the time. Mozilla does too. There's no longer XP support for stuff so you won't be able to upgrade much. Just calm down you're fine. You're not infected.
+here is step by step how you can remove it  !!!  http://4everythingyouneed.webs.com/removefakeantivirus.htm
+Don't listen to the pop-ups and if you think you have a virus go to comcast.com and they have a free security center that gives you a fire wall,and a virus scanner. You can trust it and it is very helpful.
+MySpace and Facebook viruses have become very rampant lately, that's probably where it came from.
+
+And yes, it IS a real infection. That "scanner" that keeps popping up IS the virus, and it's basically blackmailing you into paying money to make it stop. DON"T DO IT!
+
+You need to go to a separate (clean) computer and download a high-powered virus scanner like ComboFix, put it on a disc or thumb drive, and run it on the infected computer.
+
+Be very VERY careful though, ComboFix is a powerful tool made for technicians.... so be very careful with it.
+First of all, it most likely a scam, second there are certain signs that warns about it. Misspelling and others things can ring the bells. If the problem is very minor, go out and get antivirus software and scan your computer. If very severe, reinstall the OS and then after install the software.
+format you computer and install avast. when install avast you doesn't need to active firewall. and the pop up,, ignore them
+You got the same thing i had. Do NOT; i repeat do NOT buy anything from the company that they are sending you too. One thing you can do is search "get rid of antimalware 2010" google should give you some good sites. Besides that your computer is, excuse my language; but its Fucked.
+install nod 32 anti virus........
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

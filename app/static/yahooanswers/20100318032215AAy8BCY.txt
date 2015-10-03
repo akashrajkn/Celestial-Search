@@ -1,0 +1,8 @@
+Opera keeps breaking up?
+I keep encountering this issue all the time it must loose it's connection at least 5 times a day, you type in your search in any search engine hit the return button and get "connection closed by remote server" when i hit the refresh button it connects back up again, this is becoming really disturbing and i'm starting to think that Opera really is the worst browser no wonder why all of my friends use Firefox and Chrome. This issue came only in the new 10 series, every previous version of Opera 9 worked great and it even started up way faster.
+
+This isn't an issue with Opera 10. I have Opera installed on numerous computers, including a Linux and a Mac machine, and they all work perfectly. I would rate it as by far the BEST browser around, any issues with it are apparently at your end, not on the Opera side of things.
+
+Check your routers DNS settings, and your port forwarding. Also, check that you have not enabled Opera Turbo by accident, and that you are loading images as normal, not from the cache.
+
+Also, make sure you have the latest version (10.51).

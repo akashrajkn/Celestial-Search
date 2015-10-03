@@ -1,0 +1,4 @@
+all in one messenger?
+Other than meebo, I'm looking for a desktop messenger that handles most all services, aol, yahoo, msn...maybe even gtalk?
+
+pidgin is pretty good, digsby is also good. you can sync all your contacts with it so it can have the same theme, same contacts and it even does facebook chat. trillian is also a pretty good client too.

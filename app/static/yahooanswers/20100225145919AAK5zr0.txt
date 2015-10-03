@@ -1,0 +1,12 @@
+How to protect pendrive from virus?
+hai,
+i need to know how to install anti-virus in flash pendrive to protect from the virus and how to make disable auto-play or auto-run in our pc?
+
+well. there are things like clamav portable but you can't have real time protection installed on your jump drive. 
+you just will have to scan in manually from your computer.
+for the best answer visit http://www.nationwideweb.co.uk
+I, myself manage this kind of problems by using the antivirus that I have previously installed in my pc.
+When I know that my pen drive may be potentially infected, I'd format it so as to make sure that there are no files within it.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html

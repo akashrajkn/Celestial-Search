@@ -1,0 +1,9 @@
+need help, internet trouble..?
+well my pc seems to be working fine and ive done multiple virus scans and looks fine
+but lets say for example im on youtube and i click on a vid, as its buffering or whatever it will take forever and after it starts playing only like 5 secs into the vid then start buffering again.. i look at my conection and its good to excellent. i think its a virus that eats up my bandwidth
+any help?
+
+This is not a problem with your internet its more of a problem with youtube. i have the same problems and its not usually on all visd but some just seem to take forever to load and buffer all the way.
+Too many cookies are piling up within your computer causing an issue with your bandwidth. Simple way to fix this buffering issue.. Open web browser ---> Tools ---> internet options ---> general tab ---> browsing history ---> delete ---> delete all ---> check box to delete cookie add-ons also ---> yes ---> close internet broswer/window ---> open browser and go back to youtube. Now when you play that same video, it will play fine.
+It CAN be a problem with your internet connection. Test your speeds at speedtest.net
+If they are still fast, then yes, sometimes it is youtube and the server the video is located on is running a little slow.

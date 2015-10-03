@@ -1,0 +1,11 @@
+If a company doesn't provide information ...?
+I keep finding these companies that are difficult to find information on and I'm wondering should I start blocking them from accessing my computer. I keep seeing things like (after I block an IP) all kinds of strange connections on file sharing ports and other stuff, like DNS cache poisoning so that when I type in a URL, it keeps trying to go to those IP addresses. All I do is look at news sites and other non-threatening stuff, so I don't believe it is the government.
+
+What could this be and why would stuff like that be going on? 
+Are the marketing companies desperate for demographic info? 
+Can't they get a real job?
+Why is there no way to get go to the actual website I type into my browser?
+no, this is a fresh reinstall from my restore discs and i did a grutmann wipe on this computer that took two days before the reinstall and all i have been to is yahoo, google, wired, and then tried to go to miamiherald.com and it wouldn't open. i did a tracert on the web and it says the ip for miami herald is 151 something but this other ip 204.x.x.x is where the browser tries to go to for some reason.
+
+its probably adware. get a full paid antivurs rated at least in the top 3 by pcworld and do a full comupter or deep system scan with all settings on max. if ur gonna buy a product buy the most expensive one made by that company. for example bitdefender the #1 rated by pcowrld which i have has 3 products. the antivurs the internet securtiy and the total security. the internet security does what the anitvirus does and more and total does the whole deal and more.
+My friend kept getting weird addresses when he put his resume out on a website. He found out that is was so website in Russia. It looked Legit until he looked for information. If this what you had then I hoped i might have helped if not then I'm sorry. Russian Hackers have been making a lot by getting into people's servers and "poisoning" their stuff.

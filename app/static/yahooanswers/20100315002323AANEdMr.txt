@@ -1,0 +1,8 @@
+My Firefox Spellcheck doesn't work?
+I've uninstalled and installed my firefox already.
+nvm. you have to add a dictionary.
+
+Yeah, it turns itself on and off. Right Click whatever you want to spell check and you will see if "Spell Check" is turned on or not.
+
+Good Luck
+Maybe it's trying to tell you something

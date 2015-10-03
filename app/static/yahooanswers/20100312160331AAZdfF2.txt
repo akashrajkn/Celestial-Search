@@ -1,0 +1,9 @@
+how do you find your picture's url?
+I want to post a picture but i need the url so how do you find the url of a picture you have saved on your computer?
+
+To share a link to a picture you will have to upload to a site like Photobucket or TinyPic. Once it's uploaded there it will show you what the link is.
+They don't have any!
+
+URL=Uniform Resource Locator. Only files on the Internet have one.
+
+You have to host it somewhere. Try Imageshack.

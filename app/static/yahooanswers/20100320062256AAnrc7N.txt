@@ -1,0 +1,18 @@
+is this how the internet works...?
+ok this is how i think the internet works. pleasse correct me if im wrong.
+
+ok from our houses we have modems that carry the digital signals through the telephone lines into routers. the routers carry the signals through fiber optic cables to the backbone. then from the back bone, the information travels to the destination and according to the command, some other info comes back to the computer. and if the website is over seas, the backbone sends the signal to satellites and then the receiving satellite sends back the required info to the back bone, into the routers, through the telephone line, into our modems and into our computer screens.
+
+Sorta correct, more to it. There isn't really a Backbone to the internet, its too big for one Backbone. It's actually what we call a Mesh Network, all routers are connected to each other in some shape, form, or fashion. Whichever company that provides you internet has regional routers that connect to other company regional routers. I'd say the closest to a Backbone the Internet has are those satellites since it's the main way for overseas communication.
+
+Hope this helps.
+Yes correct .. that is how it works :) ... 
+
+See this link if you want to know more: http://www.csub.edu/~jross/classes/GS390/Internet/Web_Intro/Web_Intro.html
+The signals do not travel by satellites, they are carried by massive cables that lie on the ocean bed (boats go along and drop off the cables). Here is a link to a picture which shows where the cables lie: http://image.guardian.co.uk/sys-images/Technology/Pix/pictures/2008/02/01/SeaCableHi.jpg . As you can see up the top left corner of the image there is a small text and it goes "The vast majority of the world's communications are not carried by satellites but an altogether older technology: cables under the earth's oceans. As a ship accidentally wipes out Asia's net access, this map shows how we rely on collections of wires of less than 10cm diameter to link us all together.
+
+I see that the others who answered your question also don't know this because they told you that your synopsis of how the internet works was correct and this really shows how some people just assume and state things without actually knowing the true fact. Research and study is key I suppose.
+LIke one guy says, there are fibre optic cables laying on the ocean beds.
+The internet is provided and connected by equipment located in large data centres all over the world, interconnected throughout. These have transmission equipment that send and receive data throughout a fibre optic backbone network that spans the uk (for example). Different providerd have their own fibre network, located in ducts that run up and down the uk.
+BT has the oldest network, along with virginmedia, which has a cable network and easynet/sky network services and some others. Most of these companies in some way work together and BT shares their network with providers like Orange and O2, etc,
+The data is then passed along various ways, both copper cable ans fibre to street cabinets (virginmedia) or overhead phone lines (BT) and tapped off from these to your home. The router then provides the interface to transfer the data to your pc.

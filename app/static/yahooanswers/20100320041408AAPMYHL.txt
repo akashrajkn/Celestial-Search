@@ -1,0 +1,11 @@
+If you're using a neighbor's wireless internet service (with their permission)?
+Can they see what sites you're going to, or have access to other information?
+
+He's very tech-savvy... works as an IT systems administrator.
+
+Thank you for your answers.
+
+He definitely can... So if you plan on using his internet be careful with stuff you don't want him to see.
+You have gotten their permission, but don't be too upset if that permission is suddenly withdrawn.  Your usage might be affecting their bill depending on the package they have
+Yes, he should be able to see pretty much all internet traffic that goes to your PC at a minimum.  If he's given you credentials to use his wireless connection, this most likely means you've joined a network which he controls, and he can thus also have some level of access to your PC (which depends upon the security measures you've taken).  Whether or not he would want to do that is of course up for debate but it would be unusual in my opinion to share your internet connection for no reason.
+Damn if you have a web cam he can watch you!!! Not even kiddin

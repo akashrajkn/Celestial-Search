@@ -1,0 +1,6 @@
+Wireless internet password?
+I want to put a password on my wifi connection, and I went to the site <192.168.1.1> and I must've typed something in wrong, and my computer won't bring me back to the site. What do I do?
+
+Connect with a lan cable.  That will work and allow you to connect and change settings.
+reset your routerr.
+Pressing the router/modem with a pin sized object in the tiny hole for about 10 sec should reset it. Every setting might be erased to factory default.

@@ -1,0 +1,7 @@
+How can I send a message to a phone through email?
+I want to send a message through my email, to someones cell phone how would I do that?
+
+make the phone send you a text to your email, from there all you have to do is copy the email address of the phone. after that you can send texts or pictures, hope it helped if you have any other question feel free to ask!
+It depends mostly on what network they have.
+I believe that just about any carrier allows it, but different carriers have different domains and such.
+For example, I think Verizon uses [Insert Number Here]@vztext.com

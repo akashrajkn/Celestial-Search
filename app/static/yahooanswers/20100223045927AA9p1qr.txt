@@ -1,0 +1,22 @@
+why is firefox so slow?
+very annoying, i double click the icon and wait 2 minutes...nothing, then i double click and.. wait it remembered the 1st time so now i have 2 browsers loading up in slow motion. I go to x out one of the browsers but it doesnt budge so i x again and guess what! it remembered the first time so now both browsers are slowly going away before my eyes and i find myself in the same scenario i was in at the beginning... what causes this to be so slow and how can i fix it?
+can i save my bookmarks?
+
+that is the virus in your pc.
+scan the pc and heal the virus and restart your computer. you can see more faster than before.
+Completely remove firefox, delete your firefox profile and start anew.
+
+To find your Firefox profile folder, press the Windows + R shortcut keys to bring up the RUN dialog box. You can also type the command directly into the Start search menu (for Vista and Win 7 users only)
+
+Type in this command:
+
+%appdata%
+
+and then hit enter.
+
+In the folders that appear, find one that is labelled "Mozilla", and delete all it's contents. (This forces Firefox to generate a new profile when it's installed again)
+
+Once you've done that, re-download Firefox (the latest version) and install it again.
+To save your bookmarks, open Firefox, go to Bookmarks > Organize Bookmarks, click Import & Backup > Export HTML, navigate to location to save it, click Save. Once you've re-installed Firefox, do the same process except select Import HTML
+
+...

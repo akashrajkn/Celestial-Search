@@ -1,0 +1,16 @@
+Free-web hosting that allows uploading of self-made templates?
+I make my own templates using both frontpage and bluevoda, and I find most freewebsites fussy uploading them. Any free webhosting that has a smooth system for this?
+
+Look into opera unite!
+That's what i use.
+You should look for a web hosting with FTP access. A good one is Hostgator.
+
+You can get free Hostgator account by following this guide: http://internetcouponcodes.org/hostgator
+Sky.UK.Net provides web hosting for all templates. They offer free web hosting in both Windows and Linux platforms.
+
+go to http://www.sky.uk.net
+
+
+Regards
+
+John

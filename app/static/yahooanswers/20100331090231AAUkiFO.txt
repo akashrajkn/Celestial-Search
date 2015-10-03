@@ -1,0 +1,10 @@
+I cannot view most webpages and If you might know how I could remedy this could you consider helping me please?
+there was a time when I could google anything and view it. now not all the time but quite often I can't. For example I tried to google worlds smallest subwoofer speaker. There were a bunch that claimed to be the world's smallest. Well, I clicked the web page that to me looked most promising. --- I didn't get the web page ---- instead I got the following message === " The Adobe Acrobat/Reader that is running can not be used to view PDF files in a Web Browser. Please exit Adobe Acrobat / Reader and exit your browser and try again."
+--- I really don't know or understand what is going on here and I would really appreciate it if someone could tell me how to fix this.
+-- I am using firefox for a browser
+-- re installing adobe appeared to fix it
+-- re installing adobe appeared to fix it
+
+Maybe you can learn proper grammar.
+- try reinstalling adobe reader
+ - try using Google Chrome or Internet Explorer

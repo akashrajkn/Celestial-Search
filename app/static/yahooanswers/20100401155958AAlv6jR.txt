@@ -1,0 +1,14 @@
+Computer virus fixed, now I can't get any internet access.?
+I had a virus on my laptop called antivirus live which hijacked the whole system. I downloaded norton 2010 on another profile but it wouldn't find the virus even in safe mode. yesterday i logged on and noticed that the virus appears to be gone but the whole systen is running slow as all hell, it literally takes 15 minutes for the settings to load. i also can't get the wireless router to work, every time i click on the icon it opens a window that says-
+
+"windows cannot configure this wireless connection,
+if you have enabled another program to manage this wireless connection, use that software.
+
+if you want windows to configure this wireless connection, start the wireless zero configuration (WZC) service. for information about starting the WZC service, see article 871122 in the microsoft knowlege base on the microsoft.com website."
+
+needless to say i can't start the service and the website's directions don't work. I thought maybe the virus was still there screwing with the wireless router, so i tried loading other antivirus tools like hitman pro and avg onto a usb drive fom another computer and then loading them onto the laptop, but none of them will install without internet access.
+The laptop is an acer so maybe norton is just too big for it. is it just norton slowing it down and screwing with the wireless router, or is there still a virus? I don't want to remove norton because the history says that it "quarantined" a program called Virusdoctor, and i'm afraid that if i uninstall norton that virus will come back. So anybody know what's wrong and how it's fixed? your help is greatly appreciated
+
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

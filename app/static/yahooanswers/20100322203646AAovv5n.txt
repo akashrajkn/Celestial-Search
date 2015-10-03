@@ -1,0 +1,22 @@
+MS word opening hyperlinks in IE8 not Firefox?
+Kay so Firefox is my default browser (you know because it's better) google the hell out of this problem. Came up with going to set default from the program section in admin options, selecting IE8 as my default then changing back to Firefox, and I opened and closed my MS word every time I changed something. I am working with MS word 7 and Windows 7. It's seriously pissing me off, because it was working a hour and a half ago. I just opened IE because Firefox didn't have a plug-in I needed, and it would've required a restart to install it. But now my problem is making me wish I spent the extra five minutes. 
+
+Hope you guys come up with something. I'm still working on it... but the more I get annoyed the less likely it will be fixed. 
+
+Thanks
+By the by I checked the firefox and ms word boards. Got notta.
+
+Try this:
+
+In Firefox:
+
+1. Click the Tools->Options menu item.
+2. Click the Advanced page.
+3. Click the General tab.
+4. Check the "Always check to see if Firefox is the default browser on startup" checkbox.
+5. Click the Check Now button.
+6. Click OK.
+
+This should set Firefox up as the web page handler.
+
+Hope that helps.

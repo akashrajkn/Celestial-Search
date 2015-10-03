@@ -1,0 +1,18 @@
+Firefox taking too long to load pictures!?
+It takes like 20+ seconds just to load a few pictures.. it never does this, what could be the possible reason?  It started to act like this all today.
+
+Email me for questions...
+The site it is mainly doing it to is www.interpals.net
+
+They have just finished fixing the site and it takes so long to load the pictures now, they made it so if your not active for 2 minutes they log you out! it is so stupid! but anyways any help?!
+
+Contact your host. Your speed may be the problem.
+clean your history.
+delete your caches and cookies.
+:)
+try it,
+it might work.
+goodluck
+You can make some tweaks here: http://www.bestofcomputers.co.nr/?p=142
+The sever of this website is not fast for your connection. it's not firefox's problem.
+Give up on Firefox until its fixed there are currently just too many problems to rate it as a reliable piece of software. Try Orca, K-Meleon or Flock they are all free Mozilla based browsers and are all faster than Firefox. They have been produced by people who agree the Mozilla search engine is best but that firefox has gone wrong somewhere. If you go to firefox help pages or Mozillazine help pages you will see that the people there are extremely arrogant and blame everything and everybody for having problems with Firefox. Not a good sign. IE8 is OK with a shell like Avant or Maxthon or slim browser. But a browser that is not part of the OS will always be more secure. the less well known it is the less likely it will be hacked. current versions have problems with pictures and thumbnails and can open several versions at once and freeze the computer

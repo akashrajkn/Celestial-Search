@@ -1,0 +1,4 @@
+okayy so im trying to dowload firefox!?
+and its saying the following disk images failed to mount?help if u can !
+
+that sounds very bazaar. What OS are you using. If this is a Linux kernel, you are in the wrong place. If this is Windows, I recommend rebooting. Rebooting can do miracles for computers and really help speed some stuff up.

@@ -1,0 +1,16 @@
+What is this symbol, I see it on twitter a lot?
+The symbol is: ªÄ
+
+I don't know if you can see it the way I do, but it is a rectangle box with E0 on the top and 23 on the bottom. Anyone know?
+Is there a way I could be able to see this character how it truly is?
+
+It usally means that the person used a character or number that your computer doesnt support.
+This means that the character is Unicode code point E023 and is not found in any font on your system and so the FireFox browser has made up a character with the Unicode number in it, so you can look it up.
+
+The Unicode characters from E000 to F7FF comprise the Private Use area which Unicode has left open for any single person or company to assign to whatever character they wish. But for someone to see that character, they need to use the same font or another font in which the same character is assigned to that position,
+
+Font creators sometimes use these empty positions for partial characters which are also assigned, with whatever is missing here, to a proper position. These positions are also used for characters in Conscript Unicode registry at http://www.evertype.com/standards/csur/ . If the post is using Conscript standards, the would be the letter ¨²re in the tengwar writing system invented by the author J. R. R. Tolkien. It look like a small o. See http://commons.wikimedia.org/wiki/File:Tengwa_%C3%BAre.svg .
+
+Otherwise it is likely to just be an error by the poster (who may be pasting in what appears as a symbol in his or her font, not realizing that it is not standard and will not be seen properly by many/most viewers).
+
+Is it possible you have been seeing several of these symbols with different Unicode codes?

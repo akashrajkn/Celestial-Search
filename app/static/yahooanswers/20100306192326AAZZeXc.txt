@@ -1,0 +1,6 @@
+Why can't I see images on webpages?
+I recent;y downloaded IE8 and since, most websites that I visit regularly have a little box inside the frame where the video or pic is supposed to be. I have gone as far as to check my Internet Options to make sure show pic is selected and cleared all of my history. What else can I do?
+
+it is blocked
+try
+http://get.adobe.com/flashplayer/

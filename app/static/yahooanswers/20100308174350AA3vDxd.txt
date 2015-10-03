@@ -1,0 +1,12 @@
+how to i clear my browsing history on the drop down menu!!!?
+i know how to clear the history on cookies and what not but no matter what i do it wont clear under the drop down url box.
+
+look here
+
+http://imgur.com/WtRQL.jpg
+
+any ideas
+i know the basic thing like that. it doesnt work
+
+Go to tools in your explorer. After then internet options. After then clear history, cookies etc.
+Go Tools>Deleting Brownsing History> Then you have five options> choose the one you wanna delete!

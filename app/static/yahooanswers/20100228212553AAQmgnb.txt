@@ -1,0 +1,16 @@
+My firefox is using up to ~750mb of memory, am I doing something wrong? How can I reduce the usage?
+I've only noticed this lately because my laptop fan is making a loud noise and my firefox browser seems to be having weird pauses (example: when you start typing nothing shows i[ at first but all of a sudden all the characters you inputted show up at the same time) 
+
+I usually just use it to surf the internet, youtube, and read manga, I just don't see how it's lagging.
+
+go to tools> option.. > advance > network >
+
+look offline storage,
+now if you want to clear all then click on clear
+and now adjust the size of offline data. in default it is 50 mb
+give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine "experts" say is impossible, if you know about "about:config" disable prefetch this stupid firefox feature pre-opens every link on every page you visit "for faster surfing" and takes up all your memory
+stop using Firefox
+Install Apple Safari,it rules!! It's much faster than Firefox.
+P.S don't use Chrome,its all hype and it lacks security!!
+I'm a browser expert,so you can count on me :)
+Use Safari

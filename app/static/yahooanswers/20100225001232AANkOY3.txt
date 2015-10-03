@@ -1,0 +1,113 @@
+Need help regarding domains and web hosting....?
+1. Do godaddy provides free domain with subscription of web hosting, or I need to pay separately for domain ? Or any other host..
+2. If I don't renew my domain in time, can it be purchased by someone other  and thus may become unavailable for me?
+3. Difference b/w linux and windows hosting. Which one should I choose ?
+
+thx..
+
+I use www.fatcow.com
+
+Free domain name and unlimited bandwidth.
+Only $66 or so a year.
+
+
+Your Questions.
+
+1. Depends on the service they are providing. They have different deals from time to time. Just check our their website at www.godaddy.com or call them up for support.
+
+2. When it expires and you don't renew it in time, it is up for grabs to someone else.
+
+3. I am not sure if it makes a difference. I use Windows.
+1. they have several service
+
+2. u`d better renew it asap
+
+3. asp/windows,php/linux,depands on the system you use
+Hi,
+I would recommend "Web Hosting Pad" for your Web Hosting because it's cheap and very reliable.With web hosting, you'll get free domain.Windows is more expensive than Linux.Better go for Linux.
+
+ Their support service is awesome. This company offers site building tools, application vault, web mail, antivirus, Php, MysQL ,e-commerce and hosts unlimited websites in one plan. Don't go for free web hosting.They are not reliable. Check out personal reviews direct from the users here :
+
+http://top50webhosting.org
+With godaddy you must pay for domain name separately.
+
+All websites today currently run on either a Windows web server or a Linux-based server. The vast majority of websites run on a Linux-based platform as Linux has a strong reputation for security and web server performance. With standard (static) HTML-based websites, the web hosting platform doesn't make much difference. When it does make a difference, however, is when the website uses a dynamic scripting technology such as ASP (A Microsoft based technology), or PHP / PERL (Linux based technologies). A Windows-based hosting solution will run a Microsoft Windows server with IIS (Internet Information Server), and is necessary to run an ASP / ASP.NET scripted website. A Linux-based platform is typically used for PHP, Perl, and most other types of websites. Basically, unless your website uses ASP (pages ending in the .asp extention), Windows hosting is not necessary.
+
+As an experienced webmaster I recommend BH web hosting which I¡¯m sure it would work for you and fulfill all your requirements. They have a really great offer for hosting & I have used them for over 3 yrs now, and have never had a single problem with them.
+
+You can reach reviews about this web hosting provider and its latest DISCOUNT COUPONS at:
+
+http://www.threehosts.com/reviews/1st
+
+Only $3.95 /month (with discount coupon).
+
+******IMPORTANT********
+* This service was awarded the ¡°Best Web Hosting OF The Year¡±.
+* If you sign up for this service you will have $75 credits to advertise your website with the google & yahoo search engines for free!
+* You Can Register A Free Domain or Use Your Existing Domains. They Support All Domain Names.
+****************************
+
+Hope this helps.
+1. No, godaddy actually does charge for a domain name separately, but here are a lot of hosts that provide a free domain name with their hosting subscription. (more about that later)
+
+2. Yes, but not right away. First you'll be reminded a couple of times before your domain name expires that you should renew it, than if it expires, for a couple of days your domain name registrar will offer you to renew it at no additional price, than for the next month or so you can renew it, but you have to pay a lot more, like $100. Then about 75 days after the expiration date someone else can buy it. But if you get a domain name with your hosting, it can't expire, since your host will renew it for you (for free) for as long as you use their hosting. If you, at some time decide that you want to change your hosting provider you can cancel your hosting account, take your domain name with you and just transfer it to your new host. You are the full owner of your domain name. You can even transfer it to a 3rd party registrar if you want, totally separate from any hosting provider.
+
+3. Linux hosting is the best, it's used by the majority of websites on the internet. The only reason to get Windows hosting would be if you code your website in ASP. Linux hosting is the default so if a hosting provider doesn't mention which OS they use, it means that they are using linux.
+
+For hosting I recommend one of these: http://www.tophostingpicks.com
+
+iPage has the best offer right now.
+Their standard price is $84/year ($6.95) but they have
+a 50% sale, one year of hosting for $42.00.
+
+Their plan includes:
+
+Unlimited disk space
+Unlimited bandwidth
+Free domain name
+
+Price: $42/year ($3.50)
+
+They have one of the most popular hosting platforms, which currently hosts over a million websites. They're also one of the oldest hosting companies, founded in 1998.
+
+They include a free point & click online site builder so you can create a website without any programming (easily, just by drag and drop) or you could install Wordpress (they include easy, one click install from their control panel), choose a theme that you like, and start adding content.
+
+They also have a great custom control panel with OneClick installs of all the popular software like Wordpress, Joomla, Forums, Chat, Galleries, Online stores and a lot more.
+Hi,
+
+I recommend that you check out this site:  http://www.compare-top-web-hosts.com/
+
+1. most of the hosting companies give you free domain if you host with them.
+2. once domain expires, you have few days before it goes to public
+3. different platform.  i recommend linux since it's much better than windows.
+
+check out this site:  http://www.compare-top-web-hosts.com/
+1. If godaddy offered free domain name with web hosting package then you do not have to pay for domain name. I also recommend you to read terms and conditions on the web site for better understanding of their services.
+2. If you fail to renew your domain name in time then it will be available for others to register your domain name. If other people register it after your domain name expires then it will become unavailable for you.
+3. The choice between Linux or windows hosting depends on your needs/requirements. They are mostly similar in terms of functionality with few exceptions. If you are going to develop your web site in php+MySql then I recommend using Linux hosting. There are many softwares developed on php+MySql available for free. 
+
+Here is a list of most popular free php scripts for web sites: http://www.neond.com/?lang=en&action=free_bonuses&submenu=elefante
+Choose the right hosting plan based on the type of business.
+The 10 main characteristics you need to think before you choose the right web hosting plan for your type of business are 
+1.Disk Space: A measure of the quantity of a Web server's storage space allocated to each Web hosting customer.
+2.Control Panel: Interface provided by the hosting company for the maintenance and monitoring of the hosted website.
+3.Domain : A domain name is the name of a person's or organization's website on the Internet.
+4.SSL Certificate: The Secure Sockets Layer (SSL) is for managing the security of a message transmission on the Internet.
+5.Site Builder: If you don¡¯t have any idea of how to build your website, your web hosting plan should help you do so.
+6.24 x 7  Support : A dedicated team to deal with technical questions and problems with the software system
+7.Dedicated IP: If you are planning to host your site on any dedicated IP address then its location never changes. 
+8.Uptime: It is the percentage of time that your website will be viewable.
+9.Bandwidth: If you are planning for a website that will attract a number of visitors and would involve a lot of downloading or uploading then you need to choose a Web Host plan that comes with Unlimited Bandwidth.
+10.Email Accounts: It is the number of email accounts permitted for hosting plan. For Example :yourname@yourdomain.com
+
+If you are trying to make a professional dynamic website where you get 1000¡¯s of visitors everyday  then you will definitely need a good amount of Disk space(mostly unlimited), unlimited domains, unlimited bandwidth, databases, SSL Certificate and unlimited email accounts.
+
+If you are trying to build a static website for your company, you need lesser (unless you have plans to expand your website), a single email account to help you out with a contact form and also a Site Builder tool to help you out design simple web pages.
+http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=christeve
+hi
+Now a days most webmasters are using IP because less expensive and reliable service
+--------------------
+topwebhostingslist.com
+--------------------
+Good luck..........
+Don't pay for hosting. Get a free one at www.oceanwalker.org

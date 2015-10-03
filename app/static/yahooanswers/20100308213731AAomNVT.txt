@@ -1,0 +1,8 @@
+There is a problem with this website's security certificate.?
+I received dis msg when i opened gmail. whats dis mean.. give me suggestion to resolve dis..
+
+Its a microsoft thing. I would imagine google is sick of paying microsoft for the authentication (as are many other website). Just set it to allow.
+It means that the security certificate for the gmail website is invalid. Check the date and time settings on your PC to make sure they're right. If that's OK, then it's very possible that you have a nasty virus or something similar. Make sure your antivirus and anti-malware tools are up to date and do a scan.
+
+DO NOT log in to gmail if you're getting errors about the security certificate! It could mean that somebody is able to steal your username and password.
+visit this blog address  & click side link ads  it is useful to you http://americansingles-1.blogspot.com/

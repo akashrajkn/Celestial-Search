@@ -1,0 +1,4 @@
+ok so I have a blog with blogger but I can't seem to put any banners on it?
+I have banners from get paid to and pay to click sites but can't seem to put any banners on there so could I be doing something wrong or what??
+
+Adding banners to a Blogger blog shouldn't be a problem, it is done with the HTML/Javascript gadget or simply inserting the banner code into posts. Please give more details like the url to your blog to get a specific answer to your question.

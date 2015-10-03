@@ -1,0 +1,15 @@
+How to use a proxy server?
+Can anyone direct me on how to find, and use, a proxy server that will make it more difficult to track my IP address?
+
+Can, or should, I use a proxy server to download movies from Ares? If so, how do I go about doing that?
+
+Just go on this website:
+
+http://www.anonsafe.com/
+
+And browse the internet from there.
+
+As for Ares, I dunno, sorry.
+proxy tips and info:
+http://merakit-komputer.com/proxies-anonymity-anonymous.html
+http://merakit-komputer.com/proxies-anonymity-anonymous.html

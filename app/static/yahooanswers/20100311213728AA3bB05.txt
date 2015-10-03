@@ -1,0 +1,32 @@
+Mozilla Firefox Won't Open?
+My firefox was not responding so I closed it and now when I try to open it this comes up:
+
+XML Parsing Error: undefined entity
+Location: chrome://browser/content/browser.xul
+<key id="manBookmarkKb" key="&bookmarksCmd.commandkey;" command="Browser:ShowAllBookmarks" modifiers="accel,shift"/>
+----^
+
+and that's it.
+
+What can I do to fix it? I'm only on the internet now because I am using Internet Explorer. Please help! Thanks!
+
+the only thing u can do to fix it is take antidepressants 
+
+wheeee!
+Reinstall 'FF' Firefox. http://www.mozilla.com/en-US/firefox/personal.html?utm_source=gsnippet&utm_content=ga36&utm_campaign=s170110
+Try to uninstall FireFox and download it again from monzilla.com
+Try reinstall it it should fixed it, or you should use google chrome or ie8.
+Use Safari
+A whole lot faster than Firefox.
+http://www.apple.com/safari/
+Hi,Chris
+
+There are 3 step to repair open mozilla firefox error
+
+If you got open mozilla firefox error then there is a 94% chance that your computer has registry problems. You should fix it immediately. The following software is a professional fix open mozilla firefox error, in addition, you can fix many common computer errors. I think you should try it, I believe that it can help you:
+
+* Step 1 - Download a open mozilla firefox error repair tool,install this error repair tool.
+* Step 2 - Open the open mozilla firefox error repair tool and scan you computer for free
+* Step 3 - Then click the Repair All Button again and your done!
+
+Here are the url of open mozilla firefox error repair tool:http://www.RepairErrorTips.com/ttfix-open_mozilla_firefox_error-zz0001

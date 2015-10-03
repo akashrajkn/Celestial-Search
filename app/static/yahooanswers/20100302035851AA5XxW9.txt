@@ -1,0 +1,16 @@
+Tumblr Background questions. How to change background?
+Hi i want to change the background of my tumblr to this photo http://i154.photobucket.com/albums/s249/Madperson_2229/complex-repeating-patterns-.jpg 
+
+I don't know how to do this. My theme is the Clean Read theme THANKS SO MUCH
+
+Basically, you go to your page, or on the dashboard and click "customize." Then, under the themes tab, click "use custom HTML." If you know how to read HTML you should be good from there, but if you don't Scroll down until you see this:
+
+body {
+background: {color:Background} url(¡¯/themes/4/bg.gif¡¯);
+margin: 0px 0px 50px 60px;
+font: Normal 13px Arial, Helvetica, sans-serif;
+color: {color:Text};
+
+or something like that. I usually hit Ctrl+F to just find the word background so I don't have to scroll and read all the html. Then, replace the url: (/themes/4/bg.gif) in this case and add the image that you want. If it's your own personal picture, upload it onto tinypic or something like that. Make sure before you grab the url, you open the image in a new tab by itself so you're not copying and pasting the full webpage.
+
+You should be good from there. If you have trouble feel free to message me on my own tumblr :)

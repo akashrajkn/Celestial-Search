@@ -1,0 +1,12 @@
+How do you reblog conversations with other people on Tumblr, or just reblogging something and adding a comment?
+Where am I suppose to type my comments?
+
+For example, When I try to reply/reblog conversations with my friends, my comments don't show up when she reblogs them... Sorry if it sounds confusing. 
+
+Am I suppose to put it after, before the <P></P>, or another place?
+
+REblog? As if blogging alone isn't bad enough. Like regifting, lmao.
+
+<p> is for paragraphing.
+
+http://www.tedmontgomery.com/tutorial/text.html#paragraph

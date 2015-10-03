@@ -1,0 +1,16 @@
+Whats with isohunt.com these days?
+i've tried opening isohunt.com these days... a month ago it was not opening, showing network connection timed out.... then after some days it was fine again....
+now that problem is again coming.. its not opening.... could you please tell me as to what the the problem is?
+because probably there is no other site great as isohunt.com.. not even thepiratebay.org... as such i would be very obliged if anyone could tell why is isohunt.com not opening?
+
+Hi,
+
+I just open the isohunt site 4hrs back. It is working fine.
+
+May be it is the problem with conncetivity and the dataload in ur IE(or anyother browser).
+
+Clear the cache and all. Try it again. If you still getting error. Reinstall the browser again.
+
+BR
+Nagesh
+jonagesh@gmail.com

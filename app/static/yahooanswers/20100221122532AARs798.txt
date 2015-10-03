@@ -1,0 +1,5 @@
+Why do I keep getting "work offline" messages?
+I'm using my cell phone as a modem. Although I stay connected I keep getting the dial up connection window popping up and I have to clik on Tools, and work offline to erase the check mark.
+
+Turn off the dialup connection in internet options. In internet explorer, do tools > internet options > connection tab.
+You can use your cell ohone as a modem?

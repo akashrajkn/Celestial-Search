@@ -1,0 +1,12 @@
+Can anyone find me GIMP 2.6.2 proper download link?
+I go on http://www.gimp.org/downloads/ and it's not there.
+I don't want to google it and download any random GIMP cause it could be a virus.
+Thanks !!
+
+http://download.cnet.com/GIMP/3000-2192_4-10073935.html
+
+This is latest version.. has a bug fix in it. better than the 2.6.2  ~
+try 1st one it is all good.. I got it from here only..
+scroll down and u can download it..
+
+but if u are ok wit 2.6.8 then it is ok.. because it is the most trusted place i refer to.. i.e. cnet.com [see the second link..

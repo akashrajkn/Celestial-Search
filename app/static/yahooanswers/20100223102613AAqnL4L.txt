@@ -1,0 +1,4 @@
+Why is it that emails I forward to my wife's hotmail never arrive?
+Some (but not all) of her regular contacts cannot forward, also.
+
+Probably all email from this contacts fall into Spam folder. May be domains from which emails are send are in black list.

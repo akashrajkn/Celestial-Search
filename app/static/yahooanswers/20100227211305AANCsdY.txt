@@ -1,0 +1,5 @@
+question concerning my email on my mac?
+for some reason my mail isn't loading and im not able to send or receive messages . i cant figure out whats wrong with the application. theres a warning exclamation point thing on the side that you can click, and when i do it gives you the option of staying offline or taking all accounts online  . ive hit take all accounts online several times and its still not working. has this happened to anyone else? anyone know how to fix it?
+how do i check my pop mail account?
+
+The Mail app cannot connect to the mail server for some reason, that is what the warning triangle means. Make sure you have your username and password still set in the account settings, and make sure your pop mail account has no changed what ports it uses.

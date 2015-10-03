@@ -1,0 +1,29 @@
+My computer had a virus, now a lot of files won't open.?
+I had a virus on my computer. When I finally got rid of the virus, the computer wouldn't open a lot of my .exe files. I have to look each one up and "open with." I've tried to go to a few places in control panel to fix it, but some things in control panel won't open. It'll say rundll32 error or couldn't find association with file. My computer is a Dell laptop and it's Windows Vista. Please help, this is very frustrating.
+
+try a registry cleaner... sounds like a reg problem (CCleaner is good/free)
+That sounds like one effect of the Vista Antispyware 2010 malware (among other aliases) that's rampant right now. Two points about it:
+
+First, this procedure might fix the problem with not being able to run programs:
+
+1.Click the Start->Run menu item.
+2.In the text box, enter 
+
+cmd
+
+and press Enter.
+
+3.In the ¡°Black Box¡±, enter
+
+ASSOC  .exe=exefile
+
+and press Enter.
+
+
+Second, look at these two links (Warning:  they're rather techie):
+
+http://www.myantispyware.com/2010/01/28/how-to-remove-vista-antispyware-2010-vista-antivirus-2010-vista-guardian/
+
+http://deletemalware.blogspot.com/2010/01/how-to-remove-vista-antispyware-2010.html
+
+Good luck.

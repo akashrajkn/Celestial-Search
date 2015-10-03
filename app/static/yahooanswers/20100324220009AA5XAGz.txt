@@ -1,0 +1,7 @@
+Error Message #50266 in IE7?
+Anybody know what this means?
+
+Thanks.
+
+idk....upgrade to ie8
+Download the MS Knowledgebase, which should have the codes.

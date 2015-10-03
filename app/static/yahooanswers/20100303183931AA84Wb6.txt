@@ -1,0 +1,16 @@
+why wont photobucket let me upload?
+My photobucket account wont let me upload pics???? Like I can get it to the uploading page but then it jsut uploads for hours and when i refresh it ony one pic was uploaded....why?
+How can you delete cookies?
+they upload fine on facebook
+
+OK, first make sure your pics are a decent size for uploading. If your taking pics with a 10 megapix camera your files are too big. Downsize them and try again.
+OR you can try to delete/clear your internet cookies. Sometimes old cookies will interfere with photobucket and youtube uploads. 
+
+Good Luck!
+Bandwidth limitations, massive images or account issues with Photobucket.
+
+- If you are on dial up or an otherwise limited connection, it is probably timing out.
+- If you right click on the images and choose properties, it will tell you the dimensions and size of the file. If the pixel dimensions are in the thousands or the file size is larger than 100k, things might be timing out. Especially if you're uploading a LOT of photos.
+- Check with Photobucket support to make sure there is no issue with your account.
+
+You might want to try uploading to other sites as well, to see if it is just Photobucket or more of a general problem. Flickr, Facebook, Imageshack, any of those could be possible testing grounds.

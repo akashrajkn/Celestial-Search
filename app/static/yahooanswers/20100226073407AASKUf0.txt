@@ -1,0 +1,9 @@
+Help with Domains and Hosting?
+Are there any free domain and hosting websites where I can host a website for free? I don't mean something like blogspot or tumbler. I have a website already coded, just html, but I need to host it for a college project and I don't know of any free options which allow this. I tried googling but I got no fruitfull results. Any help would be much appriciated.
+
+It sounds like all you need is a subdomain on a freeserver.
+
+One of the more popular ones is webs.com.
+
+If you want an actual domain name (com/net/org/etc.) to go with your site, you would need to purchase it. It'll be around $10 a year. There are sites that offer free domain hosting but they can be difficult to find.
+http://www.LocoDomains.com offers free hosting when you get a domain

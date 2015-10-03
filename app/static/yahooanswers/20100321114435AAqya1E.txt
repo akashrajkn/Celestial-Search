@@ -1,0 +1,13 @@
+how do websites make money?
+I was watching the harvey danger team do a lip dub of flagpole sitta ( http://vimeo.com/moogaloop.swf?clip_id=173714&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1 ) and at the very end a guy said "we just made a million dollars". 
+
+my question is how do sites like google, facebook, but even more so sites like piratebay or digg make money to stay alive and a profit?
+
+Because the put adsenses which makes money
+1. Use PHP, and optianally Javascript and flash.
+2. Build the website.
+3. Adverites a lot! Advertise for $100 or more!
+4. Have an advertise option on your page. (First time: AdSense, but later your own: AdSense doesn't give much money).
+5. Sell things if you want.
+First you make your own website.Then put google adsense.
+Advertising!

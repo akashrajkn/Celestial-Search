@@ -1,0 +1,16 @@
+Help?!?! My internet is not working!!!?
+On my laptop (a lenova T61P), my internet is messed up. I have no clue what is wrong with it. My computer IS connected to the internet and all, but for some reason the browsers won't connect! None of them are "work offline," but I have a feeling there's some setting on my computer that won't allow the browsers to connect to the internet (even though the computer IS)... this is really confusing. does anyone have any ideas on how to fix this or any experience with this kind of problem?
+
+BTW. Here is some proof that the internet is connected, but the browsers won't connect:
+http://farm5.static.flickr.com/4015/4400673259_838377c61e_b.jpg 
+http://farm5.static.flickr.com/4038/4400673255_c68ef0d338_b.jpg
+
+Did you need to be signed in to any of your browsers that are not working / Some downloads may not be accessible until you are signed on to where you got them, for instance Yahoo Answers. You can access Answers if your signed in to Yahoo.
+ You say you did say you are connected on the internet, be sure the IE is functioning, or you will not get anything that is online.
+ My internet has disappeared before, Good Luck
+ If you run xp, try IE 6 and Fire fox. I get good speed there, and no problems. By the way, fire fox has an up grade; 3.6
+Go to Start>Run, type "cmd" without the quotes and press enter. Now in the command prompt type "ipconfig /flushdns" wait for the message that the DNS resolver cache was sucessfully flushed, now type "ipconfig /renew"
+
+Try your browser again.
+
+If that doesn't work, then try rebooting your computer.

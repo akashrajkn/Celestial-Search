@@ -1,0 +1,13 @@
+What does "Http/1.1 Service Unavailable" mean?
+Keeps happening when I try to go to anything with youtube. I just cleared my cookies and still happening. Perhaps it'll go away eventually?
+
+i'm having the same problem.
+you know the same exact
+thing is happening with me right now.
+it means the website is down for maintence 
+it usually fixes itself in about an hour or so. because no working website means no business and we know how YouTube is...:)
+Yes, it is happening to me too. I believe it is down to maintence. Which sucks because I'm sick and bored today, wanted to watch some videos on my day off.
+don't worry, i was just about to ask the same thing....... it keeps happening to me on youtube at the moment.
+yeah mines doing it too, its driving me mad!!! When you do finally get it working check this out!!.... http://www.youtube.com/watch?v=hTt9Smdibms
+That is an internal error on the server. To know more about it please visit the following link
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html

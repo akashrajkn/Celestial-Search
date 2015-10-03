@@ -1,0 +1,7 @@
+Computer internet help! How can I make it so that this website does not come up in the list of "potential site?
+"potential sites" when I start to type in a a website?
+I don't want other people to see it
+PS: I have Mozilla Firefox.
+
+Go to http://www.filehippo.com and download the free Ccleaner program, then run it. It will remove all history-cookies etc from your computer. On the download page you may be asked for a donation, but you can download and run without paying anything. Later you may want to update the program, so you either pay a donation or go back to filehippo for a new free version. That will stop the "potential sites" from appearing.
+Tools -> Options -> Privacy, Location Bar select Nothing

@@ -1,0 +1,15 @@
+Neither Firefox nor Internet Explorer will let me log into anything!!?
+My computer within the past couple of days has stopped letting me log into anything including Facebook, Yahoo, my satellite radio, Ebay, etc.. Every time you try and log into something both web browsers will lock up and force you to go to the task manager and end the application.  Im good with computers but i have no idea what is causing this problem.
+
+Sounds like you have a virus. Run your anti virus program if you have one.
+I think they're just having issues, because a lot of peoples internet explorer isn't even working, including mine.
+Firefox is working for me though.
+So idk.
+This is stupid, i'm really mad about this.
+When you try to log into websites such as Yahoo, Gmail,Facebook and almost every other secure sites, they use https rather than http in their address (URL). Sometimes your ISP and internet connection has problem with https. you can try to remove "s" at the end of "https" and re-login to your favorite sites.
+
+I suggest you to try this method on Facebook first.
+
+or you can use an antifilter or proxy program , like Ultrasurf (www.ultrareach.com). If your problem is due to a proxy problem, it will more likely be solved.
+
+Good Luck

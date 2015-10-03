@@ -1,0 +1,7 @@
+when i go to youtube.useing internet explorer or mozilla firefox,they both crash..anybody got any ideas?
+
+
+you should install Google chrome. it's much much much better!
+Make sure the followings are installed on your computer
+*Adobe Flash Player 10- Active X
+*Adobe Flash Player 10- Plugin

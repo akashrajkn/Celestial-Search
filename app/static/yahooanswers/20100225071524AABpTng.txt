@@ -1,0 +1,11 @@
+Does anyone know what's up with CompUsa?
+I have been trying to visit the CompUsa website for two days now. It simply won't load/open. I constantly encounter "The page cannot be displayed". That only occurs for www.compusa.com. Other sites seem to load normal. Did something go wrong with their site?
+
+It sounds like something is up with your DNS possibly.  I am able to get to their site just fine.
+
+Try going to start -> Run -> type cmd and press enter
+
+type ping compusa.com
+
+If your dns is working properly you should receive 4 Replies.  Otherwise you may need to change your dns server settings or contact your ISP.
+I was getting the same message. I've tried, but wont load. Something must be going on with their web server.

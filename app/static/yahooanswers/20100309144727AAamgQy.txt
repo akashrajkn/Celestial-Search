@@ -1,0 +1,16 @@
+Email Virus... Help please!?
+I opened an email and after opening it i released it was a virus. It was an email about a new iphone. That is all i read before closing my hotmail account. Im guessing its a virus... what will it do to my system? How do i get clear it from my system... please help!
+
+Oh... by the way... i do know the sender... thats the only reason i opened the email!
+
+Run a anti-virus scan on the computer, and change your email password and any other site that uses that password ... like now.
+a worm actually attachs itself to an adress book then you receive an email from someone u know and trust it and open it and there u get a virus.
+
+AS LONG AS YOU ARE ON WINDOWS viruses trojan horses worms spyware will be a FACT OF LIFE if you want to be free of virus consider a beautiful mac will not be your last time with viruses
+
+in the meantime REINSTALL WINDOWS AND REFORMAT hard drive running an antivirus wont do any good now because the registry has been damaged
+
+GOOD LUK
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

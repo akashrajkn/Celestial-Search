@@ -1,0 +1,7 @@
+Problem opening/saving a file from the internet?
+I need to download a file from the Board of Ed. The windows that pop up give me the option to run save or cancel the file. I tried saving it first and accessing it from my computer, it opened up a new window but instead of displaying the data another window popped up to  download the file again. So I tried running the file. No luck. Any tips out there for me?
+
+Make sure you have the program that it needs installed on your machine. For example if it's a PDF file you must have Adobe Reader to open the file, if it's a .doc file you need Microsoft Word. Try saving it directly to your desktop and opening it again.
+You may have actually saved the 'link' to the file.  When you save the file, make sure that you look at the name and type of file you are saving.
+
+That would explain why you open this file and it wants to save the file again.  You actually were opening the link that you downloaded and saved.

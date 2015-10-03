@@ -1,0 +1,12 @@
+Why is pirate bay not working at the moment?
+(27/03/2010 - 12:57)
+http://www.thepiratebay.org is currently not working for me... Is it working for you? Or do you have to solution to solve the problem?
+
+It's probably been taken offline for being illegal.
+Maybe your ISP blocked it.Use a proxy or use tor.
+Most probably taken offline as will all torrent/P2P sites eventually.
+it's currently working for me. Up and running!
+It's working for me too, although I thought it wasn't for awhile. This is the trick: You have to wait a few minutes before you connect to peers. At first all of the torrents were sitting at 0/0 and I would assume they weren't going to work. But then I left one instead of deleting it while I went to look for alternates, and it started up. It went nice and quick, too. Just be patient for a few minutes, and it should work for you. 
+
+Although, I have heard that the service has been completely blocked from several countries, most of them European. I'm in Canada, so this doesn't effect me. Wikipedia has more information on the matter.
+some say it's infected with a virus of some sort.i know a couple of times it redirected me to another site.also a pop up would show up asking you to run a anti-virus program and that your computer is infected,don't run it!!! i had a hell of time getting rid of it!! when it pops up it is best to close your browser. i think the banners or adds might be the problem too. try googling is pirate bay infected?

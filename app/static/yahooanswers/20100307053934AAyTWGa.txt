@@ -1,0 +1,5 @@
+can i delete my chat history in Skype?
+
+
+Yeah.
+Open up skype and go to Tools > Options, go to the Privacy tab and hit the ¡®Clear History¡¯ button. A dialog box will pop up asking you for confirmation regarding deleting all previous text chats, voice mail, calls, file transfers and SMS messages. Hit Delete and you¡¯re done. The Skype call and chat history has been deleted.

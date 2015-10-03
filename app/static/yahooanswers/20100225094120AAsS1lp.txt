@@ -1,0 +1,11 @@
+Gifsoup won't let me download.?
+When I click the "download" button, it just goes to a blank page.
+
+Rightclick + save doesn't work; it will only save as a bitmap, not a gif.
+
+What could be causing this problem, and is there any way to fix it? I use Windows Vista.  Any suggestions for alternative sites (that are free) are welcome...
+
+I've had the same problem. I did find out however if you have the firefox browser it will let you save the large gif on the main page, but it still won't let you use the "download Gif" button. You can download the firefox browser for free at http://www.mozilla.com/en-US/firefox/ie.html   
+
+I honestly perfer the firefox browser over Internet Explorer browser anyway. 
+Hope this helped.

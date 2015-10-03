@@ -1,0 +1,6 @@
+Some help meeeeeeeeee ps it's a computer question?
+Ok iv tryed to connect to the iTunes store but it says I have no Internet and then I got this thing called steam and it sated the same thing no Internet!!!!!!! But clearly I have Internet so if I could get some help on what to step by step that would be cool :)
+
+Steam is easy just connect to internet...in menu
+tools, options, privacy, allow cookies?
+Have you've tried to restart the computer or just log off. Once you go through with one, try and then check if you have internet in you're browser. If none of them work, repair the installation of iTunes by going to Control Panel>Programs>Look for iTunes>Select Un-install>Select Repair.

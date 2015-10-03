@@ -1,0 +1,82 @@
+Gmail Stops Working on Firefox and Safari?
+I never encountered this problem before until today. I open Gmail on my phone, and it works perfectly..however, when I opened it on Safari and Firefox, the color wheel starts spinning on my MacBook Pro with Mac OS X Ver. 10.5.8..and I had to force quit the applications. My other websites on these two browsers all work perfectly fine. Someone know how to solve this? Let me know ASAP please! It gets kind of annoying after awhile. I'm a college student and I need access to my email! I've attached the error report!
+
+Here's the report:
+
+Date/Time:      2010-03-29 19:05:36 -0700
+OS Version:     10.5.8 (Build 9L31a)
+Architecture:   i386
+Report Version: 4
+
+Command:        Safari
+Path:           /Applications/Safari.app/Contents/MacOS/Safari
+Version:        4.0.4 (5531.21.10)
+Build Version:  1
+Project Name:   WebBrowser
+Source Version: 55312110
+Parent:         launchd [75]
+
+PID:            4002
+Event:          hang
+Time:           8.47s
+Steps:          58
+
+
+Process:        Safari [4002]
+Path:           /Applications/Safari.app/Contents/MacOS/Safari
+
+  ADDRESS         BINARY
+  00001000        /Applications/Safari.app/Contents/MacOS/Safari
+  002d8000        /System/Library/PrivateFrameworks/SyndicationUI.framework/Versions/A/SyndicationUI
+  119c6000        /System/Library/CoreServices/RawCamera.bundle/Contents/MacOS/RawCamera
+  14e93000        /System/Library/Frameworks/OpenGL.framework/Versions/A/Resources/GLRendererFloat.bundle/GLRendererFloat
+  14f6e000        /System/Library/Frameworks/JavaVM.framework/Versions/A/Resources/JavaPluginCocoa.bundle/Contents/MacOS/JavaPluginCocoa
+  14fd6000        /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libCGXCoreImage.A.dylib
+  167d7000        /System/Library/Frameworks/JavaVM.framework/Versions/A/JavaVM
+  18f9a000        /System/Library/Frameworks/CoreAudioKit.framework/Versions/A/CoreAudioKit
+  1915c000        /System/Library/CoreServices/Encodings/libTraditionalChineseConverter.dylib
+  195e1000        /usr/lib/liblangid.dylib
+  1960f000        /Library/Internet Plug-Ins/Flash Player.plugin/Contents/MacOS/Flash Player
+  1b3e9000        /System/Library/CoreServices/Encodings/libSimplifiedChineseConverter.dylib
+  1b4ee000        /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/ATSHI.dylib
+  1b7f0000        /Library/Internet Plug-Ins/googletalkbrowserplugin.plugin/Contents/MacOS/googletalkbrowserplugin
+  1dcc1000        /usr/lib/libmecab.1.0.0.dylib
+  212ba000        /System/Library/Frameworks/OpenGL.framework/Resources/GLEngine.bundle/GLEngine
+  24800000        /System/Library/Extensions/GeForce8xxxGLDriver.bundle/Contents/MacOS/GeForce8xxxGLDriver
+  ba900000        /System/Library/CoreServices/Encodings/libJapaneseConverter.dylib
+  bab00000        /System/Library/CoreServices/Encodings/libKoreanConverter.dylib
+
+  Thread id:      90262e8
+  User stack:
+    58 ??? [0x29d2]
+      58 _NSApplicationMain + 574 (in AppKit) [0x917601d8]
+        58 -[NSApplication run] + 795 (in AppKit) [0x91792f9f]
+          58 ??? [0xc045]
+            58 -[NSApplication nextEventMatchingMask:untilDate:inMode:dequeue:] + 128 (in AppKit) [0x91799f88]
+              58 __DPSNextEvent + 657 (in AppKit) [0x9179a6d5]
+                58 _BlockUntilNextEventMatchingListInMode + 106 (in HIToolbox) [0x92746f39]
+                  58 _ReceiveNextEventCommon + 374 (in HIToolbox) [0x927470c5]
+                    58 _RunCurrentEventLoopInMode + 283 (in HIToolbox) [0x927472ac]
+                      58 _CFRunLoopRunInMode + 88 (in CoreFoundation) [0x947ceaa8]
+                        58 _CFRunLoopRunSpecific + 3141 (in CoreFoundation) [0x947ce3c5]
+                          58 __ZN17MultiplexerSource7performEv + 189 (in CFNetwork) [0x9571ad03]
+                            58 __ZN19URLConnectionClient13processEventsEv + 104 (in CFNetwork) [0x9576d370]
+                              58 __ZN19URLConnectionClient26ClientConnectionEventQueue33processAllEventsAndConsumePayloadEP20XConnectionEventInfoI12XClientEvent18XClientEventParamsEl + 264 (in CFNetwork) [0x9576e8cc]
+                                58 __ZN19URLConnectionClient21_clientDidReceiveDataEPK8__CFDataPNS_26ClientConnectionEventQueueE + 248 (in CFNetwork) [0x9576d978]
+                                  58 __NSURLConnectionDidReceiveData + 177 (in Foundation) [0x90459e11]
+                                    58 -[NSURLConnection(NSURLConnectionReallyInternal) sendDidReceiveData:originalLength:] + 119 (in Foundation) [0x90459ec7]
+                                      58 __ZN7WebCore14ResourceLoader14didReceiveDataEPNS_14ResourceHandleEPKcii + 56 (in WebCore) [0x90ce3f08]
+                                        58 __ZN7WebCore26NetscapePlugInStreamLoader14didReceiveDataEPKcixb + 79 (in WebCore) [0x90ed578f]
+                                          58 __ZN23WebNetsc
+
+There are a few things that should work first clear your cache here is a site that makes it simple:
+http://support.verio.com/documents/view_article.cfm?doc_id=4069
+
+Here is the same for Firefox:
+http://www.youtube.com/watch?v=OukBlXfOP8Y
+
+Finally run "Disk Utilities" as this will clear out the errors that you had going on there as well. You can find it in your "Applications Folder" the go to the "Utilities Folder" it resides there.
+
+Scroll down to the middle of the following link and it'll show you how to run Disk Utilities" 
+http://kb.wisc.edu/helpdesk/page.php?id=3810
+do a barrel roll

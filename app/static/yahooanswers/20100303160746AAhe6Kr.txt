@@ -1,0 +1,9 @@
+where do people make their websites?
+I know how to make my own website but, how do the website making companies like godaddy and weebly and free webs make their websites.
+
+http://www.mosite.org
+http://www.freewebspace.com
+I think that a good place to use is Webs.com
+sometimes hosting companies offer what is called in the business a CMS, or template-based web site, what is layman's terms is called a site builder.  Drupal is one of those.  it is usually PHP+MySQL-based.
+
+you can usually download and install themes for your CMS, so users will have a variety to choose from.

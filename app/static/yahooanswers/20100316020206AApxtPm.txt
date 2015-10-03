@@ -1,0 +1,9 @@
+help needed with twitter.?
+can i reply to a person in twitter, whom i am following but hes not following me back?
+ will he get to know about it? how will he get my mssg when hes not following me back? as we reply by - @username 
+iam not talking about direct messages.
+but i created 2 accnts and i replied to one by - @username and i loged in  to check if i got the message but i didnt recieved any reply.
+
+yes, he will recieve your @ replies even if you arent following each other
+The '@' symbol is used to make sure that the answer reaches the person whom you are referring to.. So ...
+He will still get it. In order to see your @ messages you have to click the @YourUserName in your right sidebar. If you click there you will see the one you sent to yourself.

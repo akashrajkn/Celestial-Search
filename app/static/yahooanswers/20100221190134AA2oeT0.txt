@@ -1,0 +1,4 @@
+On Twitter if you mention someone (@someone), will they see your message, even if they're not following you?
+
+
+Nope, sadly not. (If only..)

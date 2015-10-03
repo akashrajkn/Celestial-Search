@@ -1,0 +1,4 @@
+Is there any Desktop Software to find out the number of RSS Subscribers ?
+Is there any Desktop Software to find out the number of RSS Subscribers of any website (With feed burner and Google Analytics I can only see the feed statistics of my ID but I want a desktop application with which I can see the details of any website I want to .
+
+Yes, u can and the name of the software is FEEDCOUNT. Here is the link http://www.bytechip.com/2010/02/feed-2/ .

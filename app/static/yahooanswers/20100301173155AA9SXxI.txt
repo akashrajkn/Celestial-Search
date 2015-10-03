@@ -1,0 +1,4 @@
+How can you delete your favorites?
+I try to but it dosent let and it stays there.
+
+Favorites are stored in the user folder, for example.. scroll down to the Start button, right click, and select Explore. It will bring up a menu of all of these different folders, and a group of these folders are under the current computer name your using, i.e. Sarah. One of these folders is labeled "Favorites", left click this and you'll see all your current favorites. You can then delete all of those from that folder.

@@ -1,0 +1,10 @@
+Web browser address icon?
+What do you call the little icon that appears beside the address of some websites in your web browser?
+
+'Favicon'
+Favicon
+It is called a favicon which is used when people bookmark or Favourite a website, the logo appears next to the websites name.
+
+they can be easily added to a website using the favicon generator on the following website. ( Its free)
+
+http://tools.dynamicdrive.com/favicon/

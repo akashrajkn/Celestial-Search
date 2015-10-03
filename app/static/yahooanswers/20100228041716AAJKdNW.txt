@@ -1,0 +1,33 @@
+[FIREFOX] The browser you're using refuses to sign in. (cookies rejected)?
+I'm trying to login to yahoo on FIREFOX 3.6, and it won't let me. It will either bring me back to the login page, or say "The browser you're using refuses to sign in. (cookies rejected)." How do I fix this? PLEASE HELP ME! I have to now use Internet Explorer now because firefox wont let me login to ANYTHING!!
+how do u enable cookies
+Troy Boy: How do you import your bookmarks to a profile on firefox
+
+try clearing the cookies and browser cache in firefox. Tools/Clear Recent History. Once you have done that restart firefox and try again.
+Here's what you can do:
+1. Open Firefox
+2. Go to tools -> Options
+3. On the "Privacy" tab. On the History, Go to "use custom settings for history" on the drop-down menu.
+4. You should see "Accept cookies from sites" - Check it
+5. Check as well "Accept third-party cookies".
+
+Note: most of it are self explanatory... Check what ever you want.
+
+That should solve it.
+You may want to try to create a new profile.  Here's a link a guy posted with a similar issue:
+
+http://support.mozilla.com/en-US/forum/1/247959?s=cookie%20rejected&as=q
+
+Within this link there is another link posted by the-edmeister that shows how to create a new profile.  Make sure you export your bookmarks first, then import them after you create the profile.  This way you don't lose your bookmarks.
+
+EDIT: To answer your question:
+
+Before you create a new profile, you want to back up your bookmarks.  You do this by exporting them to another location on your computer (i.e., another folder).  After you create a new profile, you import the bookmarks back into Firefox from the folder you originally exported them to.
+
+First export the bookmarks.  Open up Firefox and click on Bookmarks>Organize Bookmarks>Import and Backup>Export HTML>Save. 
+ 
+Second, create your new profile (see link posted by Ed-meister for directions).
+
+Lastly, import the bookmarks back into Firefox (in your new profile).  Do this by clicking on Bookmarks>Organize Bookmarks>Import and Backup>Import HTML.   When Firefox asks where to import from, select From an HTML file and click Next.  Select the bookmarks.html file and click on Open.  This will bring your bookmarks into your new profile.
+
+Everything I have explained here is also explained in the ed-meister's link.  The whole process takes only a few minutes and should resolve your issue.

@@ -1,0 +1,5 @@
+How do I get rid of the "fast browser search" bar?
+I am using firefox and this fast browser search Business is really annoying!!
+
+go to your add and remove programs and remove it
+Go to the Tools settings and click on fast fox and adjust to your preference.

@@ -1,0 +1,5 @@
+How can I move my bookmarks from internet explorer to firefox?
+Whenever I try to expor them they only work for a day or so then firefox will not open the bookmark
+
+import from firefox import menu
+http://www.tips4pc.com/Bookmarks/Bookmarks.htm#Bookmarks1

@@ -1,0 +1,15 @@
+Where does Mozila Firefox store it's auto-save passwords?
+Hey guys,
+i know how to access mozila firefoxes passwords by going to tools security, reveal passwords, etc...
+i'm interested in where they are stored on my computer?
+Can anyone help me with this?
+thanks.
+(windows xp firefox 3.6)
+
+Your passwords are stored in two different files, both of which are required: 
+
+key3.db - This file stores your key database for your passwords. To transfer saved passwords, you must copy this file along with the following file. 
+3.5/3.6:
+signons.sqlite - Saved passwords.
+
+So...c:\documentsandsettings\youraccount\applicationdata\mozilla\firefox\profiles

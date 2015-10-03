@@ -1,0 +1,13 @@
+Internet users please help me with this issue?
+What does mbps mean and what does it actually do? I just purchased a mobile modem and it says 6 mbps limit. Does it also mean if I'm on the internet too long then I'll be overcharged?
+Sorry, it is Mbps
+
+That is a measure of speed 6 megabits per second.  if the M is CAPITALIZED it means megabytes per second.  Sounds like a DOCSIS I modem; DOCSIS II is pretty standard now and DOCSIS III is coming soon.  Each faster, all backward compatible.
+
+You may have consumption limits, too; you'll need to check that with your carrier.
+-------------------------
+I stand corrected.  Mb is megabit; MB is megabyte, but it is a theoretical max capacity, not an actual rate.  Bigger is better, but you only pay for what you use.
+No, you won't be overcharge or charged at all for just using your modem to transfer data. When it says 6mbps, it means that is the fastest speed it can transfer data (the data transfer speed limit of the modem). Don't get confused because Mbps= Megabits per second, NOT Megabytes per second. What I mean is that you only get charged for your use of the internet and it depends on what plans you are on.
+
+About your internet, you might get charged more if you are on a plan that you have to pay extra after you use up your bandwidth. 
+For example, say you have a 5gb Bandwidth Limit, and you use up 5gb, then you will have to pay more to use more data (bandwidth) or in other cases, your internet slows down but you don't get charged.

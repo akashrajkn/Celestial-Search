@@ -1,0 +1,22 @@
+Tumblr 'ask' page problem?
+Hi,
+
+I'm trying to set up an 'ask' page. I've done everything it says like make the URL /ask
+
+But I can't see anything on this page.
+
+http://bryonie.tumblr.com/ask (that's the page, I think it's blank.)
+
+So, any idea what has gone wrong?
+What is the html code for an ask box?
+
+There isn't anything when I click html.
+So can you see the Ask Box? Or not?
+
+its not blank for me.
+theres a picture at the top, the tumblr into @ the right, little text in bottom left.
+Something is done wrong. I suggest pasting html code on microsoft word and checking it piece by piece
+its not blank for me either
+
+follow me, reblog me
+http://smokingfish.tumblr.com/

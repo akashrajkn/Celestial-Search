@@ -1,0 +1,12 @@
+twitter help.........?
+i want to get on twitter with my phone but it wont let me.
+i have internet on my phone but when i put in my user name and password it says its wrong but i know im putting it in right.
+
+i also want to add twitter on m phone so i can message my tweets instead of getting on the internet but im not sure how to do that.
+can you help me?
+
+The password issue is likely due to the encryption used on mobile internet services.  There may not be a way around that.
+
+Any good twitter app should have a work-around built in and still keep your password secure.
+Installing the app should be fairly automatic.  There should be an app store browser in your phone already.  Look for something like "add new apps" in the app menu or in the main menu.
+If you can't find it there check your carrier's website.

@@ -1,0 +1,14 @@
+porn on iPodtouch not working?
+ok so Ive watched porn on my iPod for a long time bow and one day I tried to watch a vid and this strange page full of numbers and symbols came up. it happens on every site. my parents have control of the wifi times and stuff so I'm wondering if they blocked it? or do I have a virus? need an update? please I'd you know anything tell me below
+
+ew
+The websites do not support iPod/iPhone navigation.
+If you mean random characters such as 
+
+"???? K?¨ª?mo#?¨C&???+?y¡ìJ?-???[?T?H¨º??z)¡®¡¯???A$? ??d&;3)?}¡ì?¨¬0<v?????w?1¡ã?¨¤?60?
+??g?/¨¹|NDdfd2¨´NIU}??¡¯???'N?x?9¡®¡®o?)??+?"
+
+i'm also guessing the page started with "HTTP/1.1 200 OK"
+
+That's just probably your iPod's browser not decoding the website properly, it's not a virus or anything like that. It's to do with MIME-TYPEs, just try refreshing the website a few times and this shud sort it.
+restore your ipod then it will good and you can have fun lol

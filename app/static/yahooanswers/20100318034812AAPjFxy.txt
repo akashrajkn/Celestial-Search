@@ -1,0 +1,10 @@
+Internet connection error help?
+My laptop's browser suddenly stopped working, so I assumed someone just bumped into the wires again. But even after about 10 minutes I still couldn't browse. I checked and on the lower right corner there was an exclamation point on the wifi bar. The next day I found out that somehow my torrent finished downloading even with the browser unable to load. Does someone know how to fix this problem? I found out that this happens every few weeks, it somehow gets fixed automatically in a few days but I want to know if there's a way to fix it myself.
+
+sounds like your processor is busy.  it could be the torrent going out from your laptop
+look at task manager. trial an error by stopping the processes one at a time.
+I'm guessing you've already restarted your pc, so try waiting a few minutes after you turn on your computer and close down processes you may have running like torrent downloader, instant messaging, and the like.
+
+Also, sometimes when your internet says it is down and the browser isn't working, your torrent can sometimes still download because your computer has a direct link to the internet, which is strange, but it happened to me when I was on instant messaging once.
+
+If the little exclamation point shows up, right click and press troubleshoot problems, or whatever it is on your pc.

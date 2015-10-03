@@ -1,0 +1,11 @@
+Why aren't video's online playing?
+ok so i dont know why but videos arent playing online anymore.....only youtube works.....and I'm a Anime fan so i like to watch Anime episodes that i couldn't watch on tv online....but now only youtube works...what could be the problem
+
+Make sure you have the latest Java and Flash installed on your computer
+
+http://www.java.com/en/
+
+http://www.adobe.com/products/flashplayer/
+
+
+Cheers

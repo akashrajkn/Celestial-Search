@@ -1,0 +1,10 @@
+I need to sign into more than one yahoo account at a time, what's the problem here?
+Why, every time I go to sign into another yahoo account, the one I currently have open is dominating my new page?!  This P*sses me OFF.  I need to have more than one account open at the same time so how does this work?
+
+B/c you can't sign in to multiple yahoo accounts on the same machine. That's b/c when you connect, you are on a secure connection to the network card on your machine. You can't have simultaneous secure connections to yahoo.
+
+There are ways around this. You can create a virtual system on you PC and log in from that one. But that may be above and beyond what you want to do.
+
+Or you can sign in from a different computer.
+Hey it is free what do you want.
+try to sign in by using another browser.

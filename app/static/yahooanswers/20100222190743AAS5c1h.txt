@@ -1,0 +1,9 @@
+Internet Browsers not working!!?
+I was just online not more than 15 mins ago and IE was working perfectly. I closed the windows and restarted my computer because Firefox had messed up (like usual) and now NEITHER of my web browsers will work. I click on them and it looks like they're going to work and then it just doesn't do a thing! I have no clue what is going on. Im connected to the internet. I can get on my messengers I can open my anti-virus software. but its just the web browsers that arent working! Please help :(
+I am obviously on a different computer for those of you who do not have brains... I am on my families desktop computer and it is my laptop that is not working
+
+then how r u online
+if you have lime wire you can acess the bowser just click on lime wire store and u can type any url on the top
+If your internet explorer is messing up, you probably have some sort of spyware on your computer. I'd try running Malwarebytes' Anti-Malware. You can get it from http://www.filehippo.com/download_malwarebytes_anti_malware/ 
+
+if you would like to reset your internet explorer to it's default settings, press the windows button and r on he keyboard and  type "inetcpl.cpl" into the run command that shows up. Once there, click the advanced tab and then click the reset button to reset internet explorer to the default settings.

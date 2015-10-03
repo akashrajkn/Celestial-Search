@@ -1,0 +1,34 @@
+Internet Explorer script error question?
+I keep getting this script errors when I do a search on yahoo. Right now I'm being very cautious because we had a virus and we just got our computer fixed. This is the message I get on yahoo when I do a search:
+
+Internet Explorer Script Error
+An Error has occured in the script on this page
+Line: 1
+Char: 3531
+Error: Object doesn't support this property or method
+Code: 0
+URL: http://a.l.yimg.com/a/lib/s5/csp_201002171459.js
+
+Do you want to continue running scripts on this page?
+Yes or No
+
+What do these script errors mean and how do I fix it?
+
+Well Valerie, Internet Explorer is a very unstable, very untrustworthy browser in its own right.
+I'm not only saying this from a haters point of view, but also from the words of the wise, professional reviewers and recently, even government officials (http://bit.ly/8MF3CL).
+
+So, my suggestion would be, you switch to a more reliable browser, in which there is tighter security, greater performance and less flaws. Personally, I'd go for Apple's Safari 4, but then there are also a few other options available.
+
+Best Answer?
+safari is awful, if you switch make it to chrome. Failurefox is really slow fyi
+Hi,valerielynn
+
+There are 3 step to repair internet explorer script error
+
+If you got internet explorer script error then there is a 94% chance that your computer has registry problems. To repair internet explorer script error you need to follow the steps below:
+
+* Step 1 - Download a internet explorer script error repair tool,install this error repair tool.
+* Step 2 - Click the Repair All Button.It will scan you pc for Free.
+* Step 3 - Then click the Repair All Button again and your done! It is very easy to repair internet explorer script error.
+
+Here are the url of internet explorer script error repair tool:http://www.FixErrorTips.com/ttfix-internet_explorer_script_error-zz0001

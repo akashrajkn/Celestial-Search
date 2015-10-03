@@ -1,0 +1,4 @@
+What's a "PayPal Email"?
+Well I'm currently registering for a site that requires you to enter your "PayPal Email". How do I know what's mine? What is it?
+
+Its the email address linked to your paypal account, the one you use to sign in.  If you dont have a paypal account then you dont have a paypal email address.

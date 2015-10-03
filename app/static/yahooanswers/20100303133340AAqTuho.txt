@@ -1,0 +1,4 @@
+Browser Opera ten and half RSS feeds wont show links to follow.Gone back to1010,Any suggestions?
+I like Opera RSS :(
+
+It is working for me here. try uninstalling and clearing your opera profile, give it a go then. or play around with tool bar settings and try to reset them to defaults.

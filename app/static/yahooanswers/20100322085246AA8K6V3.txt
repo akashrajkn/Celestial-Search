@@ -1,0 +1,4 @@
+Is there an alternative to archive.org?
+I use it to get an embed code so that I can publish podcasts on my blog. However, I don't want everyone to be able to hear them, and archive.org makes them public. Is there an alternative to archive or somewhere else I can get an embed code for my podcast? (Or can I make my archive.org account private?) Thank you!
+
+you could use skydrive from Google, has much spcae too.

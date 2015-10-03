@@ -1,0 +1,6 @@
+How do you find out how fast your internet connection is?
+
+
+http://speedtest.net
+It depends on what operating system you have...if it's Windows look in the bottom right-hand corner.  Find something that looks like the Earth, put your cursor onto it and keep it there.  It should say there.
+Speedtest.net

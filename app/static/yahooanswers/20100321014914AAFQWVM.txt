@@ -1,0 +1,9 @@
+when i download a program it doesnt kno what to open it as, can you help?
+i downloaded a game, it doesnt kno what to open it as... when i try to open it, it says the application failed to initialize properly (0xc00000135) click on ok to terminate the application
+it is a pokemon program, its a game from pokemon universe... i downloaded it then clicked on it and that messaged poped up...
+
+If soulds as if the game is compressed.  Windows XP SP2 should be able to uncompress it, if it is a .zip extention.  If any other extention you might need. 7-zip to uncompress it. http://download.cnet.com/7-Zip/3000-2250_4-10045185.html?tag=mncol it is a free download.
+
+If that does not work then try a web search on the extention to find what program is needed to run it.
+hmmm... Firstly, you didn't told exactly what extension is at the end of the program/ what type of file it is... From where did you downloaded it? What game? You should have elaborated it buddy... :) All I think is that you didn't complete the download or some file is missing...
+

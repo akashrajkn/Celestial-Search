@@ -1,0 +1,14 @@
+How do I change it so when I click a link on messenger it opens in the browser Internet Explorer?
+(Right now when I click a link on messenger, it opens up in firefox)
+Internet Explorer is my default browser
+
+You have to change your default browser back to internet explorer. It's in Tools>Internet Options in your IE.
+
+Honestly stick with Firefox or download google chrome as IE can only lead to bad things. It's so integrated into your Operating System (Windows) that it makes it easy for websites to inject code directly into your PC. Virus and Trojans have a much easier time via IE.
+You might want to double check that IE is your default browser by going under Tools>Internet Options>Programs>Make Default
+
+If you are sure you have IE set as your default browser and it still does not open with Explorer, you will have to change this setting through messenger. 
+
+Cheers,
+Kyler
+IE8 Outreach Team

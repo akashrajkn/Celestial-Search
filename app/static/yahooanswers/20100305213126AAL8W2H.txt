@@ -1,0 +1,21 @@
+Trouble with a website...?
+So there's this website that I've been accessing without problems for years, but starting yesterday, I began getting error messages saying that the server was not found, regardless of the browser I was using (Safari or Firefox).  
+
+Now, I know for a fact that the server is not down because I've been able to get on at work and other friends have accessed the site without problems.  To further compound the problem, I can't access it on any of the computers in the house- I've tried.  Still the same message.  So whatever it is is isolated to this house's IP address.
+
+I already checked the router to make sure the security settings hadn't been messed with and even rebooted the whole thing just to be sure.  Still no change.  Can someone please shed some light on this issue?  I've had lots of different possible answers, including the router security and something about the DNS.  I can still access the site via a proxy, but I can't log in without subscribing.
+If it makes a difference, I currently use Mac OS 10.5.8
+pug106man- Thanks for the advice.  I already pinged both the domain name and the IP address of the site- no answer from the domain name, but the IP address responded fine.  Do you think this issue may resolve itself if it's a problem with my ISP, or is it something I will need to bring to their attention if I want it to be resolved?
+
+You might find that your ISP is having DNS / routing problems to that site. Some companies use localised web servers to deliver content, they are meant to load balance and cutover inthe event of a failure. This might not be happening in your case.
+
+Try opening a console window and type 'PING www.thewebsitename.com'
+
+If you get a response then there are no routing problems, if you dont get a response you may need to conact your ISP.
+
+****************************************************
+Hi there, this is probably something you may want to bring up with your ISP. It may be an idea if you have any friendly neighbours on the same ISP that you might check this site from their PC just to be sure that there is nothing affecting the local DNS on your machine. If you want to post the address of the site I can do some more investigation.
+
+Another thing you can try is the command 'TRACEROUTE www.sitename.com' this will allow you to see the path that your machine / ISP is taking to the site, you can identify errors along the way.
+
+:-) Pug

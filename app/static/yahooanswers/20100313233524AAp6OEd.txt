@@ -1,0 +1,4 @@
+I have added a "Persona" to my Firefox browser page,any one know how to go back to the standard page?
+Its not a catastrophe but I would just like to know
+
+To disable a current Persona design, go to the Tools menu and select Add-ons to display the add-ons manager. Then click on the Themes button at the top of the add-ons manager window, click on the Default theme for Firefox, and click on Use Theme.

@@ -1,0 +1,9 @@
+how do you get internet explorer to work?
+Every time i go there it turn shuts down the computer.
+
+You don't you get firefox.
+http://www.mozilla-europe.org/en/firefox/
+
+Also, the problem you are describing is your CPU (Processor) overheating, nothing to do with internet explorer. The only reason you see a correlation between putting on IE and it shutting down is because you execute a process that requires continual processing bringing the temperature up until the safeguards put in place automatically power off the computer.
+
+Your CPU Heatsink\fan may have come loose from the bracket or the bracket may be broken. Or it may be extremely dusty inside your computer.

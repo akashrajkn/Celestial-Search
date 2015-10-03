@@ -1,0 +1,9 @@
+firefox add on help plsssss?
+recently i came to know abt firefox and its add on specially the video downloader helper
+i have been using this to download video lots n lots but i want to know is it legal if i use it to download a video from a site which requires me to register even those adu** sites u know what i mean so is it legal
+
+In the Finder menu "Go"-> Go to Folde and you type "/usr/bin" (Shortcut: "apple capital G") on ffmpeg (THE video library), no idea of the appropriate And indeed the old soft ffmpegX has nothing to do here. For info, instead of ffmpeg should not be in /usr/bin/ but in /usr/local/bin, that little word changes. 
+
+For more information go to: http://forums.techarena.in/windows-software/1310590.htm
+try Opera browser
+You are having the computer system in which you have installed and using the Mozilla Firefox for browsing on the internet. This browser is working properly but you are having one issue with this browser. You are not able to install the Add-ons in this browser Read more here - http://forums.techarena.in/windows-software/1306871.htm

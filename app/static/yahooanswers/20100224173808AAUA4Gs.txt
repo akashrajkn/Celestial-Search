@@ -1,0 +1,5 @@
+How do I delete a song from an Itunes playlist but keep it in the library?
+I was just transfering some new purchases to playlists on Itunes and I accidentally put it in the wrong place. I tried to uncheck it in that list but when I do it unchecks in the play list that I want it in as well.
+
+Delete the song from the playlist, iTunes will ask you if you want to delete it from you library, click no.
+(make a back up copy of the song just in case.)

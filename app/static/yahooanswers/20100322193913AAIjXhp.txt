@@ -1,0 +1,4 @@
+My router kicks me off?
+I have a WRT110 router and since i have bought it, it has been kicking me off every time someone else with a computer in my house signs on.  It does not regain connection until almost fifteen minutes later.   I have already called my problem in but i received no answer to my problem, if someone can please help me i would be grateful Thank you so much
+
+its called: high latency issues. or possibly to much bandwith going through that router, i had the same problem, and from my expierence, i went and bought a new one. guess what? no more disconnections, at all, unless i unplugged the router (lol) but basically you need a new router, no joke. it also might be because your router doesnt recognize the other computer connected, and disconnects frequently.

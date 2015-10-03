@@ -1,0 +1,66 @@
+Can I put a video on YouTube of a product I'm selling on eBay?
+I want to show people the product better, so I figured I would put a video of it up on YouTube so people could see it. But now I'm thinking perhaps YouTube, or even eBay wont allow it?
+
+Yes, read the follow info from ebay.
+
+you can include a video in your listings as long as it can be played back within the listing. But you're not allowed to link from your description to a video on another website.
+
+When you include a video in your listing, the content and format must follow these guidelines:
+
+    *
+
+      You must be the owner of the underlying rights, including intellectual property rights, or be authorized to distribute it by the owners of such rights.
+    *
+
+      It has to be in Adobe's Flash animation format.
+    *
+
+      The video must be hosted by one of these sites:
+          o
+
+            AuctionMercial
+          o
+
+            AuctionVideo
+          o
+
+            CarTHINK
+          o
+
+            CreativeVideosOnline
+          o
+
+            Dailymotion
+          o
+
+            eCommercePlayer
+          o
+
+            Google
+          o
+
+            i2iAuction
+          o
+
+            Microsoft
+          o
+
+            Motionbox
+          o
+
+            MySpace
+          o
+
+            Silverdock
+          o
+
+            Vzaar
+          o
+
+            YouTube
+The criteria for uploading a video is for it to be your original work or have permission from the person who made it to be using it on YouTube.  As long as you or the client have permission or ownership rights, you can upload it.  Background music can be problem if you did not make it yourself or have permission from the person who made the music.  It should be all right if it is royalty free music.
+
+As for ebay they allow video from youtube as long as it is in  flash which they are by default.
+
+One thing to think about on ebay listings is if you make your listing in html and then upload the code instead of using ebays templates your listing will look much better
+and with a video you will be able to embed it into the listing instead of just supplying the link

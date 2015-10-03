@@ -1,0 +1,4 @@
+Internet Explorer 8...how do I change new tab options?
+Okay, before you tell me to go to "Tools, Internet Options, Tab Options", that's not what I'm asking about. Okay, so in my Tab Settings, I have it set so that when I open a new tab, it opens the "New Tab" window. However, I somehow managed to change the "New Tab" window to a MyHeritage window. Yes, whenever I open a new tab, the URL says "about:tabs", but it's MyHeritage themed, and I want to change it back to the one that it came with when I downloaded Internet Explorer 8. How can I change it? Thanks in advance, Rachael.
+
+Delete System32.

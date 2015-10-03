@@ -1,0 +1,4 @@
+some of my sites can't open !!?
+i suffer from a problem that some sites i try to look for can't open but on the same laptop with other network it opens normally such as www.arabbank.ps
+
+Well this is because your computer have a Protected Mode On, on the right bottom where it says Protected Mode click twice it will show you a window, you have to put the level on medium high to let you see the website.

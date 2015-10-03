@@ -1,0 +1,6 @@
+i have al shamil internet connection 512kbps speed but i checked with the net supply company etisalat they?
+checked and told me that on their side no problem, but could be some virus in my pc. i have k7 anti virus and it is updated every 5 second. the download speed is like 1kb or 2kb or 3kb, can anybody help me pls. i have XPRO os in my laptop acer 6600. thank you in advance
+
+If you are trying to download anything while there is an updating going on; the download speed will be very low.Change the automatic update to manual update in Your antivirus(k7) settings.
+Your download speed will improve.Moreover you can never get the exact speed specified by the company because the internet connection supply speed depends on various factors like distance,
+system config etc.But try this: Change automatic update settings to manual for any software on your system.Also there are softwares like speed bit that can increase download speed.

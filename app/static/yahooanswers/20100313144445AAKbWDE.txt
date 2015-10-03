@@ -1,0 +1,5 @@
+How do the mouths get off from the words when i watch a video online?
+Like when I am watching mega video, it starts fine and the mouths match what they are saying but after the intro the the show plays the mouths are way ahead of the actual sounds i hear. Anyone know why or how I can fix it?
+
+The audio track is not properly synced with the video track.
+Problems like this are usually a result of video codec issues. It's Megavideo's fault and the best thing you can do is look for another vid of that particular episode with the audio and video in sync.

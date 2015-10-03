@@ -1,0 +1,12 @@
+How to block porn websites using Mozilla Firefox?
+
+
+at first i thought it said "black porn websites"
+Why would you want to do that! :0
+The easiest free way is to use OpenDNS. That'll block them on any and all browsers. Here's the parental control specific page about OpenDNS: http://www.opendns.com/solutions/household/parental/
+
+The most reliable way, with the least number of sneaky workarounds that a whiz kid might use is to purchase Net Nanny: http://www.netnanny.com
+Show some will and resolve. Just don't do it man! You can DO IT! You can DO IT!
+You may use a professional porn filter because FF can not actually block porn sites. One can reinstall the FF to get past blocker. You may use aobo porn filter. http://www.aobo-porn-filter.com It is easy.You can add the websites you don't want to visit to blacklist. And it works in stealth mode, and won't show in the task manager. With password protection so that no one can change your settings without password.
+Good luck !
+you can install NetDog Porn Filter : http://www.netdogsoft.com on the computer, netdog blocks all porn quitely and automatically in the background when anyone's on the computer.

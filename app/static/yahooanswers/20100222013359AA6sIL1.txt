@@ -1,0 +1,5 @@
+My Firefox is having problems, when I click any link it will open in a new window! How to fix it?
+Even if I click an e-mail, it will open in a new window. In the options bar, the box for 'Always open links in a new window' is unchecked, so I need help! Please, I really hate this problem, it just randomly occurred.
+
+It depends on the html on the link,it's not a problem with you Firefox, it's about the HTML . To open on same tab, simply drag the link to the tab.
+Click the link with the Middle-Mouse button , so the link will be opened in new tab.

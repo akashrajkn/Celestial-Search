@@ -1,0 +1,4 @@
+Can I connect my laptop to the interent via someone else`s home router ?
+
+
+You can do that as long as you are in range of their Wifi and you know their password (assuming they have one set up on their router)

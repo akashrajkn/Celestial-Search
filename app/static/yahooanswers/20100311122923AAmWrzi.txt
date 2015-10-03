@@ -1,0 +1,6 @@
+Problem with YouTube?
+I have Opera as my internet browser, and whenever I try to watch videos on YouTube, I get told to download Adobe Flash Player to play the videos, but even though I have installed it, I can't watch the videos. I don't want to change browser because my laptop works best with Opera, so is there anything else I can do?
+
+Hope this website helps:
+
+http://www.downloadatoz.com/essentialware/adobe-flash-player/how-to-install-adobe-flash-player-for-opera_g.html

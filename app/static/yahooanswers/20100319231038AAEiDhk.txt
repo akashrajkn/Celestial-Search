@@ -1,0 +1,8 @@
+internet speed decreases while downloading?
+I am use net service providedy local company , net speed shows 64 kbps on online speed test but only 8-10kbps while downloding why?
+
+yeah, this happens to me all the time. when im downloading and then i surf/ play online games. it goes laggy like hell.
+
+dont know why but my only dumb theory i invented is that:
+
+apart of the internet speed goes the the download leaving me very little speed for surfing :P

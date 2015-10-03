@@ -1,0 +1,12 @@
+Are internet hosts and internet service providers the same thing?
+Please explain. Thanks.
+
+Definitely not.
+
+An internet host is a company that provides web servers. Web servers are computers which are designed to store and serve web pages. When ever you access (as an example) my website (http://www.music-whiz.com), your computer contacts a DNS (domain name server). The DNS sends your computer an IP address (in this case 89.238.165.210). That address is a unique number that identifies my internet host's server. Your computer then uses that address to find the server and my web site is delivered to you by the server (and appears on your screen).
+
+An internet service provider (or ISP) on the other hand is a company which provides access to the internet. You pay the ISP a fee, and they allow you to use their services to access the internet (or the web servers - provided by internet hosts - all over the world).
+
+Many ISP's provide internet hosting services as well.
+
+I guess in summary, internet hosts provide the web pages you see, internet service providers give you a means to access those hosts.

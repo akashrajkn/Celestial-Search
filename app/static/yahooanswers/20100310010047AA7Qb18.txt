@@ -1,0 +1,18 @@
+How do you get an E-MAIL like this  example@example.com?
+please someone tell me how to get one like this free :)  example@whatever.com
+EDIT: i have a friend that has one like that but he doesn't want to tell me :( and yes.. i did tie him up upside down then roasted him on an open fire... BUT HE WONT TELL ME!!!!!
+
+after the @ symbol is the domain name. The only way i know how to do this would be to own your own domain.
+Cola is right. There is no other answer than that :) and i do not think it will be free. 
+
+Register a domain: Once that is done, you can create an email address like domain@domain.com.
+
+If you do find something like this for free then do let us know :). Good Luck!!
+You have to get a domain name.  You can get one through godaddy.com or many many others for about 9 dollars a year.  godaddy.com offers email services, or you can use something like google apps that is free.
+
+once you buy a domain name, they can help you set it up to work with email, but basically you have to add a name and c name records to get email working.
+
+I suggest google apps.  I use it, and love it.  its free, only costs me 9 bucks a year for the domain name through godaddy.com
+i dunno but someone told me that there is an app for that
+Try here for surprisingly more options https://signup.mail.com/UserInformation.aspx
+You must have a domain on which a page will be created and a script will run on one of the page of that site. This could be done using php.

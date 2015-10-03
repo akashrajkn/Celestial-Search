@@ -1,0 +1,15 @@
+What Country Is This Email From?
+.....@gmx.at
+
+Austria.
+Here you go. This is the owner information and it is located in Germany.
+
+GMX GmbH, Germany, Hanauer Str. 58, D-80993 Muenchen
+I think it's from Germany.
+OF course it's from Germany
+It is from Austria ( top level domain code : .at)
+Germany's top level domain is : .de
+
+Look this to know others :
+
+http://www.iana.org/domains/root/db/

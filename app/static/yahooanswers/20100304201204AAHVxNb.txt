@@ -1,0 +1,10 @@
+How do you delete search history and temporary internet files in firefox 3.5.8?
+I have googled it and there are ways but none of which work in mine.  For example going into tools and privacy does not work.  I think it may be because it is a different version to 3.5.8.
+
+Tools: Clear Recent History.  It'll bring up a new window that'll let you check off what kinds of files you want to delete.
+
+At least...I think that's how 3.5.8 was configured.
+
+If not, try pressing CTRL + SHIFT + DEL to bring up the same box mentioned above.
+Tools->Options->Privacy->clear your recent history
+give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine "experts" say is impossible, you can always click bookmarks >organize select all and delete

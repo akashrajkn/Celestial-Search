@@ -1,0 +1,9 @@
+Why does my search engine redirect me to another search engine?
+My search engine is picking up the links I am looking for, but when I click on the link I am being redirected to another obscure search engine. This happens however I search - using Yahoo, Google etc. I have cleaned my hard drive until it sparkles using Adaware, Spybot Search and Destroy, Spyware Terminator, Malwarebites, AVG, Kaspersky, AVS and others. When I get into the websites they work fine and the computer is very fast. It just seems to be the search engines.
+Any ideas would be much appreciated.
+
+Because the engine sucks?
+Hi, 
+
+have you tried scanning in Safe Mode with Malwarebytes? To do that, tap F8 on reboot and select Safe Mode. Try SUPERAntiSpyware too. I also suggest you scan your computer with Auslogics Antivirus in Safe Mode. It's very good.
+sorry

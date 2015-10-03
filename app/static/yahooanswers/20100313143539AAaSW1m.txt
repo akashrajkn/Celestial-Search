@@ -1,0 +1,20 @@
+Does having an internet connection go through a port slow it down?
+I have my wires going through my walls, and then into a netgear LAN port. Three machines are connected to this port: my Xbox 360, my Nintendo Wii, and my computer. Some components on my computer that require internet (like Xfire) just randomly disconnect every few minutes, and my download speed is slow also (I range from 80-120kbps). Could having three different connections on this port be slowing down my internet?
+
+Your bandwith could be lowering if you keep everything running at the same time.
+You might want to update the firmware on your netgear before you do anything else. I did on my Linksys after my connection kept dropping on a PCI wireless N card and it fixed the problem. You can go to netgear.com and then support and you will be able to find the firmware and instructions on how to update it. I feel your need for speed!
+There are MANY reasons for computer slow downs:
+ not enough memory
+ too many programs starting up with windows at boot up time
+ too many junk files
+ too many restore points
+
+Clean windows registry can speed up the computer.
+Over time, you install new programs, uninstalled unimportant programs, update software's, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://registry-computer-cleaner.com
+Have check you pc make sure why is your pc is slow.
+ http://pc-check-tools.com/Slow_PC

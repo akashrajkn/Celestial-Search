@@ -1,0 +1,14 @@
+Why is 98% of my CPU usage on an open internet browser (firefox)?
+which is btw running very slow and the cooling fan is making lots of noise. What could be causing this??
+yes it does drop back down when I close it!!
+
+Your browser may have a hijacker/malware. The CPU working non stop will cause it to heat up and the fan will kick on full speed to cool it down. 
+
+When you close your browser does the cpu usage drop back down?
+
+Try running an antimalware application like malwarebytes. 
+http://www.malwarebytes.org/mbam-download.php
+Install it, update it, run it. then check again. 
+I also recommend running it from Safe Mode. 
+Reboot pc, press F8 until the Advanced Boot Options menu appears on the screen and choose Safe mode. But be sure to update malwarebytes before hand. 
+It does a great job of removing any hijackers/spyware/malware, etc.

@@ -1,0 +1,11 @@
+How do you make the music you download go to Windows Media Player ?
+I download the songs from www.video2mp3.net but when it is finished downloading it opens in iTunes. It used to open in Windows Media Player but it just changed suddenly. How do I make it open in Windows Media Player or do you know any other websites where you can dowload it to Windows Media Player. I tried some more websites but they all went to iTunes. 
+
+Please help. 
+Thank you. (:
+
+go into windows media player and then click on library then go to add media then add the media you want by browsing for it. hope it works
+I always close the iTunes message and the download will show up in my Windows Media Player.
+napster, zune market place, emusic, etc
+I also love that alot 
+I've just upload that file here

@@ -1,0 +1,7 @@
+how do i get the text in the textbox back after accidentally pressing the back button!!!?
+anyone noes? i haven closed the page yet... i tried forward but cant, using firefox
+someone gotta noe the answer... pls help?
+ermm... anyone?
+monster- ctrl z doesnt work... it seems to be erased :( someone... any other suggestions?
+
+click in the text field (box) so that you can see the cursor blinking in it and then hold down the Ctrl key and hit z - in essence Ctrl + z

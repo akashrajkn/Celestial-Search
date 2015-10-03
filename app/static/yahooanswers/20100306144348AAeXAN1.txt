@@ -1,0 +1,13 @@
+Does my computer have a virus ?
+For the past few months, everytime I've gotten on Myspace, this fake Antivirus website would pop up, saying it was searching my computer for viruses and that I've been infected. I ignored it because I knew it was fake and I immediately closed it out. But starting today, something strange has started popping up. I got on my computer earlier today, and some website having to do with wq32 kept popping up, and just recently when I was on Myspace editing my page, this popup box kept popping up. It said "Are You Human?' &+ had two choices, "OK", or "Cancel" I kept clicking OK, and it kept popping up no matter how many times I pressed it. Eventually it took me to this website called http://podmena.us and required that I type in some type of login information. I'm getting extremely worried now, because I had another computer crash due to viruses and I really don't want to lose everything again. I do have McAfee Virus protection, but it has expired and my computer is not fully protected. Can somebody please let me know what might be wrong and what I can do to fix it ? Thank you !
+
+yes it has a virus . honestLy i donno how can we fix the probLem.
+Sounds to me like the protection you had on was a trial version.The answer is updating and keeping an eye on the web based pages you go to. Another thing is you just may be getting the minor affects of "Mal-ware" or the other viruses that come with bad luck. 
+ Here is the download link to the Malwarebytes, it may help rid the problematic occurrences
+
+http://download.cnet.com/3001-8022_4-10804572.html?spi=e2fb8ed2384f7a34f6d2bd10e0da4d89
+
+Another thing is, You may want to back up your PC up with an external hard drive incase the problem gets worse and formating is the only option.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

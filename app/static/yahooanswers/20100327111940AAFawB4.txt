@@ -1,0 +1,6 @@
+does firefox stay this fast?
+i just downloaded firefox for the mac and it's immeasurably faster than safari, but does it stay this way? how long have you had it (for the mac), and his it continued to be as fast?
+but if i delete my cookies and history regularly, which i do, will it remain as fast?
+
+It will go slower, when you get more Cookies, and History.
+It should stay fast unless you add a bunch of addons to it.  You might want to also set Firefox to clear your temporary internet files and cookies after browsing sessions ( http://support.mozilla.com/en-US/kb/clearing+private+data ).  Or use a program like OnyX to clean them up: http://www.versiontracker.com/dyn/moreinfo/macosx/20070

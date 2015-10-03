@@ -1,0 +1,7 @@
+AT&T internet issues?
+About a half hour ago my AT&T dsl internet just recently and completley shut down on my friend and I. We were playing world of warcraft when it happened. We called AT&T and they said that our internet is not working because there is a virus on my computer and they wanted to charge us 100 dollars to take 
+control of my computer to fix a "simple issue". They wouldn't even tell us what the spyware virus was called. If anyone has had this issue before and has a solution to fix it and not have to pay a rediculous amount of money to fix it
+
+How can they take control when there is no internet connection? Something sounds a little strange friend...
+There are a few programs I use to keep my computer running clean and they are all free, but you will need an internet connection somewhere to download them.  CCleaner for removing temperary internet files and keeping a clean registry, Malwarebytes for removing malware,  Spybot for removing spyware, avg or avast for your antivirus.  It is always a good idea to have several forms of protection and all of these programs are free and work great.  I would suggest getting a flash drive and downloading them from another computer with a working internet connection, then installing them on your computer.
+i do not have any experience about that. try consulting a computer expert in your place maybe you can save money.

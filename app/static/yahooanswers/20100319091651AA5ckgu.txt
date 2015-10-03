@@ -1,0 +1,7 @@
+Have connection but can't pull a page.?
+I would like some help if any one can. I'm in Iraq and my wife is having problems with her computer. She can talk to me on MSN messenger so she is obviously connected to the internet. but when she tries to pull a page on Firefox or IE she gets a no connectivity error. please help. Thanks in advance.
+
+it's possible that the DNS info has been lost.. she can retrieve this info and instructions from her internet service provider. If she is connected to a router have her reset the router by unplugging it and holding down the tiny reset button with the sharp end of a pencil for 20 seconds. Also reset the modem by unplugging for 1 minute and plugging  back in... disconnect the lan cables between these items while doing so, so that they don't see eachother before they are ready.
+Hi ;) I just had the same problem myself ;) I don't know what win she's running on soo:
+Go under Control Panel -> Network and Internet -> Change advanced Settings -> press Alt -> Advenced Settings -> and move your Connection to the top of the Connections list. If its Wireless she should do Wireless Network Conenction. 
+I hope that helps ;P

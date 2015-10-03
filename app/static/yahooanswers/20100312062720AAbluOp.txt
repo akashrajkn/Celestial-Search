@@ -1,0 +1,24 @@
+with IE7, i have everything compacted into just three bars at top of page. which amongst firefox&Gchrome has?
+the most compact web browser?
+
+i need to upgrade, but need the new browser to be as compact and minimalist as my old one.
+
+which is better....firefox or chrome?
+
+I'd go with firefox.  I tried chrome, but it seemed like it was too bare-bones to be useful.  I couldn't find tools that I wanted.  Firefox is a comfortable fit for me, and I recommend it.
+
+One warning - MS used to require that any downloads from their site be done with IE and no other browser, so don't uninstall IE.  You don't have to use it for anything else except getting updates, but you may still need it for that sole purpose.
+Chrome will be easier for you for someone who had used IE (WHICH SUCKS!!)
+At first everyone would keep talking bout how IE sucks and people should go to FF already, and I was like.. Wow maybe I really should try, and I did. And I didn't like it, I didn't understand the layout and the options, it was just different. So I let go, then Chrome came out and I fell in love with it quite fast, because this browser is simply easy and fast rarely crashes and I just liked the way I can bookmark easily too.
+Then I tried Firefox once again, and discovered the "addons" that I didn't check out before, then my browser was perfect. No more Ads, a lot easier.. I can just download any addon I want and it's simply a great browser.
+So I recommend : 
+*Get Firefox, don't leave it right on the first impression
+*Simply type "Addons" on the link bar
+*Download anything that may be useful
+And you'll have a great brwoser :)
+Chrome is too much bare bones.Firefox should be good for you.
+They're both good browsers, but Firefox has many more add-ons available, as it's been around longer and has a larger fan base. If you're looking for a minimalist browser, it's worth considering Opera... everything you need in a browser in a clean, compact interface.
+As you are keeping IE, important to upgrade it to the securer IE8. Wait a bit before converting to Chrome, there are still bugs and is spyware. No problem with Firefox - it is just clumsy compared to IE8.
+Adapt IE8 to three "bars" using Tools, Toolbars. 
+
+You should try IE8 and Firefox - I favour IE8 as I do my work quicker - totally depends what you use it for.

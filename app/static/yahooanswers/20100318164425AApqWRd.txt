@@ -1,0 +1,9 @@
+Can I get An account on pay pal with a visa electron card ?
+its not letting me
+
+yes you can,, you must be entering some detail in one of their questions incorrectly .
+
+ this link says that your card is accepted by them,,, 
+
+https://www.paypal.com/uk?sid=Il4WaA
+What you need to do is call customer service, number should be on the back.   Tell them that you need the bank routing number and account number for your account so that you can have your paycheck deposited automatically to your card.  They will give the account numbers or point you to their website to print out a voided deposit slip for your account.  Go back to paypal and enter in the bank and account number for the deposit and verify.  Might take a few days, but it will be verified.  What they do is deposit a random amount, normally close to $1 then after verifying that it was deposited, they will withdrawl that exact amount, then your account will be verified.

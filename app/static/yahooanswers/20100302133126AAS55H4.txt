@@ -1,0 +1,38 @@
+What does com stand for?
+In something like yahoo.com what does the com stand for? anybody know?
+
+commercial, a for-profit site
+commercial
+The domain name com is a generic top-level domain (gTLD) in the Domain Name System of the Internet. Its name is derived from commercial, indicating its original intended purpose for networks of general commercial character.
+company or commercial
+commercial ( as in company)
+Answer: A ".com" web address does not mean "communication". And no, it does not mean "computer" either.
+
+Interestingly enough, .com describes that a web site has some kind of "commercial" intent. This is what we call a "top level domain" address, and it used to be a way for a web site to convey its publishing intent.
+com--> commercial
+org--> organisation
+in-->india
+.us-->united states
+mil-->military
+The folks above me are right. When the Internet was first designed, there were these Top Level Domains (TLD), which were supposed to be for the following types of web sites:
+
+.com Commercial for-profit business
+.net Internet provider
+.org Non-profit organization
+.gov Government
+.edu Educational institution
+.mil US Military
+
+Nobody pays any attention to the purpose of the first three anymore; however, the last three are enforced. For example, you CANNOT get .edu unless you ARE an educational institution.
+
+There are also country codes like .us for US, .uk for the UK, and .au for Australia.
+
+Now they're introducing tons of new TLD's, such as .pro for self-employed professionals, .biz for businesses, .info for... I don't know what that one is for. They're trying to implement .xxx and enforce that all pornographic sites may only have a .xxx domain name; but, they've not done so yet.
+".com" is one of the original top level domain names from the original domain name system, dating from 1985.  The "com" stands for commercial, as in a commercial venture, like a company.  The other top level domains included .org (for organization, used for things like non-profits), .edu (for educational institutions), .gov (governments), and .mil (military).  The link below explains it better.
+com stands for "Commercial" or "Company"
+it can really stand for anything pertaining to business of any kind.
+just com by itself refers to a Worldwide area.
+other coms like co.uk, com.ag, com.co, and co.in refer to the area that it is in.
+Com = Commercial. :)
+Org = Organization
+Net = Network

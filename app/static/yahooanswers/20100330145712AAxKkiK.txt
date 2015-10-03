@@ -1,0 +1,4 @@
+How does http://tiny.cc work?
+tiny.cc is a website that transforms long URLs to shortened ones.  I'm just curious how that works conceptually.  Is it similar logic behind an image host like imageshack?  Or is it more like an indexed database?  Your thoughts?
+
+Basically, URL shorteners such as http://tiny.cc or http://bit.ly or http://nhe1.com create a key with which the long URL is associated in the database.  The URL generated with the key redirects the user to the long URL in the database.  The key is usually the part after the TLD/, normally around 6 alpha-numeric characters.  Some permit their own keys to be used, though those are often with paid services.  Not all URI schemes are supported by all services.

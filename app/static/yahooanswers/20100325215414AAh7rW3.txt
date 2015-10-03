@@ -1,0 +1,24 @@
+My Internet Does Not Work, plz help?
+I have Vista and a Linksys Router.I was on Youtube with Chrome and it stopped working. I check with Internet Explorer but it didnt work either. But the strange thing is my IPod touch internet work fine. plz help Im not good with computer.
+
+may be something wrong with your internet connection. 
+try another browser
+I had a problem where Internet explorer wasn't working or when it did it would look for the home page but got so far and stuck.
+
+To fix my internet explorer I
+
+Click on Start button
+Go to All Programs
+Go to Accessories
+I double Clicked on Command Prompt
+
+This will bring up a Black window
+
+Type netsh 
+press enter
+type winsock reset catalog
+press enter
+
+I rebooted my computer and my frends internet explorer now works.
+
+Hope this works

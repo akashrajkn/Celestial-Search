@@ -1,0 +1,4 @@
+Why does my laptop read "connected to wireless network" but cannot access the internet?
+My laptop connects to my wireless router without a problem.  It even reads connected to the name of my network and states that the connection strength is excellent but when I try to access the internet I can't. Once the internet explorer starts up is shows the general cannot access website page.  Can anybody tell me what the problem could possibly be? Thanks in advance.
+
+Try turning off DHCP in your OS, using a static IP and entering your nameserver addresses manually.

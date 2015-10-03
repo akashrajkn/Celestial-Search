@@ -1,0 +1,14 @@
+can i turn off the sound in just firefox?
+im playing a game and want to listen to music. I know this has been asked before (http://answers.yahoo.com/question/index;_ylt=AudYVpgBpUawU9PzGdwN8cUAAAAA;_ylv=3?qid=20070921144910AA3QzZD), but the answer doesn't really help.
+
+At the bottom right corner of your explorer bar (you know, with the start menu on it) there shuld be a little Speaker icon for volume control.
+
+Right click and hit "Open Volume Mixer".  Here you can control individual volumes.
+
+This works on Vista and Windows 7, and it's been too long since I used XP to promise results there.
+Just go to the taskbar. look at the bottom right corner for the little volume icon. Click it. 
+Increase or decrease the volume according to ur requirement.
+Uncheck mute.
+
+If this thing doesn't work for you. Check the settings in the game.
+Hope that helps...

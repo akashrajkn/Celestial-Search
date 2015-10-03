@@ -1,0 +1,20 @@
+Does my comp have a virus?
+Does my comp have a virus if i visited a webpage and the page has a pop up sayin attention comp may be infected, then the main page is redirected to a what looks like a virus scan scanning my computer with an option to buy the anti virus software.
+
+no but thats just a fake if u click some thing on that page u may end up with a virus but if u close it out and reopen the page u where on u should be ok
+Get a program called Norton Anti-Virus. I'm not sure if it costs anything but that's probably the best thing to do in a situation like that. I hope I helped!
+well try scanning your computer if there is
+Sounds like you have a rouge [fake] antivirus.
+
+Download and install Malwarebytes [free version] - http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html?tag=mncol;pm
+
+It will auto update for lastest version and then run a full scan
+
+Update your antivuris software and run a scan. If you dont have a antivirus solution download a free one like AVG or AVAST from download.com
+
+This should sort it out.
+YES!! stop the scan as soon as you can! unless you started the scan? there are scam programs that pop up in the middle of nowhere and says warning your computer may have a virus and start scanning! as they scan they put a bug into your computer as they scan then they sell you a cure for 40 dollars but don't buy it because all it does is take out what they just put in!! nothing more!! better if you go to windows DEFENDER and run a FULL scan!! it will take about one hour or so but it will find the viruses and remove them for free!! ya i know it looks OFFICIAL from microsoft windows but it isn't!! it is a fake scam program!! it got me too?? if you stop the scan before it is done nothing happens!! just ignore the warning it is made to look real but it is fake!!
+Yes it doe's it happened to me luckily I had Microsoft security essentials.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

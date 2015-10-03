@@ -1,0 +1,11 @@
+Only Internet Explorer will connect to the internet?
+For some strange reason only Internet Explorer will connect to the internet.
+
+Firefox, Chrome, Limewire ect all tell me that I dont have an internet connection.
+
+Ive turned of my firewall and I dont use a proxy.....Please Help!!!!
+All other browers are running online but not connecting......and ive uninstalled and reinstalled everything.
+
+Run antivirus and check firefox from the file tab in the top left hand corner and make sure you arent "working offline"
+Try redownloading firefox w/ the new version
+did you at least blocked your firefox.re-move chrome,and limewire,etcsee if you can do a versus can?  turn your computer completely off,than back-on again,alot of times when you do this ,will work better?might also be because of the versus protection you were having causing the problems.chec for up-dates?do a system check-up. good luck?

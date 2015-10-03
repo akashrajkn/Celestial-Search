@@ -1,0 +1,5 @@
+How do I connect to the internet?
+I just reformatted my dell- i have windows vista on it... now its saying that it cant get any wireless networks or connect to the internet, meanwhile it was working fine right before i reformatted it.  i really dont know what the next steps are to get myself back on to the internet.. help! please!
+
+you probably need to replace the driver for the ethernet controller and wireless adapter if using one
+If you go into Device Manager (searchable froms Start Menu), and look under Network Adapters, you should find all the adapters that your computer uses to connect to a network. Find the one most related to wireless (eg. WiFi, AGN, AG, 54 etc) and check that it is functioning properly. If nothing is there relating to wireless, then the computer has not detected the wireless card and that can be an issue. If it says something about an issue, try re-installing the driver and reboot your computer. Sometimes it can be as simple as checking the wireless On/Off switch (I know it sounds dumb, but we've all done it before). Good luck

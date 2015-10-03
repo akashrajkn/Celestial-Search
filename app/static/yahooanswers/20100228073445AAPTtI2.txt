@@ -1,0 +1,6 @@
+Firefox browser does not work, but others,like Explorer and Google Chrome do. This is Window XP.?
+I downloaded the set up, click the icon. It asks me which program to open. I click Mozilla, it just do nothing. One time I went to the " All Progammes" and click some " Accessories" , it worked again. Also some icons in my Control Panel  do not work because the  " System32rundll32exc" Application not found. Can some one tell me how to get my Firefox back using " All Progammes" and clicking some " Accessories" programs?
+
+Download Firefox setup again from normal website (like www.firefox.com) and install it again.
+
+Otherwise, 2 more things I can recommend: 1) Learn using your PC deeper and 2) Reinstall your Windows

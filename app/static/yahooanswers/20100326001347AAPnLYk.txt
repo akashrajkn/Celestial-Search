@@ -1,0 +1,40 @@
+How can I get out of Windows Internet Explorer provided by Yahoo?
+I don't know how I got these Windows in the first place.
+I can't copy URL addresses in these lousy windows.
+
+confused...Internet Explorer is a browser that is built into the windows operating system..which is manufactured by Microsoft. I would say you dont want to remove Internet explorer as it is needed for using windows update. You can use alternate browsers that are much better such as mozilla firefox or my favorite google chrome.
+When ever you feel stuck and you just want to start over hold the Alt key next to your space bar, it doesn't matter which one since there is two of them, and press F4.  This is the hot key to close any program and is very useful for getting out of things.
+
+After your out, try relaunching your Internet Explorer, and see if you can try again.
+
+Good Luck ^_^
+I agree with Chris in that you could download Mozilla Firefox or Google Chrome - I don't know much about Google Chrome, because I haven't used it, but Mozilla Firefox seems to work better than IE. I only use IE when I log into more than one Yahoo Mail account at the same time.
+
+IE provided by Yahoo means that you have Yahoo's version of Internet Explorer version 8. Both Microsoft and Yahoo offer the same version of IE 8 with little quirks that are different for the Yahoo kind. Microsft is ultimately the creator of Internet Explorer. Don't ask why Yahoo has their own version, I don't know. 
+
+You might try Firefox or Chrome. 
+
+http://www.mozilla.com/en-US/firefox/personal.html
+
+http://www.google.com/chrome
+
+BW
+Yahoo! doesn't supply browsers, they have (and a hundred other companies) developed a toolbar plug-in for browsers.
+
+To get the menus, or the status bar, or the command bar to show up, you need to right click near the top of IE. and select the tools you want from the menus. Eventually when you've spent too much time doing that and locking the tool bars so they remain, you decide to move on.
+
+The simplest thing to do is to install one of the other alternate browsers and use it as the default browser. Firefox, Chrome, Opera, and Safari are all great alternatives for IE.
+
+http://www.getfirefox.com/
+http://www.google.com/chrome/
+http://www.opera.com/browser/
+http://www.apple.com/safari/
+
+... it's wise to use an alternative to IE, just from the standpoint that Microsoft has a big bullseye on them for hackers. A lot of vulnerabilities exposed in IE do not occur in the other browsers.
+the "provided by" in the title bar is all that it is - a title.  it has nothing to do with the way the browser functions.
+
+yahoo probably has toolbars installed - if you go to view -> tool bars in the menu bar you can deslect them and they won't show up.  then you can go to tools -> internet options and change your start page to something that isn't yahoo.
+
+you can always remove all the yahoo stuff too by going to add remove programs in the control panel in the my computer bar or start menu.  it will not change your browser in anyway - it will just remove the yahoo stuff.
+delete the yahoo toolbar
+get a mac instead.

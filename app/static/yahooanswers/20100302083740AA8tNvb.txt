@@ -1,0 +1,20 @@
+Are Google and Yahoo secretly in bed together?
+After being banned by gmail, Yahoo seems to magically know this, and prevents me from posting on Yahoo answers because of "unusual network activity" coming from my IP. Is Google passing information about my usage to Yahoo?
+
+HA HA HA HA HA
+
+No, they know nothing about one another.
+Google and Yahoo probably know nothing about you individually... but there are organizations out there that probably do and pass that information along to many different sites.
+
+These organizations maintain what are known as 'blacklisting sites' that are huge databases of domains, providers and IP addresses that have been demonstrated to participate in bad Internet behavior.  For example, if tons and tons of spam are always detected coming from a certain IP range, that IP range will be added to the blacklist.
+
+Other sites then subscribe to these blacklists and automatically prevent access of data coming from a blacklisted site.
+
+At my corporate site, for example, I have a Watchguard Firebox firewall and I subscribe to their blacklisting services.  These services are constantly updated preventing my users from receiving e-mails from known spammers.  Another example of something like this would be AppRiver, a site that monitors spam sites and prevents reception of e-mails from known bad sites.
+
+Somewhere along the link there was some "unusual network activity" coming either from yourself or someone else on your IP range.  Because of that activity, odds are very good that your IP address was added to a blacklist site... and that information was shared with sites like Google and Yahoo all over the world.
+
+One place you can go to check is the following website:
+http://www.dnsbl.info/
+
+Type your current IP address into the 'Quick DNSBL Check' bar and click on 'Check this IP.'  If you come back with the red circle ("listed"), then your IP address is indeed listed with those blacklist sites.  It will be up to you to follow up with those sites to have your IP address removed.

@@ -1,0 +1,13 @@
+How do i turn off firefox word fixer spelling mistake error thing?
+The red underline of most words gets very annoying...
+
+Tools -> Add-ons -> Find the dictionary in the list of addons and click Disable.
+Do this:
+
+1.Click the Tools->Options menu item.
+2.Click the Advanced Page.
+3.Click the General tab.
+4.Uncheck the Check my spelling as I type checkbox.
+5.Click OK.
+
+Hope that helps.

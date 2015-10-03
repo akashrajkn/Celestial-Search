@@ -1,0 +1,65 @@
+how do i use proxy to disable a school web sense?
+i dont know what is a proxy
+
+You realize that that's gonna get you in a whole lot of trouble, don't you?
+Go to Https://www.Proxy.org
+
+I added the "s" to "Http" because most school web filters do not protect against secure links. Once you get onto the site, they have a large list of proxies to choose from. Just click around until you find one that works, then type in the web address that you want to go to.
+Web filters get more sophisticated every day. They can scan and detect proxies as soon as you try to use them. The most advanced systems can block you within seconds. Others send a report to the admin and the block is done manually.
+
+The name of the proxy, how new it is, whether it¡¯s https or not does not matter. The proxy will be detected and blocked because it¡¯s a proxy.
+
+There is also considerable risk in using free proxies from unknown sources. Many of these free proxies are what are called hacker pots. They are there waiting for you to fall into their trap so they can steal your information and plant bots on your computer. Once a bot is planted the hacker has control of your machine and can steal credit cards, attack web sites and send out tons of spam all from your IP address.
+
+Some of the free proxies/vpn's are run by people out to make money. There is nothing wrong with that in principle. However the best case here is that you will get a proxy loaded with advertisements with no real speed to it. The amount of money the owner can make with advertising clicks is really only pennies. Many of these owners supplement their income by key logging everything you do and selling your personal information to advertising companies. Since you have no way to know what the owner is actually doing you need to assume the worst case is true.
+
+Read some more about free proxy servers below:
+
+http://www.personalvpn.org/danger_proxy_servers.htm
+use these proxy sites to bypass your school filter:
+
+http://www.homecomputer.ro
+http://www.findyourdating.com
+
+You can access Facebook, Myspace, Youtube.... or anything else.
+
+Happy Surfing !
+use 1 of the below
+
+missedcall.info
+yahooisfun.com
+poorschool.info
+richschool.info
+
+proxies get blocked very fast..to get Fresh Proxies right to your mail
+ join the group
+http://tech.groups.yahoo.com/group/getaproxy/join
+you can try these new proxy here:
+
+www.adminsucks.com
+www.helpmylink.com
+www.search4house.info
+www.freemyschool.com
+www.gitudoang.com
+www.gitudoang.net
+www.onlinefreeproxy.cz.cc
+www.tvdirectory.co.tv
+www.freemyspace.cz.cc
+www.october2009.tk
+www.greenunblock.tk
+You can try one of the links below. They're pretty new so they should work in most places, they work with facebook, myspace and youtube and have no download limits.
+
+http://myworldwideweb.info
+http://hiddeninternet.info
+
+You can also bookmark http://centralxy.com which will list any new and reliable.
+Here's a free proxy created today:
+http://mcancer1.info/1
+-Unblock ANY Website
+-watch youtube videos
+-download up to 50 MB
+-hide you IP and stay anonymous
+-Fast and hosted on a dedicated server
+
+I get new proxies here everyday:
+http://tech.groups.yahoo.com/group/NewFastWorkingProxies/

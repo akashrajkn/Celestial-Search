@@ -1,0 +1,4 @@
+How does wireless Internet  work at a cafe?
+In my story, my killer uses its computer but i'm not sure if i should have it to this. From what i understand (movies lol) they can't really trace your computer if you use it at a wireless cafe or starbucks right? If not, please elaborate
+
+Supposebly, it's possible to trace it to a wireless cafe. They would find the local ip of the computer and have to trace it back to that cafe's ip. But, since everyone at the cafe is using the same ip, he would be able to blend in with everyone at the cyber cafe. They wouldn't be able to tell who was using the ip. He could easily use the cyber cafe's ip, and then book it before the police show up. No evidence.

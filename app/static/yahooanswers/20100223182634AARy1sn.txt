@@ -1,0 +1,6 @@
+Recently when I open Firefox or Internet Ex. I have a box right in the middle of the screen that wont close...?
+it doesn't happen with Google chrome. Is Google messing up my Firefox? If anyone has suggestions I would really really appreciate it!!
+alright... its an empty white box that goes all the way across the screen. at the top theres a Blue line that says 'click here to close box' then theres a box you click..but when you click it the page just reloads
+
+sigh...what kind of box, how would we know what to do if you don't even describe it
+Sounds like spyware to me....try downloading and running Spybot.  You can google it.  All the best!

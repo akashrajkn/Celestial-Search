@@ -1,0 +1,6 @@
+Tom, should I uninstall IE first. My IP address says that my browser is IE7.?
+I do have IE8 installed and it shows in my control panel add/cancel screen. However, it does not show that I have IE7. How can my browser be IE7 if I do not even have it insalled?
+
+Your IP address can't possibly say that your browser is IE7. The IP address is independent of the browser.
+
+ Please add more details as to what you are trying to do, so that we can help you.

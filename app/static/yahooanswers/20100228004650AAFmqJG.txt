@@ -1,0 +1,6 @@
+the size of my text has become too big, how can I make it small again?
+A newbie!
+
+Where? The browser? Or the screen overal?
+in
+the browser set the resolution and zoom in windows set the dpi settings

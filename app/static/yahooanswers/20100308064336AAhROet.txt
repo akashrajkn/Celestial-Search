@@ -1,0 +1,9 @@
+WINDOWS 7 keeps disconnecting internet?
+i have a problem with windows7 . mt internet connection keeps disconnecting after 15 minutes how to remove this problem ? in this a box appear in which there is displayed that ur connection is idle u want to connect ? how to get rid of this?plzz help .. thanks
+
+Normally, you can check the following settings.
+Click on internet option & under connection tab, click on setting after highlighting the connection name.
+Click on advanced & uncheck the box which says disconnect when connection may no longer be needed.
+Another way is to click on the connection icon in my network connections & click on properties.
+Under option tab, put " never" in the box which says idle time before hang up.
+I am sure you will find this information of some help to you.

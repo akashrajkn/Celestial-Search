@@ -1,0 +1,6 @@
+Why is Internet Explorer blocking downloads to Mozilla Firefox and Opera?
+Sometimes Internet Explorer stops working; and at other times, it is slow or times out. I have tried to download Mozilla Firefox and Opera. During the download a window popped up to tell me that the download was stopped. The smart screen filter considered the download safe. How can I get IE to complete the download?. I have tried downloads and uploads; and I have been striking out. I have Windows 7 on a new laptop[purchased in October 2009] Thanks for your help.
+
+Strange behavior! I never had IE to stop me from downloading Firefox.
+
+I would try this: right-click on the IE icon on your desktop [oups! you use 7...] and choose "Start without Add-ons". [Just find out how to do this in 7 if the right-click thing doesn't work.].

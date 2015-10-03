@@ -1,0 +1,8 @@
+Can I work as Network Administrator OR System Administrator with only CCNA and MCSE as qualifications?
+Are the above certifications enough or must I necessary include others according to you?
+
+Not enough. Nowadays, you must also have RHCE besides CCNA, A+ & MCSE to be a REAL network administrator.
+What is your experience level? Certifications aren't going to just give you a job, but they are necessary to have. 
+
+If you're MCSE, you probably already have A+ (or at least you should).
+You can ask in the Microsoft Born To Learn blogs what other Microsoft certified professionals have needed to get jobs: http://borntolearn.mslearn.net/forums/f/default.aspx

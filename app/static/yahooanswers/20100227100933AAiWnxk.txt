@@ -1,0 +1,7 @@
+Preview of most visited websites?- html?
+A lot of browsers such as Google Chrome and Opera have a preview of your most viewed websites and has little previews of it, are there are sites like this for IE which I can set to load when a new tab is loaded?
+Isn't there an external website which works with older versions?
+If there isn't does anybody have any advice in how to make one?
+
+Internet Explorer 8 has that option.
+Internet Explorer 8

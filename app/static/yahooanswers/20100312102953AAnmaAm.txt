@@ -1,0 +1,10 @@
+Why do all my passwords reset when I close Firefox?
+Starting yesterday, whenever I close Firefox, all my saved passwords that I have clicked "keep me logged in" or "remember me" for, reset and log me out. I have used Firefox for over a year and have never had this problem. Is there a setting or something I can change?
+
+Go to tools click on security and tick the box that says remember passwords for sites
+There are many possibilities
+
+1. In the History tab in the options window in Firefox "use custom settings for history" may be selected.  check to see if clear history when firefox closes is checked.  MOST likely is that next to this there is a button "settings" which has check boxes for things to delete when firefox closes.  At the bottom of that window there are check boxes for data like saved passwords.  You probably have one of those checked.
+2. Under security, make sure "remember passwords" is checked
+
+3. Check that you have cookies enabled.

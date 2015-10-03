@@ -1,0 +1,7 @@
+Why doesn't sound work on firefox?
+It worked a few days ago.  Explorer works just fine.
+
+sorry to sound a bit basic but just to be sure!... have you checked (if you use vista or 7) that firefox is turned up in the volume mixer!
+
+Good luck
+make sure your applications (like firefox) have access to sound

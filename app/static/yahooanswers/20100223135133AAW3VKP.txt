@@ -1,0 +1,8 @@
+is there a website like this?
+you type in a name of an object and it shows you the scientific stats of that object, like weight, height, density, material type, etc...
+
+Wolfram Alpha is a kind of scientific knowledge engine. It will probably do that
+http://www.wolframalpha.com/
+
+...
+

@@ -1,0 +1,13 @@
+Ebay Question about pe0ple whu scam you and delete their accounts?
+What do u do when u buy an item off ebay, and u receive it but its completely faulty and not what it appears to be as described, and then u go back to complain but the seller is not longer registered?? lol
+
+..must of deleted his account as soon as he sold it cos he knew it was faulty and not what he discribed..
+
+BTW it was a 16 gb micro sd card  (it says on the card) but when i check the capacity it says only 15 gb, and it will ONLY hold files upto 4gb , if u put anything else on it when its hit 4gbs it will all become currupt,
+and iv already tried formatting the card.
+
+i got the feelin its a counterfeit
+
+try formating the card.
+Well, since they've deleted their account, the only thing you can do is sell. it. Or you can go to the FAQ on eBay and contact the people. The person who did it should get in a lot of trouble sooner or later!
+Format the card in NTFS format, to save files larger than 4GB. FAT32 will not store files that big...

@@ -1,0 +1,10 @@
+How do I destroy my old website?
+I made a website years ago that I eventually gave up on because the host was difficult to work with. I have not made a payment for this site or conducted any maintenance in like four years, but the website remains in existence. Why is the host continuing to serve a website that I'm not paying for, and how do I get rid of the site?
+
+You can do this a couple of different ways. First though, you should find out why the old host hasn't deleted the content if your account is closed. You should also check on WHOISIT.COM to make sure your web site domain name hasn't been bought by someone else.
+
+Primarily, if the story doesn't change much from what I've already said... 
+
+Re-register your domain name and transfer it to your new host.
+
+Put up a simple page that redirects your old site to your new site. You should do this with a page so that your visitors understand that the old site is no longer active. You'll eventually be able to drop the old name after enough of your client¨¨le learns the new address.

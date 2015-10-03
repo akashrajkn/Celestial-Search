@@ -1,0 +1,22 @@
+How can I watch Amercian TV series on-line if I'm no US resident?
+Hi,
+I live in Switzerland but still I like to watch my favorite TV series on-line on the channel's websites (like A*C's), because they broadcast about half a year earlier than where I live.
+Mostly however, an error message pops up, saying "You appear to be outside the United States or its territories. Due to international rights agreements, we only offer this video to viewers located within the United States and its territories."
+I've tried various US proxies but can't get it work. Does anyone know how to outsmart this system?
+Thanks
+Thanks for your answers.
+
+@Mike D: I'm sorry, but your proxy didn't work either.
+@ds: looks like I have to pay for a Personal VPN, I'd rather not do that... ;)
+
+Here's a free proxy created today:
+http://mcancer1.info/1
+-Unblock ANY Website
+-watch youtube videos
+-download up to 50 MB
+-hide you IP and stay anonymous
+-Fast and hosted on a dedicated server
+
+I get new proxies here everyday:
+http://tech.groups.yahoo.com/group/NewFastWorkingProxies/
+With a Personal VPN, http://www.surfbouncer.com you can watch all USA TV sites and others like Hulu. You can also watch BBC iPlayer from the UK. It is fast and reliable. Unlike proxies, it works with video.

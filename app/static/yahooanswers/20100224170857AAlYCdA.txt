@@ -1,0 +1,9 @@
+How does shadyurl.com work?
+Would be cool if someone could tell me how all these links are relatet to the web pages...
+
+It creates a page that does nothing more than redirects you to another page.
+
+They were created because of the need for shorter links in things like twitter.
+
+An example page would contain just the single line of html:
+<meta HTTP-EQUIV="REFRESH" content="0; url=www.yourdomain.com/index.html">

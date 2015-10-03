@@ -1,0 +1,12 @@
+My iTunes store won't open!! Please Help!?
+My iTunes store has worked before. When I click on "Open iTunes Store" a box saying that there is a connection problem. I know my internet works cause I can get on firefox. I closed out of all other windows and tried again but it wont work! Please help!
+reset my compute?? Won't that erase everything??
+
+If you can get to other sites, it is possible that DNS cached entry is out dated or corrputed
+
+Try couple of steps listed here
+
+http://support.apple.com/kb/HT1527
+
+Good luck!
+reset your computer, it should work, because it happened to me before, and a rest and it worked fine

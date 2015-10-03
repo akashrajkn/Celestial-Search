@@ -1,0 +1,9 @@
+I was bidding on an item and then right when I submited my bid it said I had been outbidded.?
+Did a computer just automatically do that? is there some setting that you can put on it that will drive up the price you put on an item if somebody outbids you?
+
+Different websites have different bidding techniques. Some of them employ an auto overbid. You can set a limit of how much you want to bid say for example $100 and as long as the bid stays below $100 your bid will autobid higher than someone elses bid. Once you reach $100 limit it will stop bidding for you.
+Presume you mean on Ebay? Bidders can place a maximum bid days or hours before the auction ends and each time you place a bid if their bid is higher it automatically says you have been outbid. Until you bid more than their original bid you will never be the highest bidder. 
+
+For example say they bid 60 dollars for an item and the starting bid is 10 dollars and you bid 12 dollars then Ebay will automatically increase their bid to 13 dollars and so on. You would have to be 60.01 dollars to win the item. However if the bidding only goes as high as 40 dollars and you stop bidding then they win that item for 40 dollars, they don't have to pay the full 60, that was just in case it went higher. Also a bidder might place an item on their "watch list" and just log onto the auction at the last minute and start bidding. That is what I do, I never bid early, always right at the end with a high maximum bid if I really want the item.
+
+There are auction stealer tools that people can use to place a bid at the very last second but it doesn't always work that they win the item because they set their maximum bid in advance and so can 20 other people, only one person can win the auction.

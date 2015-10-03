@@ -1,0 +1,21 @@
+Okay, I know how to do the heart symbol, but why wont it show? Am I doing it right?
+Okay so on the heart symbol you press alt and then 3? And if that is tru, I try doing that and the heart wont show up? Weird, ay. Can you help?
+
+You have to hold alt and then press 3 on the number pad.
+Make sure that you are using Microsoft Windows, otherwise you need to use other methods
+
+Make sure that Num Lock is on.
+
+Hold down the left Alt key.
+
+Type 3 on the numeric keypad. The 3 on the numeric row of keys will not work.
+
+Release the left Alt key.
+
+?
+
+On a lap tap, you may have to press the Fn key to help turn Num Lock on and press the Fn key before pressing the key which will provide you with a numeric keypad 3. Check your lap top documentation for details on this. Some lap tops do it differently and a few cannot do it.
+
+Make sure you do not have a utility running that might interfere with your normal keyboard functions.
+
+Also try Alt 1, Alt 2, Alt 4 and so forth. Every value from Alt 1 to Alt 255 should give a different character, after which the sequence will repeat. The character corresponds to its position in your current 8-bit DOS character set. If you type a 0 in front of the number, you will instead get the character with that number in your current 8-bit Windows character set.

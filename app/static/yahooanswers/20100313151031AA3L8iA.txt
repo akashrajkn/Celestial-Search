@@ -1,0 +1,13 @@
+Firefox 3.5 browsing history problem?
+I have tried deleting my browsing history on Firefox,yet when i go to type a website in the bar, websites that I have not been on appear. I have not been on 'dirty' websites, I just don't want others to see what websites I use etc when they borrow my laptop.
+
+You are probably only clearing the past hour. Goto tools > clear recent history. Ensure that EVERYTHING is selected in the top drop down box.
+Go to Options ---> Privacy  --->  Location bar and set it to Nothing.
+To clear cache, cookies, history, and other rubbish your computer stores download and use ccleaner.
+
+its free here
+http://www.filehippo.com/download_ccleaner/
+
+Once downloaded click run cleaner.
+
+Be warned it will also remove any saved passwords you use for websites.

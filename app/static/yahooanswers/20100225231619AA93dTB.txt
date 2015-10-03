@@ -1,0 +1,5 @@
+How do i get japanese and chinese characters to show up on my computer?
+I am using XP home. when i try to view web-pages that have characters instead of letters all i get is weird squiggles like ~ but vertical and a buch of boxes. how do i get the characters to show up?
+
+you need to install east asian language pack, it is included in your xp cd. First go to control panel and look for input setting, choose install east asian language or something like that.
+Japanese ( and other asian character sets) are included in unicode.  You must install Font sets to display them, though.

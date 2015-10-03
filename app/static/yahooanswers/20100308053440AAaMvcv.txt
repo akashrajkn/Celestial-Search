@@ -1,0 +1,14 @@
+Is there anyway I could load faster the page I vist so many times, in Firefox?
+I mean some offline storage system only for one site. Not for all other. For instance; Social city on Face-book.
+
+Please be descriptive.
+Ppl please don't do that. Y! Ans is a good place for us to share our knowledge, a good place where ppl help and be helped.
+
+So please before answering read it carefully what the asker is demanding.
+
+I asked how I could LOAD the page FASTER. And I said some kind of OFFLINE STORAGE system. The example I've given was Social City of Face Book. It takes time every time it LOAD, so how could I save their files on my system which are repeatedly loading every time I load the page, and instead of loading the files from there server the web page loads the files from my computer.
+
+*Cookies are enabled.
+
+Yes you can at the top at the toolbar you can add bookmarks all you have to do is add the page and you can visit it agian later at any time by selecting it in the bookmark toolbar.
+add to your favorites or load it as your homepage. check internet options to see if your cookies are on for that web page.

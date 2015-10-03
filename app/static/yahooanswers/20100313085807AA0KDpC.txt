@@ -1,0 +1,10 @@
+Which sites can "figure out" what country you are in...?
+I mean some sites on the net seem to automatically "know" your country when you register, others don't... What does it depend on and can I "fool" them claiming that I'm in, say, US, while in reality I'm in UK?
+
+thanks
+ok,then why do they ask your country when you edit your profile??  :/
+
+All sites "know" that.
+All sites know which country you are from and can see roughly where you are in that country due to your IP address. 
+
+All sites know which country you are in, but not many actually use the information.

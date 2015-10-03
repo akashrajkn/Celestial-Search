@@ -1,0 +1,8 @@
+Why is Mozilla Firefox my default browser?
+Quick question! On my laptop i have IE and Firefox. If i click IE then i can browse with IE. If I click Firefox then I can browse with firefox, so i have a choice which browser i want to use. I just installed firefox on my parents computer, but when i click IE to browse firefox pops up. How do i make it so that they can choose which browser to use?
+
+When you installed Mozilla it asked you if you wanted it to be your default web browser and you probably either checked the box or forgot to uncheck it which made it your default web browser.
+
+If you would prefer a different web browser as your default (ex; Internet Explorer), than you can open it up, update it or install it and it should ask you if you want it to be your default, click yes.
+
+If you don't feel like re-installing or updating your preferred web browser than just go to internet options and change it from there.

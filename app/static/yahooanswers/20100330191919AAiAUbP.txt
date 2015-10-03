@@ -1,0 +1,6 @@
+How to Disable Adblock With Enternet Not Firefox..?!?
+Im Trying To Watch Something And It Is Telling Me To Click on The Corner W/ Fiefox(Which I Dont Have..) So How Do I  Do It?? Help Asap!>!>!>
+
+Do you mean Adblock Plus? The addon for Firefox and Internet Explorer? If so, within Internet Explorer, go to "tools", then "manage add-ons" to disable it.
+If you have a mac go under Firefox>preferences. Find your tools and you can uninstall/temporary disable. Windows is the same it's just a different menu bar at the top... hope this helped
+i don't know

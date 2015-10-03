@@ -1,0 +1,16 @@
+How do you get your own email address?
+is there a FREE way of getting your own email domain name without having to sign up for website hosts? For example:  testemail@mtz.com   =   and if you know a great/awesome provider that you still have to sign up for a web host please tell me. Thanks
+
+not unless you buy a domain name....
+You have to buy your own domain name no matter what. You can actually have google host it and it works just like GMail. For free, even. 
+
+http://www.google.com/apps/intl/en/group/index.html
+You have a few options, but non are free.
+
+1) There are registrars (companies that you buy domains from) that will let you buy a domain and e-mail hosting for next to nothing. 
+
+2) Buy a domain with e-mail forwarding, and have all e-mails forward to an existing e-mail account. This means when you reply, your testemail@mtz.com won't show as the from e-mail address.
+
+3) Buy a domain and use free web hosting. There are a few good ones around.
+
+4) Get a subdomain e-mail address, like youname@anothername.zzn.com. I'm sure there are a few like this around. Try http://www.zzn.com

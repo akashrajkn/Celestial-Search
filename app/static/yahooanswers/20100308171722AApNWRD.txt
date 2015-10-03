@@ -1,0 +1,21 @@
+Blocking pop-ups on Safari?
+How block the pop ups on Safari.When i used IE I never got pop ups now I do.Also when my sister uses Safari I have never seen her have pop ups.
+
+Click the icon that looks like a flower next to the icon the looks like a piece of paper.
+There will be a menu that comes up
+Hide Menu Bar/Show Menu Bar
+Hide Bookmarks Bar/Show Bookmarks Bar
+Hide Status Bar/Show Status Bar
+Hide Tab Bar/Show Tab Bar
+Customize Toolbar
+History
+Downloads
+Private Browsing
+Reset Safari
+Block Pop-up Windows
+Preferences
+Help
+Report Bugs To Apple
+About Safari
+
+For future reference just click Show Menu Bar then on the menu bar click edit and then click Block Pop-up Windows.

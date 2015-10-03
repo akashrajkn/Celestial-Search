@@ -1,0 +1,14 @@
+I have windows xp and firefox 3.6. When I close out firefox and then reopen it says it is already running and?
+that I need to restart my system. I just do the ctrl-alt-delete thing and cancel the process because it doesn't appear in the applications window. anybody else dealing with this?
+impatience has nothing to do with it...... it doesn't open at all. it says that firefox is still running and that i have to restart my system, which is ridiculous.
+
+You might just be too impatient. Firefox takes a few seconds to close after the window disappears.
+Yes,I have the same issue from time to time;it must be a bug. You could find a link to Mozilla and report it. You should have at least 2-3 browsers just in case something like this happens.I have the IE 8,Firefox (primary),and trying out Maxthon (difficult to set up) but if I'm having issues with one I'll just open another.But anyway,it's a bug.
+most of yhe times your problems can be solved by turning your computer completely off and than back on again.
+It shouldn't take more that a second for the process to end when you exit. Look in your Options - Privacy settings in ff.  See if the box to "Always clear my private data when I close Firefox" is selected. If it is then that's why the delay, it's cleaning up.
+Happens to me too, and I'm still using the 3.5.8 version because I'm afraid of bugs. A few months ago I upgraded to a newer version and it was sooo freaking buggy so refuse to upgrade to 3.6 until I read everything runs smoothly.
+Usually when firefox crashes ( for every reason), then it takes a bit to be closed and removed from RAM completely. At the same time, you can reopen it, because another (older) firefox is still open in your PC memory. 
+
+So you have to close it as you have done before, or wait a few seconds until it get closed automatically. 
+
+Good Luck

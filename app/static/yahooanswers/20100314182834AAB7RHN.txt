@@ -1,0 +1,6 @@
+I restored the settings to default in IE 8 and now java stopped working. how do i get it to work again?
+i already installed it, but it won't detect it. and it is enabled under 'internet options".
+
+go into your programs and unistall it 
+then reinstall it ! try a restore first !
+good luck !

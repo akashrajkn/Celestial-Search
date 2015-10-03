@@ -1,0 +1,6 @@
+Would making a political social networking site be a worthwhile endeavor?
+I am a college student in the computer science field, and I am looking to create a political social networking site. I realize that there are already good sites like this, and also, alot of people use Facebook as a way to network politically. Well, my goal is to make a site good enough that either it could stand alone, or be bought by one of the other major sites. I know this is unlikely, but I just wanted to get some feedback from people with either experience in large-scale web dev or just want to weigh in on the idea itself.
+
+Thanks.
+
+what the hell give it a shot. Try and make that you can show both sides If you follow politics and people you know there are a lot of misinformation going on and people flat refuse to look for the truth in anything they just accept what is said. If not it's still good way to hone your skills. If your Republican or Democrat the common folks need to see what's going on in a impartial way. For example Glen Beck and Limbaugh are shown to pass out some evil and untrue things and if that's all you listen to that's all you get,

@@ -1,0 +1,5 @@
+Is there a keyboard shortcut to have Firefox launch pop-ups in the background?
+normally they immediately jump in front of whatever you're doing, which disrupts the browsing process. I'd like them to launch, just underneath my current tab.
+@Steven - They popup as a result of clicking on a link. I need the information from the popups, I just want them to open behind the tab i'm working in, so I can open 10-12 popups in the background quickly, without having to minimise each tab after clicking each link.
+
+If pop-ups were avoidable like that and not disrupt your browsing they wouldn't really be popups. You could get a ad blocker, that will stop a lot from even happening, or chrome there is google chrome browser, that puts the popup in a tab.

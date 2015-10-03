@@ -1,0 +1,19 @@
+I need help with a virus problem!? Ok, right now my virus protection will only let me know if there are virus?
+I need help with a virus problem!?
+Ok, right now my virus protection will only let me know if there are virus on my computer. I have to register to remove them. Does anyone know a free virus scan, and remover I can download? I don't want to buy it.
+
+avg anti virus 
+or
+avast
+For anti malware, I suggest using a cocktail of anti malware programs as each of them find things the others don't.
+
+Here is a video reference guide on how to use these anti malware programs from start to finish: http://www.youtube.com/watch?v=8Ah3efRdWes 
+
+Avira Anti Virus (free, high detection rate, and light on system resources): http://download.cnet.com/Avira-AntiVir-Personal-Free-Antivirus/3000-2239_4-10322935.html?tag=mncol 
+
+Malwarebytes (free, very good cleaner): http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html?tag=mncol 
+
+Super Anti Spyware (free, does a pretty good job of cleaning whatever is left over, good detection rate, especially in combination with other programs): http://download.cnet.com/SuperAntiSpyware-Free-Edition/3000-8022_4-10523889.html?tag=mncol
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

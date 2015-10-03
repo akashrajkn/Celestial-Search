@@ -1,0 +1,6 @@
+Internet Browser History?
+Why or what could have deleted my browsing history if I didnt do it. I dont think I have windows Defender, but I do have Norton Anti Virus could this delete my history?
+
+maybe it could have been someone else who logged on to your pc
+Did you ever run your Disk Cleanup? Sometimes it'll clean all of that up.
+if it detected a cookie it might have. if it thought it was getting thruogh to your history, it might have deleted it to keep things from lookin at it.

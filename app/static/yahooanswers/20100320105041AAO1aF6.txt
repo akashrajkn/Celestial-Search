@@ -1,0 +1,17 @@
+Copy and Paste from Firefox Randomly Stopped Working?
+Since yesterday, I have not been able to copy and paste anything from the internet to Microsoft Word. It just suddenly stopped working, and it is driving me crazy!
+
+Try Paste Special.
+
+In Microsoft Word versions prior to Word 2007:
+
+1.Click the Edit->Paste Special menu item.
+2.Select Unformatted Text in the As list box.
+3.Click OK.
+
+In Word 2007:
+
+1.Press ALT/CTRL/V.
+2.Proceed as in Step 2 above.
+
+Hope that helps.

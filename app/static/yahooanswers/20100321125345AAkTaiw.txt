@@ -1,0 +1,4 @@
+Hide my IP address, but live UK TV unavailable?
+I use a 'Hide my IP address' service to protect my PC from unauthorised access. I connect to ITV catchup TV and BBC iPlayer no problem but can no longer watch live TV as I used to. Do the TV companies now log all the IP addresses used by the 'Hide IP' services so they can block their use? Or is there a live TV player service I can still use via 'Hide my IP address'?
+
+I use a personal VPN, http://www.surfbouncer.com to both hide my IP and watch video and TV from all over the world. I hook into their US servers for Hulu and the TV networks and use the UK servers to watch iPlayer form overseas.

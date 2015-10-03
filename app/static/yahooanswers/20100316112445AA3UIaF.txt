@@ -1,0 +1,22 @@
+when in internet explorer i write http.192.168.1.1 and connect then a proggram show what is that?
+
+
+More than likely its your Router and/or Modem.
+Your Router's software interface!
+The IP address is to a router or dsl modem. It should be asking you for user and password in ordr to access the program. If your the owner it should be user: admin password:password.
+ Good luck
+the URL should be not like the one you have given.  It should be :
+
+http://192.168.1.1
+
+You will be asked to enter your Log In Id and Password.  In most cases, if you have not set up any password, it would be 'admin'  for log in and also for password.
+
+After entering the correct password, you will be taken to the following page :
+
+http://192.168.1.1/cgi-bin/webcm
+
+This is the interface program for DSL Modem router, through which you can configure the DSL Line Internet connection.  There you will find a button 'Run Wizard".  Clicking this button, you will be taken to some other pages to configure the Router. 
+
+Do not Run the Wizard unless you have any trouble in getting connection. 
+
+Just use the Back button of your browser and close the window.  If you want to do experiment, then run the wizard and follow the instructions, carefully.

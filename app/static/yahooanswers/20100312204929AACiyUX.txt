@@ -1,0 +1,5 @@
+Keepvid.com isn't working?
+I've been using Keepvid.com for years to download videos from YouTube. For some reason, when I pasted the link into the "download" bar, it comes up with a bunch of percentage signs and said, "Firefox cannot download this file." Is anyone else having this problem? And if so, how can this be fixed?
+
+Hi Rascal. Keepvid doesn't work with the latest YouTube changes. You could try VDownloader instead.
+ClipNabber is a similar site which still works for downloading youtube videos.

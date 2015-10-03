@@ -1,0 +1,6 @@
+How to enable disabled toolbars in firefox?
+I am new to firefox and was wandering how do I enable a previously disabled toolbar?
+
+VIEW > TOOLBARS >> Then select the toolbar u want, and de-select the ones u dont...
+Click View, Toolbars, and click the Toolbar you are trying to enable.
+go to tools then add ons nd evry thing is there ?

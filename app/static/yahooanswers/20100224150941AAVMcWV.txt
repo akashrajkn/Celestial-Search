@@ -1,0 +1,5 @@
+ie use to much memory!?
+does anyone know why internet explorer is using 90,000k of memory in task manager?
+appreciate the answer, but i mean it does it even if i only have google open.
+
+because it's a memory hog, It depends on the pages you go to, a lot of them have so much dynamic content that it's constantly loading something or running animations, so it's not necessarily Internet explorers fault, you can blame the web developers also. because as internet speeds get faster, developers put more content on their site. and advertisements don't help either....lol

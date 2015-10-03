@@ -1,0 +1,10 @@
+got a question about internet explorer?
+i had am having a issue with this darn thing that keeps popping up its a error my windows internet explorer i just recentaly downloaded 8 and since i did its doing that error thing  i have windows xp i am trying to go back to ie7 back i cant figure it out    can anyone help me?
+i am only looking to stop the error that keeps popping up when i click on the internet
+
+Internet Explorer is a mess.Try Mozilla Firefox.Its the best.It is available in many languages.download the latest from the net but i prefer the Mozilla Firefox 3.5
+good luck!
+There are instructions on the Microsoft support site and via a google search on how to deal with this issue and to downgrade to IE 7.  Try using a different browser.  I use Google Chrome which is quick, simple to use and of course free.
+Here you can find the instructions to uninstall Internet Explorer 8 and roll-back to Internet Explorer 7
+
+http://www.ehow.com/how_5955221_do-back-internet-explorer-7_.html

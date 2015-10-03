@@ -1,0 +1,5 @@
+does anyone know an untie filter that works on Mozilla firefox3.6?
+
+
+It's called TOR, google it.
+Yes, per above user, here's the link to TOR's website:  http://www.torproject.org/index.html.en

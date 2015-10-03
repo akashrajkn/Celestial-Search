@@ -1,0 +1,12 @@
+When you search a  smiley face :) in google or facebook, why does it say no results?
+just wondering lol
+
+no idea. the query doesn't make sense?
+I think a better question is why are you searching ':)' in the first place?
+because google index words, not strings of symbols.  Google doesn't know it's a face, they look for keywords people are likely to search for.
+it doesn't include the colon or the parenthesis in the search, because they are usually not important in serious searches
+Most likely because they aren't called Smiley Faces, they are emoticons. So when you search "Facebook Chat Emoticons" you should get several results.
+
+Bonus:  <(") makes a penguin  ;)
+You are wasting your points! Since your question makes no sense try these two cool cloud computing websites oos.cc and beta.cloudo.com. Don't spam me! I am just a kid. I just think those two website are very cool! Google them if you don't believe they are safe.
+No Search engines detect symbols like that except if you have some customized one

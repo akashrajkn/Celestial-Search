@@ -1,0 +1,5 @@
+How do I switch back to a normal view on the internet?  View/text size or zoom does not fix it.?
+I don't remember hitting any buttons that changed it all of a sudden.  Zoom only cuts part of the webpage out and view/text size changes don't really affect it.
+
+Well you can either reinstall Internet Explorer, that would be the best choose or have to make a restore point to your computer it will fix anything on your computer either laptop or desktop
+No need to reinstall, try pressing F11 once.

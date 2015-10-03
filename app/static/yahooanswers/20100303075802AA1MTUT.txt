@@ -1,0 +1,19 @@
+Do it matter what internet provider i use?
+When i first got my internet i was using Internet Explorer, then when we replaced our modem we had to switch to safari as I.E kept crashing. Now it works again. Does it matter if we carry on using both?
+
+No it shouldn't matter
+It doesn't matter. If you wanted, you could have IE, Safari, Firefox, Chrome, and Opera all at the same time, and it wouldn't matter.
+no it doesnt........ i have preety much all available internets on my pc and they all work great
+Your browser has nothing to do with your internet provider - it is the software you use to access the internet. What product you use is strictly a matter of preference. Keep in mind that Microsoft uses IE to perform windows update , so you need to keep it on your machine.
+You can have as many browsers as you want. A few years back I had 6 trying them out.
+
+The secret though is when you are installing them is not to make any of them the default.
+
+That way you can select which one you want to use.
+
+Also go into Internet Options ? Programs ? Default Web Browser ? Remove the tick from "Tell me if IE is not the default browser" ? Apply & OK
+
+That way you wont get any nagging screen messages.
+it doesnt matter what internet program you use, there are many, some have more compatability with certain programs like java, and some sites plug ins only support IE, but it really doesnt matter which browser you use. 
+
+this is why Microsoft has go into so much trouble, as people dont thing they can use anything else but internet explorer, so are now (if you update windows) sending messages to everyone with windows to tell them about the diffrent internet browsers.

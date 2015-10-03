@@ -1,0 +1,15 @@
+Cant enter Zwinktopia on Zwinky?
+Everytime i try to get on it just keeps loading -___- i know its not Zwinky bc it works fine in my desktop, anyway you can fix thiss?
+
+I had this same problem before.
+Here's what you can do:
+
+1.) Open Internet Explorer and click on the "Tools" menu. 
+2.) In the "Tools" menu, click on "Internet Options". 
+3.) The Internet Options pop-up window appears. 
+4.) Under the General Tab select the "Delete Cookies" button. 
+5.) Delete cookies by clicking "OK".
+
+When I had this problem I did these steps to delete my cookies and it was fixed entirely.
+
+After you delete the cookies sign out of zwinky and close the window. After they are deleted you can sign back in. It should be fixed.

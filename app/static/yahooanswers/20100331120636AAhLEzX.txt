@@ -1,0 +1,11 @@
+When trying to video chat on skype, our avatar won't go away. How do we make it so you see us not our avatar?
+
+
+The avatar means that the video is not going through.
+
+Make sure you have everything activated and you've started the video.
+
+https://support.skype.com/faq/FA3741/How-do-I-activate-video?frompage=search&q=webcam
+https://support.skype.com/faq/FA3731/How-do-I-test-my-video-to-check-it-works?frompage=search&q=webcam
+
+You can start a video call by clicking on someone in your Contact list and then clicking on the ¡®Video call¡¯ button or by choosing ¡®Turn on video¡¯ if you're already on a call. You can switch video on and off during the call, by clicking the ¡®Turn on video¡¯ and ¡®Turn off video¡¯ buttons.

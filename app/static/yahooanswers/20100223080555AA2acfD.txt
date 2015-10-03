@@ -1,0 +1,12 @@
+Work offline is always checked when I open firefox. How do I have it so it isn't checked when I open firefox?
+
+Used to be, when  I opened up firefox my connection thingy would pop up so I could try to connect. 
+
+This work offline being checked thing happened right after I installed the 'bloody red' theme. 
+
+I finally got sick of it and changed my theme last night, but work offline is still checked at startup. 
+
+I tried looking in about:config, but there isn't an toolkit.networkmanager.disable option.
+
+http://support.mozilla.com/tiki-view_forum_thread.php?locale=sq&comments_parentId=60433&forumId=1
+do you connect to internet after opening firefox? if yes then first connect and open ff.

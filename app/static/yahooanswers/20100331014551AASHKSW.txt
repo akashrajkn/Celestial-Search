@@ -1,0 +1,24 @@
+What is difference in internet browsing and surfing.?
+Internet service providers provide free browsing or free surfing offers. I m confused. Also, what is downloading? I think everything displays on my screen, is downloaded.
+
+no difference.
+surfing and browsing is the same.
+downloading is when u transfer matter from the internet and store it on your system .
+surfing and browsing are the same thing...i dunno about the download thing
+browing = surfing. 
+
+Anything you do inside a browser or application using the tcp/ip/http protocols is downloading, so yes, everything on a web page is downloaded.
+its all same. you use browsers for surfing in the internet. so, some people call it browsing, some prefer surfing.
+It is actually similar. Same meaning
+Browsing and surfing has almost same meaning in the world of internet.
+i will explain what downloading means.
+You use a browser to see webpages.right.for example Internet explorer or Mozilla Firefox or Google chrome.
+When you type an address.for example- www.yahoo.com
+you are connected to the yahoo server.At this point you can imagine server as another big computer.The concept of server is different from normal computer, but there is no harm if you consider it as another computer.
+So once you are connected to the yahoo server, the page you requested or typed is getting downloaded into your computer and you can watch the page in your internet browser.So here the page is actually downloaded from the server to your computer.
+Similarly when you click a link,the next page is also a download.If the page is having big contents it will take some time.
+Now if you are downloading a song.You clicked the download button in the webpage.Now the song is getting copied from the server to your computer.
+In short whenever you connect to internet and view or get something from internet, its actually getting downloaded to your computer from the server.Just like a copy process.
+I will tell you one more case.When you view a youtube video.The video is actually getting downloaded temporarily to your computer.When you close the browser it is erased.So everything is downloaded.
+Hope this clarify.You can visit my blog for a good Indian website.
+http://submit-article-earn-money.blogspot.com

@@ -1,0 +1,7 @@
+my fire wall wont let me use my browser?
+when i open my browser it says that windows cant connect to the internet http, https, or ftp. it says the problem is cause by the fire wall settings on this computer...
+
+Turn off Windows Firewall.
+Search Google   "(your firewall software's name) exception"
+
+Just create an exception for your browser and its done. If its just the windows Firewall....You could be borked. Windows firewall is very good about not blocking random stuff.

@@ -1,0 +1,12 @@
+Vista Internet Security 2010 virus?
+A box keeps popping up every few minutes saying that my computer is infected with trojans and I need to buy a program to get rid of it. I know it's virus, but I ran Malwarebytes Anti-malware and it didn't detect anything. I never installed the Vista Internet Security and it's not showing up on the un-install list. How do I get it to stop?
+
+restart the computer and pen in the safe mode with network available
+
+then download superanti spyware...
+
+then run it
+remove it manually: http://www.spywarevoid.com/remove-vista-internet-security-2010-removal.html or download Spyware Doctor.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

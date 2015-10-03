@@ -1,0 +1,9 @@
+If more people are connected to an internet connection, will it go slower?
+Okay so suppose that I'm connected to a wireless internet and then ten other people connect to the same one, will it go slower?
+
+If you're all trying to send data down it at the same time, it may do.
+THAT DEPENDS WHAT KIND OF CONECTION EXAMPLE FOR INDUSTRIAL OR OFFICE VERIZON USES A HUGE MODEM AND IS SO POWERFUL THEY USE T4 OR HIGHER SO IF YOU TALKING YOUR HOME DSL OR CABLE YES A LITTLE BIT!
+It depends on what they are doing. If they are all just viewing static web pages, then you won't notice. If one or more person is doing something data intensive, like streaming a video or downloading something, then yeah.
+Yes it will. Your router will only be able to handle data streaming of sending and receiving at a certain rate. If the bandwidth is filled up, you will notice a drop in connection speed, as it's being split between multiple connections.
+
+However, this is only really true if all of the connected computers are trying to use the connection at the same time. I.E.: Surfing the web, browsing youtube, playing online games.

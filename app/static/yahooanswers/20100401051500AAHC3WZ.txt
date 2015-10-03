@@ -1,0 +1,30 @@
+are there any effective ad blockers for internet explorer 8?
+ive found good adblockers for firefox and chrome.   but i also use internet explorer 8 from time to time .   
+
+im not a fan of ads showing on websites  , dont ask me why, im just not .
+
+the host file that i installed for internet explorer  doesn't  block ads to well, especially on yahoo answers ,  which i find the most annoying.
+
+
+any good ad blockers that work for internet  explorer 8 ?
+
+here is a list of ad blockers,
+just go through it and try a few.
+
+http://www.pcadvisor.co.uk/downloads/index.cfm?categoryID=1448&itemID=68401
+
+
+
+
+
+
+.
+Personally i dont know why anyone would use Internet Explorer. Its is made by Microsoft (so its shit), and its really slow.
+
+You should download Google Chrome
+Its is waaaaay faster, looks better etc.
+
+In Google Chrome if you click the picture of a Spanner in the top right and lcik Extensions, then Get Extensions there are loads of things you can install.
+Including loads of AdBlockers.
+
+:)

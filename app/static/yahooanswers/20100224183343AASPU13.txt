@@ -1,0 +1,10 @@
+Internet Explorer: opening a new tab.?
+i got my internet explorer reseted and everything and when i open a new tab it doesnt open my homepage, instead it opens this thing "You've opened a new tab". can anyone help me make it my hompage instead of that. ty ^_^
+
+In internet explorer go tools>internet options> under tabs select settings. Then under When new tab is opened select your first home page.
+Tools -> Internet Options -> Homepage
+Hi! I use Internet Explorer as well. You'll see somewhere at the top of the page "Tools." Click this, and a menu should drop down. Now, click on "Internet Options." First it'll have your home page options. If you haven't already, type in whatever page you want your home page to be. Somewhere below that you'll see the subtitle "Tabs." Click "Settings" on the right of that and it'll open up another window. You'll then see something that says, "When a new tab is opened, open:" and then a drop-down menu. Click on this and select the home page option. I hope I helped! If this isn't working (I may be using a different version), let me know and I'll correct it right away. Also, feel free to send me a message if you have any other questions.
+
+Edit: Zorro is right. I guess I just took longer to explain it haha. Uhm, I please pick me for best answer? (Yes, I'm aware that asking to be chosen for best answer would probably lessen my chances of being chosen for best answer, but what the heck. I wanna keep my best answer thing at 100%.)  (:
+
+Edit#2: MyDigitalDeals is incorrect. The homepage option is just to change your default homepage, it doesn't affect how a tab opens. However, if you'd like more than one tab to open whenever you go to your homepage (for example, you could have Google open and then have another open tab that's, let's say, YouTube), type in your main homepage (the one you want to open first), then go to next line (Enter/Return) and type in whatever other tab(s) you want open. You can have many if you'd like. :D (If my explanation is at all confusing, feel free to let me know and I'll try to explain it as simply as possible.

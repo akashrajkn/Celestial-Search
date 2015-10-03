@@ -1,0 +1,4 @@
+Question about ebay counters?
+For some counters, when I refresh the page the counter doesn't get updated, and for some counters it does. Why is this?
+
+Some counters have unique IDs that will detect your IP address so counter refreshes will only update if a new IP address has called for it.

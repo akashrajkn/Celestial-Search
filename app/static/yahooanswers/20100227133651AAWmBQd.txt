@@ -1,0 +1,25 @@
+BT Unlimited Download not really unlimited?
+I have BT internet option 3 (supposed to have unlimited downloads) which quotes on the website exactly this: 
+
+This package comes with an unlimited download limit with a fair usage policy which may restrict the amount you can download via your internet connection. This package is suitable for medium usage; here are some helpful representations of downloading:
+60 hours web surfing = 1.5GB
+1 Music Album = 0.06GB
+10 Min Video Clip on Youtube = 0.2GB
+Low definition movie = 0.75GB
+DVD quality movie = 4.5GB
+10 hours of internet radio = 1.2GB
+
+If there is really a limit to the downloads with this package, how can they get away with saying there isn't?
+
+Your ISP (comcast, roarunner...) can restrict your bandwidth if you use a lot of it so they are protecting themselves from lawsuits
+It's a bit of an issue here. Yes it's unlimited however the FUP or Fair Use Policy means at anypoint in the cycle they can restrict the speed you download at thus making a so called 8Mb run at 56kb if you download more than the average.
+
+They are not in legal breach of their contract you can still download as much "wait for it!!" as your line will allow not as much as you want.
+
+To be honest I work in It and have always never had a problem and I do 60GB+ a month, however you do pay a premium for it.
+
+I mean you you expect a sink tap to fill your outdoor olympic swimming pool without paying a premium?
+
+I hear what your saying and in no way getting at you but the reality is OFCOM doesn't care and the average internet user fails to grasp the concept of (nothing is really free).
+
+Always read the small print and prepare to pay a price for wanting to fill you're swimming pool each month LOL

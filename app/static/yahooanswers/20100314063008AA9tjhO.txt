@@ -1,0 +1,36 @@
+HELP PLEASE! About internet explorer 8!?
+The reason I ask this is because youtube(the idiots) have said that I need to update my Internet explorer(which I did), because of this I cannot view videos on Youtube, Metcafe and even other websites! I have even downloaded Flash player!
+
+My internet explorer keeps saying that I have disable my Adds on! However, when I checked this by going to 'tools' and then clicking on 'Manage adds on' it's show's that everything is ENABLED!
+
+Can someone please help me!
+
+Get firefox! it's so much safer and easier.
+Same thing happened to me... install google chrome it's faster better, not microsoft AND doesn't have annoying messages
+there is only one solution, change web browser to firefox.
+
+It Always works.
+Firefox or Safari might be able to solve the problem. Here's where you download them:
+
+For Firefox, This is the official website. www.mozilla.com/products/download.html  
+If it doesnt download you can try these mirrors
+
+www.firefoxdownload.com
+www.getfirefox.net
+www.downloadfirefoxbrowser.com 
+
+Here's the official site for Safari:
+www.apple.com/safari/download
+
+Again, some mirrors incase they dont work:
+safari.en.softonic.com/
+download.cnet.com/...Safari/3000-2356_4-10697481.html 
+
+Hope this helps.
+hi james, when there is a lot of answers i always go on because i do not like to dispute someone elses answers unless their all wrong and pal all of your comments are all wrong so ignore them don't get me wrong mozilla firefox is good along with internet explorer 8 but let's get to your problem then we will tell you what to install. java by microsun is a must then direct X the way you get to it is in the search bar like you found java search for microsoft .netframework3.5 if you want help with your upgrades you can download this but to your left is direct X definitly install that now when that is installed you have java and direct X now install acrobat adobe reader the best support for your media that is on the market adobe flash and adobe air then exit back to your search and put in media player and install this after adobe air the reason let's say you have a problem with your media right here it will show it. good luck hope i was helpful to you
+Check it again. On the Manage Add-ons page that shows enabled add-ons, click one & then click the More Info link at the bottom of the page. It will open a window showing any blocked sites. Remove any you don't want blocked
+
+...
+dont ever use internet explorer any version
+
+use firefox instead it is fast safe and great...........

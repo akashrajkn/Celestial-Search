@@ -1,0 +1,12 @@
+How do you transfer your itunes library to another drive (such as an external hard drive)?
+
+
+Just drag your Itunes Library Folder into your new hard drive ...If you do transfer your library to a new external hard drive ( not just as a back-up) you have to tell Itunes where your library is located ..To do that : Open Itunes >>Edit>>Preferences >>Advanced Tab
+The music, video you download from iTunes is drm protected. in order to play it on non-apple mp3/mp4 players, you need to remove the drm and convert the protected music to other audio /video format. the easiest way is to burn an audio cd in itunes and rip it back as mp3 format. Or you can get DRM Removal Software to help you. Get here:
+http://www.dvdtoitunes.net/itunes-drm-remover.html
+It¡¯s not only DRM removal, but also media converter!
+Search it from yahoo:
+http://www.google.com/search?hl=en&newwindow=1&q=site%3Ahttp%3A%2F%2Fwww.dvdtoitunes.net+drm+remover&aq=f&oq=&aqi=
+DRAG and DROP
+or
+COPY, and PASTE

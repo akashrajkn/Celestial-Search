@@ -1,0 +1,7 @@
+how do i get my main bar back for Firefox?
+My mom was on my computer and some how she got rid of the bar in Firefox that shows the file, favorite, tools and stuff like that. I can't figure out to get it back because it is blank up there. Please help!!!
+
+Press Alt on your keyboard or right click somewhere near the refresh/home button and click menu bar..
+
+
+There ya go!

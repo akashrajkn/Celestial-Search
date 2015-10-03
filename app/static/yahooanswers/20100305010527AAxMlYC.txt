@@ -1,0 +1,26 @@
+Firefox keep crashing?
+Every single time I open Firefox 3.6, it crashes instantly after loading my homepage (MSN)
+
+I run Windows 7 home and office 32-bit, brand new computer
+
+There must be a virus/malware in your computer. I advise you to do a full system scan with Avast Anti-Virus. Also scan with Malwarebytes.
+Possible malware OR bad install.  Re-install Firefox.
+=
+Download, Install, & Run == All-Free
+-
+AVG Antivirus Software
+http://free.avg.com
+-
+SuperAntiSpyware
+http://www.superantispyware.com
+-
+Malwarebytes Anti-Malware
+http://www.malwarebytes.org/mbam.php
+-
+CCleaner
+http://www.ccleaner.com
+Chrome and the newly released Opera 10.5 are THE best.
+Opera 10.5 is the fastest browser along with chrome..It also sports a great number of features.
+Chrome is just soo simple and fast.
+Give up on Firefox until its fixed there are currently just too many problems to rate it as a reliable piece of software. Try Orca, K-Meleon or Flock they are all free Mozilla based browsers and are all faster than Firefox. They have been produced by people who agree the Mozilla search engine is best but that firefox has gone wrong somewhere. If you go to firefox help pages or Mozillazine help pages you will see that the people there are extremely arrogant and blame everything and everybody for having problems with Firefox. Not a good sign. IE8 is OK with a shell like Avant or Maxthon or slim browser. But a browser that is not part of the OS will always be more secure. the less well known it is the less likely it will be hacked.
+A computer's registry is one big database that has numerous files, options, and settings. These settings and options keep changing with every second of you using your PC and can lead to the damage of some of these settings. This causes errors to show up and the computer to crash.  Registry cleaners http://make-a-computer-run-better.com      software scan the computer's errors and matches all files and settings with the applications that use them. If it identifies any file or setting to be damaged, missing, or corrupted, it provides you with an updated list of the same and also repairs these errors.  Therefore, if your computer keeps crashing and need to fix blue screen of death a good registry cleaner is all you need. Your computer can also cause problems because of redundant files in its registry. Reg cleaners identify all these redundant and junk files that were left over during the uninstalling process of hardware of software and delete them. This makes sure that the "computer keeps crashing" issue is taken care of.

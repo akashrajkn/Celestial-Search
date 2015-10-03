@@ -1,0 +1,22 @@
+If you don't have internet services, can hackers still have access to what you do on your computers?
+I mean, now -a- day, who knows that technological capabilities?  Should this be a concern?
+
+Thanks.
+Thanks for your answer the first response.  But, with the advent of satillite and wirelessness, what prevents hackers from getting into our computers?  Or, I'm not understanding the technologies?
+
+Anyone understands how this works and not works?
+
+Thanks.
+To answer #3 question:
+
+Would hackers go through all that trouble?  I think that now-a-day, "all that trouble" is an overstatement.   I mean, have you guys see the PBS program about what computer technologies today are like?  I saw it on TV about 2 weeks ago - has anyone saw this program?  They spoke about making microprocessors into superdubber micro in size :))
+
+If you don't have Internet access to your computer, the only way a hacker would have access to your computer is through physical means.
+
+They would have to physically gain access to your location and either steal data off the computer directly, or install keyloggers or other hardware/software to allow them access to your stuff. 
+
+They could also attempt to steal CD's or flash drives off of your person if they wanted to gain access to your data.
+
+But if your computer is sitting locked in your home with no form of network access (wired or WiFi), then there's no way for a hacker to gain access unless you let him physically come in direct contact with your computer.
+Not unless they're sitting at the keyboard of your computer. That's kind of like trying to talk to someone on the phone, and the phone not plugged into a phone jack. LOL
+Only with physical access to the machine, however you would have to ask yourself whether someone would want to go to all that trouble.

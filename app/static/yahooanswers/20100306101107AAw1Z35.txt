@@ -1,0 +1,19 @@
+Zomganime is now blocked on firefox?
+http://safebrowsing.clients.google.com/safebrowsing/diagnostic?client=Firefox&hl=en-US&site=http://www.zomganime.com/
+
+Whenever i go on the site, firefox says its a reported attack site.
+
+Well that means the the you will get a virus if you go to that website.
+also blocked on google chrome...must be a dangerous site...avoid until site is repaired, if repaired
+its a spyware or something 
+you cant do anything about, just dont go on it or else your computer will crash or something
+That is strange. Firefox is giving me the same message. I was watching anime this morning, but there was no warning. Something must have happened between this morning and this afternoon that compromised the site and infected it with a virus.
+I had that message appear yesterday. I wonder what happened
+Any Virus,Trojan,Bug,And Ect. Could be transmited through any video link by any 3 party program.
+
+And my guess is it was mega video's malicious ads/pop'ups fault.
+It's blocked for me, too. It could be that one of the advertisments on the site (pop-ups etc.) is malicious (gives you a virus or other malware). This could be the fault of the zomg's advertising provider, rather than the site itself, hence the link with other video sites in the diagnostic page. Apparently the site admins are "working on it."
+
+You can ignore the warning, and Adblock and/or your antivirus /might/ block the offending content (if it does come up).
+
+There are some threads about it here:

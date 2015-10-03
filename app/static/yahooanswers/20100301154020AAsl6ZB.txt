@@ -1,0 +1,16 @@
+Recovering Firefox Bookmarks?
+Hello. My computer crashed and I am unable to get it to start back up again. Is there someway to recover my Firefox bookmarks without actually having to go on my computer? Basically, what I am asking is if Mozilla backs up bookmarks somehow. I know this is a longshot but any helpful answer would be great.
+
+No. 
+
+Why don't you get a system recovery disk of some type and boot the system (many of them are free and available on Live CDs). This will enable you to at least mount the disk and recover your files. The specific file you want is called 'bookmarks.html" and it's stored in your Firefox profile.
+
+This site lists a bunch of CDs that can help. Download the images, burn the image to a CD, boot, rescue.
+
+Specifically, look at this one:
+
+http://www.livecdlist.com/systemrescuecd
+
+Here's their web site:
+
+http://www.sysresccd.org/Main_Page

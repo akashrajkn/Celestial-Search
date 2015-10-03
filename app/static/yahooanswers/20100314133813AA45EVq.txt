@@ -1,0 +1,9 @@
+What's wrong with Firefox - recently it's not been opening?
+For the last few days when i double click on the Firefox icon, nothing happens.  I do ctrl, Alt & Delete and it's showing as running.  I've tried ending the process and clicking on it again but it still refuses to open.  If i restart my PC that sometimes fixes the problem.  Is there something i can do about this as it's taking about 15 mins from first switching my computer on until actually getting on the internet!  Thanks!
+
+jst re-install it.
+Most likely, you stumbled across a javascript loop and it became a memory leak. Click Start > All Programs > Mozilla Firefox > Mozilla Firefox (Safe Mode). This will let you access the browser in a safer environment. Then, click TOOLS > Clear Private Data > Clear Private Data Now. 
+
+Close it. Shutdown and reboot your computer.
+
+If this doesnt work then try to reinstall it.

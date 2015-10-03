@@ -1,0 +1,15 @@
+why does chat roulette make my browser crash when i connect my cam?
+so chat roulette works fine if i dont have my web cam connected but as soon as i try to use it with my cam my browser crashes. same thing happens with the new omegle video thing havnt tried it with stickam yet.....
+im using fire fox and i really hate chrome. an also i havnt installed the drivers for the cam... i dont have the disk... didnt know if that might be the problem.
+
+Try a different browser and see if it still happens (I'd recommend Chrome) 
+
+If it still happens, it's your webcam that's the problem.
+Which browser are you using?
+=
+Try another browser
+- 
+Mozilla Firefox == http://www.mozilla.com/en-US/firefox/personal.html
+-
+Google Chrome == http://www.google.com/chrome
+Are you using any extra programs with you webcam? I was had both Fake Webcam and Webcam Max installed and I was using Webcam Max and my browser kept crashing as well. I uninstalled them this morning and it stopped crashing. I also use Firefox and I tried in I.E and was having the same issues.

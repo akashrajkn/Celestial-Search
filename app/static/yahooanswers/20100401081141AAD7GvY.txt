@@ -1,0 +1,10 @@
+Help! Now I can't find Internet Explorer on the start menu!?
+First the icon was missing from my desktop and some Y.A. hero told me to find it in the start menu. That worked like magic but now it is missing from both the desktop and start men!. How do I get it back? How do I prevent it running away again? I know I'm not a very good cook but this is ridiculous!
+
+slick start/search/do a search for the program or find the program the best way you know how. right click the location such as C:\Program Files\Internet Explorer, making sure you are copying the loacation of the program and NOT the containing folder. then copy the location. Before you close out search you will see many internet explorers right click one then hover over send to then click desktop(create shortcut).  now right click taskbar/ click properties/click start menu tab/click customize/click add/right click in box/paste location/ click next/ choose where you want the shortcut/click next and finish.YOu can also click internet options then click programs in the internet options menu not your start menu programs. Then click make default. That should automatically put it on the top left of your start menu. If you have another browser set to default then that will be there.
+Right click on your Start Menu. Choose Properties > Start Menu > Customize. Select IE as your internet browser.
+Go to your Home folder within Places/ , find File system click to bring up the tree of folders, scroll to etc. the browsers should all be under this extension. You could drag the one you want to your desktop folder.
+
+Choice two: Go to Add Remove Programs, Go to the Internet choice in the left margin-click- Scroll down to the browser(s) of your choice in the check off box field and be sure to check mark (with a click) the boxes and push install programs at the bottom if they are not already checked. It might have gotten unchecked somehow. 
+
+The Internet Explorer browser should be in your etc file now if it wasn't there before.

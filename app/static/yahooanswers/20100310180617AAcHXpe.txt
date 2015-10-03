@@ -1,0 +1,5 @@
+What new internet browser works for Windows Home Edition?
+I tried Internet Explorer 8 but it doesn't work for windows home edition, so what should I get? I wanted IE8 because I know how simple it is, so if there's another almost like that reccomend it =]
+
+They all do.  IE8 should work, must be your pc.
+IE should work... but try Google Chrome. It's nice and simple. It only has the buttons you need, no unnecessary ones. http://google.com/chrome

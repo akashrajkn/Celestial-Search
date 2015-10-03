@@ -1,0 +1,14 @@
+Internet is 'stuck' on one site, help?
+My sister's computer will connect to the internet and says it has a good connection. When she tries to use the internet though it will open to one page and we cannot get it to go to any other website. We tried firefox as well and it would only stay on that one website. I have ran virus scans and checked the connection several times and I have restarted her computer. My laptop is working fine with the same network work connection, so it must be something on her computer. Any ideas?
+
+check your router.  it might have a default setting where only x number of computer can be connected
+HAve you tried turning Your laptop off.. and seeing then if she can connect?
+
+are the pc's set up on DHCP.. so they can not use the same IP addr?..
+
+Shell to dos and type IPCONFIG.. this will show the router addr.. and pc IP addr.. check them both out.. on both pcs'''
+
+this "ONE" website.. how did u figure out which one?... the odds are a billion to one :).. is it just her home page?.. my guess is its just Cached.. and you dont really have any internet connectivity... can u click a Link on the said "one" website... and does it work?.. can u refresh and see NEW data?.. maybe clear the web cache on the nonworking pc and see if said website still works..Does email work on your sisters pc?.. try to prove network connectivity other than using the web... my guess is you dont really have connectivity on that one machine...
+
+You may have to change your router to DHCP.. and tell it to allocate IP's for more pcs... 2 or more..etc
+Restart PC in safe mode by tapping F-8 key, choosing "Last Known good Configuration" from menu. Next download, update, run Malwarebytes, ccleaner, Reset IE8 to Default in Options, Advanced and Restart PC...You might have to Reset Router or unplug it for 10 sec and plug it back in and Restart PC, but try the above first...

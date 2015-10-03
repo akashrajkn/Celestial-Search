@@ -1,0 +1,8 @@
+How to add a Chatroulette style webcam chat to a website?
+I want to kind of recreate a Chatroulette site but I don't know how to use peer to peer webcam connections. Any help?
+
+You can use a free service like OMG Chat to embed a free chat room on your website, otherwise you will have to get a flash hosting server and write your own application.
+
+You can create a room instantly by adding your room-name after "http://www.omgchat.com/room/"
+
+Example: http://www.OMGchat.com/room/Yahoo

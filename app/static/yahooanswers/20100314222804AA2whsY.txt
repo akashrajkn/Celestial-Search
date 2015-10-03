@@ -1,0 +1,19 @@
+what is wap services in mobile ?
+
+
+WAP stands for Wireless Application Protocol. It's what your phone or PDA uses to access the web.
+Wireless Access Protocol (WAP) is an open international standard[1] for application-layer network communications in a wireless-communication environment. Most use of WAP involves accessing the mobile web from a mobile phone or from a PDA.
+
+A WAP browser provides all of the basic services of a computer-based web browser but simplified to operate within the restrictions of a mobile phone, such as its smaller view screen. Users can connect to WAP sites: websites written in, or dynamically converted to, WML (Wireless Markup Language) and accessed via the WAP browser.
+You might try  www.openmobilealliance.org
+Wireless Access Protocol (WAP) is used for network communications in a wireless-communication environment.
+
+WAP is basically useful for the small screen devices such as mobile. it uses WML (Wireless Markup Language)  
+
+its nearly about same as HTML that we uses for computers..
+A Wireless Application Protocol (WAP) phone is a mobile phone capable of Internet connectivity. A WAP phone can be used to do things like check email, send messages, track stocks, access news and sports headlines, or download music. While a WAP phone cannot deliver the same visually pleasing Internet experience as a desktop or laptop computer, it opens the door to mobile Internet access and on-the-go productivity.
+
+WAP is an international Internet standard specifically developed for mobile devices, including WAP phones, personal digital assistants (PDAs) and other hand-helds. Nokia, Sony Ericsson, the Unwired Planet and Motorola initially developed the WAP standard. The challenge was in bringing the Internet to mechanisms that, by necessary design, included many inherent constraints. 
+Hope this can help u!
+Today most of the phones are built with this WAP feature for accessing wap sites through mobile browser. To access internet through wap you need to activate wap service from operator's side and then you will be able to access wap sites into your phone. There are two basic services by which you can assess internet services, these are gprs and wap..............
+For more information to the related topic you can move to : http://forums.techarena.in/portable-devices/1315899.htm

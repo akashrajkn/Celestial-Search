@@ -1,0 +1,12 @@
+Is there anyway you can look at history/cache e.t.c on firefox?
+I know you can run crap cleaner e.t.c but I dont think that will pick anything up.
+sorry should have said if you have private browsed!
+
+Click on the Menu item History and select Show all History.
+Yes.
+History:
+Open firefox. Click history | show all history | the day you want to see the history for. Then it will show you that history. If you want to remove anything click the entry to delete and press the delete key on your keyboard.
+
+Cache:
+This is trickier. You can view cookies but not cache (As far as I am aware). To view cookies, open firefox. Click  tools | options | Privacy | remove individual cookies. It show you the cookies then to delete any you click them then press delete on your keyboard.
+Ctrl + H

@@ -1,0 +1,25 @@
+internet explorer 8 problem, can you help?
+i recently downloaded 2 what i thought were ad blockers , but one of them didn't work  and the other one was for advanced users and hard to configure.
+
+i deleted the programs  and now, just recently  , ive noticed  some unusual problems  in my internet explorer 8  browser that i dont know how to fix.
+
+the go buttons have disappeared  ,  the arrows  ,  the address bar has vanished  and so has the google toolbar    -  and it won't let me reinstall  the google toolbar.
+
+just as a note i do use a host file.
+
+im really not sure what to do ,  im worried if i uninstall internet explorer 8  would i remove all my favourites or favourites bar ?   - i have a lot of stuff in there.
+
+i don't know what the best course of action should be  ?
+
+my system restore was turned off , so i cant use that ,   im unsure how to unistall int explorer 8  ,  and im worried about removing any of my favourites.
+
+
+anyone know what to do ?
+
+or how can i get the go arrow buttons back in my browser  ?  how to get the address bar back ?  and how can i install google toolbar ?
+
+i save the google toolbar to my desk  but it tells me what program should i open the installer with ?   and i dont have a clue as im a computer novice .
+
+anyone answer these questions for me ?
+
+How about pressing F11? :P

@@ -1,0 +1,23 @@
+Saved Passwords in Google Chrome?
+On a certain site, my friend was using my comp. and typed in his password to a site, and then when asked clicked on "Never Remember Passwords On This Site".  However I really want my password to be remembered.  Is there a way to reverse this?
+
+Thanks
+
+Go to Options, Personal Stuff TAB, Clear Browsing History & clear everything to start from scratch. You cannot just undo that one action your friend did.
+
+Edit:
+Contrary to another answer, you do not need to change the "Save Password" setting because you want to use it for the same website. Clicking the "Never Remember ...." disabled saving passwords for that website & that cannot be reversed.
+you have to go to the SETTING then Choose OPTION and then select PERSONAL STUFF .
+change the default selection just like ...NEVER SAVE PASSWORD
+
+Make Change in auto fill option that NEVER SAVE TEXT FROM FORMS.
+
+i m sure you will not face your previous types of  problems..........have a nice day..
+
+
+if you satisfied please rate this answer.....thanks
+Click on the "Spanner" icon.
+Click on "Options".
+Click on the "Personal Stuff" tab.
+Under Passwords, click on "Offer to Save Passwords".
+Click on "Close".

@@ -1,0 +1,4 @@
+I want to read my mail in Outlook Express but it opens up in Windows Live Mail instead.  What do I do?
+I tried deleting my email account that Windows Live Mail imported to it but the messages still pop up in Windows Live Mail.  I want them back in Outlook Express.  Please tell me what I need to do to correct this.  It doesn't help when I set the default to OE.
+
+you need to make OE your default for mail in OE, ie "make outlook express my default mail handler" in options

@@ -1,0 +1,27 @@
+Does every computer has it's own IP address or does every net connection has its own IP address?
+1) I want to know if every different computer has its own IP address or does every internet connection has its own IP address? For example, if we are 3 people using same internet connection at home, will the three computers have the same IP address?
+
+2) Does the IP address change from internet connection to another one?
+
+Thanks
+
+dont know
+Both.  Every computer has it's own IP on the local network, and the net connection has an IP that it shows to the internet at large.
+
+To check the local IP (Windows): Start > Run > Type "cmd" > OK.
+Type "ipconfig" (no quotes) > Press enter.
+
+To check the net connection's IP:  Visit http://www.ip-adress.com/
+That's a good question!  The answer is that your computer does NOT have an IP address, but your internet connection does..Computers on a network would use subnets of your main domain.
+The answer is yes.
+
+Your internet connection as a whole has an IP address. You can get this by going to http://www.ipchicken.com
+
+In addition, your router assigns "internal" IPs to each computer that it sends data to. These are called your IPv4 Address and almost always start with 192.168.x.xx
+
+Also, your router has it's own address which is called your Default Gateway. If you put your Gateway address into your web browser, it will open up your router settings menu.
+
+You can find your internal number by opening your command prompt and typing in IPconfig
+
+(access command prompt by doing start>>Run>>CMD)
+I guest an IP address owned by every single modem, so if there are 3 computers with one modem, its surely have 1 IP adress.

@@ -1,0 +1,5 @@
+Quicktime plays in Firefox, but not in Internet Exploder - HELP!?
+I have some links to guitar midis in my website.  If one clicks on the link in Firefox the little Quicktime bar appears and the tune plays very well.  If one clicks on the link in Internet Exploder :-) the tune plays for about 5-10 seconds and then stops.  The little button on the player doesn't move across the bar in IE.  If I hover the curser over the player, then the button advances and the music resumes playing.  Is there some kind of configuration I'm missing here?
+
+Just use FF,,, it is better anyways.. Use IE just for getting your updates.. ~
+go get quicktime for internet explorer

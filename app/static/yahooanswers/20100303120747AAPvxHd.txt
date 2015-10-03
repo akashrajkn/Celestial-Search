@@ -1,0 +1,14 @@
+Is there a free online source for mapping that will help me plan shortest routes?
+I know there are software programs available to purchase that will let me enter in multiple addresses and then it will map out shortest routes so that I'm not back-tracking myself all day long.
+
+My question is:  Is there something similar free online that I can use?
+
+In case I'm not making myself clear... Let's say I have 5 addresses that I have to go to today, but I don't know exactly where each is located, so I just randomly pick which order I will go them.  I want a map to tell me what order to go to them so that I have the shortest trip time/mileage.  Make sense?
+
+Try Google map
+Bing Maps
+Google Maps
+Mapquest
+etc
+google maps
+Ive never used Bing Maps but I have used Google Maps and Mapquest. These will not do what you want to do. You can enter multiple addresses but they will plan the route in the order you enter addresses. They dont sort them to provide a logical route. I dont know of an online mapping service which will do what you are looking to do. You might try a search for "maps", "directions" or "route" then enter some sample addresses you know the locations of to see if they get sorted into a logical route.

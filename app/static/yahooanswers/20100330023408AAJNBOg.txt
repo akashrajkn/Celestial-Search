@@ -1,0 +1,4 @@
+Using Firefox browser, why can I no longer right click on a link and open the link in a new tab?
+I just downloaded the latest version, and my OS is Windows XP Pro
+
+You should be able to I can. However there are some types of windows that can't be opened as tabs. That has to do with how the website set up each window/pop up from their host site.

@@ -1,0 +1,5 @@
+My computer will not go to hotmail and will not work on other sites...?
+I just bought an anti-virus for my computer because the old one ran out and now when I try to go to hotmail the page is completely blank! Also when I try to go on Pogo to try to play games it won't let me play. And when I get on myspace it won't let me see updates, accept comments, or anything! I also cannot veiw videos and some pictures and things on certain websites. The old anti-virus was uninstalled and I have adobe and everything that I should need. I have even called the anti-virus company several times and they have said they would fix it but they have yet to do so. Can anyone help????
+
+I think re installing the anti-virus program may help.
+Try checking your Add-Ons.  Go to the IE 'Tools' menu, click on 'Manage Add-Ons', then choose 'Toolbars and Extensions', and then choose 'Run Without Permission' in the option box in the lower left corner.  You might see Windows Live Sign-In Control' disabled.  Make sure it is enabled.  There are 3 'Windows Live' selections you may want to disable to stop the delay in opening Hotmail, but that's your choice.

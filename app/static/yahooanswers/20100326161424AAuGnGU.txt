@@ -1,0 +1,8 @@
+Computer virus help please? I have been searching things in google like "cut bread out of a vegan diet" "panca?
+Computer virus help please?
+I have been searching things in google like "cut bread out of a vegan diet" "pancake recipe" or "maple sugar replacement" and half the time it will say "redirecting" and it will go to places like "info direct" or "my deal match" which are other search engines. I am afraid to click them because of possible viruses. It also took me to a baby and parenting site, and a place to sell me a blender/food processor. o.o The page that has come up the most is the one that says "Your computer has viruses, we need to scan it" and it is a web page, not my virus scanner. I also scanned my computer with McAfree and it said I did not have any viruses. So do I have an undetected computer virus? Please and thank you for thee help ^^
+
+If you've got the virus I think yo have (the Google Redirect virus) then you will need to use this tutorial to remove it: http://instant-pc-fixes.org/spyware/how-to-remove-the-google-redirect-virus/
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

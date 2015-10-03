@@ -1,0 +1,7 @@
+can you associate internet explorer shortcuts with mozilla firefox as in file association?
+i have lots of ie shortcuts and don't like internet explorer anymore. I would like to double click them and have firefox open instead of having to copy every url manually.....
+
+Right click the files.  Select "Open With".  Select Firefox from the list and check "Always Open with".  That should do it.
+Go into Firefox, open the Preferences, click on the Advanced tab, and then the General tab on that tab. Near the bottom, you should see System Defaults. Under that, there should be a checkbox that says "Always check to see if Firefox is the default browser on startup" or something similar. Check that box and hit ok. All should be well.
+
+And congrats on switching to the safer, faster alternative to IE :)

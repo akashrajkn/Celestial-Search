@@ -1,0 +1,4 @@
+how to get rid of comcast navigation toolbar from my mac firefox?
+because their navigation toolbar really sucks and never return anything searchable at all.
+
+Look at the main menu. Click View. There should be a toolbar selection there. Click that and deselect the toolbar you don't want to see. If you click add-ons on the tools menu, you should find a way to remove it.

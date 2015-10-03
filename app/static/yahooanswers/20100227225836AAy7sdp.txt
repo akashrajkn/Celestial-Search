@@ -1,0 +1,12 @@
+how to fix "Generic Host Process for Win32 Services encountered a problem and needed to close."?
+
+
+hi there,
+
+to solve the problem of generic host process, u need to repair your current OS.
+i am not saying to format...... just repair i.e. reinstall your OS.
+
+and then the your problem is solved as never. 
+
+hope that helps.
+If u have internet access download Trojan Scanner from the Net.It's got free trial. It should rid of the problem. However I'd suggest downloading via another comp. and install it in a flash drive. There's no problem wid direct download but it's safer the other way.ty.

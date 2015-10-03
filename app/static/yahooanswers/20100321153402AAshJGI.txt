@@ -1,0 +1,6 @@
+Accidentally turned off tabbed browsing..how to turn it back on?
+I have internet explorer 6 and I had tabbed browsing via the yahoo toolbar and I accidentally turned it off, there is not little pencil where I can turn it back on and internet explorer 6 doesn't have tabs under tools>internet options.
+I need help.
+
+No idea. You should use Firefox. It's safer, faster, and you can customize up where the tabs and address bar thing is. Ya know, the region up there ^. Mine is Bob Marley :) lol
+tools - internet options - general tab, click on settings under tabs and tick enable tab browsing

@@ -1,0 +1,9 @@
+Chat Roulette Flash Problem.?
+When I try to go on chat roulette, my browser suddenly shuts itself. I've tested IE, GC and FF. All 3 browsers don't work. 
+My computer is definitely capable of running chat roulette. 
+I've tryed going on without my webcam attached, no luck. 
+So it is definitely a flash problem. Ive tryed uninstalling/reinstalling flash, but still no luck. Any ideas guys?
+
+You can try Opera.  You can try previous versions of flash player.
+
+And you can try to disable your antivirus, anti-malware, antispyware, firewall temporarily

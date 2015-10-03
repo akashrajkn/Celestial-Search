@@ -1,0 +1,25 @@
+i use internet explorer 8 and windows 7...?
+i know i can check history by goin to tools,options n hiistory. bt i want to know that is there any other place from where we can check what have been seen or done on the pc like temp internet files,cookies etc. where are they in ie8 and windows 7? and if someone deletes browsing history from tools,options then does it delete it from temp files also? what the best way to keep check on the pc without spending lots of money. what is the easiest software i can get for it from  online? i knw too many questions but i ned to know tht. pls guide thnx
+
+Are you aware of just how many cookies and history files you can have in the computer's memory section? hundreds of them in not thousands. Why do think your software for anti virus protection takes so long to check out your computer for threats etc. You'll soon get bored by going into the whys and wherefores of what is stored inside the hard-disk. 
+
+You've getting misled in your thinking here, and need to get focused on what you bought your computer for in the first place. You're question has really surprised me, I don't think I've come across someone who wants to do what you do.
+
+You shouldn't mess around with the workings of your computer, and want to change the defaults in any way, because you'll make a whole heap of trouble for yourself. 
+Use your computer for what its intended for and not delve into the inner workings, that's an experts job and you're probably just a lay person like myself.
+
+What's wrong with using the search engines for your information seeking? And there are several of them now, and are very good ones, I might add.
+
+Why do you feel the need to keep a check on what files are deleted or not, or are just temporary files? And if you've got a proper anti-virus protection on the computer this deletes unwanted or little used files every so often.
+
+givemestrength
+If you delete history and cookies your computer will run faster. But remember you need cookies for browsing .If you press you start button and in the search box at the bottom and type temp it will open up all items marked temp. then you can brows through them, it is the same for cookies but be careful and what you are doing. As for givemeabreak it is her/his computer to do as they like.
+
+Givemeabreak
+Well if you are using Internet Options and Delete you tick what want to delete.
+
+It explains to you what everything is.
+
+Also what is said about Cookies is a total myth and rumour. First of all they don't slow your computer down as they don't do anything. All they do is contain the information of any site you visit and are automatically updated with each visit. They contain all the log in information to activate the site.
+
+As for space they are supposed to take, that's a load of cobblers as well. Each one is an average of 200 bytes in size. I haven't cleaned mine out in over 18 months and I have just checked and I have 3,499 Cookies taking up the grand total of 2.04 MB of space on a 160 GB drive!

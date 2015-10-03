@@ -1,0 +1,9 @@
+interested in connecting another computer in same house to DSL, what do I need to do?
+I am interested in hooking up a computer in another room (so that I can have internet access in 2 different rooms).....do I need to contact the phone company and pay additional charges or is there a way I can have it in both rooms without getting another box? I have no clue....any help would be appreciated. Thanks!
+how much is a router? What does it look like? where do I buy one? Is it easy to set up? Thanks!
+
+you don't need to call the phone company.
+simply buy a router and run new lines from the router to both computers.
+if you can't run new lines, then buy a wireless router. a wireless router such as : http://www.amazon.com/Cisco-WRT54GL-Wireless-G-Broadband-Compatible/dp/B000BTL0OA/ref=sr_1_1?ie=UTF8&s=electronics&qid=1269451901&sr=8-1
+will allow you to connect your one computer with a ethernet cord as you do now, and your other computer wirelessly. if you second computer doesn't have a built in wireless reciever then you would also need: http://www.amazon.com/Linksys-Cisco-WMP54G-Wireless-G-Adapter/dp/B000085BD8/ref=sr_1_2?ie=UTF8&s=electronics&qid=1269452003&sr=8-2
+or: http://www.amazon.com/Linksys-WUSB54GC-Compact-Wireless-G-Adapter/dp/B000CRFI8A/ref=sr_1_5?ie=UTF8&s=electronics&qid=1269452003&sr=8-5

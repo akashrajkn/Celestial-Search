@@ -1,0 +1,46 @@
+Remoteinf.exe Virus HELP? How to remove this virus?
+Remoteinf.exe Virus HELP?
+How to remove this virus???
+
+You can run antivirus and antispyware programs, but the sad fact is if you have found one virus on your computer, you probably have several. Cleaning the computer now requires you to follow these steps, because modern viruses and spyware entrench themselves in files that your computer needs in order to run:
+
+1. Virus-check your data files (not application files-- you have installer CDs for those).
+2. Back up the data files, getting them off your hard drive.
+3. Get your original operating system CDs that came with your computer.
+4. Boot your computer from the operating system CD.
+5. Select the option that erases your hard drive and then reinstall your system software.
+6. Turn on your software firewall that came with your operating system.
+7. Reconnect to the internet, and download *all* Windows updates, no matter how long it takes.
+8. Reinstall your application software, and update the applications as much as you can.
+9. Reinstall your data files.
+10. Create a limited user account on your system that does *not* have administrator access, and web surf only from this account.
+
+Yes, this is a pain in the butt. No, there is no other way. No, antivirus and antispyware programs cannot fix this problem on its own.
+
+So, what do you do in the future?
+
+1. Never click on links you find in an e-mail.
+2. Never open an e-mail attachment, ever.
+3. Only download files from a reputable website that you know is on the up-and-up.
+4. Never use bit-torrent and other file-sharing programs.
+5. Never use an unsolicited drive-checking site.
+6. Turn off all java and java scripting by default, and only enable java and java scripting for sites that you know you can trust.
+7. Never read an unsolicited e-mail, and delete spam immediately. It is possible to be hacked by reading an e-mail alone.
+
+Please adhere to the 'dont's' I provided above, because you will have to repeat the cleaning steps that I listed first *every time you get infected.* Anti-spyware and anti-virus programs are good to have, but they are a second line of defense. The best way to protect your system is you, and changing your behavior.
+
+Good luck!
+Hi,Forbidden
+
+There are 3 step to repair remoteinf.exe error
+
+If you got remoteinf.exe error then there is a 94% chance that your computer has registry problems. I think your computer is already very dangerous, and you should fix it immediately. There are many ways to fix remoteinf.exe error, according to my experience, I think the following method is very good, you can go and try it. I hope it can help you:
+
+* Step 1 - Download a remoteinf.exe error repair tool,install this error repair tool.
+* Step 2 - Click the Repair All Button.It will scan you pc for Free.
+* Step 3 - Then click the Repair All Button again and your done! Enjoy it.
+
+Here are the url of remoteinf.exe error repair tool:http://www.RepairErrorSafe.com/ttfix-remoteinf.exe_error-zz0001
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

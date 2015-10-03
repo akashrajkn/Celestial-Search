@@ -1,0 +1,26 @@
+Need simple internet help--Cannot display webpage?
+Okay, I have an HP Pavilion Entertainment Laptop, 2009 bought..2007 Vista Home Premium 64 bit, and I upgraded from Internet Explorer 6 to 8. 
+
+Since today, I have not been able to get on a few sites:
+www.walmart.com
+www.ebay.com
+
+I can get on:
+Facebook
+barnesandnoble.com
+Google
+Yahoo
+
+Phishing filter is off, firewall down, medium security. Connected thru spliter for phone line/Broadband, can use phone at the same time on internet.
+
+when I type in the brower the websites, it will say, "this page cannot be displayed" tryed reloading, tried restarting, updates, intercnnection is fine.
+
+What is wrong, and how can i fix it>>???
+
+There are compatibility filters you can use in IE8, that may help
+I tend to switch all the new 'features' off myself when installing it (for my daughter)
+
+Try a different browser, it doesn't hurt to have several installed - just be careful of the new browser making itself the default when you first install it, there should be a ticked box you can untick.
+
+Firefox, Opera and Chrome all have their good points. I prefer Firefox with adblockplus myself
+i used to get this problem all the time with INTERNET EXPLORER so i just use GOOGLE CHROME now,it does everything the other one does but quicker and i never have that problem now

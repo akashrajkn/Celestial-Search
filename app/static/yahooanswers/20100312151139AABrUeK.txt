@@ -1,0 +1,11 @@
+I'm unable to open anti virus websites? what should I do to fix this problem?
+I'm unable to open anti virus websites?
+what should I do to fix this problem?
+
+Check that your hosts files is clean.
+
+Google "Windows hosts file" to find out where the file is located on your disk, then delete any suspicious entries. (you can probably delete all entries).
+messege me on msn and i will send you malwarebyte    lol-tripp@hotmail.com
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

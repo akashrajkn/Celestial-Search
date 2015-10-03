@@ -1,0 +1,5 @@
+Skype video calls using Dial-up internet connections?
+Is it possible to have Skype *VIDEO* calls using Dial-up internet connection? Is that speed sufficient?
+
+I don't think so,
+you will connect but the video stream will be very slow

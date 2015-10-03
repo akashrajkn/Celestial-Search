@@ -1,0 +1,19 @@
+Slow internet due to virus?
+My internet for the last week or so has been running very slow.
+When i first connect to the internet and quickly run a speed test my connect is about 2MB,
+But then after about 3mins of being connected its just says on 24kbps :L,
+This never used to happen, but i have also started to get A LOT of pops up with news tabs opening randomly to gambling sites or some weird search engines. 
+I ran avast computer scan and removed the infected files but it is still running at 24kbps :L.
+What can i do?
+
+You should call Norton Internet Security they can tell you what to do or visit finnalyfast.com
+You probably need to get rid of some of the temporary internet files, cookies, etc. by using the Disc Cleanup that you access by either clicking START-All Programs-Accessories-System Tools-Disc Cleanup
+
+or
+
+Go to Start-Run-Type in "cleanmgr"
+If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://registry.tp5pro.com/Slow_PC

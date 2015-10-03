@@ -1,0 +1,6 @@
+Finding sounds for pidgin?
+I'm new to pidgin. Does anyone know any sites to download sound clips for pidgin. Preferably in an easy to install format.
+
+http://www.pidgin.im/
+ This is the official website for pidgins
+ You can find useful plugins in downloads tab.

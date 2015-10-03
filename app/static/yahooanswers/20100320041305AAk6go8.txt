@@ -1,0 +1,13 @@
+How to set up a BSNL Broadband(wired) connection on Ubuntu and Open Solaris.?
+I using a BSNL Broadband connection on my Vista and want to set up the same connection on Ubuntu9.10   Plz tell me the procedures to st up an wired BSNL Broadband connection on Ubuntu 9.10(It's d latest version of Ubuntu)
+
+Configure BSNL Broadband in Ubuntu 9.10
+http://www.linuxforums.org/articles/configure-bsnl-broadband-in-ubuntu-9-10_548.html
+
+Configuring pppoe on Solaris for BSNL DataONE broadband
+http://wiki.genunix.org/wiki/index.php/How_to_Connect_Solaris_to_BSNL_DataONE
+
+
+LUg.
+Look here:
+http://srikanthperinkulam.wordpress.com/2007/08/25/ubuntu-bsnl-broadband-connection/

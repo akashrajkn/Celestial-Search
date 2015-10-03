@@ -1,0 +1,19 @@
+Websites telling me I need Firefox 3.0+...But I have 3.6?
+Numerous websites I go to keep giving me warnings like this:
+
+
+But I've downloaded Firefox 3.6 over and over again, and before 3.6 came out I still had the latest version, I always download when there's an update. But now it's saying I have an older version? I don't understand. Also, when I go to my Help-->About Mozilla Firefox I get:
+
+
+Saying that I have 3.6? 
+I don't understand, what am I doing wrong?
+some Sites telling me to update:
+(remove spaces)
+http: //i44. tin ypic.com / 2r7ad14.jpg
+http: //i40.tin ypic.com/fjnjns.jpg
+http: //i39.tin ypic.com/14dlm3m.jpg
+
+About Mozilla Firefox:
+http: //i39. tin ypic.com /ay8whg.jpg
+
+If you have it set to update automatically it probably has but has gone wrong Give up on Firefox until its fixed there are currently just too many problems to rate it as a reliable piece of software. Try Orca, K-Meleon or Flock they are all free Mozilla based browsers and are all faster than Firefox. They have been produced by people who agree the Mozilla search engine is best but that firefox has gone wrong somewhere. If you go to firefox help pages or Mozillazine help pages you will see that the people there are extremely arrogant and blame everything and everybody for having problems with Firefox. Not a good sign. IE8 is OK with a shell like Avant or Maxthon or slim browser. But a browser that is not part of the OS will always be more secure. the less well known it is the less likely it will be hacked. firefox has been known to open itself dozens of times and freezes the computer

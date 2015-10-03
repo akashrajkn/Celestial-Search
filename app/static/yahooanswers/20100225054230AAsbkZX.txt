@@ -1,0 +1,13 @@
+Is there anychance that you can LOCK internet web pages?
+Say if lots of people were to use a computer, and you only wanted them to use ONE page, Is there a way of doing that? So they couldn't go on anyother website, Just the one you've locked and its pages?
+
+Say if you were to Lock Youtube to the Homepage, Users could look at all the Video's in Youtube, But couldn't navigate off it?
+
+I've been looking around for ages and nothing has come up what so ever.
+
+Anyone?
+
+Parental controls.
+Quite difficult this. Its going to be down to a third part application I think.
+It can be done fairly easily if you know how to change your network settings.  Change the DNS server settings to an IP address that won't resolve any websites.  Then add the site names and IP addresses to the "host" file.  The users will still be able to get to websites IF they already know the IP addresses, which most people don't.
+I could add more detail but that's already available in lots of places.  If you understand what I am referring to above then you will be able to get the detail and have this done in just a couple of minutes.

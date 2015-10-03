@@ -1,0 +1,17 @@
+myminilife.com doesn't work for me...?
+whenever I go to myminilife.com this message comes up:
+"You are seeing this page because the current domain is not configured in the current set of name servers or your domain is being parked. This is usually just a temporary error while the domain is being added. Once the domain is configured this page will expire and your correct site will be shown. 
+
+If your system administrator is having you use the wrong resolving name servers you will want to notify them of this mistake right away.
+If you are looking for free resolving name servers (for desktop and personal computers) we suggest you use the free service at Resolving Name Server."
+
+It use to always work.. can someone help me fix this ??
+
+you cant fix it the whole website has a glitch it shows me that too the website is broken or experiencing a large glitch. if there is a way email the creator of the website its basically all you can do sorry best of luck
+Unfortunaly theres nothing that you can do...........apart from one thing.........well first let me tell you whats wrong with the site. the webmaster has a dns server to keep the site running. this stores all of the website informaiton. this website cant do anything because theres a problem with the dns server.
+so the dns server could have
+broke down
+have a virus
+no power
+
+there is one thing you can do though.... try to contact the webmaster(the company/person who own the site.

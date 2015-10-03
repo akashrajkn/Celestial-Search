@@ -1,0 +1,13 @@
+PHOTOSCAPE editinq question?
+on this picture the effect on the right bottom corner; how do i make that ?
+http://i1004.photobucket.com/albums/af169/gomez_123/l_4ee91fcaf1cc444a8558a789aab58051.jpg
+
+on this picture the effect where the text shorty 23 is; same question for that .
+http://i1004.photobucket.com/albums/af169/gomez_123/l_978b306a790d42149bf9c1801151a700.jpg
+
+& on this one that big effect at the bottom; same for that .
+http://i1004.photobucket.com/albums/af169/gomez_123/l_ab11e751ae03413e80b498f0e4e70411.jpg
+
+thanks if you actually help me (:
+
+Its in the EDITOR part.... if you will edit in the editor you can see HOME, OBJECT, CROP and REGION... click HOME then click "Filter" then click it then click "Lens Flare" and a window will appear... its up to you what options you will change

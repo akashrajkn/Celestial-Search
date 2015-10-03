@@ -1,0 +1,15 @@
+comcast 250gb a month limit?
+my mom received an e-mail from comcast talking about a 250gb a month limit meter. but i really dont have a clue as to what it means so can someone tell me what exactly it means. i know that the meter will allow u to track how much uve used but thats all i get about it.
+
+You're capped at 250GB a month of bandwidth. That's what it means.
+If you download more than 250GB in data in a month, they can ban you or force you to purchase a more expensive internet package.  Since you are using their service, you are at the mercy of their usage policies.
+
+The fact that your Mom has received an email, that means you have exceeded this amount in recent months and are on their potential abuse list.
+If you don't know about download limits you probably don't need to worry about them.
+
+That is a very very high limit, if it is 250 Gigabytes, for example I watched 2.5 hours of the Grand Prix feed from the BBC in excellent quality today, about 20 ten minute long you tube videos and downloaded 4 new albums from amazon and my download for the day was about 4.5GB, so even in a month if I continued at that rate, I'd only be reaching 135GB (I average about 2GB a day normally, today was busy) 
+A high quality 3 minute you tube video might be 50MB (0.05GB) at worst. 
+250 GB is enough to download over 350 feature length movies, as long as there not in High Def. 
+So basically you won't hit the limit. 
+
+Comcast's just saying either if you exceed that limit you'll be charged. Or more likely that when you reach the limit you won't be able to download anymore for the remainder of the month.

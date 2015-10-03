@@ -1,0 +1,10 @@
+How do I get rid of the "Favorites" and "History" sections on the Internet Explorer Address bar?
+I would like to get rid of these two sections just because I don't use them. I always use the down arrow on the address bar as well as the auto-complete. Is there anyway for the address bar to only show websites I've typed in and not my history or favorites when I click the down arrow?
+These sections are list of previously viewed websites that appear after I click on the down arrow. I am not sure how to explain it better. It is not the favorites bar but part of the address bar.
+
+Ok, First to disable the Favorites Bar, you need to go over the toolbar section and right-click.
+Then a small window shows up and click on the one you want to disable. In your case it is the Favorites bar.
+Here:
+Hover over toolbar>Right-Click>Click desired toolbar.
+
+Hope this helps!!!

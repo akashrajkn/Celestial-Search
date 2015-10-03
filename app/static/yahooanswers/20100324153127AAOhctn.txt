@@ -1,0 +1,12 @@
+Is the virus really gone?
+I had a virus blocked and killed off by Webroot Antivirus, I believe it was called "MAL/JDSP" or something (I know it had the prefix "mal/" and the letters "D", "J", "S", and "P" in some order). It disabled my audio, and even after Webroot killed it off, my sound was disabled and I had to go to Administrative Tools and manually restart the Windows Audio service. Does this mean that Webroot DIDN'T totally remove the virus, or does it mean it DID remove it, but didn't "know" I needed that Audio service back?
+
+Thanks for the info & advice, Bill!
+(though once I restarted the Audio service, which had in fact been stopped by the virus, my computer went back to normal and I can use iTunes and such again!)
+
+If your sound is working without any further problems, I would say the virus is gone, if you are still have problems with the sound, then running a full scan never hurts to really be sure.
+I agree, the fact that the sound is working again is a good sign. But, you can try running the Malicious Software Removal Tool and see if it finds any viruses (if for nothing else, to give you peace of mind): http://www.microsoft.com/security/malwareremove/default.aspx.
+
+Cheers,
+Cassandra
+Microsoft Windows Outreach

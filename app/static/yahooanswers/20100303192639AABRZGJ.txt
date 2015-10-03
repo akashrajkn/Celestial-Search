@@ -1,0 +1,13 @@
+I click links and they open in Firefox?
+I use Google Chrome  (Used to use firefox) but when I click links, the open in Firefox. Why is this? How can I change it?
+
+mozilla
+In Google Chrome on the upper right corner there is a button that looks like a tool. Click it, then from the drop down menu choose "Options". On the very bottom of the new window (Basics tab) there is a button "Make Google Chrome my default browser". Click that and done!
+In Chrome go to the "tool wrench" then "options" click the "Basics" tab and at the bottom click "Make Chrome My Default Browser"
+You have to set Google Chrome as your default browser.  There are several ways to do this, but the easiest is to open up Chrome, click on the  Tools menu (the little wrench icon) select Options from the drop down menu, and select the option, "Make Google Chrome my default browser".  See the link below for illustrated instructions.
+cz your default browser is firefox ........
+
+you need  to open chrome 
+then from options choose your default browser..........
+
+it is very easy ..........

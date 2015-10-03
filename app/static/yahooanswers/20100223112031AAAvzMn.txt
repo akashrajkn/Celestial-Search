@@ -1,0 +1,20 @@
+FireFox or Internet Explorer 8?
+Just curious what everyone's opinion is. I use FireFox and my friend uses IE8. *quick note: just between these two browsers, I don't care for the others* He always complains if I ever mention FireFox. I know IE7 lagged behind against FireFox but I was reading how IE8 is now supposed to be better. Would like some actual facts about the two, not just "I like it."
+
+I use Internet Explorer for almost everything, but FireFox is better for streaming movies, so I use both.
+Well, IE8 runs each tab in a separate process, so if one tab fails, it doesn't kill your entire browsing session.  Also IE8 seems to render webpages better than Firefox.  Firefox has good plugins though, but I find it crashes randomly a little too often (and I'm not the only one who's noticed this).
+
+Anyway, when it comes to browsers, they're really all good.  It mostly comes down to personal preference and my preference is towards IE8.
+Firefox is more stable and secure... but if your using Windoze your still going to have security issues.
+Also Firefox has more functions with Add-ons.
+I use both. Then if one don't work, try the other.
+I've always had 2 browsers, and sometimes 3. They each have their strengths & I use them both. I'm going to add Chrome this weekend if I have the time to play with it.
+
+For Firefox vs IE comparisons, check here:
+http://www.pcworld.com/article/161616/browser_showdown_ie_8_vs_firefox.html
+http://lifehacker.com/5178564/five-best-web-browsers
+http://www.washingtonpost.com/wp-dyn/content/article/2009/03/19/AR2009031904339.html
+http://www.microsoft.com/windows/internet-explorer/get-the-facts/browser-comparison.aspx
+http://www.infoworld.com/d/windows/ie8-vs-firefox-35-browser-wars-continue-422
+
+...

@@ -1,0 +1,8 @@
+Cable/Wireless Internet keeps disconnecting! HELP?
+hi, i have an internet access at home, cable. it runs good for the few months we've got it. but just today, it keeps disconnecting and reconnecting constantly every 15minutes or so. it is disconnecting from a computer using a cable pluggin, and my wireless computer also. someone know what's causing this? thanks
+
+I solved a similar problem on my machine. Hope this helps.
+
+I have separate ADSL modem and wireless router. I noticed that by default both of their IP addresses were "192.168.1.1". I thought this would create conflict situation. So, I changed the IP address of my wireless router to something different (eg: 192.168.1.20). You can do so by logging on to your router. And simply this solved my problem.
+
+Cheers

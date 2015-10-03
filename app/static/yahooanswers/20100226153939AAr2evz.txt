@@ -1,0 +1,7 @@
+I have a virus in my AVG resident shield history that says its a "white file and should not be removed".?
+I have a virus .Its in my AVG Resident Shield history. It says its a "white file and should not be removed."If its a virus why doesn't it remove it?
+
+It means its a system 32 file and if the anti virus removes it, it will cause damage to your pc. which is why they dont remove them
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

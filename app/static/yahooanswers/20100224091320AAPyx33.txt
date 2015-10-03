@@ -1,0 +1,14 @@
+System Restore Vista/ Firefox  problem?
+Hi I thought I'd kill two birds with one stone.
+-
+How do I system restore on Windows Vista [basic home prem]
+-
+Now my firefox problem..
+I scanned my laptop earlier today and there were some tracking cookies so I just went to remove them and I think I removed something that makes firefox work.. It said my firefox was still running and I needed to close it or restart my system, so I restarted my system (I couldn't see the process on task manager either) when I had restarted my system I saw the same message again, lo and behold I un-installed firefox and downloaded it again, I get the same message again? :( Please help.
+
+You're best of posting the second part of your question at http://forums.mozillazine.org/index.php
+for system restore, open system restore (type system restore into the searchbar on the start menu) and choose a restore point you want to restore to, pick a point that was before firefox quit working.
+
+You could also try uninstalling Firefox again, then delete the folders it leaves behind in C:\Users\ (user name)\AppData\ then reinstall it.
+
+if you are talking about restoring your OS to factory that means reinstalling Vista, use your vista disk or boot from the recovery partition if you have one.

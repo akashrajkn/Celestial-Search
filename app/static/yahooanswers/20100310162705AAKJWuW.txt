@@ -1,0 +1,14 @@
+Why do websites like walmart or bestbuy always lag?
+walmart.ca/com and bestbuy.ca/com always lag
+There are many other websites that lag and I find this very annoying. Is it only me?
+Also the toys r us website does this as well as many other store websites.
+
+Perhaps you should try clearing your browser's cookies and cache and then try to visit the websites again.
+
+If that doesn't work, perhaps you should try repairing your connection by going tot he Control Panel and then to Network and Internet Connections.
+
+From there, you should right click on your connection and choose "Repair".
+
+If that still doesn't work, perhaps you should try resetting your router by unplugging it for about fifteen seconds or so and then plugging it back in.
+
+Good luck and I hope I helped you!

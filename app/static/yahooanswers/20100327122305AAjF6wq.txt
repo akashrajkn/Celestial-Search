@@ -1,0 +1,7 @@
+Help Help Help ...Windows XP Mozilla Firefox...When i start up the P.C. I can't do a thing until the Firefox?
+pop up's actually come up then once i click on them i can venture onto the net no probs BUT...Sometimes it takes like 3 restarts before the pop up's actually come up!! PLEASE what the hell does a simpleton like me do here ???
+
+please rephrase your question.
+
+if i understood this right, maybe your pc has a virus or a worm.
+do you mean you have to wait until its loaded b4 you can go on the net? if so just go to start click on the run button,enter this, msconfig then select start up,and uncheck your programme.don't worry you won't lose it,it just won't hamper you on the start up of your machine.

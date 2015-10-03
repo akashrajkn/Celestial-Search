@@ -1,0 +1,5 @@
+I know that Wi-Fi when you connect to an?
+unsecured router/network that it sends packets to that computer do the packets stay there forever or do they get deleted over time being? if the person does not know how to read them or even knows there, there, and if you connect through a router to someones unsecured network does that also send packets over to there side?
+just a wondering question.
+
+The data packets sent just pass through the router, it doesn't store any data transmitted through it between your computer and the Internet. It's just a pathway.

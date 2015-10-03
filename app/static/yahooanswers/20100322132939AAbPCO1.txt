@@ -1,0 +1,30 @@
+I am a complete Wordpress.com novice - can anyone help?
+We have been told to create a 'website' using Wordpress for our Media Coursework. I know what I want to put in it and how I want it to look, but I have no idea how to use HTMLs or how to work it.
+
+My 'website' is on Quentin Tarantino: his films, his background, the usual stuff. 
+
+First off, I wondered if it was possible to create pages within a page - creating a drop down menu of "sub-pages" linked to the main page. So for example, if the page was 'Pulp Fiction', I'd quite like to have synopsis, trailers, reviews, and production pages that come under it, but as I said, I don't know if this is possible, and if so, how to do it.
+
+I'd also be really appreciative if someone could give me a few tips tat would be able to help me out; I've managed to work out how to upload links and audio and video from YouTube, but that is about it.
+
+If someone could help out, I'd be extremely appreciative and grateful!
+
+Cheers!
+
+Oh, and by the way, if anyone wanted to know the website, it's http://iamlouis23.wordpress.com/ (but there is nothing on there!)
+
+Hi -- There are several different types of Wordpress websites you can set up.  The free ones are not very functional, and from what you describe above, you would want a website that you have to pay for in order to get the functionality you want.  Because this is for school, you may not want to go that route.  Depends on how bad you want a good grade!
+
+Sorry I couldn't give you more good (free) news!
+
+Good luck.
+Agreed...In order to create what you want you are probably looking into a self-hosted wordpress installation, which will require you to have your own server space and database to upload and install wordpress on.
+
+Creating subpages is easy...when you create a subpage, simply select a "parent" page before you post it.
+
+However, to display them in a drop-down navigation is going to depend on whether you "Theme" supports drop-down navigation or now.
+
+You can find some great free and premium themes here:  http://www.wpexplorer.com
+You can indeed arrange pages this way.  When you do a new page, the Attributes menu should appear on the right side of the editing page, with a message like this: "You can arrange your pages in hierarchies. For example, you could have an 'About' page that has 'Life Story' and 'My Dog' pages under it. There are no limits to how deeply nested you can make pages."
+
+Make the new page, make the old page the Parent, and you've got it.

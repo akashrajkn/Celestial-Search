@@ -1,0 +1,18 @@
+If I uninstall my firefox, will all my bookmarks all be gone?
+I have lots of saved passwords and bookmarks and stuff on my firefox and now all of a sudden I installed the new yahoo toolbar and firefox sometimes won't open when I click on it and it freezes all the time.  What should I do?  I don't remember all these saved passwords and I don't want them to be gone if I uninstall firefox.
+
+i have'nt tried that..but sure i can help..
+go to each bookmarks nd save the links to a word doc...then uninstall firefox and install something else and copy each link to it and save them as bookmarks. guess this should work.
+it should be saved if u reinstall because there is a folder that firefox saves your bookmarks, websites, etc.
+I had the some problem. You should back up your bookmarks by going to Bookmarks, Organize Bookmarks, Backup and Import, Backup. Save that file and now uninstall firefox. When you reinstall it go to File, import to restore your Bookmarks. If you dont backup your bookmarks when you uninstall they will be gone.
+you will not get the old book mark. If you uninstall in feature you will do the steps in below 
+
+Export bookmark before uninstall your firefox using these steps below I have mentioned
+
+First click bookmarks -> Organize bookmark -> click Import and backup and select Export html -> then save your bookmark as html file.
+
+Export bookmark after you install new firefox using these steps
+
+click bookmarks -> Organize bookmark -> click Import and backup and select Import html then select an html file -> then select already you have saved html file -> finish
+
+your old bookmark will appear in new firefox

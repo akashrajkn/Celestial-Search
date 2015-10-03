@@ -1,0 +1,5 @@
+how to delete from adress bar?
+ok im buying my girlfriend a pressie and i deleted the history but when i try and put in a adress say www.yahoo.com  as the website also started in y it still comes up and shes going to see it?
+
+deleting history should do it. Try deleting cookies and temporary files.
+Just clear all your browsing data (i.e. Cookies, History, Cache, etc). If that does not work, open another web browser that you did not use to visit the "website" when she comes home. So if she goes on the internet, she is already in that web browser and might not bother to open another.

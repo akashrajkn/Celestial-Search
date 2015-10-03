@@ -1,0 +1,9 @@
+Why doesn't my laptop let me watch online videos anymore ?
+Hey,
+well i used to be able to watch my fav shows + go on youtube easily
+but now it takes ages to load!
+i haven't changed my internet provider or anything like that
+so why is it always loading or buffering ?
+thanks if you can help [:
+
+you may need to update your java or adobe flash player depicting on which one you use. to do it go to either site and download the newest version. the way to get best results would be to download both of them, and then try watching your videos again

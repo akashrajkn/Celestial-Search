@@ -1,0 +1,17 @@
+Who knows a lot about wireless networks?
+So, I recently decided to use my computer's wireless capability to tap into our modem.  I figured it would be nice, I could finally just keep it in my room.  
+
+When I did this, my mom discovered that "Wireless is fun!!"  and uses up a huge portion of our network.  Maybe it doesn't seem like a huge deal, but I'm a pretty serious gamer, and when she's on her stupid [ad-filled] websites, my internet turns to crap.
+
+Is there a way to change my network so that it prioritizes MY connection, and not my mom's? (I'm absolutely sure that it prioritizes her laptop, since she has no problem loading videos and whatnot, while my MS on World of Warcraft shoots up to over 10,000)
+
+Any help would be greatly appreciated!
+I would like to add that I KNOW wireless is a poor choice for gaming.  At the moment, it's the only choice I have.  
+
+I would also like to point out that I asked for help with my problem, not a load of nerd rage about how I shouldn't be using wireless.  I KNOW this.  
+
+(I DO pay the internet bill, though, as strange as it is..)
+
+I had a similar problem like this and I simply moved the router & modem into my room so I can get a wired connection and she could take the wireless.
+First off, your moms browsing is eating far less bandwidth than your gaming is! Secondly, gaming through a home wireless network is about the poorest choice you could make! I am MORE inclined to believe its YOUR wireless connection causing your problems. Packet loss is your biggest downfall on a wireless network. Doesnt make a difference what speed your connection to your router is, if the packets are continually being resent because they didnt make it to the router, you WILL lag. You want to game, GET WIRED! I would also like to say, considering you are living at home, have some respect considering YOU arent paying the internet tab! YOU are hogging your PARENTS internet bandwidth.
+Are you looking to have an elite World of Warcraft account?  Now you can be level 80 in 7 days and generate as much gold as you want.

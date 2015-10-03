@@ -1,0 +1,25 @@
+Problem with router IP Address?
+Hi
+
+I have got a problem with my router. I can connect to the Internet. The the thing is when I go to check my ip address through websites it gives me 81.153.x.x but when I check it by ipconfig it gives me 192.168.x.x (default gateway). It have not had this problem before. How can I change my ip router to 81.153.x.x so that it works like before.
+
+Rehards
+A.D.
+
+Just reset the router
+You router works fine, there is no problem. The IP address 81.153.x.x is your internet IP address. It is the IP address which is assigned to you by your Internet Service Provider (ISP). When you use your computer to access the internet, this is the IP address that the world will "see". The other IP address 192.168.x.x is a private, non-internet-routable IP address. Home users and companies use such IP address on their own network. Since these IP addresse are non-routable on the internet, these computers are not directly exposed to threats from the internet. So in short, on your own home network you will use non-internet-routable IP addresses such as 192.168.x.x, your router will have a non-internet-routable IP address facing your network and the WAN port of your router will have your internet routable IP address 81.153.x.x which is assigned to you by your ISP. This is all perfectly normal and the way it should be.
+The 81.153.x.x  is the outside address given to your modem by your ISP. only they can change that. 192.168.x.x is the internal or local ip address of your pc, router, or any other device you have connected to your LAN. Bt default a Linksys Router will have a default IP address of 192.168.1.1 (Dlink 192.168.0.1)  and the connected equipment by DHCP will be assigned IP addresses accordingly in that range (ie. 192.168.1.101...102...103 etc.)
+Hi!
+
+81.153.x.x is your routers public ip (what other people see around the world)
+192.158.x.x is your routers internal ip (what you'll see inside your LAN-network)
+
+For example, my webservers lan-ip is http://192.168.254.8, you can't connect to it becouse you are not in the same network as I. But you can connect to http://88.115.217.221/ becouse that's my public-ip and it is port-forwarded to my server (port 80)
+Hope you understand my poor english (from Finland)
+
+Tomi R.
+you don't have a problem with the router.  there are external and internal ip addresses, plus the address of the router itself to get to the software configuration screens.
+
+81.***  is the internet/public ip address and that you can't change (unless you do a "release/renew" with ipconfig).  that ip is assigned by your internet service provider and they do that automatically unless you have a static (always the same) ip address.
+
+leave the router alone unless you know what  you are doing or you will mess it up.

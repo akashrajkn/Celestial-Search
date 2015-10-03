@@ -1,0 +1,10 @@
+What does this internet box do/connect to?
+I have broadband internet with Virgin Media and on the wall there is a white box with Ntl's logo on it. For those who don't know Virgin Media bought out Ntl years ago so this box is really old. There are two wires coming out of it. A white one which goes into the modem and a black one which goes under the floor boards.
+
+What I'm wondering is.. how does the black wire get the connection? And if I switch internet to a wireless BT connection, will I need this box anymore? Because BT will be giving me a Home Hub (wireless router) and we already have a phone line with BT.... Just trying to get my head around all of this :P
+
+Thanks in advance :)
+Just so you know I don't have a TV service like Cable or Sky.
+Just have the Virgin Broadband and BT phone.
+
+The one on the wall is cable internet. It gets it's signal from the same line the TV converter box would use. If you're getting a different internet service you won't need to bother with it at all.

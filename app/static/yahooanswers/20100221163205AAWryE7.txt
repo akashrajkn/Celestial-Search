@@ -1,0 +1,17 @@
+I want to make a website (specifically, a webcomic.) Can anyone recommend a web server?
+I know where to get a domain name, a good WYSIWYG editor (I *used* to know HTML... :P) and all that stuff, but it's no good without a web server, is it?
+
+Hackey,
+
+Actually you need a web host. The host supplies all the space, tools and great apps to create your website. Free sites really wont get much traffic. 
+A good host is only about $40.
+
+I help people get started with this and I dont charge to help. You can contact me if you wish.
+It's no longer the 90's, so you're not going to get far with an HTML only site unless you're only going to be updating once a month, don't mind making each navigation link manually, aren't going to blog, and don't plan on having much in way of a commenting system.
+
+You'll need a web host such as Go Daddy, Dreamhost, etc. (roughly $10 - $100/mo. depending on what type and level of hosting you get) and use a system like ComicPress (recommended), Webcomic, or any number of other comic systems that are out there to post your updates.
+Getting your own domain is a good move, you can always go to a different host later if you need to.  Smack Jeeves is a webcomic hosting site that has it's own system designed for doing webcomics and will let you use your own domain in their premium packages (the plus is that your hosted with other webcomics and you'll be able to get extra exposure to a webcomic market).  I strongly advise you to avoid Dreamhost, I have an account with them going on two years and their servers have gone down over 10 times, for anywhere from 1 to 11 days at a time.  They don't do maintenance on their servers so they go down with no warning and several times my databases have been corrupted as a result (good idea to back them up weekly if you use Dreamhost).  HostGator and GoDaddy are the same price range as DreamHost and are professional hosting companies that DO maintenance on their servers and in the years I've been hosted with them have never gone down or corrupted my databases or files.  They can also handle a lot more traffic than DreamHost, after 14 months my more popular webcomic was generating too much reader traffic for DreamHost to handle.
+
+WordPress can be installed on any of the above (except Smack Jeeves which has it's own system) and then you can use the ComicPress theme (recommend 2.5 as it's a lot easier to customize than the later versions, think of 2.5 as Windows XP and the ComicPress versions afterward as Vista) which has a new 3.0 version coming out in the future or the WebComic theme.  All of which are free and WordPress can be installed for you by the three hosting companies I mentioned.
+
+Not part of your question, but once you have your webcomic up you should submit it to the ODP or DMOZ (helps for generating revenue via banner ads on your site), The Webcomic List, Top Web Comics and WebcomicZ to attract new readers.

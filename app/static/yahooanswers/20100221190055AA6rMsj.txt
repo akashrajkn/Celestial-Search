@@ -1,0 +1,8 @@
+how to restore internet explorer and keep firefox?
+i tried to add firefox in addition to keeping interent explorer when i got done my internet explorer shortcut would not work and all i had was firefox. i would like to restore my interent explorer and also have firefox availlable on my desktop
+
+I have both. I guess I would just install internet explorer.
+
+                Internet explorer 8 
+http://www.microsoft.com/windows/internet-explorer/
+Internet Explorer is compatible with any other internet browser. Try upgrading it to the latest IE 8 by downloading it from the Microsoft website.

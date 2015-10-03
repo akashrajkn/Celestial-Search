@@ -1,0 +1,9 @@
+I need help on mozilla firefox?
+Okay so I accidently put a yahoo toolbar when downloading yahoo messenger....so i tried looking for the way to undo it. Then, i think it was on view (at the top of firefox internet page) or something, and i think i saw the word Toolbar. so i put the cursor over it, found other things, and clicked on menu bar, or something like that (sorry didnt get a good look at it) and then it took off the file, edit, view, etc thing at the top of the internet page! what do i do to get it back the way it was (showing the bar!!!)!!!!
+
+See where you type a website? The URL toolbar? right click somewhere near that but not on the URL address bar its self, then you should see some toolbars, and the Menu Toolbar which is the one you remove should be unchecked, click Menu Toolbar to recheck it and it should reappear! :)
+Hi, You can uninstall yahoo toolbar from control panel,....
+Right-click in blank space above the tabs, right under the address bar and you should get a menu that asks Menu Bar, Bookmarks Bar, etc.  Click on Menu Bar and it'll show back up.
+About the only way I know of to get rid of the menu bar is to go into full screen mode (at the bottom of the View menu).  You can get out of full-screen mode by pressing the F11 key.
+
+Hope that helps.

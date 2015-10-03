@@ -1,0 +1,14 @@
+How do i delete a firefox's drop down search bar and address bar?
+there are a few sites that i don't want people that use my pc to know about and i want to know how to delete those drop down search bars history and the sites that i have visited on my address bar.
+how do i do it and thanks i guess
+
+Click Tools >>then Options 
+
+When the window opens choose the PRIVACY Tab 
+
+Untick Remember search and form History 
+
+then at the bottom 
+
+When using the location bar >>Change this to NOTHING
+Tools> Clear Recent History. With the latest version of Firefox you can choose private browsing.

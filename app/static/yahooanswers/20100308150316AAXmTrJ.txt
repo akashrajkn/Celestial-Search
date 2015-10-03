@@ -1,0 +1,13 @@
+i want to have a you@yourname email with email forwarding capability. any ideas who can provide it ?
+i know it's not free though :D
+
+Not entirely sure on the subject but I think you have to actually own the domain name to have an email to it.
+
+Example.
+If I wanted the email "jordan@jordan.co.uk" I would have to own the domain name "jordan.co.uk", then I would have to link that up with a web host and configure an email account through them.
+youll need to register and purchase a domain name at webs.com
+for $99.95 a year, you will have 5 custom email addresses.
+
+http://www.webs.com/premium.jsp
+you have to own the @yourname website. buy it from something like godaddy.com
+Then once u buy it you have the option to set up email adresses.

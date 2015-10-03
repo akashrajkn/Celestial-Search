@@ -1,0 +1,10 @@
+mobile broadband question...?
+I may get 1 of these mobile broadband dongle things for my netbook:...
+I use google docs and facebook a lot....
+so every time i reload my home page of facebook or a google docs page how many mb's out of say 1 gb allowence would this use?
+
+Depends on what is on the page.  I would say you'd average about 1mb or so...However, chances are not everything would change on each reload and the computer would reload the images from cache and just reload changed text so that'd only be a couple hundred kilobytes or less.
+I actually have had three dongles,  vodafone, T Mobile and 3. The best coverage although weaker and slower when receiving than the others is Vodafone. T Mobile is OK and 3 is by far superior as I now have the MiFi dongle which is WIRELESS mobile broadband.
+
+If you go for say a ?15 or ?20 pm tariff you won't have to worry about usage as most offer unlimited usage on a fair usage policy. I use my mobile dongle almost endlessly for facebook, downloading images from the net and looking up information from google / yahoo etc and never have any issues with exceeding my usage allowances.
+Very little, but 1GB isn't enough for any normal person.

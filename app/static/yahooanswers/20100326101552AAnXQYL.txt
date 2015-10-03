@@ -1,0 +1,21 @@
+Internet Explorer help?
+For some reason i keep getting these websites when i try to go to another one: iamwired.net, ask.com, askjohny.com, informationportal. I have even blocked them in my internet options its really getting aggravating, i can do research for a paper and it will be redirected to one of these. if anyone can help it will be appreciated.
+
+You need to clear your cache, delete all your cookies and rid yourself of your browsing history. Looks like you may have picked up some malware along the way. Check out AVGFree as a way to get rid of it, or Avast Antivirus.
+
+You can also attempt to download Mozilla FireFox, Google Chrome or Apple Safari in the interim.
+You can Turn on your Pop up blocker
+OR use Mozilla Firefox Browser it's very safe & easy to interface..!
+Yep, it looks like you have picked up malware. You might even want to reset IE. Here is a link that can guide you through:
+
+http://support.microsoft.com/kb/923737
+
+Kyler
+IE Outreach Team
+Install Malware Bytes -
+
+http://www.malwarebytes.org/
+
+This will help clean up your machine.
+
+Make sure you disable System Restore before you do this, and then enable it once clean.

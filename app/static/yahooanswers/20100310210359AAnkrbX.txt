@@ -1,0 +1,10 @@
+Question about tabs (Mozilla Firefox)...?
+http://farm5.static.flickr.com/4054/4424263746_2bf6ef7e53_o.jpg
+
+Looking at the picture, please note that the tab boxed in red is a newly opened one. So how do I, when I press "Open in New Tab" (like in the Yahoo! page visible in the picture), make the tab always go to the end rather than in between?
+
+The tabs used to open like that actually, but the newer Firefox version has changed that feature because it was commonly requested. BUT...
+
+You can fix it so that it goes back to the old way, just add this extension:
+
+https://addons.mozilla.org/en-US/firefox/addon/61766

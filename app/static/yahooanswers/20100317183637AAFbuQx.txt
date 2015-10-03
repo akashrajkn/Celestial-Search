@@ -1,0 +1,4 @@
+how do i connect my eee pc to a verizon internet?
+ok i just got a eee pc for my bday and it does not have a cd thing on it so i cant upload the verizon i tried the stick saver to save it to it and that didnt work. what do i do i need internet on my eee pc. do i need to get a external cd player or what??
+
+Go to a place other than your own that has internet.  The Eee will work just fine either plugged into an ethernet port or wifi.  Then download the verizon stuff you need.  That way you dont have to buy an external drive

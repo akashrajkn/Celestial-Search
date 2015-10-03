@@ -1,0 +1,48 @@
+Do I need a full install of Firefox?
+I can't 'see' some important content of pages - many colors and items just aren't there; perhaps I did something in preferences to screw it up. 
+ If I do a full install will it save my bookmarks? Anything else I should know?
+Thank you!
+Should I save anything? Delete all pertaining Firefox files before reinstalling?
+
+Dear Friend,
+
+[A] Backup your Bookmarks:
+
+To backup your current Mozilla FireFox Bookmarks, do the following:
+
+1. Open Mozilla FireFox.
+
+2. Click Bookmarks -> Organise Bookmarks.
+
+3. A dialog named "Library" will open. Expand the available menus, and select the bookmarks you wish to backup. [To select multiple bookmarks at a time, keep the Shift key pressed; and select the bookmarks.]
+
+4. In the toolbar drop-down menu, "Import and Backup", click and select "Backup" option.
+
+5. Type a name, select a location to save the bookmarks for backing up in order to restore after a fresh installation of FireFox.
+
+6. Click the Save button there.
+
+[B] Restore your Bookmarks:
+
+1. Open Mozilla FireFox.
+
+2. Click Bookmarks -> Organise Bookmarks.
+
+3. A dialog named "Library" will open.
+
+4. In the toolbar drop-down menu, "Import and Backup", click and select Restore -> Chose File option.
+
+5. Select the backup name, location, and click the Open button there.
+
+* * * * * *
+For more information, mail at: vikas.jnpt@yahoo.in
+* * * * * *
+You have to save your bookmarks; 
+
+1st> export bookmarks 
+2nd> e-mail bookmark file as a file attachment to yourself 
+3> re-install firefox 
+4> download bookmark file 
+5> inport bookmark file 
+
+pg

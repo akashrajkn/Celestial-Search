@@ -1,0 +1,14 @@
+High speed internet speed test. What is a good result?
+My internet and cable had had some lag problems. I live in Baton Rouge, Louisiana and have Cox high speed internet, which i use for MMORPG. The result from Speedtest.net ( with and without my router ) are....Download - 0.96 mb/s, Upload  - 0.36 mb/s, and ping 50ms Problem is i don't know what the standard is to be able to tell if my results are good or bad. 
+
+  
+  ( mb = megabits )
+
+On speedtest.net you can compare your results and view how you do against people in your area, country, the rest of the world and by ISP too.
+
+I would say your results are pretty poor, I would expect 8mb down and 1mb up to be more the standard.
+It depends. If you're supposed to have a 1Mbs connection, then that's a good result. If you're supposed to have 7Mbs, then it isn't.
+http://www.speakeasy.net/speedtest/
+
+The link will test your speed.
+then speak to your ISP for details

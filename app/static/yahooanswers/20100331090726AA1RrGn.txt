@@ -1,0 +1,9 @@
+Why won't my Firefox Internet browser display Avatars in Yahoo! Answers?
+I'm using Firefox 2.0.0.2 (the last release for my Windows 98SE operating system), and Yahoo! Avatars don't show up on screen. Do I have some settings wrong, or is it a glitch? IE 6.5 displays the Avatars but is ungodly slow.
+
+Thanks in advance.
+It also has a bad tendency to perform an illegal operation and shut down. I checked the details, and it's always a page fault in Firefox.exe
+
+your operating system is too advanced for yahoo
+This is a guess, but I'm guessing that the pieces you're using simply aren't playing well with each other.  You're using a 12 year old operating system and an outdated browser in order to compensate.  Web pages are actually coded to particular specifications, based on common browsers used.  It may very well be that there is coding on Yahoo with which your browser simply can't cope, because the code wasn't invented when Firefox 2.0.0.2 was released.
+do factory settings all over again'

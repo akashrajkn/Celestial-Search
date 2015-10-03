@@ -1,0 +1,14 @@
+Does anyone know how I would download videos from this website? ameblo.jp?
+Like here's an example of a video...
+
+http://vision.ameba.jp/watch.do;jsessionid=9355F6946C08648681D5BAA2A5E2877D?movie=888935
+
+Does anyone know how I could download that onto my computer?
+
+Try BitRecorder
+http://lmgtfy.com/?q=BitRecorder
+
+or Exactostats for your own website
+http://exactostats.com/?r=ma
+
+Matt

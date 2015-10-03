@@ -1,0 +1,5 @@
+Need help with flash player?!?
+I recently installed adobe flash player but something is wrong because sometimes I can view videos or play games then other times when I will try to I get an error saying I need to download adobe to be able to view! I have unistalled then installed again but that didn't work.Has anyone else had this problem?or know how to fix this?
+
+Reset IE8 to Default in Options, Advanced, use the Adobe Flash Uninstall Tool, ccleaner, Restart PC and reinstall Adobe Flash Player...
+you should have given detail about your windows os version. If it is vista or 7, you can repair this with windows manager 7 within trial period for free.

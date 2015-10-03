@@ -1,0 +1,23 @@
+How do you fix sticky keys?
+I have been playing games all over the internet (ie: Newgrounds, Armor Games, Addicting Games, etc.) and I can't seem to play correctly. Every time I press a key on my keyboard, it will act as if it is stuck and the character in the game will continue to go in that direction. I have sticky keys and filter keys turned off from the control panel. How do I fix it?
+
+hit the shift thing asgain like you did and adjust settings..
+if desktop then replace the keyboard
+if laptop then try this
+http://www.computing.net/howto/simple/keyboard/
+I have a feeling that your keyboard is shot after playing so many games.
+When my down arrow got sticky, I searched the Internet to find a solution. I was so excited when I saw an article on Associated Content. Alas, it wasn't how to unstick a key, but how NOT to unstick a key. Never soak a keyboard in soapy water. It still amazes me that somebody actually did that. It took me awhile to find the magic ingredient to unstick sticky keyboard keys. Everyone has their own ideas, some of which I was not willing to try. This method is quick and painless, providing you can locate all of the products. I've listed the website where I found it below. I didn't follow those directions. No surprise there. Items you will need are: Q-tips, canned air, screen cleaning fluid (I used CleanDR sold at Staples as it contains no ammonia or alcohol), and Blaster the Dry Lube with PTFE (I found this at Lowes. Had to go to several stores before I found it. The website says to buy the Dry Lube at K-Mart. They didn't have it.). This was the magic ingredient. It lubricates, but doesn't leave a greasy film, which apparently is not good for computer equipment.
+
+1. Pry the stuck key off the keyboard. On my Averatec laptop, I had to pry it from the bottom. (See photo 1 at left.) If you can't get a fingernail under the key, use something to lift the key up a bit. A toothpick works good. If you're working on desktop keyboard, pry it off with a flathead screwdriver.
+
+2. Spray the backside of the key and the keyboard with canned air to get any dust out. Sometimes this is all that's needed.
+
+3. Wet a Q-tip with the cleaning fluid. Clean the backside of the key and the keyboard. You might do this a couple of times to get it good and clean. Don't spray the cleaner into the keyboard as I don't know what the result will be. Be careful not to leave any cotton behind. If you do or you're not sure, use some canned air to remove it. Let dry. Takes only a minute or two.
+
+4. Spray keyboard and backside of key with the Dry Lube. Go ahead. Spray it right on the keyboard. Allow to dry.
+
+5. Replace the key onto the keyboard.
+next time you turn off the computer, pop out each key and clean under it with a q-tip.
+I'm guessing IE8 and flash games...
+Try adding those sites as trusted sites in your IE security settings. Don't ask why this works, I just don't know. Lowering IE security level also works, but I don't like doing that.
+Hope it helps

@@ -1,0 +1,17 @@
+what is the difference between URL and Web Address?
+thanks in advance
+
+No difference.
+URL stands for Uniform Resource Locator. A URL is the Internet address of a particular site or document available via the World Wide Web.URLs are composed of the Internet protocol used to access the document or site you are trying to reach, the Internet address of the "host computer," on which the document you want is stored, the directory path on the host computer that will take you to the exact file you are trying to retrieve, and the name of the file you are trying to retrieve. 
+A Web Address is like a memorable street address, can help people find you online. This is a unique address that identifies a website. Is a unique string of letters or characters that identify your specific place on the internet such as www.myquestions.com
+nothing
+spelling difference
+They mean the same thing.  They are both names need to be resolved by the DNS.
+
+Dane
+URL -Uniform Resource Locator. A URL is the Internet address of a particular site or document 
+and the web add. www - World Wide Web
+url just like a database of www
+when we download a file from any site the link which providing thet file is URL link
+Nothing. It is just another name for a domain name i.e. a www.
+Both helps in gettin web site. URL stan

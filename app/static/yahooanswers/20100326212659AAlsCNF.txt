@@ -1,0 +1,4 @@
+Is there anyway to extend the time the internet tries to load a website before it "times out"?
+There are a few sites that my friends can access on there internet that take a really long time to load but eventually do. But my internet gives up on those sites before they have the chance to load and gives me a "The connection has timed out" message. Is there a way to make it keep loading for as long as it takes, or at least longer then its trying? I prefer Mozilla but if you only know internet explorer that's fine too.
+
+You wired or wireless,,, if wireless   , you may want to try wired mode .. ~

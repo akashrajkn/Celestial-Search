@@ -1,0 +1,10 @@
+formspring.me not working?
+alright, i have a formspring.me and, this is gonna sound bad, but the only place i can get on it is school. they don't have the site blocked, and i check it when i'm at school. but i try to get on it at home on my laptop, && google pops up saying it doesn't exist? has this happened to anyone?
+what's going on, and how do i change this?
+thaaanks, (:
+
+It's not registered with a domain service.
+
+In other words it's on your school "Intranet." It's a private service that you can only access over your schools network.
+
+If you really wanted to and had admin authority you could tunnel in with VPN but I doubt this will help you.

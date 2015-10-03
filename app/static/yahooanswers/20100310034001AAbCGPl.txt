@@ -1,0 +1,16 @@
+I can ping the websites but no browser can show the web pages?
+I have a pc and the configuration is 
+1. Gigabyte motherboard
+2. Intel celeron 2.66
+3. PCI slot Nick card
+
+From some days i have been facing a strange problem and the problem is I can ping the websites but no browser can show the web pages.Initially i thought that it was a problem of ISP's but now i realize that it is internal problem of my pc. when i log on my pc for sometime i can easily browse the pages but suddenly when i open a new website browser shows a untitled in new tab. but when i ping the site it shows me my pc is connected to the internetbut it didn't show anything.when i pressing refresh repeatedly then sometime it comes but the pages like html look.I m basically a firefox user and i tried opera,chrome and ie. and same problem happens all the time and still i don't configure out wht the problem happens in my pc. Is there anyone to tell me what is the main problem and how can i fix this problem. Plz plz plz help me...It's urgent...
+
+Are you pinging the same site that you are trying to view? Sometimes nameserver problems do not allow you to see sites even though you are connected to the Internet.
+
+Check your computer for virus. Also find out if you are behind a firewall which is blocking you.
+
+Next try www.whois.sc/sitename and check the IP of the site - then try to access the site directly by IP. This only works if the site you are referring to has a dedicated IP.
+
+Arun
+This is your OS problem, if your using Windows 7 beta or RC version, then please upgrade it.

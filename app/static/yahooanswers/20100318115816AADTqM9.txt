@@ -1,0 +1,8 @@
+Can an email be stored in more than one place and if so how?
+
+
+yes, in your email client choose "don't download message from server" Outlook its under tools->accounts->view email account->modify->advanced
+
+Mac mail it's under apple mail menu->preferences
+
+Then you can setup email on another device and recieve it in two places.

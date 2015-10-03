@@ -1,0 +1,17 @@
+how to remove this error that's skype IE plugin error?
+hai,
+      frequently, getting message skype ie plugin error in my IE web-browser.what is the error? and how to remove this error .
+
+firstly i would like to suggest you that IE is worst web browser....use any othr browser like MOZILLA,SAFARI,OPERA,CHROME etc.
+
+but you can solve your Problem by following steps:
+open IE
+then
+press alt key then T then select Internet Option..
+then Select Advance
+then select REST or RESTORE options.
+
+if nothing works then install plugins from adobe.com
+u can also find easily from google search (IE plugins)...
+
+try it!!

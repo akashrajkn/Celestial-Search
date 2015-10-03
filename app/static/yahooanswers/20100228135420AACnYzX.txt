@@ -1,0 +1,8 @@
+my firefox back, previous, refresh, and stop button is unclickable?
+Help!! I have no idea what happened to my firefox!
+
+My Previous, Back, Refresh and Stop Button is unclikable.
+
+They're all faded.. I tried to click so many times but... no good.  PLEASE HELP!!
+
+have you recently installed a new theme or plug in? or maybe this is just an internal software malfunction(but I honestly doubt that) so you can try to reinstall firefox.

@@ -1,0 +1,8 @@
+URL doesn't work in firefox?
+My URL bar no longer works in firefox. When I type in a URL or select one of the saved sites nothing happens. My web connection is fine, I tried downloading the latest version (3.5.8) but no luck.
+Please help!
+thx
+
+You have a proxy server enabled in the firefox settings. go to tools, options, advanced, network, settings, then NO PROXY..
+3.6 is the latest version of Firefox. Try clearing ALL history.
+If that doesn't work, find the preferences file for Firefox and trash it, when Firefox is started again it will make a new preferences file.

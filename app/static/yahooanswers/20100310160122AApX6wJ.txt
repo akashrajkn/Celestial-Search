@@ -1,0 +1,5 @@
+Can IP Tracer Id Topix Post?
+Can a IP Tracer identify an IP address on a post on Topix?  Is there any software available to get an IP address from a Topix post?
+Or is the only way to get an IP is through Topix itself?  If you have an IP, can a person use a software/site (subscribtion or otherwise) to gain person information such as name, street address, City, State etc.  This would be an IP address issued from Comcast.  I understand Comcast IP dont id name, street etc...just a general location.  I following a Topix post involving such questions.  Im afraid someone is going to get sued as threats are being made.
+
+no they cant, but still they have some other ways to get posters ips

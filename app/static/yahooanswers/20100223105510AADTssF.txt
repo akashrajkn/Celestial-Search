@@ -1,0 +1,10 @@
+cant connect to internet explorer but im able to connect with maxthon.?
+i got maxthon internet fall of '08 because i saw on the news that internet explorer wasn't safe to log on to at that moment. ive been trying to log on to internet explorer and it says "internet explorer can not display the web page" and when i click on the "diagnose the connection problem" it then says "windows couldn't find anything wrong with my network connection" ive tried to install new internet explorer and couldnt. Arrrg...why? and how do i fix it?
+
+Probably add-ons
+
+Try this:
+
+Start>All Programs>Accessories>System Tools> Internet Explorer (No Add-ons)
+
+If it boots up and works, its an add-on in the regular IE that's causing a fuss.  Open up a regular IE window.  Right click on the toolbar and uncheck all the crap-o-la that isn't needed.  Most people just use Command Bar and Status Bar.

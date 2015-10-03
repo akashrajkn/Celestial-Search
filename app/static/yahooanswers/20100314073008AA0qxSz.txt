@@ -1,0 +1,6 @@
+How to restore firefox windows when clicking cancel accidently on restore window?
+
+
+Click History > Recently Closed Tabs or > Recently Closed Windows, select the one you want
+
+...

@@ -1,0 +1,5 @@
+How do you hide the search box in the IE 8 browser?
+You know the one at the top of the browser to the right of the address bar.
+
+go to the microsoft wedsite it should tell you how
+In IE8 you can enable, reset preferences, or completely remove the search bar by going to Tools, Manage Add-Ons and click on Search Providers.

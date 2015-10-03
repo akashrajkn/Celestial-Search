@@ -1,0 +1,25 @@
+Craigslist website is not working at all in my web browser at all!?
+So for over 2 months now when i type craigslist.org into my wbe browser it comes up as the webpage cannot be displayed. So i brought my laptop to best buy to have them fix it and they could not find any problems with it watsoever. no viruses, it wasnt blocked, nothin. So i brought it home and called my router company which is netgear and they said their was nothing wrong with that either. SO then I called charter which is my ISP and they said there was nothing wrong with the internet. Now it does not come up even when the ethernet cord is plugged directly into my laptop. The only way i can get into craigslist is through my favorites. i click on it there and it takes forever to load and the main page comes up all messed up. WHen i click on a link say apt/housing, it also takes like 2 minutes to load the page. I have brought my brothers hp laptop here and connected to the internet and it comes up fine on his. I do not know what is wrong! PLEASE HELP!
+
+Download and run this free program to see if your 
+
+computer is experiencing registry or optimization 
+
+problems. If it corrects your problem then run it 
+
+daily or whenever your system appears to run slow.
+
+I have been using this program for 4 years and it keeps my computer running at maximum speed.
+
+Advanced SystemCare Personal  3.4.1
+
+Select the "Download now" button ..Not the "Download Here" on the banner.
+
+http://www.download.com/Advanced-SystemCare-Free/3000-2086_4-10407614.html?tag=contentBody;mostPopTwoColWrap&cdlPid=11007947
+
+Also go to Start...Computer...Right-click on C: Drive and select properties....run the disk clean-up and delete any files it shows.
+
+
+If all this does not fix your browser, then the only other thing to do is reset the browser. In your browser go to tools...internet options...advanced tab....and select RESET. Close and open your browser for it to take effect.
+
+Cheers

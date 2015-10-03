@@ -1,0 +1,11 @@
+my computer got hacked, i need help!?
+ok, so my computer got hacked by someone who claimed to be working for microsoft, i already asked a question about this so if u want more detail about what happened then please look at the question in my profile, i dont want to retype the whole thing, sorry, so anyway, i was wondering, if he hacked it, and if i create another administrative account, can i use it without being disturbed by the hacker? cuz if i go to my old acount and connect to the internet then the hack gonna comeback and say i have to pay him some "fee", please help me!
+
+Just reinstall your old OS. Or install a Linux-based OS.
+From your previous question it sounds like someone is attempting to scam you, pure and simple.
+
+Don't under any circumstances give them any personal details and definitely don't give them any money or payment details. 
+
+This is most likely the result of some kind of malware infection. So the standard advice to run anti virus and anti malware programs applies.
+I would reinstall your operating system to remove his malware he has on your computer. I would also save all of your files to a back up hard drive or flash drive to help prevent any data loss.
+Hope this helps!

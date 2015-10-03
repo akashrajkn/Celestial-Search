@@ -1,0 +1,16 @@
+Is there a service that lets me seed a torrent without the files actually being on my computer?
+I heard about a service, I don't know if it was a program or an online service, that lets people upload torrents (or torrent files, dunno which) to the website, and then lets them seed the torrents (files?) for their account on another website.
+
+I have a very low connection speed, and I can only get up to a 200kb/s download, and about a 30kb/s upload speed. For me, a person who likes to give back to the community, that's definitely not enough speed. Plus, I'm actually downloading more than I'm uploading, with no way to switch it around.
+
+If anyone knows of this service I'm talking about, or if anyone knows something else I should try, then by all means, answer away. I'd greatly appreciate it.
+
+Thanks
+
+Unfortunately, you don't seem to understand fully the way that torrents work.  That's ok.  Most don't.  You also don't realize that just about everyone has a slower upload speed than their download speed.  This is the nature of an internet connection, and the business of selling internet connections.
+
+You cannot upload the files that need to be shared to a website, because then the owner of that website would be illegally hosting the files.  Since that defeats the purpose of a Torrent site that simply legally hosts the BitTorrent file... which only points the person with the client to the computers holding the files... as well as the concept of BitTorrent, which is to spread the files that are being shared over multiple different computers to increase the speed at which people get small pieces of the files... again, there is no where for you to upload the actual files you are sharing.
+
+There is indeed a way to upload more than you download.  First, you exert some self control, and do not pick as many files to download at one time.  Second, you leave your client open and sharing files all the time, and you leave your computer on all the time, so that you are uploading for longer lengths of time, than you are downloading.  When a file has finished downloading, you do not close your client... you leave it open so that you keep uploading.
+
+end of line

@@ -1,0 +1,7 @@
+How do I fix my Mozilla Firefox screen?
+I was on this website and my arm was on the keyboard and it hit some buttons so now when I go on that website the screen is small.How do I fix this?
+
+hold ctrl plus the  + sign to zoom back in or right click desktop and click properties then settings then slide bar at or above 1024x768.
+View > Zoom > Reset.
+Click on "View". Slide down to Zoom and over to Zoom In.
+[CTRL] [0]

@@ -1,0 +1,12 @@
+I wanna ask about the Windows Live Hotmail~?
+i wanna do a block sender in hotmail~
+but i had add the sender in the block sender~
+he/she still can send the email for me~
+
+can any1 help?
+
+When making the change in your settings, you have to click Save.
+
+Another alternative: if you receive any more mail from that person, select it & click the Spam button
+
+...

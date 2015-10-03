@@ -1,0 +1,23 @@
+Internet explorer 8, what's your opinion on it?
+would you recommend Internet explorer 8?
+
+Better than IE7, but Firefox is far more secure and reliable.
+I use IE8 mainly/only for radio or TV legal streaming, because some of these sites do not work well with FF (I do have plug in issues with FF)
+
+BTW some other sites do not work with FF3.6 but are OK with IE8 (as an example, some features of my bank's site)
+
+And I don't have any problem with IE8
+
+A solution : to use several Internet browsers
+I suggest you download IE8. It is also compatible with more sites than any other browser. If you are concerned with the way IE 8 will interact with sites you are visiting, you should check out Compatibility Mode which allows you to view sites as they would appear in IE 6 or IE 7, with the added security and speed of IE8. Here's some more information: http://blogs.msdn.com/ie/archive/2009/02/16/just-the-facts-recap-of-compatibility-view.aspx
+
+Here is a link to get you started: 
+http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie8_sm_a
+
+I hope this helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team
+No.1 is Google Chrome
+YES.  It is good enough.  But the best part is it is alot more secure than the previous versions.  And it works with almost everything because everything was programmed with it in mind as the #1 used browser.

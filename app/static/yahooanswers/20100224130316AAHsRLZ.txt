@@ -1,0 +1,13 @@
+Using someone else's internet connection, what can they see?
+I've been allowed access to my neighbours internet connection which is unsecured...it's in the middle of no where so no one else will be able to get on but i was wondering if my nieghbours could see what i'm doing, my email, the sites i'm on and stuff like that? 
+They are not computer whizzes and have no need to do anything like that, they wouldn't want to and they are my friends so i don't see in any reason why they would go to the trouble, but is it like automatic..or right there everytime i'm on..if you get me? 
+
+Thanks x
+
+Negative. As long you have a firewall going, and you got a spyware/mal-ware going your in a clear!
+Well, they would have to have some advanced knowledge to hack into your system. So, if they don't, and they're not of that mindset, you don't have to worry.
+If you both share a connection, it doesn't imply that your sharing files unless they have the mad skill, which means they baught junky hardware.  They could make it in cuda and connect it with the other video cards RGB connectors, watch out.
+Thier router does not keep a listing of what you do or where you go. They would need software that monitored the router and kept a log, which I'm pretty sure they do not.
+Same here. When I am visiting a friend, I access an open wireless router to connect to a neighbour's broadband. The neighbour would not be aware, although the connection would slow down when both of us are using it at the same time.
+Well if it is unsecured I do not suggest doing anything incredibly private, someone could sit on the sidewalk and packet sniff you, it is a risk you take though so good luck to you.
+make sure you have your comp set to not allow file sharing or local connection and ur ok

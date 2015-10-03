@@ -1,0 +1,38 @@
+Stars and symbols next to my name ...?
+I was just curious how do you get the stars, smilleys, and hearts next to your Yahoo name. Not like this: =) or <3 the actual thing. Please help!!
+
+like this ¡î ¡ï go here just high light the character and copy and paste at your name go here http://grownupgeek.com/myspace-html-character#comment-61096
+if its a pc you push the little wondow on the keyboard
+You have not indicated what operating system you are using.
+
+See http://ipa4linguists.pbworks.com/ which is intended to show how to enter Unicode phonetic characters under Windows, Macintosh, and Linux machines, but the methods suggested also work for other Unicode characters.
+
+There are currently 107,156 graphic characters in Unicode, which includes the keyboard characters. All of these can be used in normal text, but you must have at least one font which contains the character for the character to be seen properly in your browser. And in most word processors and editors you must select a font that contains the character in order to display it.
+
+The ¡°Alt code¡± method is an old way of typing a small number of symbols on Windows machines only, those that are in your current DOS character set and in your current Windows 8-bit character set.  But not everyone is using the same DOS set or the same Windows set and not everyone uses Windows.
+
+The Alt key method in Windows only works for numbers from 0 to 255. If you just type the number you get the corresponding character in your current DOS character set. If you type the number with an initial 0 you get the corresponding character in your current Windows character set. You make sure Num Lock is on, press down the left Alt key, type a decimal number from 0 to 255 on the numeric keypad, then released the left Alt key.
+
+When using a laptop, you normally have to emulate the numeric keypad by using the FN key. See the FN key article on Wikipedia
+
+Microsoft provides an extended version of this in some of its applications, notably in Notepad and in Microsoft Office. There, if you enter a number between 256 and 65535, the Unicode character with that number will appear. This does not work in most applications.
+
+In most applications, if you enter a number over 255, the value will wrap, so that 256 is evaluated to be 0, 257 is evaluated to be 1, 258 is evaluated to be 2, and so forth.
+
+If you wish to use the extended Alt key method in any application on Windows machines, you can download and install the free utility Quick Unicode Input Tool from http://www.cardbox.com/quick.htm . This allows you to enter Unicode decimal values on the numeric keypad from 0 to 65535 and from hex 0000 to hex FFFF, using a numeric keypad dot to begin the number. It will not provide characters by their values in your current DOS character set.
+
+For characters higher than 65535 (hex FFFF) you must copy and paste them from a character map or use whatever special method of entering these characters that an application may provide.
+
+For the Unicode values, see the official Unicode charts of charts at http://www.unicode.org/charts/ . Each character in these charts has a unique Unicode hexadecimal code. See also the name index and search box.
+
+You can use a calculator  to convert from hexadecimal to decimal.
+
+You may also use HTML entities. For example, if you know that you want the heart symbol and know that its Unicode value is 2665, then you can use the HTML entity & # x 2 6 6 5 ; without the spaces to enter the character in many forums, including this one. The entity will convert itself into the character when posted.
+
+Because none of the Unicode characters will appear properly on a viewer¡¯s machine unless that viewer has at least one font that contains it, do not expect that all viewers will be able to see your symbol. You, yourself may not be able to see some of them in a forum.
+
+Some forums ban some symbols or all symbols in their name fields.
+
+For your own use, I suggest downloading and installing the free DejaVu fonts from http://dejavu-fonts.org/wiki/index.php?title=Main_Page , the free Symbola font from http://users.teilar.gr/~g1951d/  , the free Junicode fonts from http://junicode.sourceforge.net/ , the Andron Scriptor Web fonts from http://www.mufi.info/fonts/#Andron , the free Doulos and free Charis fonts from http://www.sil.org/sil/news/2009/new-font-versions.htm , and the free Everson Mono font from http://www.evertype.com/emono/ .
+
+Also use the character map if you have a Windows machine. See http://en.wikipedia.org/wiki/Character_Map . Make sure your font is set to one which contains the character(s) you want to use. On the Macintosh, this is the Character Palette.

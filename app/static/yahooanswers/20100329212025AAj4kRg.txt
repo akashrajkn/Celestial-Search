@@ -1,0 +1,26 @@
+How to connect desktop to laptop with internet?
+I built my own computer and i forgot to get a wireless card, and we have wireless internet. Is there some way I can connect my computer to the internet using only the LAN plug connecting through my laptop?
+Okay I see that people say to use crossover cables, which I have. Will this affect performance?
+
+Most wireless routers have ethernet ports, so if you had a cat5 ethernet patch cable and the computer you want to connect also has an unused ethernet port then you could connect wired.
+
+If you have another computer that's already connecting via wireless but also has an (unused) LAN port, and if you could find a Cat5 eithernet crossover cable (not a patch cable) you could hook the computers up together and use Internet Connection Sharing. (I used to use that to get a PS2 online both through a desktop computer's dial-up connection and later through a laptop's wireless connection.)
+
+It may be hard to find crossover cables in retail stores now though.
+
+And of course you could always buy an ethernet adapter. (A USB one might be better then an internal one.)
+
+So to summarize:
+Router<-patch cable->Desktop
+Router<-wireless->Laptop<-crossover cable->Desktop
+Router<-wireless->Desktop
+Yes..  but it will take some work.
+
+1.  You need a crossover cable.  Cut open an ethernet cable and snip the white orange and white green wires and connect them to the opposite partner. ex: white orange to white green.
+
+2. On the laptop go to your network connections (in XP go to the properties of network places).  Find your wireless adapter, right click it and select bridge connection.
+
+This will turn the wireless card on your laptop into a router, forwarding the signal to its ethernet port.
+
+Plug the crossover cable you made into the laptop and desktop and you should be good to go.
+connect your comp to your laptop then connect your laptop to the wifi.goto network sharing center>then on the right side click manage network connections> it should show a wire connection(the pc) and a wifi(that laptop is hooked upto) u can select both at the same time by draging the box over them or holding CTRL and clicking both of them then right click when you have them both selected and choose to bridge the connections. this makes the internet signals goto ur laptop then through it and the wire to ur comp.. ur laptop can access it at the same time that they are bridged :D

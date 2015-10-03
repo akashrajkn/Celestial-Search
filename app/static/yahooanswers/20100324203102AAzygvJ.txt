@@ -1,0 +1,26 @@
+I need help. Do you mind telling me how to make one choice?
+I need help. Do you mind telling me how to make one choice?
+--
+\
+
+Before I post the question, I want to verify that Answers wants this
+question posted in Psychology.
+
+I want one account. I want a Google account. I don't want a Yahoo account, even though I am on Yahoo. I don't want a Twitter account, and
+I don't want a Facebook account. There is presently no problem, with passwords. My problem is I don't know how to say no. This question is
+best answered by an internet user who has NO allegiance to any domain. Including this one. I started using Windows Live. Now all these different websites, with the exception of one(YouTube) are making it tough for me to have any one thing. If you understand what my issues are(NASDAQ makes me yawn)All I really care about is the one domain,
+I just mentioned. And a couple of others. Yet the other sites I like are
+browser peculiar. If it matters at all, I have 1(one)computer, and I have one ISP. If I get my computer like I want it to be, I am having nothing to do with any social internet sites. If I have to, or need to
+be associated with any domain other than Google, my machine will not be
+made to access any. It is ultimately up to me, I realize, who or what I join or sign up to. Yahoo has tons of personal info, yet they are not satisfied with unique pass keys. It is the nature of the beast. So vent,
+rant, heckle me, question stays until someone can help me with this. I am not interested with linking all my sites. It's BS. Whatever the reasons or motivations for doing things that way, I don't intend to. My authentication is solid gold. Which I know doesn't matter. I want one domain, so why can I not have one domain, with one pass, and keep my verification forever, withoout being a constant logger?
+
+I don't mind reporting. It will be my pleasure. My question is legitimate.
+Although my question has taken a lot of webspace, and I appreciate the time anyone has taken to read: If I had one professional or paid email account, with anyone, my problems might be solved. But I only assume that. Most people are using a single password to access all of the major sites that offer chat or forums or whatever.
+Thanks.
+..
+---
+Oh yeah. And any helpful hints on getting my registry clean are also generously approved.
+
+You shut up.Ask in an understanding way some one will report abuse. Suppose Me !
+Well it sounds like what you are asking for is a universal login. For this to work EVery site that has a login mechanism will have to submit to Google's open login platform which I don't see happening any time soon. Microsoft was the first to suggest a universal login thing with their windows live/hotmail login accounts but it never took off as a universal login mechanism outside of Microsoft owned websites. Facebook now is also pushing for a universal login mechanism with their Facebook Connect service (this is actuallly taking off quite nicely at the moment) but again it would require for every other site to submit to Facebooks Connect login mechanism which again NOt all sites are going to do this. So in short at the present time if you want ot use the services of Yahoo and Microsoft and Facebook and all the others there is no choice but to have an account for each one. A google account alone will not do because those other companies are not obligated to submit to Google's authentication system and since they are all competitors with each other I don't see any of them doing that for the foreseeable future. Your only choice if you want to only use a Google login account on sites you visit is to restrict your internet browsing activity where you want to sign in and interact with the community of the website is to restrict your self to Google owned properties such as YouTube, Google News, Gmail, and their other various internet properties.

@@ -1,0 +1,11 @@
+I have a "virus and my Rogers AntiVirus can't delete it please help?
+The virus is called Security AntiVirus and it's not exactly a virus but it says that its an antiVirus but its realy not i scanned with rogers anti virus then this and this says there are like 100 virus and rogers says i dont have any.Ok i tried deleting i tried recycle deleting it i tried using rogers online protection to remove it but nothing works PLEASE tell me how to remove its not dangerous but VERY annoying i cant even play a video game for 10 minutes without it popping up and saying "Security antivirus has spotted 87 viruses" or "89 Infected mail recieved"
+
+Rogers Antivirus??  whatever that is, you'll want to get rid of that too.  Go here and download Malwarebytes Antimalware and do a full scan, you may have to boot up in safe mode first.  Get rid of the Rogers thing, and download a good free AV like Avira or Avast
+Go here for the step by step instructions to remove this virus:
+
+http://www.bleepingcomputer.com/virus-removal/remove-security-antivirus
+Download, update, run these scanners...
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

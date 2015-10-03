@@ -1,0 +1,27 @@
+Virus On My Computer!?
+I have a virus on my computer that doesn't let me log in into any account.
+
+So when I startup and log on to one of the user accounts, it logs me out right after.
+
+And, to be worst, it disables my keyboard UNTIL i'm at the log in screen so I can't press F2 or such when the computer is starting up, any ideas?
+
+I can't log on Guest or any account. The virus automatically logs me back out as I log back in. And I can't download anything because I can't LOG IN.
+
+I'm using Windows XP. I've heard rumors of a certain Windows CD that can restart the computer as if it was brand new? Any ideas on where to get that?
+
+Can you please support a step-by-step guide on any of your comments? Please and thank you!
+
+Its not a rumors of the cd
+
+its windows CD
+ fomat the computer
+you should have recieved the cd when your bought your computer.
+
+if you don't have one, you could try to borrow a friends, or download it somewhere online and copy it to a cd.
+
+
+or you could take your computer to geek squad or somewhere else and they might be able to get rid of the virus
+if not a virus, it could just be an infinite boot loop that is in your start up folder that keeps logging u out. the whole disabling the keyboard thing though is sorta weird to me. there's sometimes a button on your computer close to the on/off switch that enables some control over the start up process of the computer.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

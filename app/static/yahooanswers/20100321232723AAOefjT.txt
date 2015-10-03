@@ -1,0 +1,13 @@
+I was wondering how to make my games run better on roadrunner turbo?
+My download speed likes to fluctuate between 500kbs and 2.0mbs, and i was wondering how to make my online games go faster i have a Nvidia 1 gb graphics card and the games i wanna play don't require anything close to that high. Even when i clean out my computer, optimized with a registry cleaner, and close all other programs there is still some lag. What is the reason for this ? Can someone help me?
+
+Also i already called Time Warner they are no help at all they came here replaced our wireless router and said " the readings im getting is good so bye" so i need help plz
+
+and i have already checked for port forwarding my games and for the one game i can find a way to port forward it doesn't make a difference in the lag and the games i cant find the ports for still lag just the same.
+
+If it matters the Games are Combat Arms and Neo Steam that i have been playing lately and i cant find the ports for both of them.
+What i mean by lag is that the character i use likes to skip and/or freeze for a few seconds every few seconds but i know that my computer can handle it because before i moved a month ago i had basic internet and the was no lag at all after i got my new graphics card
+
+What *precisely* do you mean by lag? People use the term "lag" to refer to everything from delayed response to game actions to low frame rates to rubberbanding. Without knowing what the problem is, there's no way to know what to suggest.
+my old computer is is very laging on my new computer it is very fast and my dads computer is little bit slow!@#4%^^&*(()_-+=[{}]]|\:;"'<,>.?/
+

@@ -1,0 +1,4 @@
+What's a suitable internet connection for hosting a heavy traffic site from home?
+I'm currently in the middle of setting up a website, the website itself will possibly have high traffic and high loads of data being sent back and fourth. I wondered if I were to host from home what kind of interent connection? Speed wise, any suggestions? I just like to know what the best options are for home hosting?
+
+Make sure your ISP allows you to do that! Most don't!

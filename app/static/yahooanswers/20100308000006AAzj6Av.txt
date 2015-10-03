@@ -1,0 +1,8 @@
+how to send direct msg in twitter ?
+
+
+when you open profile of someone you get option of doing so.
+Start the message with the @ symbol, no space, and the recipient's Twitter user name.
+For example:
+
+@ExampleUserName your msg

@@ -1,0 +1,15 @@
+How can I set firefox to open always in full screen?And activated in caret browsing also,if u could tell?
+
+
+This add-on allows for full screen on start up.
+https://addons.mozilla.org/en-US/firefox/addon/1568
+
+To turn on/off caret browsing, press F7. Or go to Tools->Options menu and under Advanced->General tab, select Always use the cursor keys to navigate within pages.
+Right click on the firefox icon and select properties. In the RUN select maximised.
+You can use Autohide extension :
+
+Please read the related explanation from here (how to install and set options):
+
+http://www.mouserunner.com/FF_Tips_Full_Screen.html
+
+Good Luck

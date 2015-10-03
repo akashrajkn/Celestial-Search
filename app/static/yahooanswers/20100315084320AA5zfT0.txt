@@ -1,0 +1,25 @@
+One specific site won't load in my laptop (and in my laptop alone)?
+It's livejournal. And anything that has to do with it (communities, personal journals, icons being hosted by livejournal etc.)
+
+The thing is, it loads really, REALLY slowly on my laptop. It's either I get frustrated and stop loading it altogether, or wait for it (usually takes around five minutes to load the sign in page), and then be greeted by what looks like a half-loaded site (broken html format, images not showing up, all text in Times New Roman).
+
+Here are the other circumstances:
+1.) Already tried to access livejournal in different browsers (IE, FF, and Chrome to be exact) in my laptop, and all loaded Livejournal very slowly.
+2.) I tried to access livejournal using the same connection (at home, which is the one I'm using right now) through my ipod and desktop, and livejournal loaded there just fine. Mind you, my connection is pretty fast.
+3.) I tried to access livejournal using a different connection, and livejournal loaded properly.
+4.) Tried turning off utorrent (the only thing that I could think of that could be slowing down my connection - which, to be honest, has yet to occur before) and loading livejournal, still nothing. Other sites still work, regardless of utorrent running or not.
+
+I've already tried the following solutions, to no avail:
+1.) clear my cache/cookies/history for ALL of my browsers.
+2.) used /flushdns
+3.) check if livejournal is undergoing maintenance (and no, they are not).
+
+Other sites are working as they should, without showing signs of slowing down. It's just Livejournal specifically that's wounding up wrong.
+
+Oddly enough, there are random (short) moments where livejournal would just load fine. And then I click on another page (comments), and it's back to loading really slowly again.
+
+I don't know what to do anymore :(
+
+what isp do you use?
+try downforeveryoneorjustme.com
+then contact your ISP and talk to them

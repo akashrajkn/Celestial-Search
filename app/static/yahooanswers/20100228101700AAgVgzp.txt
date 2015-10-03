@@ -1,0 +1,19 @@
+My firefox got stuck please help quickly!!!!?
+I was on youtube and clicked on a new video when it just stopped and it started loading with that circle thingy and I don't know what to do. I can't turn off the computer because we hve stuff that needs to be saved in other windows up. How do I get the page to go away? PLEASE HELP BEFORE MY DAD GETS HOME
+
+You obviously unfroze it in order to be able to post this
+Hmmm.  Were you looking at something that you shouldn't have been?  Maybe take this as a lesson learned?
+
+Anyway, you didn't say if this was a Mac or a Windows machine.  Here's what I'd do for each (sorry, I don't know Vista or Windows 7):
+
+WindowsXP:
+Hit control-alt-delete to bring up the Windows Task Manager.  
+Click on the "Applications" button.
+Highlight Firefox
+Hit the "End Task" button
+
+Mac:
+Click on the Firefox icon
+Hit apple-Q to force-quit FF
+
+If none of that works and your computer isn't completely hung, another option is to go save the other stuff and simply reboot the machine.

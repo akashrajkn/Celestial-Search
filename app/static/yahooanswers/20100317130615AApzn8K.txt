@@ -1,0 +1,41 @@
+Why should (or should not) the internet be a free service?
+Other media and improvements at the times of their inceptions have a varied history of cost needed to access them.  Radio and television are characterized as free if received over the air, but the listener or viewer must cover the cost of the receiving devices to enjoy them.  Roads and highways are mostly free (not toll roads) but users must pay taxes on the equipment needed to use them.  Public libraries provide limited access to 'free' internet, and many employers provide this service for their employees as well.  
+
+Today in some industrialized nations, people argue that the internet should be a service provided freely to the public.  Some communities have experimented with this idea.  Who do you think should pay for the internet... Users?  Advertisers?  Providers?  Government?
+
+I agree with you. The Government has to pay, they have to deduct from our tax.
+Investment should provide a minimal service level connection.
+
+This would provide a platform for faster delivery of information services and reduce paperwork and paper publication costs.  That in turn provides economies of Carbon footprint and general energy costs.
+
+However,  the service would need to offer more security and not be used as a means of forcing people to accept ecommerce when they prefer to continue as now.
+
+Taxation may not be needed as the long term savings should be considered in the costings.
+It should continue to be a *shared* cost between users, advertisers, providers, and government.  (With a qualification for providers, which I'll get to in a moment.)
+
+Allow me to explain with three examples: basic food and shelter, transportation, and healthcare.
+
+In any human civilization, there is a tradeoff between technological advances and public good.  There has to be financial incentive for innovation, but eventually these advancements are considered so basic, that we consider it an injustice if only the wealthy can afford them.
+
+Start with the basics, food and shelter.   Yes, everyone from farmers to construction companies expect to be paid for their labor, and for the investment in agricultural advancements or construction innovations that have improved the quality of food and shelter over the centuries.  But we also consider it unacceptable for people to go starving or homeless, and so we invest public money (taxes) in trying to make sure that doesn't happen.  
+
+Transportations is another good example you bring up.   Car companies invest a lot in innovations in the expectation that people will buy cars.  But cars are useless without roads.   So a model could have emerged where car companies had to bear the brunt of the cost of road building, and added it to the price of a car ... but then that would have made cars so expensive that nobody could buy them and we'd still have no roads.  Instead we considered it a public good that all people have access to transportation, so we invest public money (taxes) in the building of roads.  But then we consider it unacceptable if only people who can afford cars have access to transportation, so we invest public money (taxes) in subsidizing public transportation.
+
+Healthcare is the raging debate of the day.   The medical industry expects to be paid for its investment in innovations to human health (including the investment doctors and nurses in their own education to keep up with those innovations).  But we consider it as unacceptable that someone should die if they can't afford to pay for medical attention, as it is unacceptable for someone to starve because they can't afford food.   So we pass laws requiring hospitals to provide emergency care, and we spend public money (taxes) in reimbursing hospitals for this requirement.  So far so good.  But there is a huge range of medical attention from just life-saving measures, to less critical measures like setting a broken arm or getting you through a bad cold, to regular checkups, to longer term care such as getting cancer.  The health *insurance* industry grew up around redistributing the cost of helping sick people by allowing healthy people to pay for it (under the promise that those healthy people will benefit if they become sick).   
+
+But there's a problem there that is a good lesson to learn for the Internet question.  The medical industry has a financial incentive in keeping people healthy ... that is the product they are selling, and they get paid based on how well they succeed.  But the medical *insurance* industry has the exact *opposite* financial incentive.   Profits are based on having as many healthy people in the system as possible, with as few sick people as possible.  So over time, it is inevitable that they will find ways to either exclude sick people from entering the system, or get them out of the system once they become sick.  So that passes the costs of sick people back onto the doctors and hospitals, and to the taxpayer to pick up emergency room costs for the uninsured.
+
+My point is not that insurance companies are evil people.   But that the *profit structure* is such that they rationally must *limit* who they do business with.  Keep that lesson in mind.
+
+
+So now to the Internet.   Technological innovation since the printing press has made *information* into a fundamental commodity that we think all human beings should have access to.  We consider it unacceptable if someone can't get access to information because they can't afford a book or a magazine.   So we invest public money (taxes) in building public libraries.  But now along comes the Internet, and we invest public money (taxes) in building infrastructure (cables, satellites) for transmitting data ... much as we did building roads for the car companies.   
+
+So far, the cost of this infrastructure has been shared by users, advertisers, and government.  (Aside: Yahoo here is a 'free' service supplemented by advertisers ... so I do not understand people who complain about ads, while using a 'free' service that those advertisers pay for.)
+
+But what of those internet service providers (ISPs)?   If they were to evolve to a profit structure, where they have financial incentives to *limit* the service to those to whom it is profitable ... then they could wreck the Internet the way that the profit structure of health insurance companies have wrecked the health industry.    
+
+E.g. IF the service providers start to provide access only to those sites that are popular enough for people to *pay* for, then the Internet starts evolving into something very different from what it is now.  (Look to the pricing structure of cable television to see a bleak future for the Internet. ... Imagine pricing a "basic package" that gets you Yahoo or Google, but you have to buy different packages to get Facebook, Wikipedia, or YouTube, and nobody is providing smallguywithawebsite.com unless he pays them.)
+
+So yes, users who can afford it, should pay for *service* ... but providers should not be able to make additional profit based on what sites they include or exclude.   Advertisers should continue to advertise (as they do on TV, which is why I got to watch the Olympics for the low price of watching a few Budweiser ads).  And the government (taxes) should continue to build infrastructure, and put Internet terminals in public libraries.
+
+Information is freedom.  Let's keep it that way.

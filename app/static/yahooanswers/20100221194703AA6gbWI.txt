@@ -1,0 +1,4 @@
+Sanrio question? Images not working?
+Whenever I go online to www.sanrio.com, the images never function. For example, if I want to look at the shop section, it won't show a picture of the items!!! Do you have any idea how I might fix this?
+
+No, it's because of a server issue on their site. Leave it a few days till it gets fixed. This is the time of year many websites get upgraded.

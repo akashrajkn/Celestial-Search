@@ -1,0 +1,4 @@
+Whenever I go to Google and click a link?
+It brings me somewhere else. Like say I'm searching something on Google (or yahoo or anywhere) and I click a link it will bring me to some other site. It's really annoying. How do I fix it?
+
+Check for malware.. use this free.  update, run quick scan.. http://www.malwarebytes.org/mbam.php  ~

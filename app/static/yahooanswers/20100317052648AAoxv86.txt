@@ -1,0 +1,10 @@
+Internet problems....help me out guys please.?
+I have a problem with my internet.Sometimes,it just stops playing videos and can't download anything.But at that time i can surf the internet(without playing videos and downloads).I used IE and firefox but it happens every time.I have a good internet connection and my anti virus is Kaspersky 6.0.4.1212.Thanks in advance.
+
+probably caused by a firewall, try turning it off in windows or your antivirus software.
+Please try downloading google chrome browser.
+Just visit google.com and type google chrome
+it is free.
+
+I hope this helps
+Probably it happens due to Overheating of the Modem. If your internet connection is old, it could be probably because your modem cannot handle the large amount of data from videos. The Kaspersky version is also old. Better Upgrade to the latest version and turn off your firewall while browsing. For smooth watching of videos, install SPEEDBIT VIDEO ACCELERATOR from http://www.speedbit.com/

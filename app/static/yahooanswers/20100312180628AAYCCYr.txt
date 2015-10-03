@@ -1,0 +1,10 @@
+The page cannot be displayed?
+Server cannot be found.             
+
+ What does all that exactly mean?  I know the web site is real(it is the local news station website and they just gave it less than 15 minutes ago.      I first tried to find it with FireFox, then I.E., then Opera.   Results are always the same .      I have always let it go (normally because I can find the web site (in this case I refer to other web sites that give me a problem- not many, but there is a few.)
+     I am running Win XP Pro
+
+Also, I am typing  in the web site address ( in this case chbcnews.ca) (and then varied it by typing in http://www.chbcnews.ca and still the same problem)
+
+Try searching it in Google and clicking on the link provided by it.
+I was able to go to the website. It is possible that it had been temporarily down. I recommend that you try again.

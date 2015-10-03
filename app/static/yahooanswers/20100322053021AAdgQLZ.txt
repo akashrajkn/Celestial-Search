@@ -1,0 +1,4 @@
+How do I stop the green links that take you to play sushi from appearing?
+
+
+Use MalwareBytes or a similar program to remove any malicious code, then in the future, keep track of what you look at and download.

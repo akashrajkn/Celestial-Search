@@ -1,0 +1,13 @@
+Website are blocked....?
+I have internet explorer - OmniGlobe. The only website a can really get into, and browse, are Yahoo! Answers and AOL. But when I try to get into any other site, the URL goes from, www.youtube.com, to, about: blank, and takes me to a page that says blocked and This page can not be displayed.
+But if it does go to the homepage, I can't browse the site. I have no idea what is wrong.
+
+Does anyone have any idea of what might be wrong? And how I could 'fix' this problem?
+
+I had the same problem so now I use Mozilla Firefox instead of Explorer and I haven't had any problems at all.
+
+It has to do with the security settings and its a pain in the butt!
+try posting getting proxy could be a fire wall
+Clear your cookies.
+Just never use IE. Worst browser in the world, Firefox is faster, easier to use and is a lot nicer too.
+Check your security setting, for that maybe your problem.

@@ -1,0 +1,8 @@
+NEED HELP PLEASE! WITH FIREFOX? POSSIBLE VIRUS?
+when i try to run firefox the window keeps on popping up, and it wont stop, and i have to us etask manager to end it. it only works safe mode. it happened right when i installe dthe megaupload toolbar, which i tried to uninstall btu it still shows up, 
+can soemoen tell em where the addons/toolbars for firefox asre stored so i can manually delte them? i tried uninstalling firefox and reinstalling it, no good. virus scan turned up nada. 
+please helP!
+its firefox homepage, in tis case google, yea once i click to open it once more windows keeo popping up and i cnat stop it unless i end the process via task mngr
+
+Does it keep telling you that firefox is unsafe and that it is running a scan and finding viruses? It looks like a windows program. The only way to get rid of it is to buy, install and run malware. It costs about $50.00. I hated this virus as it's one of the most difficult to get rid of.
+Is it Firefox that keeps popping up or a pop up Window. If it's a pop up Window, it probably isn't Firefox causing this. Scan for Malware, not virus scan.

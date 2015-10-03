@@ -1,0 +1,8 @@
+Proxy-VPN and hotspot shield for Vista x64?
+Ok so I'm in China and here for the next few years... I'm trying to get a free working proxy for Vista x64 but I can't seem to find anything! I recently read that Hotspot Shield would now work for Vista x64 but it's a complete fail on my end. Yes zend2 and vtunnel do work, but it's not exactly key because movies and short clips will not work.
+
+So does anyone know a proxy that might work? (I've also used Tor but I might as well be back on a dial-up connection when using it..)
+
+proxy tips website:
+http://merakit-komputer.com/proxies-anonymity-anonymous.html
+http://merakit-komputer.com/proxies-anonymity-anonymous.html

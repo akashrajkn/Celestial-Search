@@ -1,0 +1,6 @@
+Can't watch videos on Firefox?
+I just installed Mozilla Firefox to my computer, and i cannot watch videos on it, or play flash games... I i can do those things on Internet Explorer, so i don't understand why i can't on Firefox.... please help
+I know it's something with flashplayer, but i don't know what, i have it installed, and it works on internet explorer
+
+you might not have flash installed.
+install flash for firefox under firefox add on or go to adobe.com and download it from there

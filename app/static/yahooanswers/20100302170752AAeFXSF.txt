@@ -1,0 +1,12 @@
+how to fix a broken link?????
+I really need to go to a certain web site but it says the link is broken. How do I fix that? Just a few days ago I could go to that site but now I can't. I also tried to view it with my phone and it was working! However on my phone I can't view certain things I need. Is something wrong with my computer because the web site is working on my phone?
+
+The website is not working correctly, or the link has some extra characters in in that point it in the wrong direction.
+Broken link normally just means that the page you are looking for is not there any more.
+
+If you are trying to go to a particular page, try to just go to the main site instead.
+
+example:
+instead of going to http://www.website.com/page1.htm just try http://www.website.com
+
+Your mobile device might be using a page that is specifically for mobile devices - not the same as your desktop.

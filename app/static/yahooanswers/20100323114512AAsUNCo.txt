@@ -1,0 +1,33 @@
+Why do people use Firefox and other 3rd party browsers?
+Opposed to Internet Explorer.  IE works just fine for me.  What's so great about Firefox?
+
+internet explorer is just a bad browser. i use google chrome
+it is faster, more customizable, and you don't have to look at ads. you can change absolutely everything about how it works, making it exactly what you like. it has no annoying "are you sure" screens and very seldom crashes. it has a built in virus check for all downloads, and downloads carry on in a seperate window so your downloads continue even if you close the browser. literally every thing that ie does, firefox either does better, faster, simpler, and does it the way you'd like to see it done.
+well, if you do internet banking or make on-line purchases, you need more security to your info, unless you want some scumbag from nigeria emtying your bank account. Firefox is more secure than IE and crashes less. I have talked to people that have had their bank accounts emptied because they used ie, plus they have cool add ons that ie does not have.
+IE allows ActiveX controls.  ActiveX can directly access the system.  and though it is set for "safe" by default, there are web pages out there which will infect your machine.  FF, Safari, Chrome are safer browsers because they do not use activex controls (however, chrome allows installable applications, and ff aqllows plugins which you must approve).
+
+IE also must approve an activeX control if I remember right.
+
+ActiveX controls are compiled binary code programs and usually are DLL's, OCX's, or sometimes .EXE's.
+Some people believe that IE isn't secure, however, it's just a matter of security settings etc.  IE is more susceptible viruses, trojans etc. with the default settings and a lot of hacks are written specifically for IE.  However, real computer professionals use Firefox for a variety of reasons.
+
+1) if a company hard codes proxy settings in their IE deployments support professionals use non-IE browsers to test around the proxy to troubleshoot browsing issues.
+
+2) Non-IE browsers handle html code etc. slightly differently and programmers use them to test websites and how they look to different browsers.
+
+3) A lot of people just hate Microsoft, they see it as a monopoly and look for anything else out there they can run. (not disagreeing with this mentality just explaining it)
+
+4) different software has different styles/themes and people like aesthetics. Also Microsoft's IE Browser make assumptions in the configuration and handling of web pages on how the average user would like to see them viewed.
+If some body askme what is the difference between IE and firefox?
+i will tell:
+you can not compare an angel with a witch. there are a lots of difference between these browsers.
+
+1. it's safer and faster
+2. more stability
+3. unbelievable addons with unbelievable efficiency and ....
+
+i just want to say, doubtless IE is the worst one.
+
+just check it out
+
+http://www.mozilla.com/en-US/firefox/upgrade.html

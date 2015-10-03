@@ -1,0 +1,21 @@
+Internet Browsers (Explorer, Firefox + Google Chrome)  keep crashing (every 5-10 minutes) ?
+Heey, 
+My internet browsers keep crashing after 5-10 minutes, I have the latest Explorer, Firefox AND Google chrome.   and it does the same for all of them. 
+Occasionally it freezers and i have to close the browser,   Other times it say "The Following Plug-in is unresponsive: Unknown, would you like to stop it?" 
+I have Windows Vista. 
+
+Performed Virus/adware/malware scans with:   Avast, Spyware Doctor, Super antispyware, and malwarebytes anti-Malware,    and deleted anything found  (which was little) 
+
+Also, This isn't an internet connection problem,  tried both at University and Home,  having the same problem  (whereas other people do not) 
+
+Need any more information just say :) 
+
+Thankyou in advance!
+
+Not sure, but it could be due to permanent damage to some of your operating system files.  If you could backup your files and re-install Vista from the disk that came with your (laptop?) then it would probably iron the problem out.  Obviously, the disadvantage to that would be the fact that you would have to re-install all your programs again and copy over your backed up files.
+A computer's registry is one big database that has numerous files, options, and settings. These settings and options keep changing with every second of you using your PC and can lead to the damage of some of these settings. This causes errors to show up and the computer to crash.  Registry cleaners http://make-a-computer-run-better.com      software scan the computer's errors and matches all files and settings with the applications that use them. If it identifies any file or setting to be damaged, missing, or corrupted, it provides you with an updated list of the same and also repairs these errors.  Therefore, if your computer keeps crashing and need to fix blue screen of death a good registry cleaner is all you need. Your computer can also cause problems because of redundant files in its registry. Reg cleaners identify all these redundant and junk files that were left over during the uninstalling process of hardware of software and delete them. This makes sure that the "computer keeps crashing" issue is taken care of.
+This may be due to corrupt windows registry. The registry system is a really complicated one in the operating system. There are zillions of registry entries stored in the database which contains information about the softwares, hardwares and other files and programs present in our computer. One unfortunate thing that almost every Windows user encounters at some time is that his computer registry gets corrupted. 
+Most people who become victim of the registry corruption find themselves clueless as they could not figure out why their anti-virus and anti-spyware software are not finding any solution for the common PC errors such as the crashes, freezes and annoying pop-up error messages. Not only this, by using a number of computer protection softwares, people make their computer slower than before.
+The best way is to run a registry scan and clean registry. It not only remove many type of errors but also speed up computer. For a look at one of the best registry software, run a free scan from http://www.reginout.com/.
+This will sort out your problem.
+Best Wishes

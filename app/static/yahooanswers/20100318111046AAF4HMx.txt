@@ -1,0 +1,28 @@
+Internet explorer is not working?
+Internet explorer is not working on my computer, everytime i try to access it nothing happens, why could this be? Msn messenger works and so does itunes.
+Any advice would be great
+
+My advice: Download mozilla firefox.
+
+
+
+It works faster and better
+
+
+
+Plus, I have been using it for four years and it never crashed.
+which version and do you have antivirus? Might need removing and reinstall. Or it is your computers way of saying it wants firefox! haha
+If it won't open you could type in the URL address into the address bar of the window of say, the recycle bin, or my computer. It should redirect your request to your internet browser. On a side note, get Mozilla's Firefox, it's more stable than IE, as in less software bugs and security holes.
+Sometimes I think that Internet Explorer (which is on every Microsoft install) simply stops working so that you have to get the newest version because they don't feel like maintaining the older versions anymore :(
+You should always have a back up browser anyway in case one crashes (why i no longer use IE). Firefox or Google Chrome will do just fine and are not that different from IE except : They are more stable.. They don't report silently to Microsoft.
+Install which ever browser you feel more comfortable with and then update IE to use as a secondary browser.
+google for ie fix, it has worked for me.
+Try running IE8 in No Add-ons Mode.  Go to Start -> All Programs -> Accessories -> System Tools -> Internet Explorer (No Add-ons) - If this fixes the issue, then go to Tools -> Manage Add-ons and enable the add-ons one by one to find which one was causing the problem. 
+
+If that doesn't work I would suggest resetting the browser by going to Tools > Internet Options and then the "Advanced" tab, and click "Reset..." 
+
+I hope this helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team

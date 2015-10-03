@@ -1,0 +1,13 @@
+how can I make a good thumbnail picture for twitter?
+I've seen people with good quality photos as their default and mine always comes out all blurry :/ is there anything I can use to make a good looking thumbnail instead of letting twitter shrink my photos automaticaly?
+
+XnView is a utility for viewing and converting graphic files.
+
+You can find a link to download it here:
+http://www.goinglogo.co.uk/index.html
+
+Once you have downloaded it, open up the file, then from the menu select Image|resize.
+
+Once you have it at the right size, do File|Save as
+
+Its all straightforward from there.

@@ -1,0 +1,31 @@
+How can I turn on HTML on a  website?
+I'm trying to buy a Wine Case as a gift for a friend from the Tesco Website and for some reason, all the pages are only viewable as basic text.....
+What can I do to turn on HTML as its really horrid to navigate as is :(
+
+This is the main tesco site, which is how the Wine site "should" look as well.
+http://www.tesco.com/
+
+But this is how the wine site is looking for me :(
+http://i62.photobucket.com/albums/h110/kliskey/tescowine.jpg
+
+This is a direct link to the site:
+http://www.tesco.com/wine/
+
+If its looking normal for you, then what do you suggest I do? I've emptied cookies and it made no difference :(
+
+Cheers in advance,
+Klis
+Should have perhaps mentioned...
+I have the latest version of Chrome and all up-to-date updates for most adjoining webapps such as flash etc etc
+
+looks fine to me. Try re installing your web browser or install FIRE FOX
+Be sure you have JavaScript enabled. Also, if you are using internet explorer be sure you are in the latest version which now is 8. Also, download the free firefox and/or chrome browsers. They are better. You should have no problems with those.
+Tis working fine for me :|
+
+I reccomend restart your computer. If that doesn't work, use a different internet browser (if you're using internet explorer, download and use firefox for example)
+
+Any more assistance needed, reply/pm me.
+If internet Explorer, goto to View, Style, Default Style - may work.
+it looks like that because your browser didn't load the site's stylesheets so the website gets displayed as you saw it(this happens to me from time to time but I usually refresh the page and everything looks normal then);
+
+your cookie files have nothing to do with this, instead you should clear your browser's cache.

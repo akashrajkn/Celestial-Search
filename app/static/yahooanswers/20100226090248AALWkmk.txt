@@ -1,0 +1,7 @@
+how do I find my browing history on IE 8?
+Internet explorer used to have a link to browing history of sites I had visited. I can seem to find that link on the internet explorer 8  version
+
+Ctrl + Shift + H
+
+or Click the "Gear"/"Cogwheel" icon and select Explorer Bars -> History
+See if the Favorites bar (with a yellow starred icon) appears to the left on the top menu bar. If not, right click on it and check 'Favorites' in the options list. Now Favorites should appear. Click Favorites and you can find the History tab containing all your browsing history. Easy, isn't it?

@@ -1,0 +1,4 @@
+Why can't I get access to my Proboards account?
+Theres no server problems so I'm at a lost.
+
+If you're running by Sky Broadband type :8080 afther the .com and that will work

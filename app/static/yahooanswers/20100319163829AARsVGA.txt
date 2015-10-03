@@ -1,0 +1,10 @@
+Why won't Peggle online work on my computer?
+Last Saturday, Popcap's version of Peggle stopped working. It hasn't worked since. Help?
+
+Two possible reasons:
+
+1. Are you running a new firewall or port blocker like Peer Guardian or Peer Blocker? I know I can't run MapleStory with Peer Blocker running.
+
+2. Did you recently update Flash? I've had a few older Flash based games bookmarked that don't work anymore with newer versions of Flash.
+
+Hope that helps!

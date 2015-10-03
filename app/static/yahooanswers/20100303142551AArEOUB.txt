@@ -1,0 +1,4 @@
+How can I look up who used to own a domain name?
+Hi. Is there anyway to look up who used to own a domain name.  eg. the domain has expired and is now available, but I want to find out who owned it a couple of years ago, before they let it expire.  I know that domaintools.com will do it, but I'm looking for something free!
+
+Looking it up on http://Archive.org might help - and Google indexes a fair amount of Whois data if you use a closed caption "www.domain name.TLD" search

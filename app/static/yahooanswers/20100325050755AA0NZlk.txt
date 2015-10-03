@@ -1,0 +1,4 @@
+How to get share button to work on a weebly blog?
+Just can't get any kind of share button to work on at the bottom of each post on a weebly blog. Am I missing something really easy?
+
+go to www.addthis.com

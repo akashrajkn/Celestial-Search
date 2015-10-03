@@ -1,0 +1,4 @@
+connot connect to internet?
+
+
+Switch off Modem, wait 10 seconds, Reboot. Come Back if still no luck.

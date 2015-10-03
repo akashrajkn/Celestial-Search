@@ -1,0 +1,8 @@
+I can't delete my browseing history HELP!!!!!!!!!!!!!!!!!!!!!!?
+I ve tryed everything help
+
+Use CCleaner.
+
+http://www.piriform.com/ccleaner/download
+if using firefox/windows7to open browsing library go to History/show all History/Today(or this week or all) select the first url listed, and shift at the same time. scroll to the bottom of your history and shift/left click the last URL. then use the delete key. Click "Continue" when prompted to confirm the delete. If you want to be certain that no shreds of your history remain go to uniblue.com and download "SpeedupMyPC" free trial at http://www1.uniblue.com/pc/ub/google/uniblue-offers/
+Once you install SpeedUpMyPC use the file shredder option. It is very easy to use.

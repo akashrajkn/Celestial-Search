@@ -1,0 +1,30 @@
+Whats wrong with babblesex!?
+every time i try to go to babblesex chat.com go daddy keeps coming up and i can't get on its really annoying! please help me!
+thanks satyr now if u could just show me how to do that it would be awesome!
+
+Yeah, because the site isn't owned by anyone anymore. It's just a placeholder now. Shut up about it.
+Wow, Star, you're a real dick. Do you think you're helping anyone by talking to them like that? Next time, just don't answer if that's how you're going to act.
+Edit: The issue has been resolved but may still temporarily affect you locally. 
+
+If you have made the temporary change I gave, I would suggest removing it and seeing if you can still connect to the site. (You may want to reboot to clear out any local caching.) 
+
+The WHOIS registration on GoDaddy (the domain registrar) for the babblesex.com domain is cited below. It shows that the domain was renewed 15-Mar-2010. Using Kloth.Net's NSLOOKUP for babblesex.com returned the correct IP address -- 174.37.22.18. (server: localhost, Query: A (IP address))
+
+Original answer:
+The domain expired.
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: BABBLESEX.COM
+      Created on: 11-Mar-07
+      Expires on: 11-Mar-10
+      Last Updated on: 14-Oct-08
+
+GoDaddy appears to have parked the domain. http://help.godaddy.com/article/608
+
+Add these three lines temporarily to your hosts file under C:\WINDOWS\system32\drivers\etc\
+
+174.37.22.18 www.babblesex.com
+174.36.228.186 babblesex.com
+174.36.228.186 livehubs.com
+
+Edit: Reboot to have this take effect.

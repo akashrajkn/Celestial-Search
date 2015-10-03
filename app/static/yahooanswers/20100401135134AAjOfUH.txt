@@ -1,0 +1,5 @@
+anyone help me my bbc i player says not enough broadwith to stream programe what does that mean?
+if u can help ill give you best anser thank you!!!!!   (its really bugging me)
+and what can i do to fix this problem?
+
+It means your internet connection is not fast enough. Either someone is hogging the line, or you just have poor internet, if you have a wireless connection, try moving closer to your router or setting up a wired connection.

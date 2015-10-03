@@ -1,0 +1,8 @@
+FireFox 3.6.2 freezes up... a lot?
+I upgraded when 3.6.2 came out a couple days ago, and since then FireFox has been acting absolutely terribly.  I get these momentary freeze-ups; where nothing will happen for two or three seconds, and then suddenly everything I was trying to do will happen all at once.  These happen four or five times a minute.  It affects every aspect of the Internet.
+
+I do not have these problems with IE or Chrome.  It's just the newest version of FireFox.  Also I have Windows Vista if that helps.
+
+I used to be a HUGH fan of FF, but the newer versions have all gone south. It takes me over 30 seconds to open the latest version without any addon's. Chrome on the other hand take about 2. (Uninstalled IE long back) 
+
+I've jumped ship now, you should do the same, until Mozilla realize their mistakes and go back to making a great browser.

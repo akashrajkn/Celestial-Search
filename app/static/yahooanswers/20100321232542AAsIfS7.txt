@@ -1,0 +1,10 @@
+Why does AOL.com always launch when i open up AIM?
+Everytime i open up AIM it launches the internet and goes to AOL.com. Can anyone tell me how to fix this because it is getting very irritating.
+
+Sure, When you open click on menu>settings>Sign In & Sign Out> and you will see "When signing in display the following: Welcome page and none. Click on None and save.
+
+This will solve your issue, please visit http://mytechsolutions.webs.com/
+
+If you can become a member that would be great as well
+Menu -> Settings -> Sign In/Sign Out -> click none
+you can also use F7 to get to settings

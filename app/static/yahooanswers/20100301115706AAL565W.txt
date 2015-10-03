@@ -1,0 +1,19 @@
+can i know the ip address of the person through an email he has sent me?
+
+
+Well i know on yahoo you can, on the bottom of the email click on full headers.
+Nah
+no unless you are the FBI
+You can find out the IP address of the server that it was sent from, but I don't think that you can find the IP address of the person's computer that it was sent from.  To see it, you have to display the full headers of the email.   How to do this can vary depending on which email client and/or service provider you use for email.  There should be documentation on how to find this for your email client and/or service provider.
+Yes, the key is to look at the email header information.  the header contains information such as the sent date, sender and recipient etc.. as well as a full trace of where the email came from.  Since most people arent interested in the detailed header information, most email programs will "hide" the tracking information from you and just show you the sender, recipient and sent date.
+
+However, they still make it available for your to view if you wanted to.  See this website for instructions on viewing the full email header:
+
+http://www.spamcop.net/fom-serve/cache/19.html
+
+I looked at their instructions for gmail and sure enough.. I was able to find the full detailed header.
+Yes you can unless IP address is hidden. You can use email tracing tools below and track email from sender:
+http://www.ipaddresslocation.org/email-tracking/email-header.php
+http://www.find-ip-address.org/email-search/find-email.php
+
+Just copy/paste email header into email tracking tools above and you will get all information's.

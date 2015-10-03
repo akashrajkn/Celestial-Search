@@ -1,0 +1,8 @@
+I bought an audiobook from Emusic. After 2 days, it says it's expired.?
+It had not even finished downloading, Emusic has a very slow download time by the way.  I can't find anything about it on the site.  Does anyone know ANYTHING about this?
+
+I suspect this to be the works of DRM (digital rights management).  DRM is a way that greedy record companies can sell music and audiobooks without giving the consumer any rights.  If the DRM file is put on multiple computers and devices, then the file doesn't belong to you any more, and it will not allow you to play it without paying for it again.  
+The file may have been a demo as well.
+
+Alternatively, 
+If the browser said it expired, it means that the server (the computer running the website) took too long to send the file to your computer or may have been disconnected.  Unfortunately there isn't much you can do besides complain to the help area on the website.

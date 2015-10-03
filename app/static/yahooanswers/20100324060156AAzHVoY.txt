@@ -1,0 +1,9 @@
+Default Search Engine on FireFox. How do I change it? (When searching through taskbar)?
+I used to have Google as my default, and whenever I would write on the taskbar for example ; Apple or whatever, it would take me directly to the Wikipedia page..
+Now I'm stuck with the AOL Search Engine as default and I really don't like it, how do I change it back? I can't seem to find it
+-FireFox 3.6.2
+
+the little box on the left allows you to select from a list, or manage the search engine options.
+Click on the arrow on search box, (there are search engines Wikipedia,Aol, Google) at the bottom there is manage search engines, click on it, click on search engines at the list, then edit keyword
+for example for wikipedia edit keyword w, so every time you want to search something on Wikipedia
+click ctrl+L  type w then the apple or whatever it would search in wikipedia

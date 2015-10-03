@@ -1,0 +1,31 @@
+Question about Internet explorer crashing constantly?
+I have Internet Explorer and every time I click on a link from google it comes up with a window saying Internet Explorer has stopped working, restarting. Or something like that. Why is this happening and how do I fix it? Also, its very slow.
+
+Do what that guy ernie said to do OR you could download Mozilla Firefox for free ( and legally)
+Its faster too
+i used to have the same problem just last week with INE 8 running Win 7
+
+you can first try to go to the Tools , internet Option, general, browsing history then delete cookies and the other temporary internet files that you don't need.
+click on advanced tape then click on RESET THE INTERNET EXPLORER'S SETTING TO THERE DEFAULT CONDITION .then click OK
+than click on  start, all programs, Accessories,  system tools, disk clean up, then when you finish empty your recycle bin ,
+than restart your computer and see if it works
+
+Good Luck
+most likely you have a virus also you can start ie and see what version you are using and if not current get updates or goto to tools and internet options and goto the last tab and reset ie and restart that may help if not get the info and come back here and hit me up i will help more
+Computers crash in most cases for registry problems. When you first buy your computer and bring it home it runs at optimum speed, but over time the registry becomes overloaded with unnecessary files and programs. Some of these files become corrupt and problems develop such as the computer crashing.You can fix these current computer crashes by running a  registry cleaners.I should like to commend Registry Easy http://computer-e-book-money.com            to you ! You can try ! Good luck!
+What version of Internet Explorer are you running? Make sure it is Internet Explorer 8.
+
+If you still find that your IE8 is crashing frequently in Windows, here are some trouble-shooting steps you may try:
+1. Run your anti-virus and an anti-spyware, to check for malware infections. Microsoft Security Essentials is a good freeware AV from Microsoft.  
+2. Clear Cache. Or else run your Junk Cleaner or CCleaner. In IE 7 or 8, click Tools > Internet options > Security > Reset all Zones to Default level 
+3. If still you find your IE giving problems, close it and run IE (No Add-ons). This opens up the browser without loading any add-ons, toolbars or plug-ins.
+ 4. Run sfc /scannow and at the end reboot if asked for. This will replace corrupted system files if any.  
+If you find it running OK, then the problem is most probably caused by an addon. In that case you have two options :
+- Use the manage Add-ons tool, and disable each one after the other to find out which one is causing the problem.
+- In Internet Options, go to Advanced Tab and click on Reset tab. Restart IE. This step deletes all temp files, disables any add-ons, plug-ins, toolbars and also resets all changed settings to default. Although this is a quick-fix, you will have to re-install the add-ons.
+
+I hope this helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team

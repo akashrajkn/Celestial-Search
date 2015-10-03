@@ -1,0 +1,15 @@
+Trying to sign up for desitorrents.com?
+Every time i try to register i recieve this message:
+"Proxy detected
+Please disable your proxy server in your browser preferences or internet settings, and try again. We do not allow proxies at registration but free to use it on the site once registered."
+I am using firefox and have my setting at "Direct Connection to Internet" but it still does not work.
+
+I'm not sure how to fix that but,
+
+I would suggest using a different torrent site such as:
+
+http://isohunt.com/
+
+or
+
+http://www.kickasstorrents.com/

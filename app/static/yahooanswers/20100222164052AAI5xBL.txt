@@ -1,0 +1,15 @@
+Wht happened to the gifworks site?
+I key in http://www.gifworks.com  and I get this in return:  http://www.clipart.com/en/
+
+Any insight on this?
+
+I was just informed that GifWorks was shut down. Someone over at AnimationFactory.com just told me that they are unable to provide technical support or suggestions for editing files. You'll need to find another program to edit GIFs.
+Lois, I have to say that "explanation" sounds a bit fishy to me.  If Gifworks has been closed, why does the link not send us to a page that tells us this instead of sending us to Clipart.com, which gives no explanation about Gifworks at all?
+
+Dorothy, there's another online editor here: http://www.online-image-editor.com/ that you might like to try but I don't like it as much as Gifworks.
+
+There's also an early version of Ulead Gif Animator that you can download for free.
+It's here: http://encoderx.co.uk/imageeditors/index.php
+
+To download it, click on the text link that says Ulead Gif Animator, NOT on the picture below it.
+

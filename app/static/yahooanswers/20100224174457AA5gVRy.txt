@@ -1,0 +1,6 @@
+dial up connection and internet radio?
+If you have a dial up internet connection. Does the connection allow you to listen to an internet radio program, without having any problems occur?
+
+Not very many have a dial up connection......
+It can be done if your dialup ISP is decent.  Don't expect to do anything else that requires bandwidth.
+If you mean Pandora then yes. Because I have broadband (about hi-speed) and Pandora still stops to load.

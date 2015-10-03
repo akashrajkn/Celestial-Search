@@ -1,0 +1,14 @@
+When watching programs on BBCi player, the picture keeps freezing, but the people carry on talking?
+This is annoying me now, it still happens if I download the programme to my desktop.  I have Virgin broadband with a speed of 50MB.....
+
+It sounds like graphics lag. When it happens go to you're destop and right click on it then click refresh, then go back to the video. Also try closing any programs you have running in the background like messenger or any torrent applications and lower the picture quality on bbci player.
+The most common cause of computer freezes is a corrupt registry.
+Corruption within your registry keys, registry classes, and registry settings are the most common causes of Windows error messages.
+ The Computer registry is a database that stores all of your computer
+settings. The computer registry becomes more complex as you use your computer. The more programs you use the greater the chance your
+computer registry will develop errors and become bloated over time. Without cleaning the registry on a regular basis it is very likely that your PC will freeze.
+
+Cleaning the Windows registry improves the performance of your computer and will reduce the number of PC freezes. The Registry cleaner cleans the registry and frees up Windows registry space.
+ 
+Completely clean your windows registry with a few clicks of the mouse
+http://fix-pc-freezing.com

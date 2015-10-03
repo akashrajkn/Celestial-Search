@@ -1,0 +1,17 @@
+What is a free web hosting site?
+I created a site in iWeb and want a web site to host it without paying 100 for mobile me.  I need one that i can find the FTP of.  (i have a program that will convert it, but it needs the FTP)
+
+I really like http://www.freehostia.com where you get a free web site, ftp access, one free MySQL database, and or course, free domain name hosting (if you buy a domain name).
+http://www.threehosts.com/publish/iweb.html
+
+Hope this helps.
+hi,
+ try http://www.xnynz.com/ which gives free hosting in one of its packages
+Free web hosting companies come with ad banners which can be quite annoying to your users. Rather, you can try cheap and economical web hosting. I'd recommend you iPage. When you register a domain name you usually require a web hosting. iPage brings you a convenience. You can now book an iPage free domain registration great with your web hosting package. You can also get the web hosting plans a discounts: http://www.webhostingbreak.com/ipage-discount/
+Try Hostgator if you need FTP access. Yes it is free. This is how to get it free http://freehostingsites.org/hostgator
+If u Want to Set up a Free website with free domain name and free Php hosting Read this article
+
+http://dotcomwebsite.blogspot.com/
+https://www.sky.uk.net/Free
+
+They have both Linux and Windows products

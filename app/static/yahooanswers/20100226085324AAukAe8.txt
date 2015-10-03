@@ -1,0 +1,20 @@
+I installed Java update & Adobe Flash Player update & now I can't see videos on YouTube using either browser?
+YouTube says I need to turn on JavaScript or install new version of Flash Player.  I have the latest version of the Flash Player installed and JavaScript is on "on" the Firefox browser.  When I tried viewing a Youtube video using Internet Explorer, it just shows me a black box where the video should play and simply doesn't play.
+
+I've also cleared the recent History on my Firefox Browser.  
+
+Should I turn Comodo Firewall off?  Would that help?
+Should I delete the last updates somehow?  (Java & Adobe Flash Player)
+
+Everything seemed to be working fine until I installed the Java update but that could just be a coincidence. 
+
+Any help would greatly be appreciated...
+Would using System Restore to go to a previous date correct this?
+Restarting or rebooting didn't help anything...
+
+you have to install flash player for other browser
+maybe google for this file
+install_flash_player_ax.exe
+it would be a bad idea to shut off fire-wall unless you put a time limited for how long for,or other wise the viruses will get-in,do not want that to happen?there is a warning about down-loading adobe flash player did you not see it?that is no coincidence,was not your computer working properly before you installed  java and the flash-player?
+restart your computer
+Java has nothing to do with YouTube, as youtube runs in flash player. Try restarting and clearing your cache.

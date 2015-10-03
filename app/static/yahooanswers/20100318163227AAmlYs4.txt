@@ -1,0 +1,5 @@
+I can't watch a video in jw player using firefox?
+I have been watching a tv series on a website for some time now.  I was able to watch up to episode 50 or something along the lines of that.  When I went to the next episode, the place where the video player was (jw player) it was just white.  It didn't even do video not found.  It didn't show the bar at the bottom or anything just a white space.  I am using firefox and I don't know what the problem is, whether its the browser or the website itself.
+
+JW is good. But I like Moyea Web Player - http://www.playerdiy.com/
+Install java and flash.

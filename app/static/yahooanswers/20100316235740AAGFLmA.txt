@@ -1,0 +1,27 @@
+how to make a website, huh?
+i'm gonna make a website for myself.. anybody know about how to make a web page? please, help me.. thx.. ^.^
+
+Start learning all the basics of making a website, especially HTML, Javascript and CSS.
+If your having a good knowledge in HTML, u can go ahead with web page creations. u can buy and start making. best of luck.
+
+But, If u dont have HTML knowledge, u can first try making a blog. (blogger.com)
+it will improve your knowledge and then u can go ahead with an html web page creation.
+Our online Website Builder plans below allow you to select a design template and build your entire website online within minutes. 
+Over 800+ unique designs & 15,000+ templates to choose from 
+Unlimited updates - Add/Remove pages or modify the design, all with a simple click of your mouse. 
+Publish/Host anywhere - The plans listed below DO NOT include Web Hosting services. You can use the Website Builder to design your website and publish it anywhere 
+
+Visit this URL: http://grosoftindia.in/sitebuilder.php?type=sblite
+www.GrosoftIndia.in or www.GrosoftIndia.com
+Hello, 
+First you will have to register a domain name. Just google domain name registration and you'll get plenty of results. Or, if you wish, you could 'register' for subdomain through your webhost. This is free but the downside is it is not considered search engine friendly. So supposing the name of you web host is abxy.com, your domain name would be www.yourdomain.abxy.com
+
+Next, you'll need a host to host your website. You can either get a free webhost and you can pay. Free ones are fine but take note they are notorious for going belly up all of a sudden.
+
+One you have selected your web host, you can easily make a website using the website builders of web hosts. The website builders will have templates for you to choose from, which you can edit if you know HTML. Use the drag and drop feature to add text, pictures etc to your website. Once you're done creating the website, just click publish and you're done.
+
+Alternatively, use a website development software such as Dreamweaver to create your website. The advantage here is that you decide exactly how you want the website to look. The upload all these files to your webhost's server, and that's it.
+
+Good luck.
+you need to learn some languages like HTML, CSS, javascript, vbscript, ASP.net, PHP etc........
+http://www.stingesitebuilder.com

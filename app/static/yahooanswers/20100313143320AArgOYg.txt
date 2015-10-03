@@ -1,0 +1,5 @@
+How can I right-click on a website that won't allow right-click?
+
+
+Disable javascript in your browser.
+Go to view then source and you can look up what you want on the page and bring it up on another browser and download it. Not sure of the details of what you want so that is all I have for you.

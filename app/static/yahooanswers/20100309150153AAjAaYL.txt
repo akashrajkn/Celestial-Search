@@ -1,0 +1,5 @@
+A firefox addon name?
+I am searching for a firefox addon I used to have but I have reinstalled ff and I don't remember it. It replaced the X on each tab with a "1","2","3" etc, and you could navigate to the tabs using Alt+1 or 2 or 3 etc, according to the tab's "tag". What is this addon?
+
+dont know what it's called,but if you never get to find it, you can switch through tabs with CTRL+Tab which cycles to the next open tab.
+Is it tabmixplus?  That's a popular one.

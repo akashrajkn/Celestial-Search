@@ -1,0 +1,5 @@
+will bolt browser work on my itouch?
+i heard of this free web broswer that you can download on portible internet capable devices ..will it ork on my itouch?
+
+No it will not but if it is in the app store it should unless they make a port for it on cydia or rock (which you need jailbreaking for) Try this if you want cydia and rock www.blackra1n.com
+BOLT runs on any J2ME based device. Unfortunately iTouch have no Java Support. BOLT may support other platforms in the future.

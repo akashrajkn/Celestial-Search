@@ -1,0 +1,21 @@
+How do you download large files from a slow internet connection?
+
+
+download and install the software called "DOWNLOAD ACCELATOR PLUS".
+
+your download speed will increase upto 10 times.
+There are MANY reasons for computer slow downs:
+ not enough memory
+ too many programs starting up with windows at boot up time
+ too many junk files
+ too many restore points
+
+Clean windows registry can speed up the computer.
+Over time, you install new programs, uninstalled unimportant programs, update software's, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://registry-computer-cleaner.com
+Have check you pc make sure why is your pc is slow.
+ http://pc-check-tools.com/Slow_PC

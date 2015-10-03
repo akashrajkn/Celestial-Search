@@ -1,0 +1,6 @@
+internet explorer question?
+I have roadrunner and my internet explorer seems to be gone (I can't get online)
+is there some way to get it back?
+
+Click Start>Run and type Iexplore.exe and press enter
+Look in your start menu list of programs under Windows Internet Explorer. You should be able to right click and create a shortcut on your desk top.

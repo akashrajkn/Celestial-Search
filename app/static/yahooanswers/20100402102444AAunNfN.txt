@@ -1,0 +1,13 @@
+Sometimes after i have used Firefox. Windows will say still running. How do I stop that?
+I will be using Firefox. X out than later want to use Firefox again. Windows tells me to restart. Anything else I can do to stop that?
+Task manger does not show anything.
+
+Go to taskmanger:
+
+hit AlT+CTL+DELETE at the same time;
+then click on task menager:
+find firefox.exe then select "end process"
+
+That should fix it.
+press ALT+Ctrl+Delete...the task manager windows pops out..click on "processes" tab and search for firefox.exe and click on "end task"...you might find many "firefox.exe" processes running...stop them all by "end task"...try reinstalling Firefox..it might solve the problem..also scan your PC fro viruses...good luck
+lock & load button - hahahhahahaha

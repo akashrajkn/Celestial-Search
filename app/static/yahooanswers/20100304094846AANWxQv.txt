@@ -1,0 +1,9 @@
+I am missing a back button on firefox.How can i get it back?
+I seem to be missing some sort of toolbar on firefox.I might have turned it off by accident.I dont have a back button on display on firefox.How do i get it back?
+
+either hit F11 or reinstall firefox, i suggest using google chrome though
+Go to View/Toolbars and make sure "Navigation Toolbar" is selected.
+
+If there is still no back button....right click on one of the other buttons, choose "Customise", find the back button, drag and drop it to the navigation toolbar then click "Done".
+Try looking under Tools: Options to see if theres anything there.  Or try downloading it again.
+Follow the instructions Arther gives. His is the correct answer. Also, Chrome sucks! lol

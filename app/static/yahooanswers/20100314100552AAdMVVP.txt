@@ -1,0 +1,18 @@
+how do you save SNL bumper photos?
+when i get on nbc.com and try to save the bumper photos to my computer, it won't let me...is there a way to bypass that? because i'd rather not have to search through google images..thanks!
+
+Take a screen shot of the photo
+
+To take a screen shot of your monitor..press the "Prt Scr" button on your keyboard..its located above the Insert/Delete keys.
+
+Now go to Start...All Programs...Accessories....Windows Paint.
+
+In Windows Paint select the "Edit" Tab and select Paste.
+
+Crop the photo you want and
+
+Select "File" Tab and select "Save As"
+
+Your photo is saved and ready to be posted or e-mailed.
+
+Cheers

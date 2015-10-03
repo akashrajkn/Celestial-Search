@@ -1,0 +1,31 @@
+Internet anti virus question please help!?
+Can somebody give me a link of a free anti virus online I can downloads for my laptop please!!!!!!! thank you!!!! 
+
+Who ever get's me the best one get's the 10points!
+
+http://www.avast.com/index
+http://free.avg.com/us-en/homepage
+http://www.microsoft.com/security_essentials/
+best for 7
+always spots malware and spyware sites before u enter them also. never have had a virus with this antivirus.
+Here is a combination that we use for our customers computers:
+
+1. Microsoft Security Essentials: http://www.microsoft.com/security_essentials/
+2. Malware Bytes: http://www.malwarebytes.org/
+www.avg.com is good
+If you are already infected, especially with that virus that pretends to be an antivirus, you need Malwarebytes AntiMalware.
+
+It's free and available at Download.com
+
+The virus will often block installation, so you need to boot into Safe Mode with Networking.
+
+1) Turn off computer.
+2) Turn the computer on.
+3) Tap the "F8" key every few seconds.
+4) At the boot prompt choose "Safe Mode With Networking"
+5) When Windows loads fire up your Internet browser and go to Download.com.
+6) Download and install Malwarebytes AntiMalware.  (It'll be on their top downloads list on the right)
+
+Make sure that Malwarebytes updates itself, then run it.
+
+That should fix it.  Most other antiviruses will not work.

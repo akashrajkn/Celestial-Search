@@ -1,0 +1,10 @@
+I have several e-mail addresses on different websites is there a program that would check them all?
+I have this problem, you see i use a lot of e-mails such as Yahoo, Google, Hotmail and str.... The thing i am searching for a program like AIM only so that i could add all of my e-mails and so that it would check them all and also work like skype or AIM for chatting. Well not chatting maybe but for a quick replies. The thing i just installed Windows Live Mail, Windows Live Messenger and AIM and i don't know if these programs can already do that because i never used them before, but if they do than can someone please explain to me how do i add more of my e-mails to it?
+
+there is a quick fix 4 you in windows live. on the left hand side click on manage e:mail accounts and you can put all your e:mails in there. i do it all the time
+You can add other emails from other providers in Gmail.
+Windows Live mail is an email client that can access web email accounts using what is called POP3
+http://www.freeemailtutorials.com/windowsLiveMail/setupEmailAccounts/
+
+if you want a free all in one solution that does email  and instant messaging, try Digsby
+http://www.digsby.com/

@@ -1,0 +1,12 @@
+Hi, while trying to open Mozilla Firefox for browsing my system is taking too much time to open and some?
+times it is not responding,i am facing this problem frequently.Kindly suggest me some solution to open Firefox to browse internet immediately.thank u
+
+hi keshav, what has happened is due to the time your mozilla firefox was installed on your computer due to ware mozilla on your computer drivers is not working correctly so to correct this problem hit start settings control panel hit the add/remove icon or programs&features scrol down and unionstall then when it is removed reboot then go online and in the search bar search for mozilla firefox and download it and reinstall it on your computer your drivers will work now. good luck hope i was helpful to you
+check ur pc ram may be u shud upgrade it!!
+u can also download ram booster for ur pc also check for viruses....
+if u hav sufficient ram then i think the software is corrupted try reinstalling it..
+gud luck!! :)
+i am also facing the same kind problem with firefox.
+what i suggest you,just reinstall firefox if possible then install current version.
+your problem with firefox will be sorted out.
+Sometimes an easier way than reinstalling firefox is clearing the downloads list. When it is being launched, firefox scans the entire list, so the smaller the list, the better.

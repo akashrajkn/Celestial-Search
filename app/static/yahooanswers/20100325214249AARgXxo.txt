@@ -1,0 +1,5 @@
+What is missing in my browser?
+I am unable to open websites like 123greetings.com or any other e-cards website. All my browsers (IE 8, Firefox and Google Chrome) couldn't perform the tasks.
+
+java could be the missing thing... or maybe flash player.... or shockwave player just go to java.com and to adobe.com and get the latest versions  of all the things
+You need install flash player.

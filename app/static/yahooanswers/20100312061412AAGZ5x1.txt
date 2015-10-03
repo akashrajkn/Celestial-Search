@@ -1,0 +1,10 @@
+My Safari has lost its URL bar...?
+Y'know the bit were you type in what site you want to go too [not sure what the proper name is for that] but yeah its gone o.O 
+
+I uninstalled safari and installed it again but its still not there, i dont know whats happened :\ my friend was using it then she went and when i came back on it BAM it was no longer there :|
+
+Please HELP i <3 Safari... Btw i do not have a mac, i just downloaded it to my Dell lappy...
+There is nothing here apart from my tabs and internet history :| no view, tools, help etc... o.O
+
+Hit F-11 to make sure it's not in fullscreen mode.
+View, Customize Toolbar then rearrange things so the address bar is visible again.

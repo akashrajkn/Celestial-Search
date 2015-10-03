@@ -1,0 +1,5 @@
+Is it illegal to change your IP through the command prompt?
+
+
+Yes it is LEGAL.
+Because it will just log onto your IP list and keep a track of all your IP's used, completely and utterly, LEGAL :)

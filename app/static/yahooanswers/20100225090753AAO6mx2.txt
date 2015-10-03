@@ -1,0 +1,17 @@
+why won't mozilla 3.6 install?
+I have a computer that had TONS of problems and missing drivers. I now have zero exclamation points nor any other odd mark in the device manager. It did nor does it now have any malware, adware, spyware, viruses etc. it is clean. I have ran Ccleaner, sweepi, defrag, windows update, etc. All seems fien. It tells me my computer is not up to par. It asks for at least a 500MHZ computer.This one is 2.0 GHZ, it has well over 125 GIGs of free space, 1 gig ram and a good GPU. What could be the problem?
+
+mabe you already have it
+use google chrome
+would need to know what operating system you have and what error message you get
+check the registry edit for mozilla and delete it.
+Your computer package may simply not compatible with it
+Giving the error message really helps.
+
+If your computer is not 'up to par' according to the setup file, remove EVERY driver and RE-INSTALL every one of them, one at the time.
+
+every computer should be able to run firefox these days, and your problem is probably caused by the bad drivers.
+If you can¡¯t find the right drivers manually I would recommend just getting a software program that can do it for you. There is a program I use which will find drivers for just about all hardware devices. The best part is it takes a snapshot of your system specifications and matches the right driver to go with it. Perform a free driver scan at:
+http://www.drivers-updates.net/
+You can also search by the following link:
+http://forums.driverguide.com/

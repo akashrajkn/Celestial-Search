@@ -1,0 +1,10 @@
+Using Skype while using an internet mobile device?
+Just wondering if using Skype would eat up my allotted internet usage on my mobile internet stick.  In other words is it a hog as compared to just surfing the internet?
+
+yes, because the bytes are used during calls. . .
+VOIP need more net usage then just browsing the net.  
+The best option is to take a unlimited plan. 
+
+PS: Compared with other Chat client Skype is the bandwidth eater. You can use Gtalk like other service for VOIP. it will be lower then others. The best option is use Fring. Its support all the chat client and suppot Video calls to. Just try it. And let me know. 
+
+Cheers

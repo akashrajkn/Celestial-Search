@@ -1,0 +1,35 @@
+Movie made playable on dvd players?
+Not sure if this is the right spot for this but anyway, I have movies that I downloaded off the internet that I'd like to get put on a cd/dvd that will be playable on DVD players.  Is there a SAFE and free site that I can do that on?  The files are .avi, and .wmv.
+
+yes if u run windows go to windows dvd maker but u may need to use freevideocoverter to convert it to mpegII 
+
+http://www.any-video-converter.com/products/for_video_free/
+I am using Leawo DVD Creator and Free dvd to avi converter to convert videos between AVI format and DVD. This dvd creator can burn avi to dvd with menu in several minutes. And the dvd to avi converter is free with no watermark.Here free download Leawo DVD Creator:
+http://search.yahoo.com/search;_ylt=A0oGkw22TZxLDEkBuV1XNyoA?p=leawo+dvd+creator&fr2=sb-top&fr=yfp-t-701&fp_ip=cn&rd=r1&meta=vc%3Dcn&sao=1 
+Leawo Free DVD to AVI Converter for Windows here:
+http://search.yahoo.com/search;_ylt=A0oGkkiGUpxLVu4AZZRXNyoA?p=leawo+dvd+to+avi&fr2=sb-top&fr=yfp-t-701&fp_ip=cn&rd=r1&meta=vc%3Dcn&sao=0 
+dvd to avi converter for MAC:
+http://www.google.com/search?hl=en&q=site%3Aleawo.com+DVD+Ripper+for+Mac&btnG=Search&aq=f&aqi=&oq=
+Standard DVD players read the .Vob format, the files you have now are in AVI format..
+
+I would recommend you download ConvertXtoDVD. Ive been using it, it works just great.
+
+It will automatically convert to DVD format, readable by all standard dvd players, it will then burn automatically to DVD...
+
+it is easy to use, fast and it works perfect for me.. give it a try, you'll love it
+
+1. Download ConvertXtoDVD here:
+http://convertxtodvd.burner-software.com
+
+It can convert any video file.. like wmv, mkv, mp4, avi to dvd
+
+2. Add or drag-n-drop as many video files as the DVD can handle
+
+3. Insert blank DVD
+
+4. Click "Convert"
+
+5. Enjoy watching those video files on your home DVD player! =)
+
+It has many other nice features too, for example;
+you can create your own DVD menu, and add subtitles

@@ -1,0 +1,6 @@
+Verizon High Speed Internet General Question.?
+Okay, well I just paid for Verizon High Speed Internet (FIOS isn't available in the hicks). I got telephone line "adapters" in the mail today along with a few papers to go along with everything. The Internet setup shows a modem with a telephone line going to it instead of a coax cable.
+Is High Speed Internet, cause it looks a lot like DSL to me?
+
+It is DSL. You need to get Cable.
+DSL IS high speed internet! You got some line filters, but yes it basically just uses your phone line. Don't confuse DSL with 'dial-up' - it's much faster - up to 10-15MB/s if there is a decent fiber network in your area, but a minimum of 1.5 - 2 MB/s anyway, even over old copper phone lines.

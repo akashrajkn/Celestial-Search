@@ -1,0 +1,10 @@
+My Safari has lost its URL bar...?
+Ok so y'know the bit were you type in what site you want to go too [not sure what the proper name is for that] but yeah its gone o.O and i uninstalled and installed again but its still not there i dont know whats happened :\ my friend was using it then she went and when i came back on it BAM it was no longer there :|
+
+Please HELP i <3 Safari....
+nope not on a mac... all i have is my bookmarked things... o.O
+
+View > Show Toolbar.
+
+Keyboard command: Cmd+Shift+| (above the enter key)
+If you are on a mac right click where your url bar used to be, click customize toolbar and then drag and drop the url bar where you want it.

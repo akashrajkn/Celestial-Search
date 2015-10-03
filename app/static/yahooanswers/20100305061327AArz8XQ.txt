@@ -1,0 +1,9 @@
+How to block others from online virtual bidding?
+For example I am using a website that sells cars and they run real-life online auctions. CAn I somehow block other bids? Is there a software that enables that? Or for example on Ebay? Thanks
+
+Usually there's a end now option to the highest bidder, may need to look through the guides on the website
+On ebay there is a setting in your my account > prefferences.
+
+Buyer prefferences. This enables you to block certain bidders with the credentials below what you set. There is also an area to block certain bidders.
+
+The site your on should have a similar section to enable prefferences.

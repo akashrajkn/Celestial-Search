@@ -1,0 +1,12 @@
+Can malware put porn on your computer?
+If so, is it possible to tell whether said porn is actually malware or if it was actually watched by someone on your computer?
+
+Yes, malware can put porn onto an infected computer. Determining if someone actually downloaded the porn or if it was installed by the malware would be more difficult.
+
+See my source for an article about this type of malware:
+Yes, it can put anything on your computer.
+
+Even a webpage can put hidden pictures onto your computer. By resizing them as 1x1 pixels on your screen, but it's really a full-size pic in your cache (hard disk).
+
+Can you tell if someone looked it it? That would be very difficult, and would have errors. So you could not tell for sure.
+Malware sure can put porn and other things on your computer!

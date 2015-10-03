@@ -1,0 +1,13 @@
+I asked this question few days ago but i wonder why no one couldn't answer this?
+I used to see veetle tv very smoothly when i reside in singapore,the connection speed was 54mbps.but i moved my place to Sri lanka,but i have LAN connection with a speed of 100mbps.why i can't see the Veetle streaming very smoothly yet i have a good connection??This is HD streaming TV better than other streaming.... please i am not so expert in this IT.... but i am big fan of NBA...please help me to see the matches...
+
+OK, so Veetle is in the USA. Despite that you're connecting at 100mbps to the network infrastructure in Sri Lanka, it's quite possible that the "bottleneck" is in the connection between Sri Lanka and the USA, while Singapore and the USA is much faster. I'm only speculating here, but here's a hypothetical example:
+
+If you have 54mbps connection to the Internet in Singapore, and Singapore has 1000mbps to the USA, then you're good. You basically have a 54mbps connection to Veetle.
+
+If you have a 100mbps connection to the Internet in Sri Lanka, but Sri Lanka only has 1mbps to the USA, then your connection to the USA is only 1mbps.
+
+Obviously the numbers are different, and it depends on how many other people in the area are also using the pipe between you and the USA, but you get the idea.
+Try a speed test and see what the actual connection speed is from Sri Lanka to the USA.
+
+Go here for the test: http://www.speakeasy.net/speedtest/

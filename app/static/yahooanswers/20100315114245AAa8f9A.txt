@@ -1,0 +1,5 @@
+How do I save facebook videos onto my computer using firefox's grease monkey?
+Websites say there should be a bar with the option to download below videos. I don't have that.
+
+I don't know if grease monkey can do it, I have a few plugins for doing that so I checked it out. This one worked:
+

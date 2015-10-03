@@ -1,0 +1,22 @@
+Error- Too many Redirects. Please help.?
+After unsuccessfully trying to open a web page on Internet Explorer, I tried Google Chrome and I keep getting the message- Error 310 (net::ERR_TOO_MANY_REDIRECTS): There were too many redirects.- 
+I tried what google suggested like clearing my web history and cookies. It didn't help. I have reset my router and computer, left it 24 hours and still no better. I googled the error but all the resolutions are in computer genius terms and I'm completely lost. If someone could offer me some ideas in simple instructions, I would be forever appreciative.
+
+possible
+
+Browser hijacker.
+
+use
+
+malwarebytes : http://www.malwarebytes.org/
+
+also
+
+super anti spyware : http://www.superantispyware.com/
+
+
+
+
+
+
+.

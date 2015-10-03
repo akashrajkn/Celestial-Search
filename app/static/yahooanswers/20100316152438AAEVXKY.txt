@@ -1,0 +1,30 @@
+Beat anti-virus softwares?
+my computer is infected with viruses....plz provide me the links of the best anti-virus software downloads dat are at the same time also free.
+plz asap...
+thanx..
+
+Kaspersky.
+
+www.kaspersky.co.uk
+I would Recommend Malwarebytes Anti-malware Though you might want to try downloading it on another computer and put the set up on a usb-drive (so the viruses don't screw up the set up), and then rebooting your infected computer into safe mode (Done by pressing F8 when you first turn it on) and then installing it. After that, run the scanner (takes awhile) and then it should show what viruses are on your computer.
+
+Heres the link: http://www.malwarebytes.org/
+
+Hope it works ;)
+ah yes i have the perfect one for you
+Microsoft security essentials is one of the best free anti-viruses out there !
+it is made by microsoft !
+i remeber this one time there was this virus on my friend's flash drive and as soon as he put it into my computer without even scanning it picked up a virus and alerted me.
+
+here is the link for Microsoft security essentials download :http://www.microsoft.com/security_essentials/default.aspx
+
+if that does not work you can download avg anti virus from download.cnet.com
+good luck :)
+You can use SpywareNoMore. 
+As we all know Computer hackers seeking financial gain rather than thrills or notoriety are increasingly flooding the Internet with malicious software code (spyware, adware, key loggers, trojans). They are infecting computers with highly sophisticated programs that record surfing habits, bank passwords and other key financial data and send them to crooks over the Internet. These programs can be hard to spot, disguised in downloads such as toolbars, search engines, browser accessories, screen savers and other seemingly helpful utilities.
+
+SpyNoMore anti-spyware safeguards your identity and restores system performance through fast, smart and powerful spyware protection.
+http://www.dvd-rip-software.com/Other-Software/Other_Tools/SpyNoMore.html
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

@@ -1,0 +1,26 @@
+how to remove dotted border around links in Firefox , please explain in simple English step by step?
+How to remove dotted border around links in Firefox, please explain in simple English step by step , and i don't even know what CSS means , so please explain that too because i am sure it has something to do with it after i searched in Google , the dotted borders started to show recently and never before :(
+
+Don't worry, you don't need to really learn CSS to fix it. CSS stands for "Cascading Style Sheets" - they are used in web design. Just follow these steps to correct your problem:
+
+1. Open My Computer; navigate to this file: C:\Program Files\Mozilla Firefox\res\ua.css
+2. Open the file (in Wordpad).
+3. Press Ctrl-F. In the Find window, enter: moz-any-link:focus
+4. You should see the following:
+
+*|*:-moz-any-link:focus {
+  /* Don't specify the outline-color, we should always use initial value. */
+  outline: 1px dotted;
+}
+
+5. Where it says "outline: 1px dotted;", replace the text with "outline: none;". Now it will say
+
+*|*:-moz-any-link:focus {
+  /* Don't specify the outline-color, we should always use initial value. */
+  outline: none;
+}
+
+6. Close Firefox if it is open. Save the changes.
+7. You're done! Problem should be resolved when you re-launch Firefox.
+
+Good luck!

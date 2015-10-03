@@ -1,0 +1,11 @@
+My Explorer browser is all of a sudden opening all new pages in new windows?
+It just started doing that little while ago today.  How can I reset it to open pages in the same window?  Can't find anything in Tools/Internet options.
+Not all new pages...it doesn't do it within Answers, for example.  But most others...like clicking on a search result or something like that.
+
+Tools. . . Internet Options. . . General Tab . . . .Settings . . . ."open links from other programs in. . ."
+
+options:
+
+1 A new window
+2 A new tab
+3 The current Tab or window  <--------------- I believe this is what you are looking for. :)

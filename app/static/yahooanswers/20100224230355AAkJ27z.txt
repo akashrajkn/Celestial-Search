@@ -1,0 +1,26 @@
+internet browser problems, can any1 help?
+okay so i fully wiped my PC and reinstalled evrything but now firefox sometimes crashes on certen sites, (it also happens with IE) its pissing me off, i cant even get on youtube now, i relinstalled firefox, please help me
+
+Download the new version of firefox and install it.. Some of the sites it will crash the browser don't use the sites.. Install the new version this problems continuous means fromat the hard disk and reinstall the windows with the new windows setup 
+
+2.5 years i am using fire fox but I didn't face any problems. But some times it will slow  that's all.
+You have to install the latest version of Firefox http://www.mozilla-europe.org/en/firefox/
+Then install 
+Adobe Flash Player http://get.adobe.com/flashplayer/
+Shockwave Player http://get.adobe.com/shockwave/
+Java http://www.java.com/en/download/manual.jsp
+
+You will find all the important plugings here https://addons.mozilla.org/en-US/firefox/browse/type:7
+
+If nothing works then the best thing to do is a system Restore!
+
+Click on Start
+All Programs
+Accessories
+System Tools
+And open System Restore
+
+It will more likely fix the problems.
+make sure you have java updated and enabled
+
+http://support.mozilla.com/en-US/kb/Using+the+Java+plugin+with+Firefox

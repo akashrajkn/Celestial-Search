@@ -1,0 +1,8 @@
+When Firefox or IE are open and I type in any program, why do I loose my cursor after typing a few words?
+The screen becomes inactive, I hear the little dinging sound, and I then must click back in that screen to type more.
+
+try running it in safe mode...just a random guess...!!
+You may have hotkeys enabled. Or you may be accidentally hitting the ctrl key, perhaps instead of the shift key. That will take focus off the current window, causing you to have to click the window to return focus to it.
+
+...
+

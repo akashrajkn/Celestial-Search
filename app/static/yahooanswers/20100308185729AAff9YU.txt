@@ -1,0 +1,10 @@
+My wireless router is 5ADN6 but when I use my DS Lite to search for an access point, it doesn't show Up! Why?
+I'm trying out WI-FI but I can't access it. Please tell me how!
+
+Have you set up your settings before trying to hook up? If not thats probably why
+You should make sure everything is correctly connected in the router. If that is all good, you should see if any other wireless device can pick the signal up. i.e. A laptop or iPhone. If some other device does pick it up, it is nothing to do with the router. If they don't, it is probably the router. So if it is the router, call the provider's support. If it is you DS call the Nintendo support for further help. Well I hope this helps in any way.
+The router may be set to not broadcast its SSID (network name) for security reasons.  (Everyone on the block can see it and target it for freeloading.)  
+
+If you can, try supplying the router's SSID directly to the DS lite rather than expecting it to show up in a scan to be clicked on.  It's safer that way.
+
+Hope that helps.

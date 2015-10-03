@@ -1,0 +1,6 @@
+Help!! ill be in big trouble.. how to my laptop forget my wireless wpa pass..!!?
+hey guys i sneakily wrote down my wireless internet's wpa pass which i just could wait till tomorrow to setup tomorrow and i told my mom that it will prompt for the pass everytime to connect.. any1!! plz help me.. how to make the laptop prompt the pass word??
+bigpond wireless
+compaq presario laptop.
+
+on windows 7/vista right on the wireless icon then find the internet connection, right click and and press properties.. then take out all the information from the password boxes. now disconnect the internet and reconnect, type in the password and click remember this connection/start connection on startup

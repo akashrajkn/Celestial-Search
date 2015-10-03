@@ -1,0 +1,32 @@
+Why does Internet explorer, when I try to play a downloaded game, keep saying. we have encountered a problem?
+
+and it needs to close down? It really is annoying...
+Does firefox really make that much difference?
+If I change to firefox,how can I keep favourites? Sorry, not very computer savvy!!!
+
+because it's Explorer. Use Mozilla Firefox instead.
+Get Firefox. It's much better. ;)
+Because Internet Explorer is crappy..use Firefox or Opera 10..Opera 10 is the best
+Does IE work when you just try and go on regular websites? If it doesn't then it could be a connection problem. 
+
+Check all cables are in and that your broadband is working. Click on tool and make sure it is online within the options and not currently working offline.
+
+If you can get on other sites then it may be a problem with the game download you are trying to play. Make sure it is not a virus that you are downloading. 
+
+If it is a game within internet explorer not something you have downloaded and saved then check you are up to date with the latest explorer version and any add ons you need for the game such as java and/or ActiveX controls. 
+
+If not any of this check your securuty setting within Internet Explorer. They may be on the highest setting preventing that particular game from working. Tools>Internet options>Security. 
+
+Also check your firewall as it could be blocking that application or game. 
+
+In fact those last two things I have suggested I should really have suggested first as they'd be the first two things to check. Hope this helps.
+
+You can keep your favourites if you install firefox, it gives you the option of copying all your present favourites from Internet Explorer. The only trouble then is that if you use firefox for a while and decide you don't like it, it can be difficult to then get any newly added favourites back to IE.
+
+I'm not a big fan of Firefox I think Internet Explorer is much better. You just have to be sure to keep it updated. The game should work in Explorer so there must be some issue as to why you get the error message. Try asking the company that provides the online game what the cause may be, they may be able to troubleshoot it better for you.
+
+When it says it has encountered a problem and needs to close that must signify something more seriously wrong with the program as to why it doesn't work. I would recommend you update to the latest version of Internet Explorer and download and install any add on's that you need to play the game e.g. Java and/or ActiveX. If you still have the same error message it could be a hardware problem. Have you made any recent changes to your computer with its hardware and what is connected?  What are your system specs e.g. Cpu, Memory, Graphics Card, Direct X version?
+Question is a bit too brief to give an answer.
+Internet Explorer is a pain, I had problems for years before I discovered Mozilla Firefox I was always having to use the Task Manager to get out of hung screens. 
+
+Just download Firefox, its free. Your computer will be faster with no more "we have encountered a problem and need to close" or "the page is not responding".

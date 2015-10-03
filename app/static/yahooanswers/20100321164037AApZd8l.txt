@@ -1,0 +1,11 @@
+How do I convert my audacity podcast to an mp3 format?
+I'm specifically wondering how to do this using the "Lame Encoder," but if you know of another way, I'd appreciate that too! :) Thank you!
+
+lame is not a audio converter, it only lets you export your work as mp3 with audio editing programs that your using
+At audacity.sourceforge.net/, on the 'Downloads' page and in the left menu under 'Plug-ins and Libraries' -- you find the 'Lame faq' link, that (finally, WHEW) leads you to the 'Lame Download page'.
+
+Anyway, once you have that saved to your computer, run the program. You only need to do this once, so that Audacity 'knows' where to find the Lame Encoder. 
+
+When saving your entire compilation, be sure export the entire length as mp3-- in comparison to the export selection as mp3 option, in which you click on the exact selection you wish to export (making it a deeper gray color than the other imports). 
+
+Also: When saving the song, and choosing folder options and such, be sure to choose the 'Mp3 File' as the output.

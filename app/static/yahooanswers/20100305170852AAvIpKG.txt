@@ -1,0 +1,9 @@
+how do i get the printer icon back on my internet explorer?
+i reinstalled internet explorer due to a bug, but now my printer icon is gone from the top right corner. how do i get it back?
+
+http://internet-explorer.brothersoft.com/screenshots/Internet-Explorer_1.png
+that is what im talking about
+
+Go here:  http://support.microsoft.com/kb/923737
+
+Click fix it for me to reset IE to default, should put the printer icon back in the bar.

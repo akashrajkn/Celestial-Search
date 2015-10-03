@@ -1,0 +1,24 @@
+How can you change a website when...?
+I have a guy who wants me to redo his website but the guy who originally made it won't release the passwords and user names, etc.  all the guy has is the email info this guy set up for him.  I did a who is check and got this maybe someone on here can tell me if there's anything that can be done.  I blocked out personal info.  Even if there is someway this guy can delete the site and somehow buy it again, although i think the guy who built it bought it for him.
+
+the 'clientDeleteProhibited' makes me think there's nothing that can be done?
+
+Domain Name: ***********************
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS39.DOMAINCONTROL.COM
+   Name Server: NS40.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 11-sep-2009
+   Creation Date: 27-sep-2008
+   Expiration Date: 27-sep-2010
+
+thanks in advance
+
+The best answer I thought of was to get the guy who has the website.....the one you are working for.....to call GoDaddy support phone number. (Which he should have a PIN number to give to an operator for verification.) Ask the support person to confirm who the domain is registered to. If it is your friend, have all the administration passwords changed over the phone. If it is the other guy, your friend cannot do anything right this minute. (Nor will they do anything over the phone if it's registered to the other guy.)
+
+Court? Does he have any written paperwork/receipts/agreements from the time they were working on the website initially? Read it all carefully, could there possibly be a breach written out in black in white? A blatant contradiction?

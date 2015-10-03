@@ -1,0 +1,11 @@
+Trying to put up a Website with Godaddy?
+Hey everyone. I've decided to use Godaddy's Website Tonight to put up a website. But the domain I want to put it under is already in use from when I put up a simple website a few weeks ago. Now, website tonight won't let me choose that domain name because it is already in use. What do I need to do to "clear" the other website off so I can re-use my domain?!
+
+Just load your new html files onto the server. Whatever index you have loaded on the server that the domain is registered to are the ones that will load when you goto the site.
+
+You dont have to "clear" anything.
+Oh, yeah I had this problem when I got my grid hosting here's how to fix that...
+Log in to your account
+go to the my account tab
+over in the left side bar under my products click hosting
+you should see your base free hosting account, the one that has the domain in use , delete it, and then your good to go!

@@ -1,0 +1,9 @@
+How exactly does the internet work?
+It is amazing how we can contact people so far away.
+
+It's a series of Tubes!
+
+All kidding aside, read this:
+http://en.wikipedia.org/wiki/Internet
+It's pretty simple if you think about it. Every time you connect to a website, you're connecting to another computer that's hosting that site. Your modem does all the work. It provides you with a IP address (like a telephone number) which is unique to you. When you connect to a website, the website recognizes your IP address and sends information back to you, thus giving you entrance. If you had no IP address, the website you are connecting to would have no idea as to whom it will send its info back to because you're not registering anything. This is a very simple overview of what the Internet is all about.
+

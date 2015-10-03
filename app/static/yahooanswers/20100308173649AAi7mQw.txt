@@ -1,0 +1,5 @@
+how do i remove the yahoo search bar?
+i already removed the yahoo toolbar from "add/remove programs".
+but when i open the internet, on the right of where i put a website, there is a yahoo search bar. please tell me how to remove it. its really annoying :(
+
+Go to view in your explorer, after then toolbar, after then unclick yahoo toolbar.

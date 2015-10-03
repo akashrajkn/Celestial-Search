@@ -1,0 +1,14 @@
+outlook 2010 problems with send/receive?
+when i want to send and receive all folders, the outlook receive the same email many many times
+
+1.) Close your outlook by using the File > Close option. Then Open Outlook backup.
+
+2.) Perform the Send / Receive option only once and let it finish.
+
+3.) Make sure you're not saving copies of the email on your server. Check this by going to Tools > Account Settings. Highlighting the account and clicking the Change button. Then Clicking the More Settings button, clicking the Advanced tab, and unchecking Leave copies on the server checkbox.
+
+4.) After checking that setting and the initial send and receive is complete, try it once more.
+
+This should work.
+
+You can turn the Leave copies setting back up, but if the problem returns, its obviously not syncing the times properly with your mail server and the option is useless.

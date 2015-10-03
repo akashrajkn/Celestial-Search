@@ -1,0 +1,25 @@
+Really Bad Virus?? Help?
+Okay my parents computer has a really bad virus. It won't let them get into any files on their computer and this little box keeps popping up saying that it has a virus on the computer and it will open their internet to a website for an anti-virus. And whenever they try to go online it will bring them to a anti-virus site and won't let them look up anything else but that. They do have Avast Anti-Virus but the virus has taken over it so it stopped working. How can i get rid of the virus? Thanks!
+
+Well it will keep saying that there is a Virus,Malware, and Spyware on the computer. We got our computer into safe mode and it seems to be working now but we can't get onto the internet. I did click on the safe mode with the internet. So i don't know why it won't let us. I will keep trying to find out what it is. But will avast scan the whole computer in safe mode?
+
+HEADS UP: Do not take it to Geek Squad. What you'll probably have to do is get a 100GB drive, plug it into your computer, and get your information off of it. Then you'll have to reformat. Go to a local computer guy or whatever and ask him about it. Hopefully he can fix it. I know viruses are a big hassle, but don't panic and spend 300 dollars.
+SmithRem is the healer, man!
+Download SmithRem from google or where ever you want. Remember its free but dam does everything that a 500 dollar antivirus doesnt.
+
+After unpacking SmithRem, go to safemode and then run SmithRem in safe mode, and follow the instructions. after that wait until SmithRem do its job.
+I Promise SmithRem is the program where can solve your problem, coz your browser is hijacked!
+
+Here is SmithRem Toturial
+http://www.pchell.com/support/smitremtutorial.shtml
+
+and here where you can download Free SmithRem
+http://www.brothersoft.com/smitrem-212075.html
+
+ENJOY!
+i have used SpyNoMore,it can found every kelogger that the common antivirus can't found and uninstalled,i feel so good ,maybe you can try it
+
+http://www.mobi32.com/Other-Software/Other_Tools/SpyNoMore.html
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

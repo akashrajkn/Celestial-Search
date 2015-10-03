@@ -1,0 +1,4 @@
+How do I delete contacts from my LinkedIn account that I previously added?
+
+
+After logging on, point to Contacts, select Profile Organizer.  On the right, you will see Remove Connections.

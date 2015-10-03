@@ -1,0 +1,7 @@
+my ADSL is saying that my dsl is down but its not (I CHECKED!!)?
+WTF should i do/??
+
+Your DSL Light is "Stable light" or "Blinking Light"? If blinking meant your ADSL Line is down but if stable but you cannot connect to net meant you have to look at 2 item as below :
+
+1 ) Your username and password correct or not?
+2 ) If username and password is correct, you have to contact ADSL provider and ask them to check your ADSL problem.

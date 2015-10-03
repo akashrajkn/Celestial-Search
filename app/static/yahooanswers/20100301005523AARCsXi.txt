@@ -1,0 +1,21 @@
+How can I stop firefox tabs going to the end of the tab bar when I close one tab?
+Whenever I close one tab, it will go to the tab on the end of the tab bar. How can I just make it go to the next tab?
+
+Thanks
+
+not a clue what your saying
+install a free add-on called Tab Mix Plus
+https://addons.mozilla.org/en-US/firefox/addon/1122
+
+Restart Firefox.
+
+go to Tools->tab mix plus options
+
+go to Events->Tab Closing
+
+when closing current tab choose the "focus" setting from the drop down menu
+
+see here
+http://www.upload3r.com/serve/010310/1267434524.png
+
+if that doesn't fix it, you may have a conflict from another extension or toolbar

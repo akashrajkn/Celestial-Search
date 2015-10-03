@@ -1,0 +1,11 @@
+How do I put adds on to my internet explorer 8?
+The reason I ask this is because youtube(the idiots) have said that I need to update my Internet explorer(which I did), because of this I cannot view videos on Youtube, Metcafe and even other websites! I have even downloaded Flash player!
+
+My internet explorer keeps saying that I have disable my Adds on! However, when I checked this by going to 'tools' and then clicking on 'Manage adds on' it's show's that everything is ENABLED!
+
+Can someone please help me!
+
+Check again. If its enabled, maybe you should re download everything
+Check it again. On the Manage Add-ons page that shows enabled add-ons, click one & then click the More Info link at the bottom of the page. It will open a window showing any blocked sites. Remove any you don't want blocked
+
+...

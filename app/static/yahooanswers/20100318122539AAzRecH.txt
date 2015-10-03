@@ -1,0 +1,18 @@
+face book problems in yahoo IE?
+It takes forever to load today. Anyone else have this happen?
+
+Are you using Internet Explorer 8?
+
+Try enabling compatibility mode. It is the broken page icon next to the refresh button on the toolbar. Here¡¯s a good resource from the IEBlog that talks about compatibility mode in detail if you¡¯d like to learn more: http://blogs.msdn.com/ie/archive/2009/02/16/just-the-facts-recap-of-compatibility-view.aspx 
+
+If that doesn¡¯t work, run IE in No Add-ons Mode.  Go to Start -> All Programs -> Accessories -> System Tools -> Internet Explorer (No Add-ons) - If this fixes the issue, then go to Tools -> Manage Add-ons and enable the add-ons one by one to find which one was causing the problem. 
+
+You can also try resetting Internet Explorer's settings by going to Tools > Internet Options and then the "Advanced" tab, and click "Reset..." 
+
+If you¡¯re still not having any luck, I recommend you reinstall IE8 on your system.
+
+I hope this helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team

@@ -1,0 +1,23 @@
+how do i delete internet explorer?
+I use firefox but internet explorer still opens my hotmail and some other programs. How do i get to just firefox?
+
+usually when you open firefox it should say make firefox your defult browser or somthing like that, and you have to click yes. hope it helped
+You don't delete Internet Explorer, it is an integral component of the Windows Operating System.
+
+Find the configuration settings in FireFox (something like Tools\Options) and set it as your default browser.
+you dont delete you unistall
+and you dont need to do that anyway
+just change the default program to what you want, not IE
+If you really don't like Windows Internet Explorer to disturb your Firefox browser then read on...
+
+Windows Internet Explorer is Installed in your computer and you cannot delete it like a normal file but you can remove it or uninstall the program so that it may stop functioning with Firefox.
+
+My way of doing it is like this:
+
+1. Go to start and click control panel
+2. There you'll see a list of categories, click on the Add or Remove Programs
+3. After clicking the Add or Remove programs a new window appears showing all the programs installed. Just scroll down and you'll find Windows Internet Explorer and click on it.
+4. At your right there's a Remove button, click this and it will remove windows internet explorer.
+5. A dialogue box appears telling you to remove this program or not, by click the yes and no button. Click Yes to remove Windows Internet Explorer.
+
+I hope this works.

@@ -1,0 +1,8 @@
+Firefox Tab Help Please!!!?
+Downloaded the latest version of firefox. Every time i try to open a new tab, it opens as 'untitled' instead of 'google.com' which i have set as my home page.
+
+Any1 know how to fix this? thanks
+
+This is the default in Firefox when opening a new tab. There's an add-on you can install which opens your homepage with every new tab - https://addons.mozilla.org/en-US/firefox/addon/777
+give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine "experts" say is impossible
+

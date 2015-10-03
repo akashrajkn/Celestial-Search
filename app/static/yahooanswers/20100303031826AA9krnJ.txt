@@ -1,0 +1,6 @@
+I sold an item on ebay and the money went in my paypal account, now i want to use it to pay for a dvd i brough?
+t so i clicked send money in my paypal account but it keeps going to the funding options page where i have to use my card how do i use the money in my paypal account instead?
+
+Paypal will automagically use the money from inside your paypal account if it is enough.
+
+If it is not enough then it will take the remainder from your card/bank.

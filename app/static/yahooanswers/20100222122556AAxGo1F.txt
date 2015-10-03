@@ -1,0 +1,12 @@
+Why does my internet explorer close when i open my windows live hot mail?
+when i open my hotmail and view the emails about 1 or 2 mins later a box pops up telling me ie needs to close and would i like to send details to microsoft........this ha only been happening in the last week
+
+using xp all updates downloaded
+kaspersky i s
+
+it might be a problem with the flash/java for the internet explorer.
+
+it would be way easier if you downloaded mozilla firefox, google chrome, or opera
+
+http://www.mozilla.com/en-US/ > Firefox
+Restart PC in safe mode by tapping F-8 key, choosing "Last Known Good Configuration" from menu. Next download, update, run Malwarebytes, ccleaner, Reset IE8 to Default in Options, Advanced and Restart PC...

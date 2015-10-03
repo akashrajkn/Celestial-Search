@@ -1,0 +1,37 @@
+How do I change my Default webpage in Firefox?
+I downloaded windows live messenger last night and it changed all of my main pages on my browsers to some live messenger/bing website, I do not like it and want to change it back to google, how do I do that?
+
+Thanks,
+Johnny
+
+Go to Tools, options  and then general tab. I can't explain this good (I have hungarian FF), so:
+about:config then proceed and type browser.startup.homepage then edit and type the URL.
+I think about:config is better becuase there are a lot of options!
+
+---
+If this solved your problem, don't forget to choose Best Answer!
+go to tools>options>general>start-up>home page...........and type your default home page and thn press ok!!
+Dear Friend,
+
+Do the following procedure to change the Default Web Page in Firefox:
+
+1. Open Mozilla Firefox.
+
+2. Click Tools -> Options -> General (Tab).
+
+3. In the Home Page Text Box, type "www.google.com" or any other web page that you would like to make as default.
+
+4. Click OK button to apply.
+
+* * * * * *
+For more information, mail at: vikas.jnpt@yahoo.in
+* * * * * *
+1.  Simply open Firefox and in the address bar, type the location
+you want (such as Yahoo.com or whatever). STAY on that page.
+
+2.  Go to the Tools menu and then Options.
+
+3.  Under "Home Page" click on the "Use Current Pages" button.
+
+That will set your default home page to the one you have open.
+.

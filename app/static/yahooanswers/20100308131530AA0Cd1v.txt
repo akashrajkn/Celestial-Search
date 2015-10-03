@@ -1,0 +1,21 @@
+Please help!!!! cant access internet form my laptop...(sxstrace.exe)?
+Ok so im having trouble with my laptop to access internet.
+-error message says ..... 
+C:\Program Files (x86)\Internet Explorer\iexplore.exe
+THe application has failed to start because its side-by-side configuration is incorrect. Please see the application event log or use the command-line sxstrace.exe tool for more details.
+
+I have tried quite a few things...but still no luck. I really need some advice on what i am missing on.
+Its a dell windows 7.
+Thanks Capbell...thankfully fixed. although i had to use the cd to restore the laptop to finallly get it to work. It was really bad i couldnt even get the laptop to stay on.
+
+Hi,shortdotty
+
+There are 3 step to repair sxstrace.exe error
+
+I think your computer is already very dangerous, and you should fix it immediately. I had the same problem with you, it bother me for a long time. I have searched many ways online and found that the following method is the best, my friend had sxstrace.exe error too, he also quickly fix sxstrace.exe error with the following method. I think you should try it, I hope it can help you:
+
+1: Download a sxstrace.exe error repair tool,install this error repair tool.
+2: Open sxstrace.exe error repair tool and scan you computer for free
+3: Then click the Repair All Button again and your done! It is very easy to repair sxstrace.exe error.
+
+Here are the url of sxstrace.exe error repair tool:http://www.RepairErrorDiy.com/ttfix-sxstrace.exe_error-zz0001

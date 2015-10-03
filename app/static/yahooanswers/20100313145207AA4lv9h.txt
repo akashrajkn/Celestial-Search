@@ -1,0 +1,45 @@
+Computer help! computer virus?
+my computer wont let me go to the internet...it keep saying internet explorer warning..and want me to purchase a anti virus soft ware...im trying to remove the virus in my computer for free but i think its too late...please help me if you guys have any suggestions that i can try for free....thanks.
+
+There are never any guarantees in malware fighting, but try this:
+
+First, boot into Safe Mode With Networking.  That sometimes keeps malware from protecting itself.  Then, if you have an anti-virus, make sure it has the latest virus definitions and run a full scan with it.  If you don¡¯t have one, many people here swear by Malwarebytes (it¡¯s free).
+
+I suggest you also download Ad-Aware Free and Spybot S&D (they¡¯re free), install them, update them and run full scans with them in Safe Mode With Networking. 
+
+Also, turn off System Restore to evict any copies of bad stuff that might be lurking there.  
+
+To get into Safe Mode with Networking:
+
+1.Log out and reboot your machine.
+2.When the machine starts the reboot sequence, press the F8 key repeatedly.
+3.Select Safe Mode with Networking from the resulting menu.
+4.Login.  If the malware has changed your password, try logging in as Administrator.  By default, Administrator has no password.
+5.The machine will continue booting, but the Windows desktop will look different.  
+6.When you're finished doing what you need to do, log out and reboot back into normal mode.
+
+Another trick that may enable anti-malware and/or its installer program to sneak past the malware is to change the name of the anti-malware program itself.  The names of the files and their locations differ between anti-malware programs, but the procedure is always the same:
+
+1.In Windows Explorer, find the folder with the anti-malware.
+2.Change the name of the program (it always ends with a .exe) to virtually anything else, but keep the ¡°.exe¡± part.
+3.Run that.
+
+Note that even if the anti-malware programs get rid of the malware, they may not be able to reverse the effects.  Search the Web for possible fixes.
+
+Update and run full scans regularly, not just when you think you already have malware.
+
+Good luck.
+
+
+Note:  There ARE free versions of these programs on the websites listed.  They just may not be obvious.
+
+Ad-Aware Free (free):  http://www.lavasoftusa.com/
+Spybot S & D (free):  http://www.spybot.com/
+
+MalwareBytes (free) http://www.malwarebytes.org/  (If the program doesn¡¯t run, changing its filename from mbam.exe to something else ending in .exe has sometimes proven effective.)
+AVG anti-virus (free): http://free.grisoft.com/doc/2/lng/us/tpl/v5/
+Avast! (free): http://www.avast.com/
+Kaspersky (free trial) (Seems to dislike installing on any machine with just about any other decent anti-malware, including some firewalls.): http://usa.kaspersky.com/downloads/
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

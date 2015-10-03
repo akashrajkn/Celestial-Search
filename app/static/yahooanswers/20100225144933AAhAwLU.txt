@@ -1,0 +1,7 @@
+Computer virus's but very complicated stuff lol. any help appreciated!!?
+i went onto a game website and all of a sudden, my security centre popped up saying that my firewall and everything had been turned off. then it said i had about 33 harmful spyware or virus's on my laptop. so i clicked 'remove' after the scan only for it to tell me i wasn't subscribed to the program? and i have no money to pay for it!? so i tried to download some anti virus software but whenever i try to download anything, it won't let me. i try going onto my control panel and it just says 'application not found' it also says this for my iTunes, Limewire, Windows live messenger and my word documents. i have no idea how to just wipe everything off it and start again because i have no disk for it? confused.com?
+
+yeah wat u gota do is reboot ur comp and do system restore back to a date where ur comp ws fine wiht no viruses. that will work a treat cuz same thing happened to me.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html

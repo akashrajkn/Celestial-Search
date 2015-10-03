@@ -1,0 +1,17 @@
+Set up proxy server so i can stream from hulu.com?
+I use google chrome. i want to stream from hulu.com but it says you must be in the U.S so i was wondering if a proxy would get around that
+
+It should, although I have never tried. Proxies are usually slow as hell though, so don't expect it to work well.
+
+You obviously wouldn't set up your own proxy, you would just use a public one.
+You could set up a proxy server in the USA to access Hulu but that would be complicated and expensive. I would give that a miss just due to the cost. Take a look at Tor which is a system for routing your traffic around the world. It is often used for privacy but could be used, providing the exit node is in the United States, to access Hulu.
+
+http://www.torproject.org
+I tried hundreds of free proxies/vpn's over many months. All I got out of it was a lot of frustration as they got blocked in short order. Well I got one more thing and that was a virus from one of them that wrecked my HD. Even when they worked for a while they were slow and didn't support all the web site features. My friend in Riyadh told me about the Personal VPN http://www.surfbouncer.com. He's kind of an expert on unblocking sites because he lives in a place where pretty much everything fun is blocked.
+
+Anyway, I tried it a few months ago and it's been working all the time. I haven't been blocked since and the sites are 100% functional. With the Personal VPN everything works like it's supposed to. Once connected you don't even know it's there. It's not free but it works perfectly.
+Here is a list of fresh fast proxy list I have just find today:
+
+http://hhss.co.cc/
+
+Remember to tell your friends about this proxies

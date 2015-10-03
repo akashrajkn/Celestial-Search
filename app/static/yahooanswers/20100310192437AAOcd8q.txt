@@ -1,0 +1,26 @@
+How can I fix my internet connectivity problem?
+Okay, so, I'm having a slight problem with all things internet. 
+IE, iTunes, msn messenger, yahoo messenger, skype--these things all believe I'm not connected to the internet. The thing is, I know I am. 
+I know I am because Firefox is perfectly capable of connecting to the internet. 
+
+Does my computer have a virus? Is it a connectivity problem? Is it a problem I can fix? 
+
+Thanks in advance!
+
+If firefox works perfectly at all times it's not your internet.  You could try to reinstall the other programs to see if they work.  As for IE, why do you even try if you have Firefox?  IE sucks.  Bad.
+I remember having that problem, it was just the other month acctually.
+
+I had to call my internet company and told them the problem, but they said it was either a virus or some messed up plugs/settings.  Recheck your plugs (take them out then replug them back in) and try again to reconnect. (Dont forget to reboot)  Now, if that doesn't work, try to run a virus scan.  If you can't, you have two options.
+
+A) -the one I did-
+I had a CD at the time when I bought the computer.  If you run it, it's like a huge memory wiper that makes your computer like it was new with no information at all.  After that, I tried to download all other items.  This took around two hours.  If you can't connect even after that, fear not, it can be your settings.  If all else fails, try option B.
+
+or
+
+B)
+Take it into a nearby computer store and ask them to do a scan check for you.  It'll cost around $20-30 and take maybe a day or two for them to do it (unless they have no other orders to work on).  If it is a virus, they'll have to replace your drive and comp with another which is around another $40 or so.  You'll also have to reinstall your applications and everything.
+You can use SpywareNoMore. 
+As we all know Computer hackers seeking financial gain rather than thrills or notoriety are increasingly flooding the Internet with malicious software code (spyware, adware, key loggers, trojans). They are infecting computers with highly sophisticated programs that record surfing habits, bank passwords and other key financial data and send them to crooks over the Internet. These programs can be hard to spot, disguised in downloads such as toolbars, search engines, browser accessories, screen savers and other seemingly helpful utilities.
+
+SpyNoMore anti-spyware safeguards your identity and restores system performance through fast, smart and powerful spyware protection.
+more: http://www.converter123.com/Other-Software/Other_Tools/SpyNoMore.html

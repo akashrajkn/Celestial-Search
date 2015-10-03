@@ -1,0 +1,22 @@
+Help with Firefox downloads?
+Usually on my desktop computer (my main one), every time I save a picture or download something the downloads window comes up and it shows you how much time the download it gonna take to complete. After that, it shows a box of what you just downloaded, and your previous downloads. On my laptop, it doesn't save a history of my downloads like my desktop computer does, and I don't know how to fix it. Please help!
+
+Simple to fix it up...
+In Firefox browser, goto Tools->Options.
+
+Click the Main Tab and check the box "Show the Downloads window while downloading a file"
+
+Now you can see the list of downloads u have done and the also the download interval.
+Do what Maddy said but also go to Privacy and choose the "Remember History" option.
+Firefox browser, go to Tools Options click the main tab and just check the box that says show the downloads widow while its downloading and save it and you good to do. Good luck
+I use firefox too and have my downloads set to be saved, this is what you do.
+
+1. Select "Tools"
+
+2. Scroll down and select "Options"
+
+3. From the various tabs select the "Privacy" tab.
+
+4. Your page should say Firefox will: Remember History. If not change it so that it does show this.
+
+5. Now press the "Ok" button at the bottom to save this change and make it permanent.

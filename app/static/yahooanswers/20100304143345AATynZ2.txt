@@ -1,0 +1,8 @@
+how much time its safe to keep my internet MODEM on ?
+how much time i keep my modem on ? i have 2 computers connected to it
+
+how is normal to keep a modem ?
+
+Other than saving a small amount of electricity, there is no reason to turn off your modem.
+You can leave it connected all the time. Just make sure your anti virus is up to date and you have a firewall.
+8h

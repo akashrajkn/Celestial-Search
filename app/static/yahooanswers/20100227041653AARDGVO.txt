@@ -1,0 +1,35 @@
+my internet is running slow, help!?
+i upgraded my internet speeds acouple days ago to 10mbps. my internet provider is centrylink. when i test the speeds it only hits around 1.4mbps. i know it should be faster because i pay for 10mbps!!! how do i make it so i can see the true speeds at work?
+
+serber maybe down.pg
+Internet speed is a funny thing. When you pay for a 10MBps connection, the ISP sets aside that bandwidth for your use. However, that's the maximum TOTAL bandwidth for your connection. If the download server you are connecting to can't upload at 10MBps, then you can't download from them at 10MBps.
+
+It's like buying a two-lane highway and only having a bicycle on the road; you CAN run two semis side by side, but if all you have is a bike...
+
+Try speedtest.net to get a semi-accurate indication of your actual connection speed.
+Call your ISP
+you have to check your speed of internet. try ping www.yahoo.com in run, if it less 300ms, it is ok.
+you can check the less hardware for the game and to compare with your pc. 
+Normal RAM, Graphic Card, CPU are main point.
+But your can try use a registry cleaner to clean your pc. This can make your pc faster easily.
+
+http://toptenantispyware.com/Clean_Up_Center.htm
+For running slow there are many causes:
+Microsoft Registry Problems
+RAM
+De-Fragmenting
+Etc. 
+
+Clean windows registry can speed up the computer.
+Registry Cleaner can fix your pc errors.
+Over time, you install new programs, uninstalled unimportant programs, update software's, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://registry-computer-cleaner.com
+If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://registry-checking.com/Slow_PC

@@ -1,0 +1,12 @@
+Internet Problem Sound! please help?
+ok so out of no where my computer all of a sudden doesnt play songs on the internet (firefox or internet explorer)
+it plays music from itunes fine so its not speakers. when i try to watch a video on youtube or a try to play music on my music download site its all quiet and static and scratchy. 
+what is this? and how do i fix it.
+its windows XP and ive had it for over 6 years and it has never done this. it was working fine an hour ago now its not. i havent done anything to upset it and it doesnt have a virus
+
+What operating system do you have? In Windows 7, sound that coming from your browser can be turn on and off or change the volume from your sound settings in your task bar beside the clock. Click it then click the mixer and see if the volume from your browser are turned up all the way.
+
+I am not sure in XP because I haven't use XP in a while.
+maybe you can try using antoher browser, like firefox or google chrome... If that doesn't work you might want to reinstall your flash player.
+
+sorry for my bad english

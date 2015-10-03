@@ -1,0 +1,10 @@
+Since installing malwarebytes, I am no longer able to access a particular web page I  on either IE or Firefox?
+I had been able to access this page anytime until I installed Malwarebytes. I also had upgraded my version of Internet Explorer around the same time as I installed Malwarebytes.  How can I solve this issue?
+
+remove that crap and install adaware... seriously!
+Try deleting malwarebytes first
+You haven't given us much to go on. What happens when you try to access the web page?  Does it give you an error page in the browser?  Does a message box come up? What do they say?
+
+About all I can say from the evidence, is that a new version of Internet Explorer should have no effect on Firefox.
+
+Sorry.  Maybe if you post more information someone will be able to help you more.

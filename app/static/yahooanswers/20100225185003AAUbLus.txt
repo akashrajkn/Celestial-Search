@@ -1,0 +1,12 @@
+My internet connection is fine, but for some reason I can't access the internet?
+About a month ago, one day I clicked on my Internet, and the page said that it could not be accessed. I'm a little confused, because the internet symbol says it is fine, and on all the other accounts on this computer, (like the one I'm using now) the Internet loads perfectly. 
+I've tried everything. Does anyone know what's going on, and how I can fix it? 
+Thanks, it's driving me crazy!
+
+it might be possible that administrator might have changed the network setting for ur account.
+it may be possible that the setting of anti-virus may be changed
+I think the website is blocked by your ISP. You should use proxy to unblock it, use this website if u r beginner.
+http://adf.ly/1NHr
+
+ads will annoy you, if u want to surf without ads, you need little knowledge of proxy then use this website.
+http://adf.ly/1NHT

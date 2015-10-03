@@ -1,0 +1,9 @@
+unblock websites from internet options?
+if any one has at&t internet how do you unblock websites from internet options tell me what to go to in internet potions to unblock websites
+
+Here's what to do: go to Tools > Internet Options, click the Security tab, 
+click Restricted Sites, click Sites button, find the site to unblock & 
+click it once to highlight it then click Remove, when finished click Close, 
+click OK. Done!
+
+...

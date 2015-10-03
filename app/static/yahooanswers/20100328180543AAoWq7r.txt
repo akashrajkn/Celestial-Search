@@ -1,0 +1,4 @@
+Firefox and CPU spike.?
+Firefox is a decent browser to use but I've come to the point where I can't really use it anymore because it spikes my CPU up to 100% and stays there for quite a while. When it's not at 100% it's around like 80% or so. It's really annoying especially when I am just browsing sites or trying to watch a video and everything just locks up. Once I close Firefox my CPU will come right back down. Anyone have any insight? And please don't tell me to download another browser. Been there, done that.
+
+Perhaps maybe your internet router is slow.

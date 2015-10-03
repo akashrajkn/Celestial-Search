@@ -1,0 +1,7 @@
+What private information can people get from sending files?
+If I were to send a picture saved on my desktop (as a file) to someone via a messenger service, like yahoo or aol, what will the recipient be able to see/track? Will they be able to see my name that my computer is registered under or where it came from (desktop, documents) or just the name of the file? I have a macbook pro if that makes any difference.
+
+Thanks!
+
+i'm afraid yes
+Yes, they can examine the packet and header information and get your IP and other information, but then again so can any website your visit.

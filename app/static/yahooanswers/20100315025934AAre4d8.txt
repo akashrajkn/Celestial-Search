@@ -1,0 +1,6 @@
+question about photobucket's album privacy?
+if i upload a photo to an album which is set to private, and i post that picture to a forum, will others on the forum be able to see the picture?
+
+If you can see it so can they. If they are two separate sites, then your browser won't know that only you have permission to view the photo on photobucket.
+
+On photobucket, private albums can't be viewed, but if they know the link then they can see the pic, so yeah you can still show images from a private album.

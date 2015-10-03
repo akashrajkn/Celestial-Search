@@ -1,0 +1,25 @@
+what is the meaning of http//   and www?
+i saw it when browsing.
+
+hyper text transfer protocol
+world wide web
+Hypertext Transfer Protocol.  World Wide Web.
+http:// notifies your computer that the address that it is heading for is a website address and not located anywhere on your computer (like= "c:/" would tell your computer that it is on hard disk C.), so the 'http' part is basically telling your computer that it must access the internet to find the address, and not any driver on your computer.
+http=Hypertext Transfer Protocol -  is definition of protocol your browser has to use for specyfic site ( it's kinda obvious that you use web browser to browse web pages, but they can contain links to skype or MSN username - different protocol in links tells browser to open different applications to handle that adress - in this example skype and msn )
+www= World Wide Web - it's remainder of old times when computers had low specs and you had to use different machine for different tasks - for example one server to web pages ( www.domain.com), one for e-mail communication (mail.domain.com) and one for transferring files (ftp.domain.com). Currently even one server is more than capable to handle all that tasks, so you don't have to type which specific service you want to connect to ( www, mail or ftp...) - still, many webmasters use them in adresses, out of custom.
+HyperTextTransferProtocol - this is protocol for transferring web pages through internet
+2.WorldWideWeb
+HTTP : Hyper text transfer protocol
+that means "The Hypertext Transfer Protocol (HTTP) is an Application Layer protocol for distributed, collaborative, hypermedia information systems."
+
+www; world wide web;The World Wide Web, abbreviated as WWW and commonly known as The Web, is a system of interlinked hypertext documents contained on the Internet. With a web browser, one can view web pages that may contain text, images, videos, and other multimedia and navigate between them by using hyperlinks. Using concepts from earlier hypertext systems,
+HTTP stands for the hypertext transfer protocol 
+now hypertext include all the type of data like simple text to multimedia data like songs video
+it is stateless protocol means it does not keep the track of which request is given to him priviously
+
+and the WWW which we write in the start of all the web sites stand for world wide web that means every web site which we are going to open or want to see belongs to the domain world wide web
+http means Hyper Text Transport protocol, 
+www World Wide Web
+HTTP - Hyper Text Transfer Protocol (It Is Such A Word That If U Don't Type While Typing Any URl Address Then Also It Automatically Gets Added While Redirecting U To The Site. Such An Important Word)
+
+WWW - World Wide Web ( It Too Has Some Importance But Not More Than HTTP)

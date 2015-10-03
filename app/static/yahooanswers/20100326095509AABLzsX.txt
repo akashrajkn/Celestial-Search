@@ -1,0 +1,68 @@
+How can you get the internet on a computer to come back on?
+It is working on the desktop, but on my laptop, the internet won't work. I really need my laptop so...ya. I can't turn it off, bc I don't have the passcode for it, so it will lock me out...so any suggestions? I already tried unplugging linksys and turning it back on...
+
+Does the laptop tell you "limited or no connectivity"?  Try doing the following.
+
+Start>Run
+
+type CMD
+
+in the command promt, type the following
+
+ipconfig /release
+
+(dont forget the space, and press enter)
+A bit of shenanigans will happen, once complete type in the following
+
+ipconfig /renew
+
+(dont forget the space, and press enter)
+A bit of shenanigans will happen again, once complete close the menu out.
+
+Hopefully things should work.  If it doesn't, check with your network administrator to verify your settings are correct.
+So what exactly is the problem? no internet in your laptop? Wired or wireless? If wired then make sure you got the cable is secured. If wireless then you should know the SSID and the Password if there is a security.
+call ur ISP
+this might work if connect internet through a router(modem)
+1.open internet explorer
+2.type the following in address bar
+       192.168.1.1.
+3. a window appears and asks for user name and password
+    use the following 
+       username:- admin
+       password:- admin
+4.a page will open there is no common format of the page as different companies of routers have different pages.
+5. there might be some button stating "WAN"  in this option you should look up for place  stating connection setting select the option stating "ALWAYS ON" 
+6. click apply.
+7. now when you would switch on your laptop it would directly connect to interner without any passkey.
+
+
+note that if the password and username in step 3 dont work then the problem cannot be corrected.
+Find out the password for the wireless signal.
+There are three passwords involved.
+PW 1. The password to the wireless router set-up configuration
+PW 2. The password to the wireless signal which configured in the router set-up.
+PW 3. The password to the PC/laptop wireless set-up configuration
+
+Normally, people don't set a password for PW3.
+
+A wireless signal password is actually an encryption key. An encryption key provides the facility in encrypting/decrypting the wireless signal. The wireless signal is encrypted because you don't want unauthorised people to listen in to whatever you are doing.
+
+I can think of a few reasons you don't know the wireless signal password and cannot access the password.
+
+1. You own the wireless router. Someone set it up, created the signal key, and then entered the key in the laptop and PC wireless configuration. That someone could be a family member no longer in the household, a geeksquad you paid to set-up the wireless, a worker from the internet company.
+
+2. You do not own the wireless router because you are sharing it with other people who helped  configure your laptop and PC. You have access to the router but don't know how to reset it and those people who know has no time to help you.
+
+3. The desktop is connected directly to the router by ethernet cables and therefore do not require wireless, but you laptop require wireless.
+
+Reset the router yourself and reset  the wireless signal key. The downside is you have to reconfigure your desktop to use the new signal key. Connect your laptop or PC directly to the router to reset the router signal key. If you don't know the configuration password, find out the model of the router and download the manual from the internet. The manual will tell you how to reset the router and what the default configuration password is. Normally, there is a pinhole in the router where you could poke a pin into it to reset the router.
+
+I think all this might be too difficult for you, unless you wish to spend a whole day learning how to do it - it might be better to get a knowledgeable friend to do it for you.
+
+But wait a minute, the problem could be much simpler than that and you don't have to go thro all the reset trouble. There is a switch in your laptop which lets you turn the use of wireless off. This switch is provided to help laptop owners save battery power. This is a rather common mistake that you somehow managed to disable the use of the wireless card in your laptop but did not realise you have turned it off.
+
+The switch could be a software switch, a hard switch somewhere under your laptop, a function key or a combination of those switches.
+
+Find out if your wireless card on your laptop has been disabled on operating system's wireless configuration. Re-enable it.
+
+Is you laptop configured to automatically disable wireless when battery power runs low - then plug the laptop in to recharge the battery.

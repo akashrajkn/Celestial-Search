@@ -1,0 +1,12 @@
+Does anyone know of Firefox Add-on that checks Add-on compatibility?
+Looking for a Firefox Add-on that works for v 3.5.1 and for the latest version(8) that checks whether current Add-ons are compatible with the version certain versions of Firefox or at least the latest one.
+Colinc, I know this but I heard of such a Addon-on before and I'm trying to find it again or a similar one, it's just the way I prefer but thanks, last time I update that process as I recall didn't work that way(informing me of Addon-ons that weren't compatible) and I'd like to avoid that again.
+
+Firefox automatically checks compatibility of add-ons. It disables incompatible ones and informs you of this on startup.
+I couldnt get your problem exactly though.  
+
+I think this add ons could help
+
+https://addons.mozilla.org/en-US/firefox/addon/66590
+
+This one checks the cmpatibility of the add on for the next version

@@ -1,0 +1,7 @@
+How to get address bar back in Internet Explorer?
+My friend pressed some button on my laptop and now the little bars at the top and bottom of the screen aren't there any more. The bar at the top like, rolls in when you scroll over it but when you out your mouse back in the middle of the screen it fades away again. How do I set it back to normal, it's really annoying.
+
+hit F11
+right click tool bar and check address bar
+Your friend might had activated full screen by pressing F11.
+To get back your IE in previous state, just open IE and press F11 on your keyboard.It will become normal.

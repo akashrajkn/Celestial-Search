@@ -1,0 +1,7 @@
+how to get a domain name?
+how can i get a free domain name?
+
+Top level domain names (Anything that is .com, .net, etc and not .something.com) cost money.  The most popular (and to my knowledge, cheapest) place to register a domain is GoDaddy.com.
+freeweb.com  try there.
+If you need to setup a FREE website with Free Domain name and free PHP Hosting read this article
+http://dotcomwebsite.blogspot.com

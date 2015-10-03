@@ -1,0 +1,14 @@
+what is wrong with mozzila firefox 3.6, it is slow as molasses?
+
+
+lolll mine isnt but i think there might be a glitch. mines going fast though
+Maybe you should try Chrome. It's the fastest web browser out there: http://www.google.com/chrome
+dont know scrooge why dont you call the geek squad!
+I have the same problem, so I switched to safari, which keeps on crashing on me
+There could be a confllict.  1-Make sure you have no other browser open. ex. internet explorer when you run mozzilla firefox  2-Check connection (uninstall and reinstall network adapter with device manager(right click on computer/properties/manage hardware/device manager) 3-run utilities  delete temporary files and browing history from browser- (tools/delete history), run clean disk and defragment, in that order from start/programs/accessories/system tools/
+
+This assumes you have windows xp or at least a pc with some form of windows.  The paths and file names may differ but the above instructions should serve as a guide. Be sure you know which adapter you are using ex. wireless, etc. before uninstall and reinstall.  You could also try 4- unplug your modem for couple minutes and plug it back in.  If you have a wireless router unplug it also and dont plug it back in untill the modem completely reboots and has full lights. Then plug the router in also..
+
+Hope it helps
+
+Ben

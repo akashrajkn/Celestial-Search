@@ -1,0 +1,30 @@
+Computer Virus!!!!!!!? So these days on my computer, it begins to lag ALOT. I checked windows task manager on?
+Computer Virus!!!!!!!?
+So these days on my computer, it begins to lag ALOT. I checked windows task manager on processes, and it saids hw1.exe, and also msb.exe which take alot of memory and cpu. When i delete both of them, the lag stops. Any help?
+
+Only thing I can suggest for now is to do a Disk Cleanup. Go to Start > AllPrograms > Accesories > Systemtools > Disk cleanup
+
+Disk defrag is also a good thing to do once in a while.
+msb.exe is a know virus to the pc community. i would recommend getting a virus program, or formatting your harddrive
+If you don't have anti-virus (yet!) then get out to one of the on-line virus scanners.. .something like HouseCall:
+
+http://housecall.trendmicro.com/
+
+or Bitdefenders
+
+http://www.bitdefender.com/scanner/online/free.html
+
+I've used 'em, they work, there are others, you can try more than one.  Get a scan done and let it clean up whatever it can.
+
+Next hit malwarebytes....
+
+http://www.malwarebytes.org/
+
+Install that and run it. That will help clean up any malware (which isn't necessarily a virus, although I suspect msb.exe is and who knows if it's leveraging hw1.exe)
+
+You can do your scans and see how things look.  Then, if you don't already, get a virus scanner and get it up to date.  Avoid suspicious sites, turn off flash in our web browser (OK, not practical, but it would help!) and be careful!
+
+Good luck.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

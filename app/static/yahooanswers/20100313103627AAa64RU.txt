@@ -1,0 +1,8 @@
+I can't log onto aim with pidgin..help!!!?
+So for some reason, i cant log into pidgin using my aim account..this is weird because i downloaded it before on a another computer, and it worked just fine..when i try logging in, it gives me this message: Received unexpected response from http://api.oscar.aol.com/aim/startOSCARSession: useTLS=1 is not allowed for non secure requests.   help, por favor??
+
+See pidgin's main site:  http://pidgin.im
+
+Here is a copy in case it goes away:
+
+Having trouble with AIM/ICQ? Uncheck 'Use clientLogin' on the advanced tab of the account settings.

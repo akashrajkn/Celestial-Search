@@ -1,0 +1,7 @@
+This is about avast anti virus....in virus chest, i need to restore files or delete them.?
+all chest files seem no virus after i scan them,and on virus description,its say no virus..so,i need restore them or delete them..im worried becoz they are system files.if i trying to delete them,it's has any effect to my computer..please i really need ur help.. restore or delete..in avast antivirus,it's better to repair or delete files??till now,,i just trying to delete them becoz my friend already told me,if i tried to repair them,maybe virus still in my computer...
+
+well i am an avast user and i scan them often if they are ok i restore them i have not had a problem and my computer used to get infected all the time before i intstall avast
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html

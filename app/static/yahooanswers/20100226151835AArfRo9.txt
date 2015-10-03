@@ -1,0 +1,33 @@
+I need buying a website?
+Hi I am decently Good with computers but not when it comes to buying or hosting a website So can you please post an answer or What the process is of buying designing and hosting the website as well as recommendations to web hosts   thank you, And i will pick a best answer depending on the most descriptive
+
+squarespace.com
+www.ipage.com is a great site for webhosting, (please refer me in the sign up process - my website is www.xlivewire.com) This is the process
+
+1. Go to the site and sign up
+2. Fill out personal info and sign in info
+3. Choose domain name that hasnt been used yet
+4. Start righting the code in HTML and CSS or just download a website template and upload that to ipage, your home page is named index.html so whatever you want your homepage to be make sure to name it that.
+5. after uploading images and site go to your domain and your site will be up and running
+
+I use ipage and this is my website www.xlivewire.com
+
+Oh and to get a discount, go to the sign up page, fill out some of the personal info like name, address, and make sure you include your email address, dont worry about your credit card info, then leave that page up and go do something else, after 5 minutes go and close the webpage with the sign up info, it will give you an offer, you can either accept that or theres a different offer that will happen. if you deny that offer you will get an email in 10 minutes stating ipage noticed you were at the signup page but closed out, so to get you to come back they offer you a deal thats a 1$ per month for 3 months so 3$ for 3 months, not a bad deal.
+For a list of hosts based on features and prices check out:
+http://webdesignandwebhosting.com/
+
+Most of those hosts will also offer free tools like Drupal and Wordpress (which are also discussed at webdesignandwebhosting.com)
+
+If you are good with computers I think you'd find Drupal is a great way to build a website.  It is free open source software that is really easy to use.
+Contact the designer first and they will assist you with hosting. 
+I suggest http://www.samwilson3d.com .  
+I would recommend http://ipage.mestore.us personally, but the web designer will know more. 
+Beware the web designer who wants you to host with them. I would avoid that if possible; I had a bad experience with that.
+I am the owner of TheOEC.net and SamWilson3D was referred to me by another local company who had a website built. 
+They designed our site and it was half of the price of other quotes I got.
+hi
+Now a days most webmasters are using IP because less expensive and reliable service
+--------------------
+topwebhostingslist.com
+--------------------
+Good luck.........

@@ -1,0 +1,5 @@
+Help with my WordPress.com Blog?
+I have the Freshy theme and I want to know how to change the tagline under my header.
+For example, it says "Just another WordPress blog". <- That is what I want to change.
+
+From the Dashboard, go to Settings/General.  There's a place to type in a new tagline.

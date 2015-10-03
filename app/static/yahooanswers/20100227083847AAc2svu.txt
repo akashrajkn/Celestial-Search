@@ -1,0 +1,4 @@
+Problem with uploading to Photobucket?
+I am trying to upload a video file to photobucket, but every time I try, it only uploads to 60% and then stops. I have tried on several different occasions, with the same results every time. Does anyone know what the problem is?
+
+Your video file is too long.

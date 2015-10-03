@@ -1,0 +1,13 @@
+firefox drop down bar too big?
+i just downloaded firefox 6, the drop down bar is huge...for example if it is google.com it says this:
+
+Google
+hhtp://www.google.com
+
+
+but in big probably size 16 letters.......i like the old style like internet explorer has where it will just say www.google.com in maybe size 12 letters
+
+i hate this new firefox...any idea how to change it?
+
+I dont use firefox bar. You might look under tools opt settings. Ihave firefox and only use google. I deleted the rest
+go to tools then options go to content, in the second box down there are the font settings

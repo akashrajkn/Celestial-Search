@@ -1,0 +1,8 @@
+What is the Firefox add on for compressing twitter URL's?
+
+
+You can shorten URL's at the following website:
+
+http://is.gd/    (No sign up or registration is required)
+
+If you want to use firefox addons to do this, then there are several addons available. Some of them are HootSuite, Snip-n-Tag, Tiny Url Creator, etc.

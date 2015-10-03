@@ -1,0 +1,8 @@
+Why does my web browser take a long time to close (IE8)?
+When I go to close my web browser, no matter what website I'm on or what's happening, it takes a long time to close. Any ideas on why this happens and what I can do to fix the situation?
+
+The IE series are set up so that they run smooth when they are in use and this is done by using lots of tasks and processes and when you close IE, your computer has to stop all the processes running and that may take a while with  a slow processor. If you know this is not the reason then try and clear your cookies and your browsing history.
+Haha.. don't use IE... that always helps
+
+
+Try Chrome if you are looking for speed

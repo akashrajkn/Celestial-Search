@@ -1,0 +1,38 @@
+why isn't my chatroulette working?i?
+i think my mom may have blocked it, lol .
+but i made it so internet always allowed itt ..
+everytime i try to open it on google chrome, it directs me to the web adress about:blank
+and it doesnt load..
+help?
+
+Type in the web address directly. Try a different web browser if it still doesn't work in chrome.
+Chatroulette Entering... 
+
+Welcome to the world of Chatroulette!
+
+Click "New game" to start the game.
+
+Tips:
+
+? You can also access this site by typing chatrt.com
+? If you are having a bad video connection, enable UDP in firewall or turn your firewall off. Most likely you don't need to do this step, as everything should be working well by default.
+? If you don't want to see the "allow/deny webcam" window every time you are connected:
+1. Right-click anywhere and select "Settings".
+2. In the second tab, check "Remember" to remember your choice.
+
+Terms of Service:
+
+? You have to be at least 16 years old to use our service
+? Chatroulette does not tolerate broadcasting obscene, offending, pornographic material and we will have to block users who violate these rules from using our service
+? Please use "Report inappropriate video" link to notify us about inappropriate content and we will take necessary steps
+the site is running pretty slow because of the growth spurt they had over the past month. this should level out over the next month or so as they update the site to handle the new load of people. 
+
+also try to clear your browser's cache just in case that's causing problems. 
+
+you can always try these sites as well: 
+http://shufflepeople.com
+http://woome.com
+
+or read a bigger list of cam sites here
+http://blog.shufflepeople.com/index.php/2010/03/complete-list-of-webcam-chat-sites-online/
+omegle is just the same as CR except gives you the option to not have video at all. but if you really want CR then try using a different browser? mozilla firefox works well. and about your mom, if you open up a new google chrome browser, then click cntrl+shirt+N, that opens up a new window that doesn't save your history so your mom won't know about it. happy chatting...

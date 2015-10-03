@@ -1,0 +1,15 @@
+Internet slow connection problem?
+why when im using my deskstop to connect to the internet is slower compared to when im using my laptop? and the connection was much stable than the deskstop? simple explanation..not really good in IT staff..
+
+ok several things.. go to help on the top left side of your internet explorer.... then click on about internet explorer... if it says ie 8.... uninstall it... you should be using 6 or 7... by you going to add and remove programs in the control panel... look up windows internet explorer 8 and unistalling.. dont worry , when u restart the pc it will have your previous version... ( if you have win 7 nevermind its ok) for vista go to programs and features instead of add or remove programs
+also... clear cookies and files and reset your browser... go to tolls on the top left side of internet explorer then internet options... under browsing history click on delete.. then delete cokies and temporary internet files.. the rest dont matter...
+then go to the advanced tab under the same window, click on reset ( righ on top of apply) this will definateley improve your surfing experience.... after this... cal your company if it is still slow... it might be a line issue..oh, dont forget to power cycle ( tunr off/on) your modem and router every once in a while
+well if your laptop is running the internet faster, then the internet connection is fine.  There are a few possible problems.  Ill start from least to worst.
+
+1)It could be a bad Ethernet cable and/or network card
+
+2)your computer could be running a lot of unnecessary programs and applications, and it needs a "clean up".
+
+3)or you could have some kind of infection and/or software corruption. 2 and 3 go a little bit together because, infections can open up alot of crap and bog the system down.
+
+it could be a different reason, I never rule that out, but from my experience in repairing computers and based off what your explanation those ones seem like the most possible candidates.  You may also want to try reseting your explorer.  If your running any version of explorer just click on "Tools">"internet options">"advance" tab> and hit both reset buttons.

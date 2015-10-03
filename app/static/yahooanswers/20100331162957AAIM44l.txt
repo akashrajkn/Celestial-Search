@@ -1,0 +1,20 @@
+VIRUS!! I really need help!!?
+So I wasn't even doing anything bad on my computer, I was just on iTunes then surfyhechannel.com which my brother said was fine and he hasn't had any problems with it. So anyways this antivirus suite popped up and I knew the it was a virus itself cause I have had a problem similar to this before so I just exited out of it, but then when I tried to go back on the Internet it wouldn't let me all it said was this site could be bad or something like that and I couldn't even go to control programs or anything, so I'm just wondering how to get this off my computer it's quite important that I get everything back and running.
+
+Download Mcafae
+Try a virus scan with your installed anti-virus, making sure to run a "full" scan and NOT a "fast" scan.
+
+You can try a system restore to a date that you know is previous to the date which this issue began.
+
+You can also backup data you need onto discs/flash drive/external hard drive, and reinstall your operating system.
+Download AVG Its Free If You Get The Basic Version.
+But It Works Really Well :)
+Restart PC in safe mode by tapping F-8 key, choosing "Safe Mode with Networking" from menu (black screen). Download, update, run Malwarebytes removing what it finds. In normal mode run Hitman Pro.
+See here:
+
+http://www.geekpolice.net/malware-removal-guides-f12/how-to-remove-antivirus-suite-removal-guide-t20595.htm
+OMG! This virus spreads itself quite actively. Here is the guide I used when I had the same scam:
+http://www.2-spyware.com/remove-antivirus-suite.html
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

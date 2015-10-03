@@ -1,0 +1,11 @@
+Internet keeps freezing on me?
+Basically between every 5mins and 1hour my internet will freeze on me and will take up to 40 seconds to load a page(this can be anypage even if I refresh the one i'm currently viewing)  Sometimes I will get the page can not the be displayed error and I will have to refresh multiple times. I am using a wired internet connection which is connected to a router downstairs.
+
+Thanks
+
+It's possible you have a router problem. Either it's oveheating or it's starting to fail.
+
+Without actually seeing your set up it's difficult to say.
+try using a different internet programme, i use google chrome its alot better than explorer
+Sounds like either a router problem or a problem with internet settings. Can't help you with router, but can recommend a program I use to optimize settings for my hardware. It's an optimization suite called BoostSpeed and it has a tool called Internet Optimizer. Works great for me. Link below.
+The most likely cause is a bloated registry which has become the home for all kinds of useless bits and pieces of data.  Whenever any change is made to the system settings or a program is installed or uninstalled, a new entry is generated in the registry. The operating system while running your computer has to pick its way through all this excess material. There is a multitude of useless bits and pieces to be removed.Parts of uninstalled programs,parts of incompletely installed programs,dead drivers and many other things. clean your registry and remove all the useless data fragments and no longer needed information to fix the freeze error! I should like to commend Registry Easy http://cleanup-comuter-run-perfectly.com          to you ! You can try ! Good luck!

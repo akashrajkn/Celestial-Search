@@ -1,0 +1,5 @@
+Anybody know how I can fix this problem on netflix?
+When I put my instant streaming disc in my ps3 it says "Cannot connect to Netflix.  Please try again later.  If the problem persists, please visit netflix.com/help on your computer."  Well it's been doing this for a while and I went to netflix.com/help and it didn't say anything on how to fix this problem.  Anybody know of a way to fix this?
+my ps3 is definitely connected to the internet.  I can still play games online and access the internet.
+
+I would guess that this is because you don't have connectivity on your PS3? Check to make sure that it's connected to the internet.

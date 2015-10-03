@@ -1,0 +1,8 @@
+Right click doesn't work on latest Firefox. Help?
+Well, this is the second, maybe third time I've downloaded the new Firefox, and the right click still doesn't not work! It will not let me copy and paste, save pictures, etc; but once I click on my desktop with a right click, it works just fine...
+
+Can someone help with this?
+I have the latest Firefox 3.6.
+My right click works fine on Internet Explorer, but not on Firefox.
+
+What is the release number?  I have 3.5.3 and my right click function still works.  Did you know that if you center click a link it will open in a new tab?

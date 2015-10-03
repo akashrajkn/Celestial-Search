@@ -1,0 +1,6 @@
+i have an other use pc but i can't get on line say internet explorer cannot  display- the webpage , how can fi?
+how can i config  the pc  what i should type in RUN to fix it
+
+think your internet connection is wrong...check if you gave the correct ip and other stuff. if you still have the pro call you Internet service provider...
+
+manual configuration is needed i guess

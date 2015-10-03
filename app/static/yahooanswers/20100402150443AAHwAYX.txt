@@ -1,0 +1,9 @@
+Why isn't Mozilla checking my spelling as I type?
+I had to redownload Mozilla when I did a System Recovery, and now when I make a spelling error, it doesn't underline it with a squiggly red line. I've checked the "Check spelling as I type" box in Tools. I've unchecked it, closed Mozilla, then checked it again. Do I have to do anything else to enable it?
+
+Thanks.
+
+just get google chrome. it is soooo much better in terms of looks and ease of browsing. it even has an "incognito" window you can open up whenever you want to do some "secret" browsing (you know naughty stuff). you can also rearrange the tabs an make a tab into a separate window!
+this happened a lot during a firefox update and you'll have to reinstall a dictionary add-on it's not a big deal, scroll down for English USA, UK, Canada etc after install restart firefox then restart your computer
+https://addons.mozilla.org/en-US/firefox/browse/type:3
+mozilla never did that for me.. i stick with my safari.. yes on windows. i run safari on windows!!!

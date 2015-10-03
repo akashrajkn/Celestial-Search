@@ -1,0 +1,19 @@
+Auto response from MAILER-DAEMON?
+Hi, I have a question regarding mailer-daemon:
+
+I have sent an email from sender@example.com to recipient@example.org.
+
+(note that these are 2 different email servers; one is .com and the other .org)
+
+As soon as I have sent the email to recipient@example.org I get an auto response from 
+"Mail Delivery System" <MAILER-DAEMON@example.org> telling me that the email has been received and that they will get back to me as soon as possible(this seems to be a perfectly legitimate auto response that the recipient has created).
+
+Now the email contents looks very normal with no indications of a bounce, undeliverable or anything but this "MAILER-DAEMON" stuff makes me wonder if there was actually something wrong with the delivery. Why is it that I did not get the auto response from recipient@example.org (where I sent it to) and got it from MAILER-DAEMON@example.org instead?
+
+Any help?
+
+Thanks a lot!
+
+Hello!
+
+I wouldn't worry about it. It sounds like you are all set and they received the e-mail successfully. It may just be because the format of the auto response is different from the e-mail server.

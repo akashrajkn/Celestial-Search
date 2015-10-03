@@ -1,0 +1,8 @@
+No activation email from The Pirate Bay?
+Yes, I did check the spam folder... I tried this with my gmail and yahoo emails. Still nothing.
+Did you get any emails from them? Any way to actually upload torrents without getting the email?
+
+yes
+There seems to be some issue with their email server again, I can't register either. Absolutely frustrating!
+
+Update: Moderator confirms that their mailserver is "broken" at the moment.

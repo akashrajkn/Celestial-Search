@@ -1,0 +1,4 @@
+Chatroulette isnt loading, just says "Entering..."?
+does any1 know what the prob is or how to fix it?
+
+I think it means a lot of people are using it at once. When this happens to me, I just shut the window and try later, usually it works.

@@ -1,0 +1,16 @@
+When I close one internet Explorer Window all the other open IE Windows get Closed !?
+Hi,I have IE8 ,when in Tabbed Browsing if I close one IE Tab,the whole window get Closed.I removed IE8 from My machine and installed IE6.Same problen persists,if I close one window all other get Closed.Please repond Immediately !
+
+Well just try another browser like opera, google chrome, safari, mozilla firefox , netscap navigator 
+IE has always been in my black list. Have fun.
+SHAUN
+crazybrain.biz.tc
+http://www.mozilla.com/en-US/products/download.html?product=firefox-3.6&os=win&lang=en-US
+
+If that fails.
+
+http://www.mozilla.com/en-US/firefox/personal.html
+
+Get Firefox!
+
+IE fails!!!

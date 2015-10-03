@@ -1,0 +1,15 @@
+how to use wifi        ?
+there are lots of secured wifi networks around my house. can ny1 tell me how to get into them without password?
+like with a software or something?? i use windows.
+
+It is essential to first know how to set up the gear to connect to WiFi. Using WinXP, you have to go through the steps for setting up a laptop to access a WiFi network. It is true that there are a few WiFi cards that can be set to automatically detect and connect, however it is still better to know how to manually set up the WiFi card. Here are the steps you should follow?
+
+Before using any WiFi network, find out what the SSID, Channel, Mode and WEP key are. But remember that there are few WiFi locations that do not require a WEP key.
+Many WiFi providers have this information on their website. And if they don?t, they will provide it to you when you purchase.
+Ensure that you have a firewall program installed and running to protect yourself.
+Start up your machine and once booted, look for the WiFi network icon in the bottom right of the screen.
+Click on the WiFi Connection icon and you should see a window that indicates connection, strength and duration. Click on the Properties tab.
+The next window will show the type of networking card that is installed. Click on the wireless networks tab. Once the Wireless Network Connection Properties window is open, you will have 2 options depending on how you set it up.
+If you do not see any networks listed in Preferred or Available networks, you will have to manually add the SSID. Click on Add. You will have to enter the SSID and WEP key. Click OK and you should then see the network you just added.
+In the next window, enter the SSID for the WiFi network you want to access. Make sure you do not have CAPS lock or NUM lock on, while entering the information. If a network key is required, click on ?Data Encryption? and then enter the Network key you have been provided with. Now click OK. If you have entered the key incorrectly, a message will pop up and you will need to re enter it.
+Now go to start and where it says Connect. Simply click and you should be able to view choices. Now you need to click on ?Wireless Network Connection.

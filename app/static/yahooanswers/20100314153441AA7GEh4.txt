@@ -1,0 +1,12 @@
+Firefox internet browser keeps freezing on me?
+Even before I downloaded firefox 3.6 firefox has been freezing up on me frequently. Has then been happening to anyone else?
+
+Go to about:config by typing it into your address bar, press enter. Read the notice and click "I'll be careful, I promise!".
+Find browser.sessionstore.interval by typing it into the text box that appears next to "Filter" at the top. Double-click what comes up, and change the value to 100000 (one hundred thousand).
+Close Firefox afterwards then reopen it.
+
+or check the below link
+http://kb.mozillazine.org/Firefox_hangs
+mine is doing it too and i'm getting tired of it, this is worse than IE used to be
+This is because of the computer¡¯s registry. The registry is a very complex and often misunderstood component of Windows. It¡¯s vital to your computer¡¯s operation. Think of the registry as your computer¡¯s brain. And everything you do on the computer, everything you install or remove, is stored in the brain. When you remove things, very often certain registry entries are left behind, like memories. But these memories are good for absolutely nothing.
+The registry hangs on to them, though, and eventually it gets so full that it¡¯s hard to find things that are important now.  The registry is probably the culprit if your computer freezes randomly.Consequently, one of the best solutions in managing the situation is to use registry cleaning tools  http://make-computer-run-smoothly.com                  with great power and capacity to completely flush out all junk files and fix all errors found.

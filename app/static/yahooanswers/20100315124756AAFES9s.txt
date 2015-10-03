@@ -1,0 +1,27 @@
+Running multiple blogs?
+I'm trying to set up a blog but I have some questions about the mechanics of covering various topics. 
+I want to blog on 5 things:
+News commentary
+Travel
+Photography
+Personal Life
+Food
+But here's the catch. I want each of the topics to have a unique URL and look. Also I would like all of them to also post to a master blog. That master blog would be a hub of sorts where you could link to the individual blogs. What is the best way to go about this? I want it to be easy to work on each blog and if I could do it under one user name that would be great. I'm using wordpress hosted on my own site.
+I have a host with wordpress installed and I own a couple of domain names. I'm interested in the specific mechanics of creating a master feed for several blogs to feed into.
+
+I would recommend trying out b2evolution. It can do multiple blogs for you.
+Create a website blog and install wordpress in different folders of your domain name.
+
+As you may know a domain name is just a name, not a real website/weblog. If you are going to create your blog website: 1- Buy a domain name. A domain name is a name you want to call your website (ex: www.yahoo.com).  To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your blog online at your purchased domain name.
+
+If you¡¯re going to start your blog at your own domain with different pages, you need a web host providing wordpress.
+
+Take a look at:
+http://www.threehosts.com/blog
+There you can reach the three reputable companies that are leaders in the blog/wordpress website hosting industry.
+
+Another useful link:
+http://www.threehosts.com/build
+There you can find a step-by-step guide to start your website.
+
+Hope this helps.

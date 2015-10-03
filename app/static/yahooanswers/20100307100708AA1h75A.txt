@@ -1,0 +1,16 @@
+Changing default web browser on a mac?
+So i looked online on how to change my default web browser and it said to go to system preferences and choose the internet option under Internet and Network. The problem is there is no internet option. There is only MobileMe, Network, Quicktime, and Sharing. My computer is a macbook pro that i got at  the beginning of the school year if that makes any difference. I am trying to change from firefox to safari
+
+You can change those settings in the browser itself.
+Open Safari, select "Preferences" from the "Safari" menu.
+
+Go to the General tab, then change the default browser there.
+Safari/Preferences/General
+
+Change it there.
+I don't know why the other answers here are getting thumbs down; that actually is how you do it. By all logic, the setting *should* be in System Preferences, but for whatever reason, it's in Safari's preferences window. As others have said:
+
+- Open Safari from your Applications folder (or your Dock, if it's still on there)
+- From the "Safari" menu up top, choose "Preferences..."
+- A window will appear. In the "General" category (the first icon with the light switch), the very first thing is a drop-down menu which lets you choose which browser to use as your default.
+- In your case, select Safari from the list, and boom, you're done.

@@ -1,0 +1,15 @@
+Quick question about my internet?
+Ok so i have the full upgrade from ATT's elite, and my dad's computer has a faster download/upload rate then mine.  A support dude came out and said it could be some program.  
+Could his or my anti virus blocker be the internet speed stealer?  
+I have AVG Free
+He has Norton 360 and McAfee Secruity Scan (NO ANTI VIRUS)
+
+AVG does not take up your internet. i have it too and its fine for me anyway. maybe ur dad computer has a better Receiver than urs for the internet signal if it is Wireless. 
+
+internet speed is slowed down due to loads of things such as:
+length of wire.
+objects and walls in between wireless signal receiver and transmitter.
+strength of receiver.
+strength of transmitter. 
+
+good luck and sorry if this doesnt answer you.

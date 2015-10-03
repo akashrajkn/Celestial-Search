@@ -1,0 +1,6 @@
+I cant check my bank account because of what?
+my bank website is arionbanki.is
+when i try to go there from home, there are 3 computers in my house, it wont let me. I have tried all 3 computers and the page just wont load. But the internet here is fine and I can go to any other website. So I was thinking that the site is down, but today while I was at work I checked it and it worked just fine. So what could be keeping me from checking it at home? Something with my internet? HELP PLEASE
+
+Try clearing out your history and cookies folders.
+Install new window format your old window.

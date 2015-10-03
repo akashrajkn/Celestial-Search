@@ -1,0 +1,6 @@
+Why does youtube look different in Internet Explorer to how it looks in Firefox?
+For some reason, youtube looks like this in Explorer: http://s925.photobucket.com/albums/ad93/thisisme272/Youtube/
+
+and it looks like this in Firefox: http://s925.photobucket.com/albums/ad93/thisisme272/Youtube/Youtube%20in%20Firefox/?action=view&current=CapturefromFirefox.jpg
+
+Youtube just updated their website layout. The updated look is on the Explorer, and it will probably be the same in Firefox after some time.

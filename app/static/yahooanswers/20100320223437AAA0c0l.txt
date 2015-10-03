@@ -1,0 +1,20 @@
+What is the best online collaboration solution for me?
+I'm going to be working on an online, multiplayer game with two other people.  In the future, I would like the team to be able to expand.  I am looking for certain key pieces of functionality, and I just can't find anything that offers what I want.
+
+For example, I like MediaWiki because it will allow me to put all of our docs in one place and intelligently get them all linked together, and it can be personalized easily enough.  BUT, it has no permissions system, so as soon as I use it everyone and their brother with an internet connection can come read our secrets. ;P  There are a few "security" modules, but they are all just hacked together or difficult to install.  It also has no integrated forum software.
+
+So, something..
+
++  Functions like a wiki, but is clean-looking
++  Has powerful integrated forums software
++  Has good security controls so I keep out the baddies and the nosey people
++  Has live-chat capabilities (optional)
+
+Hello Sarah, 
+
+there is an extension for MediaWiki called HaloAccessControlList. This extension provides powerful access control for protecting single wiki pages, articles of categories or namespaces and values of semantic properties. Access can be restricted for individual users and entire user groups. An intuitive GUI allows easy administration of the access rights. 
+
+The installation is not very difficult, because you can use the Deployment Framework extension to install this feature. 
+
+
+Empowers the convenient administration and automatic setup of extensions for MW and SMW (comparable to APT). The deployment framework can also download and apply the latest patches of installed extensions.

@@ -1,0 +1,10 @@
+How do I acces the password, to connect to my Internet network?
+I forgot the password to connect to my network, I haven't the slightest idea of what to do.
+Im trying to wirelessly connect to my home network with a portable device, Its a secured network so I need a password, I lost the password, and was wondering is there any way of retriving it, like is it stored in a file on my computer or what?
+There is none of which you just stated on my computer, Im not sure if we have different windows programs or what, but I didnt see a single bit of any of that.
+
+call your Internet provider to rest the password
+If you are trying to get into your internet network then you need to go into go to forgot your password icon on your computer. it should be located in the at the main page or if it's not, go to the Control Panel at in your computer. and click on "Internet Options" ,  then go in there and find your options panel, and got to add accounts your page should be in there.
+ or, 
+
+Go to the tools icon on your web page, and click on options there, then click on saved passwords. that's where your computer save all of the passwords that you allow it to. if it is not there, click on reset passwords, and start all over. if these two don't work, then call your customer service.

@@ -1,0 +1,4 @@
+Does a roku player for use with Netflix allow me to have wireless internet in my apt. if I have road runner?
+Road runner internet service from timer warner cable to be more specific is what I have now. I currently have to plug my computer into the internet connect to use it. So I was wondering if the Roku player would allow me to stream netflix movies and also have wireless internet (not have to plug my comp in to the internet connection to use it). I have a sanyo LCD fairly new tv. Thanks.
+
+ok well you would need a wireless router in order to have wireless internet. the roku player will use an already existing wireless signal IF you have one. NOT CREATE ONE. you can check with time warner most offices will set up wireless networking for a small fee an bring you a router too.

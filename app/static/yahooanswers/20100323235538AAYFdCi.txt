@@ -1,0 +1,19 @@
+My laptop suddenly stopped connecting to the Internet (dial-up)... read details....?
+^even though there aren't a whole lot of details to read......
+
+I use dial-up. 
+
+It works just fine on all other computers, so there's nothing wrong with the phone wire. If I plug it into my laptop and try connecting, it still makes one of the sounds that indicate that there's a phone wire there - If I pull the plug, that sound stops. It just says I failed to connect to the Internet, and returns with no known errors. 
+
+It did recently have to be formatted and reinstalled. It has Windows Vista on it, (Vista = fail; 32bit XP still = pwn [what else am I supposed to program in 8086 DOS machine code on?])  and always has. 
+
+It used to connect fine, even after being reinstalled. It just one day stopped working. I did a system restore, and it still didn't work. 
+
+Any help is greatly appreciated...... My guy (or, girl, rather; mages can only be girls in this game)  in an MMORPG is getting old and is still only level 11 >.<  I'm stuck playing MORTS's in odd chairs and I'll die under these conditions soon!!!! I need to play some MMORPG to practice my l33tz, too!! I'll look really dumb if I try that in a strategy game..... ("lulz u|^ k|\|18h4s |^ /\/0 m4t<h f0|^ mY l33tz h/-\x0r sk1llz,,,,, /-\nD $P34rm3/\/3n... /\/0 /\/\4t<h f0|^ 4h3m 31t|^3r" would make we get laughed at, because in the time it would take me to type that all out, his knights would have stood a chance against my l33tz haxor skillz and spearmen >.<)
+
+
+Any further information required, ask please!!
+@Phil,
+I can't get faster Internet here, so there's only one person who has it... and it's horribley slow Satellite Internet... and no, I am not hiding behind a rock in their backyard just to use it. Dial-up works just fine. To be honest, I don't care that it's gonna take 20 hours to download this file - I'll just leave it running overnight... maybe even the next night.
+
+if it wont connect to dial up, its doing you a favor. its slow. going outside for free wi fi is faster and free. or try to find someones unblocked linksy

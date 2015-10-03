@@ -1,0 +1,15 @@
+How do I retrieve the FireFox toolbars?
+I kind of clicked on view and got them out of the way as they interfered with a map I was viewing.    Now I want to get them back and can't see how to do just that.     I need the File, View, Edit stuff plus the address bar.  I am using Windows XPPro
+
+First, check your full screen mode. May be you accidentally pressed F11 key. Therefore press F11 and see if your problem is solved. If the problem still remains, then follow this process:
+
+1- Right Click your menu toolbar area (where you can see File, Edit, View and ..). Then select your desired toolbars. If there is a check mark next to a toolbar name, it means the toolbar is enabled.
+
+or
+
+2- Right Click your menu toolbar area. Then select Customize and click on Restore Default Set.
+
+Good Luck
+I found this link which I believe will answer your question. I hope this helps to solve your problem. Good luck!
+
+http://support.mozilla.com/en-US/forum/1/477191

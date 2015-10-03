@@ -1,0 +1,9 @@
+how do you know if you have Wifi?
+i don't know if my computer has Wifi or not how do i find out?
+
+Control Panel -> Networking -> Change adapter settings
+
+If you don't see a "Wireless" description, you don't have a wifi adapter in your computer.
+Most desktops don't.
+The vast majority of laptops do.
+Wifi = wireless internet, so if you want connect to the internet without any cables, you probably have wifi.

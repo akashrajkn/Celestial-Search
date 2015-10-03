@@ -1,0 +1,34 @@
+Help! My Internet font is tiny I can't read anything. How to fix this?
+i can barely read this
+
+Try holding down CTRL and scrolling the mousewheel. 
+
+Or try holding CTRL and pressing + or -
+Go to view. There should be a Font or Text or something you can change. If anything, Change the zoom.
+You know the wheel in the middle of your mouse?
+Well hold control (Ctrl) and push the wheel up.
+hold down the ctrl key while rolling the center wheel up on your mouse.
+Hold your "Ctrl" key and scroll upwards on your mouse.
+Press Ctrl , Shift and +
+lol :)
+
+Hold the ctrl button and press +; or hold the ctrl button and scroll the mouse wheel :)
+HOLD "CTRL" and "0" Default
+HOLD "CTRL" and "+" Make bigger
+HOLD "CTRL" and "-" Make smaller
+
+Holding Control and using your scroll wheel will also do it (which is probably how your text got so small)
+There are a couple of ways, but the easy way is ~ In the bottom right corner is the zoom level. Click the small triangle to change.
+in Internet Explorer:
+Go to view >zoom >choose 100%
+in Firefox:
+Go to view >zoom >Reset
+
+it should set the page back to the original font size.
+right click on an empty spot on you desktop, click on properties, click on appearance , click on fort size, change it to large!!!!
+
+if this doesn't work maybe its in your graphics settings
+
+if nothing works set your computer to an previous  time ( that day before the problem started) and it will reset your computer settings to that date (save all needed work and documents)
+
+hope this helps, free to give me best answer if you want

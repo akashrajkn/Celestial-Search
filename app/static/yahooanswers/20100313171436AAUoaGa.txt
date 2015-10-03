@@ -1,0 +1,28 @@
+Internet explorer 8 problem?
+Please help.
+
+I tried downloading Internet Explorer 8  to my computer.   Now when I try to open Internet Explorer it goes on for a split second and closes again.   Just a flash on the screen with no error message. 
+
+I tried running it without add-ons.   I went in and fixed corrupt files in my system.   Nothing works.
+
+Itunes can connect to the Internet ok.
+
+I have a netbook and can only access the computer via the Internet or USB.   I do not have any other browsers installed.
+
+Help!
+
+Run the FixIE utility.  It re-registers alot of the .dll's IE uses.
+
+http://www.thewindowsclub.com/repair-internet-explorer-with-fix-ie-utility
+Get rid of it, I had the same problem. and while your at it get rid of IE and try something else.
+Hi,god1oak
+
+There are 3 step to repair internet explorer 8 error
+
+My friend had the same problem with you. I am sure your computer has registry problems.It is very easy to repair internet explorer 8 error. you just need 3 steps:
+
+1: Download a registry cleaner and install it.
+2: Open the registry cleaner and scan you computer for free.
+3: Click fix button and you done.
+
+Download the top internet explorer 8 error repair tool here:http://www.RepairErrorTips.com/ttfix-internet_explorer_8_error-zz0001

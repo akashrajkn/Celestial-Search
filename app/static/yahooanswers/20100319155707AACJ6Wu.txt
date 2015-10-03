@@ -1,0 +1,12 @@
+What is the difference between administrator and moderator in a website?
+I have a website and here are the roles:
+Limited Member
+Member
+Administrator 
+Moderator
+
+What is the difference between administrator and moderator?
+
+Administrators have full access to the website and are able to make any modifications to all members and any content on the website or software that associates an account as an Administrator.
+
+Moderators have less access and are usually only able to moderate some content such as member posts. They are able to delete them and more. Depending on the amount of power given to a Moderator by the Administrator, the Moderator may be able to also ban a member.

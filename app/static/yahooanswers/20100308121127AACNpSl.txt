@@ -1,0 +1,5 @@
+Firefox won't fill in my usernames and associated passwords?
+My Firefox used to remember my usernames and passwords, I had to reformat HD and reinstall and now it will remember passwords, but only if I type in the username.  Before if I went to a login page that I had a saved password for, the usermane and passwords would already be typed in.  Any idea how to get it to do that again?  I have security options set to remember passwords.
+
+I have the same issue with mine.  Mine started doing it when I upgraded from version 2.0 to 3.6 yesterday.  I hope someone has a fix for it because I use it to keep numerous passwords.
+

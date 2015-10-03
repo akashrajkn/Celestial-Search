@@ -1,0 +1,10 @@
+Help with Firefox toolbar.?
+My mom was using my computer and when I get on I noticed, that the address bar was gone. So when I hit view to try and fix it I accidentally close my toolbar and I can't get it back I cant the File,View,Back or any of the other buttons. I can only see most visited and the my bookmarks which luckily I had Yahoo Answers there . I need help quick it's driving me crazy.
+
+Thanks
+
+P.S first one to help me get it back automatically gets Best Answer.
+
+hm, try booting firefox into safe mode, just go to all programs-> Mozilla Firefox->Mozilla Firefox(Safe Mode) and just reset all settings, should be good to go
+Press the ALT. key and it will show you menu bar. Now, click on View> Toolbars > Menu Bar. Then go to the same place and show the Navigation Toolbar.
+I just did the same thing and the ALT thing worked!  Thanks!

@@ -1,0 +1,7 @@
+How to do the colorsplash thing?
+I need to know an online program or something that i can use to make one part of a picture color and the rest black and white. FYI i need my shoes in color in a pic of me and everything else black and white. Like the color splash app on the iphone but online. Is there any online program that I can do this with I don't have photoshop or anything like that.
+I don't have photoshop.!
+
+try using the sponge tool in photoshop with maximum tolerance
+
+EDIT: sorry, didn't notice you said you don't have photoshop. Try downloading GIMP, it's free and very similar to photoshop

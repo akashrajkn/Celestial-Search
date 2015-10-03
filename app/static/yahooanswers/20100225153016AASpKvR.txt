@@ -1,0 +1,6 @@
+My firefox wont open?
+I turned it off last night, turn it on today and it wont open at all. It did it yesterday and i just restarted the comp(3 times) but that didn't work. I do not wish to have to remove and replace firefox if i an help it. help?
+
+What error message do you get? If there is no error message, then uninstall it and reinstall it.
+
+Otherwise deleting your profile can sometimes force Firefox to rebuild a corrupt profile and work properly again. http://support.mozilla.com/en-us/kb/Profiles

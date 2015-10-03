@@ -1,0 +1,29 @@
+Problem with loading my web site?
+Dear friends
+I posted this question before but I could not get a good answer, Actually I am not a person who have good knowledge about web site creation, publishing etc, how ever I managed to create a website url is www.purebuddhism.cz.cc and I got the free web hosting service, when I browse my sit I am having following error
+Index of /
+
+* About Us.html
+* Contact Us.html
+* Index.html
+* Meditations.html
+* ac_activex.js
+* images/
+
+Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.purebuddhism.cz.cc Port 80
+
+
+Now what is the problem I am having, please help me, I know there might be a little problem but I don¡¯t have any knowledge about doing these things so, please help me
+Thank you
+
+Re-name your index to lower case.
+
+index.html
+
+By default Apache is case sensitive when looking for default locations.
+Typical ones that are already included are index.html and index.php, non-capitalized.
+
+If you notice, the link below works.
+So, the only problem is the missing lower case index file that your web server is searching for.
+Try renaming Index.html to index.html (make the first character lowercase).
+Your site won't load at all for me. I'm thinking it's a problem with the domain finding the host correctly. Make sure your nameservers are correct.

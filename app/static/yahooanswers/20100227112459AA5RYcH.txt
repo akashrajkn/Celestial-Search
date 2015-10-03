@@ -1,0 +1,52 @@
+How do I convert an FLV video file to be able to be uploaded on iMovie?
+I have a video file called: 792A0001_1_FLV_Video_LJJ.flv
+
+How can I convert this into a file that can be uploaded onto iMovie?
+
+Thanks!
+
+There is a great piece of free software called MPEG Streamclip..
+You can download it from here:
+http://www.squared5.com/svideo/mpeg-streamclip-mac.html
+or from Apple's software downloads.
+Most serious mac users have this software on their computers.
+Download the beta version - 1.9.3b2 and install, then open.
+Now just drag your video file into the main window.
+(If you want to convert YouTube clips, click on File > Open URL... and copy/ paste the YouTube clip address in, then click Open).
+Once the clip has loaded, click File > Export to QuickTime.
+From the first box (Compression) choose Apple Intermediate Codec.
+Leave all the others setting alone.
+Choose a destination then when it's converted, open iMovie and File > Import > Movies and navigate to where you saved your file (desktop ?).
+Regards, Zyfert
+
+PS I would rename your file to take out the underscores:  _
+Sometimes these sorts of symbols can upset things.
+hi, i think iMoive supports .mov format video.
+here i recommend you a really powerful video converter for Mac.
+it can help you to convert your videos to .mov format easily and also AVI, MP4, MKV, WMV, DivX, XviD, MPEG-1/2, 3GP, 3G2, VOB and HD Video (TS, MTS, M2TS), MP3, AAC, and AC3 Audio etc. In addition, the best video converter for Mac can also extract audio from video file and convert video to MP3, AC3, and AAC¡­as you want.
+it can also  do many video editing works, such as trim, crop, merge and so on.
+
+Free download it here:
+http://www.aiseesoft.com/video-converter-for-mac.html
+
+Just have a try
+How do I convert an FLV video file to be able to be uploaded on iMovie?
+try E.M. HD Video Converter.
+http://www.effectmatrix.com/hd-video-converter/index.htm
+Key features:
+1: convert your favorite videos to various HD (high definition) video formats like HD WMV Video, HD DivX Video, HD Xvid Video, HD H.264 Video, HD Quick Time Video, HD MPEG4 Video, HD FLV Video, HD TS Video, etc.
+2: create Blu-ray folder for PS3 and Blu-ray player. besides, E.M. HD Video Converter can easily burn all videos and AVCHD (mts, m2ts) to DVD, DivX DVD.
+Hope this is helpful.
+I know iMovie support mov, mpeg-2 and avi video files. 
+I recommend you use imoviesoft flv converter for mac, it can convert FLV and YouTube Videos to almost any video formats, with excellent conversion speed and quality, such as converting FLV to MP4, FLV to AVI, FLV to MKV, FLV to MPEG etc. Furthermore, it can also easily convert video files to some popular audio formats, such as MP3, M4A, AAC, etc.
+You can have a try, good luck!
+For imovie video, you need to make sure video format mov or mp4, just convert flv videos to mov or mp4, just google search for a good flv to mp4 video converter, or look at my recommendation:
+http://www.applemacvideo.com/mac-video-converter.html#179
+Hope you resolve your problem asap!
+You can use this video converter for mac:
+http://www.tipard.com/video-converter-for-mac.html
+It can convert all video formats to what you need formats with unmatched conversion speed and excellent output quality.
+It is easy to operate. Just few clicks are OK.
+Hope it useful for you.
+Hi, i know a Free FLV Converter for Mac, which can convert FLV videos to all popular video formats, such as convert FLV to AVI, WMV, MP4, MPEG, MPG, MPEG2, VOB, M4V, RMVB, ASF, MKV, 3GP, 3G2, MP3, etc, and it is a totally free one, if you want to have a try, following is the link:
+http://www.topsevenreviews.com/free-flv-converter-for-mac.html

@@ -1,0 +1,13 @@
+How do you get back onto a board you've been banned from?
+I want to request my links are deleted on a message board ive been banned from. Is it a matter of simply changing my i.p address? I tried signing in and even registering a new account using a proxy free server (which seemed to work) .. but obviously didnt because they didnt send me reg details /confirmation. Clue me up please, the account still seems to be active with my details - I just get a message which reads banned.
+creative ideas please :-)
+
+The Block that doesn't allow you access to the site, is an IP block, using a proxy server will let you get passed that and view the site.
+
+The site will be managed by a Content Management System, that system will also have marked your account as banned, so you won't be able to log in to it.
+
+Email the admin of the site, there should be a contact page with the details, failing that you can check the whois record for the site, the admin address will be in there and you can contact them then ask for your posts to be removed.
+
+If the admin won't do it then you have no option but to let it go, there's little you can do about it legally.
+
+Is the ban permanent?  Most sites issue a 7, 14, or 28 day ban which after that time is lifted and you can return.

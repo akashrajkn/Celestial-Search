@@ -1,0 +1,21 @@
+Help emails not working on outlook express?
+Hi
+
+I hope someone can help. I have two dedicated servers lets call them server 1 and server 2. On server 1 i have 11 email accounts set up and on server 2  11 emails accounts as well. I have them all set up in outlook express. It was all working fine and all the email accounts on server 2 are still working fine, they send and receive, but for some reason the email accounts from server 1 are not receiving now. I can send emails but when i press send/receive on outlook express it comes up with a red cross next to the email accounts and doesn't work then it comes up with the following error: The connection to the server has failed. Account: 'My email account', Server: 'my website address', Protocol: POP3, Port: 110, Secure(SSL): No, Socket Error: 10013, Error Number: 0x800CCC0E
+
+Does anyone why it is that it will send but not receive and the others from the other server are working fine. What can i do to fix this? Help please!
+
+compare the settings for server 1 against server 2, something has changed, and by comapring the two you should see what it is.
+Probable reasons are
+1. Check ur  name of incoming mail server in account setting. whether it is correctly spelled or not in 
+Tool> Account setting > email> Double click on the email id>
+or
+2 Tool> Account setting > email> Double click on the email id> More setting > Advance>
+Incoming server =110
+Encrypted connection SSL = NO
+ Check these setting may help you
+Here are some links that may help you resolve your issue:
+http://www.computer-aid.com.au/blog/2006/12/16/outlook-error-0x800ccc0e-while-sending-emails/
+http://support.microsoft.com/kb/191687
+
+The first one is an interesting and likely scenario.

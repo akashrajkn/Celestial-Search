@@ -1,0 +1,8 @@
+Internet Issues Local Area Connection 2...?
+Yeah, i've had some issues with my internet since the other day, lik I saw something on the bottom right that said Local Area Connection 2, Payed no mind to it, then it would go back to The Regular Local Area Connection, Now it seems that LAC2 Is my main connection and my computer internet has been going real slow lately, How can i deleted LAC2, and go back to the regular LAC?
+thing is i dont see the other local area connection anymore
+
+without more information on your system and the components in it, would be hard to accurately say, but it sounds like you either have 2 lan cards or a lan card and a wifi on that computer.
+Right click on "My Network Places" select properties
+Right click local area connection 2, and select disable
+that will prevent the local area connection 2 and keep the other one as the main.

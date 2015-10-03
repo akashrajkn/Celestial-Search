@@ -1,0 +1,24 @@
+Why can't I download my photobucket album?
+I'm trying to download my own photobucket album by clicking the "download this album" button. Then i put in the two words (yes im spelling them right) and then i get a red error message:
+
+- There was a problem starting your download
+
+Archive Call Failed -
+
+can someone help me?
+
+There could be alot of variables here.  Need more specifics.  e.g. 
+
+- How many pics in your album?  (PB limit = 2500)
+- Do you have any ad/cookie/pop-up blocker, apps, plugins, or browser add-ons?
+- Do you have latest Javascript (http://java.com) or Adobe Flash player installs (http://get.adobe.com/flashplayer/)?
+
+Feel free to email Photobucket support here: 
+http://photobucket.com/contact
+
+For specific help. 
+
+Also good help/FAQ resource on the PB site here: http://pic.pbsrc.com/help/PhotobucketHelp.htm
+:-)
+
+Thx

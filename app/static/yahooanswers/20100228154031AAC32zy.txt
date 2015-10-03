@@ -1,0 +1,67 @@
+how do you make these symbols? ???¡è?¡ã¡§¡§¡ã?¡è??
+i coppied and pasted these when i seen them... and i was just wondering how you make these? thank you :)
+
+Hit your Windows button and type in the search box "Character map" and you will find them all there.
+You do exactly what you did, copy and paste.
+this may come of some help to you
+
+http://www.squidoo.com/keyboardsymbols
+
+and a lil further detail on the character map mentioned above, 
+
+Click to open Character Map. 
+
+Click the Font list, and then click the font you want to use.
+
+Click the special character you want to insert into the document.
+
+Click Select, and then click Copy.
+
+Open your document and click the location in the document where you want the special character to appear.
+
+Click the Edit menu, and then click Paste.
+
+Tip
+Many programs allow you to drag special characters into documents. To do this, click the character you want to copy. When the character appears enlarged, drag it into the open document.
+If you want the alt characters like ??????¡á¡â?? go here:
+http://www.tedmontgomery.com/tutorial/ALTchrc-a.html
+Hold down the alt key, type the number on the keypad, release alt
+(numlock must be on - the key above the 7 on keypad)
+
+
+If you want these guys:
+
+??[????]? ?(¡ñ?????)? ?(????)? ?(??????)? ?(-???-?)? ?(¡ñ?????)? ?(?????)?
+
+copy & paste.
+
+
+Have fun
+
+__??????? ??l??? ??l?*?? ?????? ???|?????? ???? ?????¦Ð???? ???????? ?|??? ? ?????? ??l????.
+.
+For the symbols you have presented just copy each one into the ¡°Query¡± box at http://www.fileformat.info/info/unicode/char/search.htm and mouse-press ¡°Search¡±. This brings up an information page for the symbol.
+
+There are currently 107,156 graphic characters in Unicode, which includes the keyboard characters. All of these can be used in normal text, but you must have at least one font which contains the character for the character to be seen properly in your browser. And in most word processors and editors you must select a font that contains the character in order to display it.
+
+You have not told us what operating system or what version of it you are using. This makes a difference in typing. See http://ipa4linguists.pbworks.com/ which is intended to show how to enter Unicode phonetic characters under Windows, Macintosh, and Linux machines, but the methods suggested also work for other Unicode characters.
+
+The ¡°Alt code¡± method is an old way of typing a small number of symbols on Windows machines, those that are in your current DOS character set and in your current Windows 8-bit character set.  But not everyone is using the same DOS set or the same Windows set and not everyone uses Windows.
+
+The Alt key method only works for numbers from 0 to 255. If you just type the number you get the corresponding character in your current DOS character set. If you type the number with an initial 0 you get the corresponding character in your current Windows character set.
+
+Microsoft provides an extended version of this in some of its applications, notably in Notepad and in Microsoft Office. There, if you enter a number between 256 and 65535, the Unicode character with that number will appear. This does not work in most applications.
+
+In most applications, if you enter a number over 255, the value will wrap, so that 256 is evaluated to be 0, 257 is evaluated to be 1, 258 is evaluated to be 2, and so forth.
+
+If you wish to use the extended Alt key method in any application on Windows machines, you can download and install the free utility Quick Unicode Input Tool from http://www.cardbox.com/quick.htm . This allows you to enter Unicode decimal values on the numeric keypad from 0 to 65535 and from hex 0000 to hex FFFF, using a numeric keypad dot to begin the number. It will not provide characters by their values in your current DOS character set.
+
+For characters higher than 65535 (hex FFFF) you must copy and paste them from a character map or use whatever special method of entering these characters that an application may provide.
+
+For the Unicode values, see the official Unicode charts of charts at http://www.unicode.org/charts/ . Each character in these charts has a unique Unicode hexadecimal code. To view the charts in code order, see http://www.unicode.org/charts/PDF/Unicode-5.2/ .
+
+You can use one of the calculators listed at http://tlt.its.psu.edu/suggestions/international/web/tips/unicodefourdigit.html#hexatips to convert from hexadecimal to decimal.
+
+You may also use HTML entities. For example, if you know that you want the heart symbol and know that its Unicode value is 2665, then you can use the HTML entity & # x 2 6 6 5 ; without the spaces to enter the character in many forums, including this one. The entity will convert itself into the character when posted.
+
+Because none of the Unicode characters will appear properly on a viewer¡¯s machine unless that viewer has at least one font that contains it, do not expect that all viewers will be able to see your symbol. You, yourself may not be able to see some of them in a forum.

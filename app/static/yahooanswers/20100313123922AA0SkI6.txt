@@ -1,0 +1,16 @@
+i cant open my internet explorer?
+everytime i try to open it it will go back to the main screen and if i try 3-4 times it will show this message: Internet Explorer has encountered a problem and needs to close. sorry for inconvenience.
+please help! thanks.
+
+Don't you have any other browser in your computer?  Maybe needs to be upgraded.
+In this situation you will need to reboot your computer, this happened to me a lot, before.
+Go into the Control Panel ? Internet Options ? Advanced ? At the bottom of the page there is a "Reset" button ? Click on it and it will reload and repair IE for you.
+just restart your computer
+you might have a virus in your computer is very common i've seen that problem in other computer often just try to remember if the problem appeared after install something from internet the thing is that there is a virus that tells you install this to see the video in this website and stuff like that but this download is a virus so you can use System Restore to fix your computer. follow the next steps to find system restore:
+
+all programs>Accessories>System Tools>System Restore.
+
+chose a date like two days before you see the problem 
+
+(if you don't know how to use system restore you can e-mail me and i will try to help you a little bit more) 
+sanvigotes92@hotmail.com

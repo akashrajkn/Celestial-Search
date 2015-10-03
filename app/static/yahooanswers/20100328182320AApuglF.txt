@@ -1,0 +1,4 @@
+how do you get wireless internet on a laptop?
+
+
+The router sends the signal from your connected modem to your wifi card on your laptop then open your network connections and choose the connection that belongs 2 u and put the code if the connection is secured.

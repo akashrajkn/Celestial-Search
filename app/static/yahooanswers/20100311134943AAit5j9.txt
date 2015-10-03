@@ -1,0 +1,15 @@
+wot addon for firefox help?
+i use wot, have been using it for a while, and just now realized that site's reputations are really only reliable if a lot of people rate them. but i can't find a way to see the total amount of ratings
+
+
+my question is, how do you check how many people have rated a site on wot?
+
+Hi there,
+
+It doesn't tell you how many people have view the website. But, on the tool bar you can see a (GREEN CAPITAL O) which gives you rating about the website. As regarding excellent / no information / bad etc..
+
+Hope this help.
+
+Take care
+
+Sam

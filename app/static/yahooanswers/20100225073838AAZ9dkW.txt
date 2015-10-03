@@ -1,0 +1,7 @@
+How to do I keep that menu bars at the top and at the bottom, stay in it's place?
+I use Internet Explorer and on any site that I go on, the bar at the top and the bottom of my screen (I think they are called status bars) are not visible unless I put my mouse on it. I want it visible all the time. How do I change this?
+
+Click on the Menu item View and in Toolbars check the items you want to see.
+
+If your browser in in full screen mode, press F11 to restore it.
+If you don't see the menu, press Alt to make it appear.

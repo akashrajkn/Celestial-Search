@@ -1,0 +1,49 @@
+I hate the latest Firefox!!?
+I just upgraded my Firefox (I'm on a mac) and I choose a 'theme' that put all this artwork in the backround...like a skin...how do I get rid of it!!! I don't want another skin, I just want this gone!!!!  thanks!!!
+
+you use chrome
+ummm. click delete skin?
+Click the tools tab than add ons click uninstall
+Use Google Chrome.  (I'm using it right now)
+
+1. More stability
+
+Google implies that Chrome is more stable than existing browsers. A major selling point for me. As their little Google¡¯s comic book puts it, ¡°When you¡¯re writing an important email or editing a document a browser crash is a big deal¡±.
+
+2. More speed
+
+Google claim that sites will download quicker on Chrome; this appears to have something to do with Chrome¡¯s JavaScript Virtual Machine named V8. Google state that Chrome looks at the JavaScript source code and ¡°generates machine code that can run directly on the CPU that¡¯s running the browser¡±, this apparently helps speed things up.
+
+Brendan Eich (the founder of Mozilla CTO and JavaScript creator) claims a new Firefox¡¯s new TraceMonkey JavaScript engine outperforms V8 so this particular claim is hard to verify.
+
+3. More secure
+
+I like how they have built Chrome using a sandboxing technique that prevents unwanted software installing itself on your machine and stops what happens on one tab affecting what happens on another.
+
+4. More open
+
+Google have decided to open source the entire browser. This could be of huge benefit to the web community. Yes, I know Google has more money than God so they can afford to do this but they deserve a pat on the back for doing this.
+
+5. More style
+
+Google definitely lacks Apple¡¯s style but what they¡¯ve build here looks really slick. I¡¯m a big fan of the smooth and uncluttered look and feel.
+
+6. A dynamic start page
+
+Chrome have done away with the traditional start page approach used by other browsers to display your 9 most visited pages when you boot it up.
+
+7. More Privacy
+
+Google have included an ¡°Incognito window¡± in this build. None of your history is saved in the browser when you use this window and when you close it the cookies from that session are wiped out.
+
+8. Better approach to blocking pop ups
+
+Pop ups are confined to stay in the tab they came from unless you want to drag them out in to a new tab. I just tested this out on one of my favourite music sites and it works like a treat.
+i think you're talking about a persona.
+
+right click (or click, i cant remember) the little fox head icon in the status bar on the bottom of the browser.
+That's your fault. Not Firefox's. You should be hating yourself right now.
+i did the same thing.  i just uninstalled it, then went back to firefox and installed it again.  there may be an easier way, but this worked.   and i didn't put one of those stupid themes on the second time.  what is the point of those things ?
+Yes they are stupid. Just got rid of mine
+
+Tools..........Add ons.................Themes then uninstall

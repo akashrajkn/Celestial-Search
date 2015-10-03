@@ -1,0 +1,6 @@
+Can someone tell me how can I download videos from video.nate.com?
+Most video sites have downloaders available online but video.nate.com haven't got any when I searched for it. Can someone help me? It's a Korean video site and I can't understand a thing. ;; Any help will be appreciated. Thanks!
+
+if you are using firefox use add-ons' video download helper'.
+when you go to site has video you can see 3 colour bubbles rotating.click on it & download video.
+I just tried getting a video from the site given using my Ant Video Downloader.and it works.

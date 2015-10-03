@@ -1,0 +1,7 @@
+I need an online world clock to help me set appointments.?
+I don't need a clock that tells me what time it is right now in another time zone. I need something that can calculate appointment times in multiple time zones (future time).  Also,  I have to be able to use it online because I can't download anything on to my work computer.
+
+http://www.timeanddate.com/worldclock/meeting.html
+YOU COULD TRY :-
+
+       http://www.sanza.co.uk/apps/worldclock/timezone.asp

@@ -1,0 +1,13 @@
+can you safely delete internet explorer to use mozilla firefox?
+a friend recommended firefox to me so i can use tor, i use internet explorer now, its there a safe way where i can delete internet explorer without messing up anything?
+
+I would use something safer, and faster, such as Chrome or Safari.
+download firefox, then drag IE into the trash.
+Control panel will remove it, but you do not have to. I have both browser installed on my computer, so if it were me I would leave internet explorer on the computer. It doesn;t take up much room and certain sites will not work on firefox.
+Depends on your OS...if it is Vista....you cant...I know you can do it for all earlier operating systems....Not sure with windows 7.
+Just leave explorer on your pc and use explorer, it's not hurting anything.  I hated firefox after about a month.
+Internet Explorer is integrated into the Window's operating system, so no you can't safely delete it.
+
+You can set Firefox as your default browser so IE is basically hidden. On Windows 7 and I think Vista, click Start, and go to Default Programs. Then click set your default programs, select Firefox, and finally click Set this Program as Default.
+
+Now every file that Firefox can open (like saved web pages) will open in Firefox automatically instead of IE

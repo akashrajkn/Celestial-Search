@@ -1,0 +1,12 @@
+How do I revert back from IE 8 to IE 7?
+I made the mistake of upgrading. How do I go back to IE 7?
+
+Hi there follow the link below:
+
+http://www.microsoft.com/downloads/details.aspx?familyid=9ae91ebe-3385-447c-8a30-081805b2f90b&displaylang=en
+
+Just download IE 7 and reinstall, you can go uninstall IE8 first if you want from windows components on your Programs and features or Add and remove programs.
+
+
+Good luck :)
+Download IE 7 here http://www.soft32.com/download_997.html, then uninstall IE 8 then install IE 7 from the file you downloaded there.

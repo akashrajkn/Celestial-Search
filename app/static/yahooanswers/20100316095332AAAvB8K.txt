@@ -1,0 +1,7 @@
+Do you need to verify your pay pal account to get the money into your bank account?
+
+
+yes, otherwise you cant send it to your account, unless theyre linked. and when you link it paypal sends 2 amounts into you account. theyre usually like .43 or .06 amounts, but once thats done, all is good and you can access both accounts from the other
+It is more like other way around. You need to verify your Bank Account to withdraw money from paypal. To be more specific - Paypal will verify your bank account when you add the bank details by debiting very little amount from your bank account. Then you have to enter those exact amount to your paypal account verification page. (Last time they deduct ?0.12 and ?0.13 from my account) 
+
+Hope the above answer will help you.

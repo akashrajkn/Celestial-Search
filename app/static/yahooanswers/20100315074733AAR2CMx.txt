@@ -1,0 +1,15 @@
+Some random sites won't load for me? 10 points!?
+hey guys i bot on runescape and then sell my accounts for some extra cash :D and whenever i go to rsbots.net it says page cannot be loaded and my friends can get on on their computers also when i go to autofighter.org it will load until i go to a download page like for essence miner nx or when i try to go to windows site to download .NET microsoft framework it won't load heres the link http://www.microsoft.com/downloads/en/confirmation.aspx?familyId=333325fd-ae52-4e35-b531-508d977d32a6&displayLang=en when i click start download the next page won't load also i have had a few virus's lately like i believe one was called redirected hosts but i was able to delete them all help! 10 points to first answer that helps
+
+this is worth a try go to the hosts file.
+C:\Windows\System32|Drivers\etc
+
+and do a search or any of those site's  
+
+(ie..search > rsbots.net
+If anything relates to that site it will show up, then you can just delete them...
+
+This happens to me a few times, when i can't access a site, even when i know the site is ligit
+Try opening up the web site on a different computer then downloading the program on that computer, then saving the file to a USB and returning to your computer and installing it. Seeing as you've had virus's on your computer it could be possible that a virus has infected one of your system framework files causing you to not be able to access some things online.
+
+Since you need this download right away I would download it on a friends computer and save the file to a USB and then later you can worry about why your computer isn't working right.

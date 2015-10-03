@@ -1,0 +1,8 @@
+Trouble with firefox NEED HELP?!?
+Okay so I tried to download Veoh again and it kept stopping then it would freeze and shut down when I tried to download something else it did the same thing. That's only the first of my problems..I uninstalled firefox to see if it worked..nothing so I re-downloaded it now my computer is a bit better but when I download things it still does that freeze thing and when I write something in the search bar it doesn't show me a whole bunch of things about it instead it shows me what I searched for already (example: I type in "Y"...it'll show everything that has "Y" even "Y on wikipedia now when I type "Y" it shows me "yahoo" or "yahoo answers" or "youtube" THINGS I ALREADY SEARCHED FOR!!) and it's making me angry so how do I fix it? I went to the website found nothing...tried live chat but it's closed. PLEASE HELP ME?!
+
+Hi,
+
+Okay so uninstall firefox, but this time you must delete all personal information. Then reinstall. It should solve problem. Email me if need help.
+
+Firefox has previously searched for things on search bar. This is the way Firefox works. It is called the awesome bar. There are some configurations that your can change, email me if you want them.

@@ -1,0 +1,5 @@
+Safari browser suddenly always asks for permission to open up on Windows 7?
+Hey, my Safari browser today suddenly asked me for the first time if I want to allow it to make changes to the computer. Yes or no are the only options. I click yes, it opens. I click no it closes. Every time I open it it asks if i want to allow it or not, its SO annoying. What causes this?? I have windows 7. And I put down the user account notification settings but i still get the warnings :/
+did that, didnt work.
+
+uninstall and re-install safari... by the way... chrome is better than safari on windows..

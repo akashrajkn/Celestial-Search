@@ -1,0 +1,5 @@
+why doesn't my internet explorer work?
+I'm trying to download an anti-virus software through internet explorer but my explorer is not working.  Because of that I can't scan my computer and it's now filled with viruses I can't get rid of.  Meanwhile I keep getting warnings that my computer is infected asking me to download the software I can't do. Is there anything I can do?  Any advice would be helpful.
+
+The viruses may have already infected it, but try a system restore to a point before you got the virus. At the very least, you should be able to download some effective software.
+the warnings is a scam to get you to download and buy their software don't do it. do system restore if you cant do anything. turn off your computer and turn it back on holding down the R key until you hear clicking and the system restore comes on, do full system restore with no back up

@@ -1,0 +1,21 @@
+how do i take a snap shot of my computer screen ? i want to capture funny comments on facebook?
+ive been trying to press THE "ALT BUTTON" AND THE "PRNT SC" BUTTON AT THE SAME TIME BUT IT DOESNT WORK... how do you take a snapshot of something on facebook?
+print scrn then paint and then cntrl and v button DOESNT WORK... are you not allowed to take screenshots of facebook stuff?
+
+Prtscrn>Paint>Ctrl+V
+PRNT SC, paste.
+
+X
+For Windows (this says XP but is the same for Vista and 7)::
+
+http://www.microsoft.com/windowsxp/using/setup/tips/screenshot.mspx
+
+Vista and 7 also have a snipping you can use for screen shots:
+
+http://windows.microsoft.com/en-us/windows-vista/Use-Snipping-Tool-to-capture-screen-shots
+The PrtScrn button does work, but it only copies the image to memory. You have to use a paint program to *paste* the image so you can save and share it. (Make sure you censor any info you don't want the entire Internet to see!)
+
+Holding down Alt makes PrtScrn copy only the active window, and not the entire desktop.
+I do a lot of screencasts for my educational video podcast, and the one I've found to be great and easy to use is Total Screen Recorder. The screen recording is rendered as .AVI / WMV / SWF / FLV.
+
+http://www.converter123.com/Other-Software/Total-Screen-Recorder.html

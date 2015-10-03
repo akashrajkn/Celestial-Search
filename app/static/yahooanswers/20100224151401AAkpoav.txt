@@ -1,0 +1,11 @@
+internet securoty pop ups?
+my internet security popped up with a warning that a particular site would put the computer or identity at risk, does this mean this site was definatly visited ?
+
+No, it was just a warning to not proceed to the website. You can run Hitman Pro to see if your PC is still clean. It's the quickest scanner...
+The 5 Best Ways to Block Popup Advertising
+http://popup-stoping.com/trojanhorsesremover/
+Choice 1) Switch to Using Firefox Browser with integrated popup blocking
+Choice 2) Install XP Service Pack 2, and use IE Popup Blocker
+Choice 3) Install a Google or Yahoo anti-popup toolbar, if you still use XP SP1
+Choice 4) Your ISP likely offers a free 3rd party popup blocker
+Choice 5) Purchase a 3rd-party popup blocker

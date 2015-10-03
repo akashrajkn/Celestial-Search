@@ -1,0 +1,10 @@
+when i start my browser-firefox-the tools,help and favourites etc at the top have disappeared?
+i am no longer seeing the tool bar right at the top of my web page- the one that has things like
+tools , files, help, favourites, options etc. its just disappeared- how do i get it back. ive already uninstalled firefox and reinstalled but still not there. they are there on internet explorer tho.
+
+Press ALT + V ( both keys together)
+
+When the menu bar comes up , select View >.Toolbars>. and double click on Menu Bar until the tick appears next to it
+
+Or are you in Full Screen Mode ?..If so press F11 to return to normal
+Right click an empty spot of the light grey area at top of browser and put a check mark in "Menu Bar"

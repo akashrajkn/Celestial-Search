@@ -1,0 +1,9 @@
+is this bad?!?!!?!? please let me know.?
+i went on the internet and every website i have an account for was signed out when its usually always signed in. (myspace, yahoo, twitter, youtube, ect.) is it like caused by a virus or something?
+please please let me know.
+
+I love how people assume everything is the cause of a "Virus". Tell me what is this "Virus"?
+your cookies were just cleaned. Its not a bad thing, it just happens. mine does that too when i have a computer update, not virus.
+doubtful. your "cookies" were probably deleted. those are files that save information like passwords. but no worry, its healthy for the computer for those to be deleted every once in a while.
+All of this information is stored in something called a cookie. This little file contains the information to each website and can be deleted by going to tools -> internet options in internet explorer. If these cookies are deleted,  the next time you visit the site you will need to log in again. There shouldn't be any worries for viruses or malware. If you suspect anything, use your anti virus program such as McAfee or Symantec and then use an anti-malware program such as Ad-aware or Malwarebytes Anti-malware to be safe.
+You likely just deleted your history and this may have "cleaned out" your cookies, passwords etc. from the browser. That's not a problem, and should be done regularly anyway. Just re-enter the information and uncheck any boxes that delete your "browsing history" information. It doesn't sound like any virus. Good luck!

@@ -1,0 +1,5 @@
+Accidentally updated after jailbreak?
+I accidentally "updated" my ipod touch after i jailbroke it with blackra1n. when i tried to jailbreak it again, it won't reboot it, and the image of gehot never comes up. how do you jailbreak it again after an update?
+
+You cant. You have to find the previous system installer (I have no idea where) and reinstall the iPod from scratch from that. You cannot use system restore because that is the current system. Then you have to re jailbreak the iPod.
+search on google ipod touch ( 2g or 3g) firmware 3.1.2 software. after u did that open itunes an plug ur ipod. then if ur on pc hold shift and click on restore, then choose the firmware u just downloaded. if ur on MAC then hold option instead of shift and press restore. then when it does respte it shud be on firmware 3.1.2. then when u are sucsessful, use blackra1n again

@@ -1,0 +1,13 @@
+Why do I keep getting the "Internet Explorer cannot display the web page?"?
+I've cleaned my cache, scanned for viruses, and cleaned the registry.  Sometimes it opens, sometimes not.
+
+you should ditch internet explorer and get firefox, chrome or opera, i always had problems with it.
+perhaps the link is old. if not just today with the problem, it could servers on other end. try getting there using search with keyword
+there could be many things. If you internet explorer is not displaying the web page, it is usually connection problem. you should reset your modem and reboot your PC. If you are connected and trying to open other website and you get this error, possibly the website is no longer available. i hope this one helps.
+because it's internet explorer!
+It may be that a third party app is interfering with opening IE, like your virus scan app, which may download updates when you boot up your computer.
+
+You need to go to your startup programs and eliminate them one by one, until you discover which one is causing the hang in your IE .  Go to your help and support program on your computer, and do a search for third party apps, to see what steps you need to take to eliminate startup programs.
+Sounds like it could be a problem with the Internet settings cutting out. It's often the case for computers to get confused and save their Internet settings in the wrong way.
+
+Which registry cleaner did you use? If it's one called "CCleaner" then its no wonder it has not done anything to fix your PC. CCleaner does nothing to fix the settings inside your PC. It has a good temp file remover but it's registry cleaner is terrible. You should try a tool such as 'RegCure' which you can find at http://www.fastregistryfixes.com/best_registry_cleaner_tools.html

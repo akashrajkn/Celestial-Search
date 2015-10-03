@@ -1,0 +1,13 @@
+What wrong with my Firefox browser?
+ok soooo I reinstalled my comp with win7 and started using Firefox obviously (cus internet exploder sucks) and lately it's been bugging out with links, an example of this would be if I click a link to another page for example, all it does is come up with a download window that has nothing it in and when I try and click the link again after cancelling that, it does nothing. It only seems to happen when I'm on Youtube.
+
+also, before I get any comment saying I have a virus, malware etc, there are 2 thing I should say. 1:I've not been on any dodgy sites at all, in fact the most dodgy site I've been on is newgrounds if you wish to call that dodgy.
+2: I have done multiple scans using Avast! antivirus (on a full scan), IObit security 360 (on a full scan) and Spybot Search and destroy, and found nothing. (all of these programs are legit, not scareware)
+
+It may simply be a case of firefox base files simply becoming fragmented, but I'm still unsure as this has happened before and defragging didn't seem to do anything. any ideas?
+Stupid answers that contradict what I've said about internet (exploder) aren't helpful.
+
+use internet explorer, :)
+First thing i'd do is download Microsoft Security Essentials & run a full scan with that - it knows Windows 7 better than any of the others.
+
+Download the latest Firefox, (3.6) that fixes a few security flaws. Totally uninstall your version of firefox beforehand & make sure you click 'delete all user settings' to clear the registry. The built in software uninstaller isn't perfect so get Revo http://www.revouninstaller.com/ - its a trial but you get it full for 30 days.

@@ -1,0 +1,8 @@
+How do I find a map of fibre optic and Virgin Media coverage in London?
+It seems nigh on impossible to find a detailed map of fibre optic and Virgin Media coverage in London. I rent and actually want to physically move to an area which is covered by fibre optic. Is it possible to find a detailed coverage map online of actual London postcodes which have these services available?
+
+well i work for virgin media networks and the network layout/diagrams are not available online.
+here is something to look at http://www.samknows.com/broadband/llu-operator/virgin
+also http://allyours.virginmedia.com/websales/service.do?id=2 where you enter postcode and it will show the available of the networks.
+Phone Virgin Media, let them know the postcode of the area you are interested in and they will tell you
+You can also do this online by searching post codes. http://www.virginmedia.com

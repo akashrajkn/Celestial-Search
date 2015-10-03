@@ -1,0 +1,9 @@
+Can I run 2 anti-virus programs on the same PC?
+My internet provider offers anti-virus protection that I will need to download soon if I want it for free. I already have a professional grade program that I do not want to remove. Can I also install the free one as a backup until my professional grade program expires and run both in the mean time?
+
+No, as they could conflict and cause BSoD's/slowdowns etc
+idoobackup software have a free version.
+http://www.idoobackup.com
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

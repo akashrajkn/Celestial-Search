@@ -1,0 +1,7 @@
+what is the right program or default program to open other programs like yahoomessenger,powerdesk,mozilla fir?
+i think i mistakenly clicked something and now i cannot open my programs...i tried almost all the programs to open the programs that i want to use but to no avail...what's my default program that opens other programs like yahoo messenger,powerdesk,google earth,firefox,internet explorer etc once i click the programs' icons twice?
+
+windows opens them i guess, try windows restore to a date before you messed it up
+you screwed up your associations dude.
+
+try to system restore back a few days.

@@ -1,0 +1,35 @@
+Should I get Firefox?
+I have IE8 at the moment and I've always used IE but I'm debating changing to Firefox. Is it worth it? I use the internet a lot but I don't watch that many videos or download music or anything but I'm almost always on.
+Also, if I switch, will I lose my Favorites list?
+
+First, yes definitely switch. Maybe not to Firefox though, Google Chrome (or even the latest version of Opera) are actually much better now (as in faster, more light-weight, and nicer looking). 
+
+And as far as favorites go I'm not sure. I know in most browsers you can get your bookmarks from your old browser and put them in your new one, but I'm don't think you can do that with favorites.
+You can import your favorites into Firefox. And actually I believe when you install it it asks you if you want to. The beauty of Firefox is that it's open source. So people write add-ons for it. There are thousands of add ons and you can customize it any way you want. For instance, I have an add-on that checks all my emails accounts in one place, another that gives me FTP in a browser, and one that plays my music from iTunes in the status bar, etc.
+
+If you're thinking of Firefox, download and TRY it. It's free, and if you don't like it, you can always go back to IE.
+u can get as many web browsers as u want. they dont affect computer performance.
+Firefox is a faster and more reliable web browser compared to IE. After installing Firefox, you can choose to import all your data from Internet Explorer. That should then import your Favorites List. If not, just uninstall Firefox and continue using IE8, you wont lose any data in the process.
+you can export your favorites, but if you are not experiencing problems with IE then its not worth the hassle switching, they are just as good as each other, unless you plan on using some firefox plugins, but for the basic browsing etc there is no need or you could just use both they dont take up much space or slow down the computer
+Absolutely! Firefox is an amazing browser! I am using the browser at the moment and I must say, one of the best changes I ever made to my computing experience.
+
+You will notice that it may take a few seconds longer to start it up than IE8 but that shouldn't be much of a bother as Mozilla is constantly looking for ways to make it even MORE faster and reliable. It has so many features and customization; from security to social networking, themes to download management, this browser got it all!
+
+Also, no you will not lose your Favorites list. When you start up Firefox for the first time ever since of installation, it will ask you if you would like to import your last browsing history and preferences from any browser that is detected in the machine. In your case, it will detect Internet Explorer. Just check Internet Explorer in the Import selections list and click OK/Continue, and just wait a few seconds for the best browsing experience of your life!
+firefox kicks much much ass.
+yes, firefox uses less ram than ie8. even though firefox is good i would recommend safari its way faster and sometimes firefox stop responding and safari i think uses less ram than firefox and evey tab u open in google chrome is like opening another google chrome program
+I'm a web developer and designer, and Firefox is the best. The most modern scripting languages (HTML 5 and CSS3) aren't supported in any version of IE, not even 8. They are, however, supported in FF, Opera, Chrome, and Safari. All of those are pretty good browsers, and this might be my biased opinion, but Firefox is the best and most updated out of all of them. Keep in mind one thing as I leave you this parting thought, all the browsers I mentioned are faster, safer, more up to date, and all around better than IE.
+
+-Billy
+You can dowload and install Firefox and keep IE as your default internet browser.  Firefox is customizable and has cool addins, and can come in handy if you are having probs with IE.  You dont have to change, you can have both.  I have Firefox, Opera and Chrome just for kicks but IE is still my default browser.  
+
+Its a good place to experiment
+As a former IE8 user who changed to Firefox, I strongly suggest you do install Firefox. You dont know what your missing until you install this. I mean, it makes your internet experience a lot better and if your like me blogging and writing on the internet, it makes it a lot faster with its automatic features.
+About your Favorite, you can simply just move them firefox. I mean they wont be lost unless you uninstall IE8. You dont have to uninstall IE8 to install Firefox. I keep both of them
+I hope it helps.
+I'd go for Firefox. Google chrome and opera are good too.
+Firefox has more advanced options to change and it has lots of cool addons.
+
+Im using firefox and it hasnt given me trouble at all. I used IE8 and it gave me problems and viruses. I disabled it.
+
+I say Go for FIREFOX - fast, easy, safer and reliable

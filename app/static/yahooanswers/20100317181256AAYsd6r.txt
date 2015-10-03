@@ -1,0 +1,6 @@
+Block websites, and media?
+I am playing a prank on my family, I made a second Firefox profile and I want to mess with them by blocking certain websites, and making it seem like videos won't work and etc. It has to seem like it is the internet or the website itself is having a problem though. If possible, if anyone knows how to set up the administer account to block installing new programs as well. Thanks in advance!
+
+you can block websites by adding a fake IP in your HOSTS file, or install adblock and just block the entire web site.
+
+another option would be to install foxyproxy and set up a rule for just those web sites

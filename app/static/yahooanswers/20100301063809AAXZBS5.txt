@@ -1,0 +1,16 @@
+Can an error in a wireless internet connection slow down a computer?
+i have windows 7 home premium and it is slowing down can my internet connection cause this?
+
+If by Internet connection you mean the inherent ability for Windows to download viruses through it and have the viruses slow down your computer, then yes.
+
+Otherwise, no.
+Not by itself. Try using a program to search for spyware and viruses. You could try something free like AVG, but if it comes up with nothing (and your computer is still significantly slower) you may need something along the lines of Norton or McAfee. You could also upgrade your RAM. I wouldn't suggest laying out the money for a new GPU or CPU unless it's really important to you.
+That may cause your computer slow. Tell the internet connection supplier the detailed information about the error and ask for help from them. If your computer is still slow, you can use RegistryMum to clean the registry and defrag the disk. This kind of software is designed to fix registry errors and free up disk space, some of my friends said it was good. You can try.
+It can be on the reason. But not mostly... as Windows 7 has firewall configured for internet.
+Spywares and torzans are free to hit our machines.
+Please configure good antivirus and firewall for your pc like eset nod or eset smart security.
+If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://slowpc-checking.com/Slow_PC

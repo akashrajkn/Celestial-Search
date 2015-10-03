@@ -1,0 +1,13 @@
+Can I save my firefox configurations and addons?
+What I mean when I reformat my PC can I save my firefox addons so will not have to go and find and reinstall all the addons again.
+
+I don't think so , you can save your bookmarks ofcourse , but not addons. .
+
+there is a software ,btw , that will save all your winows configurations and programs once you format and reinstall windows and use it .. but I don't remember it's name ,,, google it
+Hi!
+
+Do a search for Moz Backup. I use it all the time, it will make a back up of all your setting, bookmarks, passwords, etc. I believe it also gets your addons, but I'm not 100% sure. I've used it numerous times and I don't remember having to go out and reinstall all my addons. It's a great program and has saved me tons of time when switching to a new computer. Just create a back up of Firefox, then install Firefox on the new computer and run Moz Backup and choose the restore option, it also does the same thing for Thunderbird. Great software!
+
+Hope this helps
+Good Luck!
+Mike

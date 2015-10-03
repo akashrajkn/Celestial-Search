@@ -1,0 +1,6 @@
+in firefox, how do you make it so when you push the back button, it goes back to where you were scrolled to?
+suppose i scroll down a page a hefty way and click on a link, it goes to the next page and it's not what i want, so i hit back. i want the page to be in the same spot as where i left it, not back at the top.  i looked through all the options but there was nothing close.  i know there is a hidden page of options. i forget where it is but if you type something in the address bar it goes to this page. is there anything on that page that would do it?
+
+What you're thinking of in the address bar only works if there is an anchor in the html code.
+
+If you want Firefox to restore your scrolled position, you have to use an add-on.

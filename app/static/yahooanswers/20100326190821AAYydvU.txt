@@ -1,0 +1,10 @@
+Weeworld Toolbar....?
+Ok i might install the Weeworld toolbar on my computer
+but im wondering can you ever uninstall or remove the toolbar
+after you install it?
+How do remove it after?
+
+Yup... not hard to do at all
+Yes just go to Control panel, 
+Add remove programs,
+Find the program and click uninstall.

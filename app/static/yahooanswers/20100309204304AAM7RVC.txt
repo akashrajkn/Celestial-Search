@@ -1,0 +1,31 @@
+My Internet Explorer is not working...help?
+How do you uninstall internet explorer?
+
+Best thing to do is get a copy of Mozilla Firefox, from a friends computer (download it and save it on a memory stick or burn it to a cd ) and use that from now on,
+I also had too many problems with IE that I just stopped using it completely.
+You can restore your system to make Internet explorer work fine , but i would recommend tou to use Mozilla Firefox 
+
+
+http://www.mozilla.com/en-US/firefox/personal.html
+
+
+
+Follow the steps to restore your system in case you want to continue with Internet Explorer
+
+
+To use System Restore to restore Windows XP to a previous state, follow these steps:
+
+   1. Log on to Windows as Administrator.
+   2. Click Start, point to All Programs, point to Accessories, point to System Tools, and then click System Restore. System Restore starts.
+   3. On the Welcome to System Restore page, click Restore my computer to an earlier time (if it is not already selected), and then click Next.
+   4. On the Select a Restore Point page, click the most recent system restore point in the On this list, click a restore point list, and then click Next.
+
+      Note A System Restore message may appear that lists configuration changes that System Restore will make. Click OK.
+   5. On the Confirm Restore Point Selection page, click Next. System Restore restores the previous Windows XP configuration, and then restarts the computer.
+   6. Log on to the computer as Administrator. The System Restore Restoration Complete page is displayed.
+   7. Click OK.
+
+If you successfully restored your computer to a previous state, and the computer is performing as it should be, you are finished.
+you can uninstall and reinstall it from control panel>add remove programs> in that left hand side panel click add/remove windows component, there you find Internet Explorer--- just unchecked that check-box and click NEXT that will uninstall IE from ur computer...
+
+fro reinstall u can follow the same one...........

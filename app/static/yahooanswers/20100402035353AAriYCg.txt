@@ -1,0 +1,7 @@
+I want to know about usage of Bsnl broadbad?
+I am using BSNL broadband unlimited plan.
+I want know how much data I have downloaded till now.
+How can I know about usage till no.
+Please help me.
+
+Go to data.bsnl.in and type ur protal id (not ur bsnl id but ur portal id , if u don't know ask the nearest bsnl office) and password. then select postpaid services tab and select the month for which u wanna se the usage.

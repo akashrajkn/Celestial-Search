@@ -1,0 +1,9 @@
+Firefox won't open even though Internet Explorer, Safari, Chrome all will.?
+Any insights to why this is?
+
+reboot.
+If firefox crashed it leaves a portion of itself running and you can't see it. 
+If you are pc savy you can go to task manager\processes and look for firefox and kill it.
+If that is not the issue then reinstall firefox. They came out with a new update.
+Just keep using Safari...A new update may come soon with several performance boosts!! 
+so just use Safari :-)

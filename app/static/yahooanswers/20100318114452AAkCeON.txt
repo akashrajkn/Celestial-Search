@@ -1,0 +1,18 @@
+What does this symbole mean ~?
+I see some people use ~ alot online, especially asians, like at the end of words. like this~
+
+whats it mean?
+
+See this link
+http://searchcio-midmarket.techtarget.com/sDefinition/0,,sid183_gci213147,00.html
+
+It's called a tilde btw.
+in maths and programming it actually means not, for example - 
+
+int i = 1;
+int p = 0;
+
+If (i ~==p){
+  printf ("i and p are not equal");
+}
+Well I'm Argentinian and here we uses to write words using '?' (enie) like ni?o (boy) ba?o (shower) u?a (fingernail) etc.

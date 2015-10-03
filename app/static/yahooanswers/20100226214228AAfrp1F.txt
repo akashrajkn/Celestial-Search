@@ -1,0 +1,5 @@
+My Firefox Add-Ons disappeared and some websites won't work either after laptop shutdown failure!?
+After my stupid laptop battery fell off my laptop, I insert it back in and turned back on. All of a sudden, when Firefox appeared on start-up, All of my Add-ons disappeared and websites like last.fm won't work when I click the "Add To My Library Button". Does anybody know the solution to this issue? My computer is a Windows Vista 7 and I also tried finding files:extensions.ini, extensions.cache and extensions.rdf, but they are nowhere in my Firefox directory. Especially with Hidden Files and Folders enabled. I am also too lazy to reinstall my add-ons and extensions.
+
+if your still not sure on what to do
+then go to your local computer store and get them to look at it and fix it for you

@@ -1,0 +1,60 @@
+Who can give me some information about starting a blog?
+I love to write, but I have very little experience with online blogging. I'm looking to start my own in a couple of days, but have no idea where to begin. I know that I'll need to go through a free site, but I would very much appreciate it if someone would outline the major 'blog' sites for me and explain the differences between them. Please don't just say 'blogger.com' or whatever... give me the pro's and con's in terms of organization, formatting, personalization, etc, and WHY is it the best choice.
+
+Also, please include the link to a couple of example blogs, and include which host or site they are through.
+
+Much, MUCH appreciated, and I will pick a best answer.
+
+Thank you :)
+
+I think your best choices are wordpress and blogger. They are pretty much the same but i will summarize some info i got from wikipedia:
+
+"Blogger has imposed the following limitations on content storage and bandwidth, per user account:
+Number of blogs = Unlimited
+Size of pages = Individual pages (the main page of a blog or archive pages) are limited to 1 MB
+Number of labels = 2,000 unique labels per blog, 20 unique labels per post
+Number of pictures (hyperlinked from user's Picasa Web Album) = Up to 1 GB of total storage
+Size of pictures = If posted via Blogger Mobile, limited 250 KB per picture; posted pictures are scaled to 800px "
+"WordPress has a templating system, which includes widgets that can be rearranged without editing PHP or HTML code, as well as themes that can be installed and switched between. The PHP and HTML code in themes can also be edited for more advanced customizations. WordPress also features integrated link management; a search engine-friendly, clean permalink structure; the ability to assign nested, multiple categories to articles; and support for tagging of posts and articles. Automatic filters that provide for proper formatting and styling of text in articles (for example, converting regular quotes to smart quotes) are also included. WordPress also supports the Trackback and Pingback standards for displaying links to other sites that have themselves linked to a post or article. Finally, WordPress has a rich plugin architecture which allows users and developers to extend its functionality beyond the features that come as part of the base install.
+
+Native applications exist for Android, iPhone/iPod Touch, and BlackBerry which provide access to some of the features in the WordPress Admin panel and work with WordPress.com and many WordPress.org blogs." (from wikipedia too)
+
+Both of them are good options, blogger has Google as support so you can expect a lot of plugins for your blog and lots of applications to use with your blog (every now and then google launches a new technology or software, like android)
+
+Wordpress has experience in this market and they have very nice templates, its just a matter of tastes, you should check both of them
+As you may know a domain name is just a name, not a real website/weblog. If you are going to create your blog website: 1- Buy a domain name. A domain name is a name you want to call your website (ex: www.yahoo.com).  To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your blog online at your purchased domain name.
+
+If you¡¯re going to start your blog at your own domain with different pages, you need a web host providing wordpress.
+
+Take a look at:
+http://www.threehosts.com/blog
+There you can reach the three reputable companies that are leaders in the blog/wordpress website hosting industry.
+After going through your question, I'll recommend you Google's blogger.com
+
+The points favoring my recommendation are as below: 
+
+If someone is new to blogging, the blogging site should be easy and doesn't make one disappointed in future, when he/she will be technically far more ahead at implementing things than they're at present. 
+
+Then let I assure you, Blogger.com, a blogging platform by Google is by far the best.
+
+Blogger.com is the best platform for all bloggers, irrespective of their tech expertise. In addition, another benefit of using blogger is that you get traffic from Google search as well.
+
+Google's blogger.com is a pretty versatile blogging platform. The url format of your new blog will be xyz.blogspot.com, where xyz represents your name. But if you want to make the url look xyz.com, blogger allows you to do that as well. You can tweak the looks of your blog, from 1 percent to 100 percent and add much functionality to it as well.
+
+For beginner, getting started is quite easy too, just three steps:
+
+Create an account (if you have an existing gmail account, then you can use that too)
+Name your blog
+Choose a template
+
+In the beginning, one can make a blog, by taking the three above steps. The same blog can be tweaked in future to resemble in looks and functionality of a professional blog.
+
+One more thing, if someone harbours the idea of making money from the blog; then let I assure you a blog on Blogger.com gives a person most independent revenue making setup.
+
+Regarding your other questions like what are the effects of formatting, personalization, blog branding; you have two options, either learn and apply in due course of your blog life cycle; or take help in this regard from professional Website Packagers. Although let I underline-- the former option is not that bad either.
+
+Hope you will find my answer useful.
+
+Thanks
+use blogspot.com or wordpress.like my blog:
+http://zealmall.com/wordpress

@@ -1,0 +1,6 @@
+Strange Internet Explorer?
+My friend have just joined the internet through a program called alfa awus036h wireless lan utility but his internet appears like for example youtube Its All Blank page with Some very Big highlited blue words and undelined and most of it are large black words and rarely pictures and it is very disorganised how can i fix this ?
+He is using WinXP
+please tell me sstep by step cause i dont know really much about computers
+
+Please download and install adobe flash player, microsoft silver light plugins. Also try internet explorer 8.

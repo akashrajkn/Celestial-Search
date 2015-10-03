@@ -1,0 +1,4 @@
+How do I block a spammer on my blog?
+There's a spammer who is regularly posting spammy comments on my blog at blogpress.co.uk (which is managed by WordPress). I've the IP address of the spammer. I've read some tips on how to do it, but I'm unable to get them. Can someone provide me simple step-by-step instructions on how to block this spammer? I know that if I block this IP address, all the comments through that IP will be blocked, but I don't mind it. A prompt help will be highly appreciated. TIA.
+
+Try using WP-hashcash plugin. It works good for me.

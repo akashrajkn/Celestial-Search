@@ -1,0 +1,14 @@
+What is the best journal/blogging site?
+I'm looking for an online journal/blog site that has an option where only registered users of that website can read and comment posts.
+
+I tried livejournal but their options for who can read posts are: Everyone, Private, or Friends. Not registered users who are not friends.
+
+Is there a site that has this option for sure?
+I just tried wordpress and it doesn't have that option. There's only Private, Public, and Password Protected =/
+
+Have you tried wordpress dot com I believe you will be able to choose the option you need. If you host your own blog you will be able to set this option for sure, please you will be able to advertise to generate a few clicks that over time may help supplement hosting fees. 
+
+Good Luck 
+
+I Believe
+This can be accomplished in Blogger.com. So give it a try.

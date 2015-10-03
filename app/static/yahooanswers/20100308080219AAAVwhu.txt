@@ -1,0 +1,5 @@
+What are some places where you can create a Wiki absolutely free?
+without having to be a member of an educational institution or studying at one. I just wana create one for an informal group of us studying something.
+thanks
+
+Take a look at MediaWiki (the software behind Wikipedia) and the requirements for it (mainly PHP, MySQL, and a web server).  If you can find a hosting service (or host it on your own server or even a desktop), it is easy to setup.

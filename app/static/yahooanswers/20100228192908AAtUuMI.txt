@@ -1,0 +1,8 @@
+FIREFOX QUESTION. NEEED HELLLPPPP !!!!!?
+I pressed some button and lost the back key, the forward key and the thing where you type in the website that you want to go to. How do i get these back? Its no fun using Firefox without them. I have looked all over the internet trying to find out how to get this back and ive found nothing ): PLEASE HELP!!!
+
+Use System Restore and reset your computer to a checkpoint before you pressed the button.
+View - Toolbars
+
+Then make sure "navigation toolbar is checked".
+Towards the top of your page, just under the titlebar (contains the X button), right click.  You'll get a menu with "Navigation Toolbar".   Click on it so that there is a check in front of it and it will re-appear.

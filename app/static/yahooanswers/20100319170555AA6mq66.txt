@@ -1,0 +1,11 @@
+How do sites know when a person has multiple accounts?
+
+
+IP address.
+Usually by IP address.
+They check your IP.
+Many sites can track IP addresses.
+By your ISP or Internet Service Provider signature code.
+of course, through your IP address, but i have got a browser which opens with a different Ip address each time you open it, so this browser can also solve your rapidshare problem, for details visit
+
+http://150ptc.motionsforum.com/

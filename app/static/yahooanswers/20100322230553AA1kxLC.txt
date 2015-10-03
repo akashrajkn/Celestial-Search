@@ -1,0 +1,16 @@
+i just heard that my Internet provider can log where you go on there router. what can i do about that?
+
+i ment to say that my internet provider can track where i go oops
+
+Nothing, just don't do anything illegal and you should be fine.
+Get another internet provider or use http://hidemyass.com/
+Nothing really.  As long as your activity goes through their system they can keep a record of it.
+All your visits will be logged at the ISP level. If you are worried about privacy, you should avoid visiting those sites. 
+
+Arun
+dont use an ISP that is owned by your family.  Otherwise go to 5 million sites so they kept busy.
+You can use a proxy server, however, the proxy server also logs where you come from and go anyway. 
+
+If you really need total discretion, you would need to use an open wi-fi connection with a computer that you would ONLY use for that because you could still be traceable via identification information on your computer such as the adapter mac address and more which is also logged on the ISP's servers.
+Every ISP does the same. Its a common system. If you dont visit any illegal sites, then nothing worry about that...
+It's not a router, it's a server. All internet activity is logged in some form or another. Entering keywords will trigger an activity log. It doesn't matter what you try to do. The minute a computer is on the internet it is being monitored, they even know when you use a proxy or try to hide your activities. So what is the big deal, if you aren't doing anything illegal, it is nothing to be concerned about. Privacy is not one thing you have using the internet.

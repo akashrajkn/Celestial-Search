@@ -1,0 +1,22 @@
+Want to set up a paypal shopping site?
+Hi I would like to set a shop where you can click on a item and buy it, and the money automatically goes to my paypal account basically a shopping site.
+
+I would like to do this with minimal cost and no programming.
+I am willing to purchase a domain, and possibly a ftp site if necessary but I was thinking more along the lines of a website that automatically sets up a webpage and paypal shopping feature.
+
+Thanks for your help.
+
+You need a web hosting service which supports online payments like, Master Card, Visa & PayPal. It is very important that your service be uptime. It means that you can access your account whenever you want to update your web pages, and your visitors can view your website whenever they type your website address. If your hosting service is not uptime it is real hell!
+
+If you want to start your website I recommend purchase your domain and hosting together. In this way it is possible to get your domain for free. Some hosting services offer this gift today.
+
+Take a look at: 
+http://www.threehosts.com/business
+
+There you can reach the three reputable companies that are leaders in the E-commerce web hosting industry. They fulfill all your requirements to sell online or do/accept any online payments. By using each of them, everything you need for such a website is provided in one business Hosting Package.
+
+My recommended easy-to-use service:
+http://www.threehosts.com/business/3rd
+
+Hope this helps.
+If you have not got many products i recommend 1shoppingcart.com

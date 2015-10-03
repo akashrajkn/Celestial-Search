@@ -1,0 +1,4 @@
+When you load a website, theres a little picture that loads on the tab next to the metadata?
+What is the little icon picture called that loads next to the tab? (Example:The little green question bubble with the star inside on this tab.)
+
+It is called the 'favicon'.

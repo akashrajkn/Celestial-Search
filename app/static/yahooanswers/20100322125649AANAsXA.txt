@@ -1,0 +1,16 @@
+Internet Service Providers & Internet History Records?
+I have my own computer, and have been pretty tech savvy, learning all about stuff on it. Recently though, I've thought about keeping things WAY more simple. I have a smart phone as well. I'd just like to downgrade to a small laptop, check my email once a week, and have a simple flip phone. I don't like how technology reliable we as humans are getting. But, I'm not surrendering my technology yet.
+
+I've recently been researching privacy, and it turns out, the Internet is not near as secure as I thought it was (and I thought it was pretty insecure!). I understand that my ISP has records of, well, pretty much my Internet usage, time, date, history, etc. This doesn't scare me, I just, honestly, think it's weird.
+
+It's like having a drawer of clothing. There's nothing bad in there, and I wouldn't care if someone looked at it, but that's just kind of weird, right?
+
+My question (more like a few, all this is confusing to me, it's like learning something new in a math class.): My ISP has records of all the stuff, can they just access it and whip it out? Obviously, I'm one of MANY customers, so I don't see why they'd just go snooping through mine specifically. They'd most likely go for peoples' dealing with legal problems. 
+
+As TL said "Now about your ISP: Your ISP can only surrender what you've visited online for court orders and the like so unless your friends have any LEGAL reasons to find out what you've visited, they can't just go and freely check the server."
+
+Second question: Do they hold EVERYTHING of mine in there? Do they ever go about deleting some things to make space? If I left their service, would they still keep my records? It seems like a big waste of space if they don't. Why keep clothes that are too small?
+
+I'm sure after I get answers to these, I'll end up having more questions. Maybe someone could supply me with an article explaining more? This topic is very interesting to me. Thanks!  :]
+
+There are many ISP's that categorically state that they do not log user activity. That does not mean the data is unavailable, but it is harder to access.  Most ISP's only keep records for so long, due to space limitations, anyway. If you accessed "IloveAlQuaeda.org" or "Illegalunderagegirls.net" & the Feds show up with a subpoena, they will get your data at most ISP's. There are proxy sites you can use to muddy your internet trail. Google "proxies" for more info. Don't pay for an anonymous proxy or service, there are too many free ones out there. Check the links.

@@ -1,0 +1,5 @@
+stickam website won't load?
+all my other webpages will load, but stickams will not, I was just on it too and decided to get off for a bit. Happening to anyone else? Or anyway to fix this?
+
+It could be anything from server jams to a corrupt cookie. Wait about an hour and try again.
+pretty sure its not your connection. maybe their server is not working. try asking them.

@@ -1,0 +1,12 @@
+Want to know about INTERNET?
+I am living in malegaon. Is there any way to know who is using internet in my area and any information about them.
+
+yeah you can easily trace people who are logged into your pc
+
+goto start - run - cmd - type netstat -a
+
+this will show list of ip address and ports who are connect with your pc... so if you find some illegal actions just report to cyber crime or watever...
+
+If you wanna learn more abt these stuffs like hacking and Breaking firewalls and so on check
+
+http://go-hacking.com

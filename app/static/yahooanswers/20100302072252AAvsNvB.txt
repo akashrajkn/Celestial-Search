@@ -1,0 +1,23 @@
+Please help! Any answers quickly! Why isn't my attachment sending on gmail? How do I get it to the other comp?
+I have to send my school project to another computer so I can finish it. It's a video I made in windows movie maker, and it's due tomorrow. Anyway, whenever I attach the file to an email on gmail it sends the email, but not the file even though it says it's attached. I attach the file, send it, then when I go look on the other computer (on gmail) I have the email just not the "attached" file. I have the latest version of flash. I have the attachment settings on basic (it won't send it on advanced). The computer I want to open it on has windows movie maker, if that makes a difference. Please help, I really need to finish it, I'm starting to panic. And also, I tried one of those websites where you can upload files, but it wouldn't upload for some reason. Please help!!! Any answers apreciated! And I don't have a flash drive for this (which would make this a lot easier).
+Yes, the computers are on the same network.
+
+Are the computers on the same network?
+
+Computer A = the one that has the file
+Computer B = the other one
+
+Go to Computer A and click on Start | Run then type in CMD
+You will get a DOS window. Type in "ipconfig" and press enter
+Find the IP address for this machine... it will probably look something like 192.168.1.57
+
+Go to Computer B and click on Start | Run then type in "\\TheIpAddressOfComputerA\C$" and press enter.
+So for the example IP I gave you before it would be "\\192.168.1.57\C$"
+
+You will get a prompt for a user name and password. Use the username and password that you would normally use to log in to Computer A
+
+If it all works you will be looking at Computer A's hard drive and you can just copy the file from where ever you had it to where ever you want it to be on the new computer.
+Have some coffee Jennifer,
+Gmail does not accept files larger as 20Mb (was 10Mb) and no zipped files nor the extentions that could be viruses like: .exe .bat and .com. Due to copyright infringement  they may not accept movie files either. Solution is: rename the extension to something not existing.
+
+Your other solution may not work while the file is still being processed and moderated.

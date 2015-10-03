@@ -1,0 +1,12 @@
+why the maxthonbrowser is blocking?which browser is good?
+
+
+Firefox or Chrome
+I have evaluated chrome, the only thing chrome is good for is flashing routers.  it's perfect for that, but don't use it as a browser - it doesn't load 75% of sites I visit, and they are reputable.
+
+apple safari is good and supports html 5.0 with more capabilities than other browsers
+mozilla firefox is good but features break if you use plugins. doesn't always print well.
+IE is insecure but a good browser, prints well.
+Opera is fast, but doesn't use webkit like safari and firefox, and renders DHTML in a way that requires special handling (at least my display:block code didn't work).  actually, code that works on everything else doesn't work on opera.  headache for the DHTML coder.
+
+I would say stick with firefox or safari to be safe.

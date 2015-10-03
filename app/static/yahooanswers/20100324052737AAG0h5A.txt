@@ -1,0 +1,8 @@
+I am neither able downlaod nor attach the file b,coz of Internet Securities, Will Somebody give me the way?
+I have recelntly Broughted a Lenovo Laptop. I am not able to Either Download nor able to attach file from My yahoo Mail Account. Is somebuddy there to help me in this Regards, who can tell me how to Enable the Security Settings?
+
+click tools, internet options security, set to medium
+open ur internet explorer, in the "tools" , click "internet options", and then click the security tab !!
+set the "security level" for ur internet zone to the "medium level" ( u can also set it to low level at ur own risk, but medium level is recommended )!!
+
+i hope this will help u. . .

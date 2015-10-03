@@ -1,0 +1,21 @@
+How to get FireFox or any browser up first on reboot?
+I want to know how to make my browser load fast on reboot. Most of the time, I only need the web browser but it takes ages because of other programs loading.
+
+I hope to find a way to boot up and get web browser straight up. I have IE, and FireFox and I am running windows xp media edition.
+
+Any suggestions?
+
+Thanks.
+
+Switch to Linux. It will boot faster and will surf the web quite well. You can make a dual boot system and still have windows when you need it.
+If you want the browser to launch on boot, make a shortcut to it and drop it in the startup folder in your start menu
+Right click on start -> Click on open. Put the ie or/and firefox shortcut in startup programs.
+Your best bet is with Linux. Windows boots unbelievably slow compared to other OS's.
+If you use your pc mainly to go on the net, i suggest installing an open source free operating system as a seperate partion on your drive like linux. Sounds dangerous and hard? No! Email me i will give you instructions. adamdevey@live.co.uk The OS is mega fast.
+You can get your system to boot faster if you look for programs and services that can be removed from startup.
+
+Go to: C:\Documents and Settings\All Users\Start Menu\Programs\Startup and remove program links you don't want.
+Go to: C:\Documents and Settings\[your username]\Start Menu\Programs\Startup and remove program links you don't want.
+You can also try going to Control Panel | Administrative Tools | Services and looking for services you don't need.  Change their startup from Automatic to Manual to prevent them from starting at bootup.
+
+You can also check to see if your antivirus is doing things like updating signature databases on startup and cancel those operations until you are done browsing then restart them.

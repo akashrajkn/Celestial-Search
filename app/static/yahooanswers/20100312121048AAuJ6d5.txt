@@ -1,0 +1,22 @@
+What are add-0ns and plug ins?
+Im new to using mozilla firefox and cant seen to do anything on the internet without being asked for this stuff. I don't want to click the wrong  buttons or tabs  and mess up my computer . Tips and hints please. Thank you in advance!
+
+extra down loadable programs that allow you to view media files like games, photos or videos. none of them will harm your computer
+this will help you 
+
+addons.mozilla.org/en-US/firefox/browse/type:7 
+just paste that link in your browser
+ad-dons and plugins are additional software packages designed to add functionality to a program.    You are probably being asked to install flash player.     Go here http://get.adobe.com/flashplayer/ and follow the directions.
+As a fervent Firefox user, let me just say that if you are screwing up your computer by just switching browsers, use Google Chrome. It's designed for people who don't know what they're doing.
+Plug-ins are stuff that you need to view content on pages, the most common one of all is Flash Player, there are others like Sun-Java, Apple Plug-in and stuff but you won't need those frequently...
+
+Add-ons (or in Mozilla called Extensions) are like gadgets that you add to your browser to help you with stuff, like one called Video Download Helper for instance, that when you install enables you to download Youtube videos directly to your computer, other add-ons there are stuff that change the look of your browser, help you sort your bookmarks, and much more...
+
+Click on tools and click Add-Ons to see what's available...
+they make things move and add things extra to what you need,,here is a site that can explain it better to you.i have add ons like my tool bars and my favorite sites.. 
+http://help.yahoo.com/l/us/yahoo/geocities/builder/addons/addons-01.html
+Yahoo;s  Help
+http://help.yahoo.com/l/us/yahoo/geocities/builder/addons/addons-01.html
+I think that addons are either downloadable software that you add to your computer.  But, in other ways, addsons and plugins can be extensions that you add on, like a gigabyte memory stick or the plugin or a speaker system, and so on.  
+
+Even though my friends use mozilla firefox and they like it, I try to stay away from it as much as possible.  I think Internet Explorer is probably the best web server.

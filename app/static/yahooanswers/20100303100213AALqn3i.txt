@@ -1,0 +1,7 @@
+How do create a reserve for buying stuff on ebay so if someone outbids you then you outbid them?
+i was on ebay and i bid for something and straight away i was outbid so then i bid again but again i was out bid so they must have some kind a system where they set some kind of a reserve
+
+They put in a higher initial bid.  Simple as that.
+
+Example: your first bid is $5.  Theirs is $100, but it only outbids you up to $6.  So you bid $10 - their bid automatically goes to $11.  You bid $20,  their bid jumps to $21, etc.  So just put the absolute maximum you're willing to pay, and it'll automatically top any lower bid submitted.
+You were outbid because the person before you bid a high amount on that particular item, for that exact reason.  So he/ she ensure (or hope) that with their bid they win that item.  Reserve prices can only be set by the seller.

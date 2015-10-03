@@ -1,0 +1,5 @@
+How do I set an image/gif for my web cam at chatroulette.com?
+I don't want to set up a webcam. I want to use a file from my computer.
+
+download ManyCam
+Check out ManyCam you can set images/desktop/video as a webcam

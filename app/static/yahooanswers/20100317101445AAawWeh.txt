@@ -1,0 +1,4 @@
+How can I block the internet from the properties on Internet Explorer 8?
+
+
+Right click an area of your toolbar and tickmark Menu Bar. Then click on File and select "Work Offline".

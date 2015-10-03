@@ -1,0 +1,4 @@
+Need Help With Mozilla Firefox?
+ok i dont know what i did but whenever i open a new tab i get a yahoo.com homepage, i was wondering how i can change the homepage of my tabs instead of the yahoo.com one.
+
+I read you can only make a blank tab appear as your homepage by using an add-on. Did you download an add-on for firefox? I'm not sure how to fix it, must be within the settings of that particular add-on....I don't have one on mine. Try searching the internet for specific add-ons for firefox that do that and then search your computer to see if you installed any. Check to see if you have the latest version of Firefox too....maybe there is an issue with an add-on.

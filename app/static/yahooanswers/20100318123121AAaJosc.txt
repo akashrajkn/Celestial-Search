@@ -1,0 +1,6 @@
+Question about Xat group chatboxes?
+I've seen several boxes with scrolling text in the bottom of the area where you type your message, how can I do this with mine?
+
+If you're an owner type /s then the scrolled message. Example
+
+/sHello everyone, follow the rules

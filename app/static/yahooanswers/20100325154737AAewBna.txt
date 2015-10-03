@@ -1,0 +1,79 @@
+I have that svchost.exe virus and i cant find a way to get rid of it!?
+I've got that svchost.exe virus, i managed to stop it using up all the CPU but it keeps putting trojans in my C:\WINDOWS\Temp folder. AVG keeps popping up every 5 minutes with a new one and i dont know how to stop it! I've ran Malaware, Spybot S&D, AVG and ESET that only find the viruses in the temp folder not the source of it.. can anyone helpppp?x
+
+Logfile of Trend Micro HijackThis v2.0.3 (BETA)
+Scan saved at 23:00:42, on 24/03/2010
+Platform: Windows XP SP2 (WinNT 5.01.2600)
+MSIE: Internet Explorer v6.00 SP2 (6.00.2900.2180)
+Boot mode: Normal
+
+Running processes:
+C:\WINDOWS\System32\smss.exe
+C:\WINDOWS\system32\winlogon.exe
+C:\WINDOWS\system32\services.exe
+C:\WINDOWS\system32\lsass.exe
+C:\WINDOWS\system32\Ati2evxx.exe
+C:\WINDOWS\system32\svchost.exe
+C:\WINDOWS\System32\svchost.exe
+C:\Program Files\AVG\AVG9\avgchsvx.exe
+C:\Program Files\AVG\AVG9\avgrsx.exe
+C:\WINDOWS\system32\svchost.exe
+C:\Program Files\AVG\AVG9\avgcsrvx.exe
+C:\WINDOWS\Explorer.EXE
+C:\WINDOWS\system32\spoolsv.exe
+C:\Program Files\AVG\AVG9\avgwdsvc.exe
+C:\Program Files\Bonjour\mDNSResponder.exe
+C:\WINDOWS\eHome\ehRecvr.exe
+C:\WINDOWS\eHome\ehSched.exe
+C:\Program Files\AVG\AVG9\avgnsx.exe
+C:\WINDOWS\system32\svchost.exe
+C:\Program Files\AVG\AVG9\avgemc.exe
+C:\Program Files\AVG\AVG9\avgcsrvx.exe
+C:\WINDOWS\system32\dllhost.exe
+C:\PROGRA~1\AVG\AVG9\avgtray.exe
+C:\Documents and Settings\william robinson\Application Data\Microsoft\svchost.exe
+C:\Program Files\ESET\ESET Smart Security\ekrn.exe
+C:\WINDOWS\system32\taskmgr.exe
+C:\Program Files\Mozilla Firefox\firefox.exe
+C:\Program Files\TrendMicro\HiJackThis\HiJackThis.e¡­
+
+F2 - REG:system.ini: UserInit=C:\WINDOWS\system32\userinit.ex¡­
+O2 - BHO: (no name) - {02478D38-C3F9-4efb-9B51-7695ECA05670} - (no file)
+O8 - Extra context menu item: &Search - ?p=ZJfox000
+O9 - Extra button: (no name) - {DFB852A3-47F8-48C4-A200-58CAB36FD2A2} - C:\WINDOWS\system32\shdocvw.dll
+O9 - Extra 'Tools' menuitem: Spybot - Search & Destroy Configuration - {DFB852A3-47F8-48C4-A200-58CAB36FD2A2} - C:\WINDOWS\system32\shdocvw.dll
+O9 - Extra button: Messenger - {FB5F1910-F110-11d2-BB9E-00C04F795683} - C:\Program Files\Messenger\msmsgs.exe
+O9 - Extra 'Tools' menuitem: Windows Messenger - {FB5F1910-F110-11d2-BB9E-00C04F795683} - C:\Program Files\Messenger\msmsgs.exe
+O16 - DPF: {68BCE50A-DC9B-4519-A118-6FDA19DB450D} (Info Class) - http://www.blizzard.com/support/includes/cabs/si.cab
+O17 - HKLM\System\CCS\Services\Tcpip\..\{A6AB5¡­ NameServer = 93.188.162.20,93.188.166.38
+O17 - HKLM\System\CS1\Services\Tcpip\Parameter¡­ NameServer = 93.188.162.20,93.188.166.38
+O17 - HKLM\System\CS4\Services\Tcpip\Parameter¡­ NameServer = 93.188.162.20,93.188.166.38
+O17 - HKLM\System\CCS\Services\Tcpip\Parameter¡­ NameServer = 93.188.162.20,93.188.166.38
+O20 - Winlogon Notify: avgrsstarter - avgrsstx.dll (file missing)
+O20 - Winlogon Notify: awtrRJax - awtrRJax.dll (file missing)
+O23 - Service: Ati HotKey Poller - ATI Technologies Inc. - C:\WINDOWS\system32\Ati2evxx.exe
+O23 - Service: AVG Free E-mail Scanner (avg9emc) - AVG Technologies CZ, s.r.o. - C:\Program Files\AVG\AVG9\avgemc.exe
+O23 - Service: AVG Free WatchDog (avg9wd) - AVG Technologies CZ, s.r.o. - C:\Program Files\AVG\AVG9\avgwdsvc.exe
+O23 - Service: Bonjour Service - Apple Inc. - C:\Program Files\Bonjour\mDNSResponder.exe
+O23 - Service: Eset HTTP Server (EhttpSrv) - ESET - C:\Program Files\ESET\ESET Smart Security\EHttpSrv.exe
+O23 - Service: Eset Service (ekrn) - ESET - C:\Program Files\ESET\ESET Smart Security\ekrn.exe
+O23 - Service: Windows Live Family Safety Service fsssvcSpooler (fsssvcSpooler) - Unknown owner - C:\WINDOWS\system32\adsmsexti.exe (file missing)
+O23 - Service: iPod Service - Apple Inc. - C:\Program Files\iPod\bin\iPodService.exe
+O23 - Service: MSCSPTISRV - Sony Corporation - C:\Program Files\Common Files\Sony Shared\AVLib\MSCSPTISRV.exe
+O23 - Service: NVIDIA Display Driver Service (NVSvc) - NVIDIA Corporation - C:\WINDOWS\system32\nvsvc32.exe
+O23 - Service: Sony SPTI Service (SPTISRV) - Sony Corporation - C:\Program Files\Common Files\Sony Shared\AVLib\SPTISRV.exe
+
+i've heard this alot. My computer has norton antivirus and one time it said i had 93 trojan horses. I found out it was some sort of spam to get me to buy something. Try norton antivirus and try that. you can pick it up at staples or wall-mart. hope this helps
+If you haven't tried malwarebytes, go ahead and download it from www.download.com. This software has gotten rid of really nasty malware before. Good Luck!
+Don't run AVG and ESET at the same time!!! They will conflict with each other!!!
+
+As I can see a virus svchost.exe is loaded from C:\Documents and Settings\william robinson\Application Data\Microsoft\svchost.exe and a genuine one is in C:\WINDOWS\system32\svchost.exe http://www.file.net/process/svchost.exe.html
+
+Try to delete C:\Documents and Settings\william robinson\Application Data\Microsoft\svchost.exe
+
+And run one antivirus program at time and in SAFE MODE!!!
+
+Also this program may be helpful http://www.neuber.com/taskmanager/index.html
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

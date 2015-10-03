@@ -1,0 +1,26 @@
+Wireless Internet only working with fixed IP, DNS etc.?!?
+Hi everybody,
+
+I am working in a hotel on an island, so it's hard to find someone here who knows about internet, computers, etc. (neither do I).
+In the hotel we have a wireless internet router so the guests can use it in the lobby.
+Up until yesterday, everything worked fine, until it just stopped. So I checked this morning, called the provider and they told me to connect my laptop directly, and hooray, I had internet.
+After that, I reset the (Linksys) router and reconfigured it correctly.
+I can connect to the internet, ping IP's, but cannot open any webpages. It always says there is a DNS error.
+I then researched a bit and tried to put in a static (fixed) IP as well as DNS server etc, and it works fine.
+The problem is, it is not very convenient if we have to assign static IP's and all to every guest that wants to surf the net...and it did work fine before.
+Does anybody know what to do here?!
+Help would be greatly appreciated...
+
+I think I got it!
+
+Did you clear out the static settings?
+
+1. go to start
+2.go to run
+3.enter cmd (if you are on vista it has to be run as admin)
+4.enter netsh interface ip set dns "Local Area Connection" dhcp
+5.enter netsh interface ip set address "Local Area Connection" dhcp
+
+Now that that is done go to the status page of the router and check to make sure all of the settings are ok for the ip and dns on the router.
+
+(4 and 5 are all on one line)

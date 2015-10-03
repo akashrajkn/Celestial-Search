@@ -1,0 +1,9 @@
+How do I get rid of an internet explorer tab?
+I have internet Explorer and it has the tab things. I love the tabs because they're very useful. Whenever I open it up, instead of taking me to my homepage, it opens a tab with my homepage and then another tab. Somehow my annoying cousin has made it to where whenever I open up Explorer, two tabs come up automatically and I can't figure out how to make it to where only one tab comes up. It gets annoying having to go and wait for everything to load just to close it. I need to make it where only one tab comes up like normal. Help? Please?
+
+This site does a great job explaining how to change tab settings on Internet Explorer:
+http://blogmines.com/blog/2009/07/09/how-change-the-internet-explorer-8-new-tab-open-behavior/
+
+Kyler
+IE8 Outreach Team
+you have 2 address in your homepage setting. go to control panel,internet options then change your homepage to what you want then hit apply. hope this helps.

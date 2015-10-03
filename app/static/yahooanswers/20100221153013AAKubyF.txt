@@ -1,0 +1,8 @@
+Is it possible to have FireFox to boot first...?
+...so you don't have to wait for all the other services to set up? Most of time I just want to browse the web, but I have to wait for so many applications to start before browser(FireFox) will launch.
+
+Any ideas, on a xp operating system??
+
+Drag a Firefox shortcut into Startup within the start menu.  That'll start it as soon as it can.  There are other methods to make it load that process first but they are relatively complex.
+Nope, all the drivers have to load before you can do it.  Two important ones that come to mind are the modem driver and the virus protection to be up and running.
+Like Frank said, put it in your start up menu.  Also you'll want to disable everything else that starts up.  Depending on your computer, if you have XP go to start, then run or if you have Vista/7 go to the search box and type in msconfig.  It will bring up your system configuration utility and click the start up tab.  Uncheck everything you don't want to start when your computer starts up.  Click apply and click okay.  Then on your next reboot, only the things you really want to start up, will start up.

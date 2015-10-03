@@ -1,0 +1,8 @@
+Enable cookies on iPod touch?
+Yes, I have gone on settings and enabled them under "always". But even then, it still does the same thing and shows "Your browser either does not support cookies,
+or you are not accessing this site via its
+fully qualified domain name. Please enable
+cookies for this domain and try again."
+
+It's in the Preferences app.
+Settings>Safari>accept cookies

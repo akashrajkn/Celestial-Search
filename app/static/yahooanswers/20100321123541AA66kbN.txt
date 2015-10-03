@@ -1,0 +1,10 @@
+Is there a way to have Firefox tabs listed at the bottom of the browser window instead of the top?
+I've heard it's easier for your computer to run one window with multiple tabs then to have ever page in its own window, but I can't seem to break the habit of looking towards the bottom of the screen to switch to another page I have open. It'd be great if anyone could tell me how to have the tabs at the bottom of the browser instead of the top.
+
+you need to add to your UserChrome.css file to get this to work:
+
+/* Display the tabbar at the bottom */
+#content > tabbox { -moz-box-direction: reverse; }
+
+
+go on the link for more info: http://www.firefoxfacts.com/2008/01/15/move-firefox-tabs-to-the-bottom/

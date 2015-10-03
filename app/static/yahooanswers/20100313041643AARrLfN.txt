@@ -1,0 +1,9 @@
+Download suddenly freezes?
+i am downloading then it freezes. i have to start the download again. why is that?
+
+1.Are you using any proxy services?
+2.is your connection Clean?i mean check that it doesn't have noises.
+3.it might be from the site that you're downloading from, check if it happens in every downloading.
+4.you can use softwares like Flash Get that you can pause/ start / stop and do whatever you wanna do, and disconnections, delays, and other staffs wont make the download crashed!
+;)
+try downloading the file with IDM download manager it may prevent the download freezing have fun

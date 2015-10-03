@@ -1,0 +1,38 @@
+How to get a WordPress blog into an actual website and google?
+I currently have a wordpress blog for my class, but I can't see it on google. But I want to start another one but more of a website so how I get an actual URL and than get it on google so people can find it? Also without having it hosted on these sites: http://get.wp.com/hosting/  and not having to pay for a domain name with w.p. It'l be a website with thumbnail images and videos, with several different categories that you can visit like links, reviews, updates, etc.
+
+You would have to be a skilled html programmer and understand http protocal.  I can't show you all of that here.  If you want to know more about it google them.  It's also fairly difficult because a computer would have to be dedicated to keeping that webpage on the world wide web.
+You need to get hosting which already includes one click install of Wordpress.
+It's the easiest way and you get a real website, with a real domain name like
+www.yourwebsite.com, which would be searchable on Google.
+
+I recommend one of these: http://www.tophostingpicks.com
+
+iPage has the best offer right now.
+Their standard price is $84/year ($6.95) but they have
+a 50% sale, one year of hosting for $42.00.
+
+Their plan includes:
+
+Unlimited disk space
+Unlimited bandwidth
+Free domain name
+
+Price: $42/year ($3.50)
+
+They have one of the most popular hosting platforms, which currently hosts over a million websites. They're also one of the oldest hosting companies, founded in 1998.
+
+They include an easy, one click install of Wordpress from their control panel, so you can just choose a theme that you like, and start adding content.
+As you may know a domain name is just a name, not a real website/weblog. If you are going to create your blog website: 1- Buy a domain name. A domain name is a name you want to call your website (ex: www.yahoo.com).  To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your blog online at your purchased domain name.
+
+If you¡¯re going to start your blog at your own domain with different pages, you need a web host providing wordpress.
+
+Take a look at:
+http://www.threehosts.com/blog
+There you can reach the three reputable companies that are leaders in the blog/wordpress website hosting industry.
+
+Another useful link:
+http://www.threehosts.com/build
+There you can find a step-by-step guide to start your website.
+
+Hope this helps.

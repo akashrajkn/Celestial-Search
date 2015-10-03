@@ -1,0 +1,12 @@
+lost internet connection?
+My cable internet stopped working.  It says "Domain Name server is unreachable". any thoughts?
+
+Report this to you cable provider
+There is a reset button on the back of the modem or router (its the small box with lights on it that is connected to your computer).
+
+The reset button is very small and hard to press sometimes.
+Use a paper clip or pen to press and hold it in for 5 seconds.
+
+You can also unplug the modem or router from power than plug back in.
+
+Wait for a few minutes for it to reconnect.

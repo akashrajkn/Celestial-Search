@@ -1,0 +1,4 @@
+Why cant I browse the internet while Utorrent is open even if it has no activity?
+This is a recent problem. I was always able to browse the web before regardless of the bandwidth it was using.  Now, if it is just open and isn't doing any transfers i still cannot browse the internet.  All the pages time out.  When I close the application i can browse again.
+
+Try resetting your Utorrent settings and maybe checking your firewall.

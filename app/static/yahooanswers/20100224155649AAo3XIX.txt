@@ -1,0 +1,5 @@
+Add-on for firefox that dims the rest of the window when watching a video?
+I had this before and ever since I restored my computer I haven't been able to think of the name of it... HELP!
+
+Blackout perhaps?
+https://addons.mozilla.org/en-US/firefox/addon/13443

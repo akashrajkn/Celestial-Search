@@ -1,0 +1,4 @@
+Internet connection is blocked?
+I recently had a virus from boonty box...some game thing. I removed the virus by scanning my computer but my internet still fails to work a error pops up saying it is disabled or block. But the thing on the bottom says i have a full internet connection... does anyone have any idea how to fix this problem pleasseeeee???
+
+Try System Restore.

@@ -1,0 +1,18 @@
+suicide ?????? hlp plzzz?
+anyways yea why is my computer so slow somtimes its fast one second then its all SLOW the next it has happed like twice already and i freaking mad cause i wanna watch vids and i cant !!!! oput of the bloom it just goes slow ? i use google can anyone tell me why it does this ?
+
+It must be your net man
+Bro, computer's get old. They get filled with junk files, spyware, adware, viruses, infections, trojans, you name it, it probably has it. FIRST- Scan it with some PC Software tools. Second, delete old junk off the Hard drive.
+I would try running a virus scan and running a program called CCleaner. It cleans out all of the temporary files, registry errors, and other stuff that slows down your PC. The links to Lavasoft AdAware and CCleaner (both free) are below:
+
+http://www.lavasoft.com/
+http://www.ccleaner.com/
+
+I hope this helped.
+
+And by the way, don't joke about suicide...a classmate of mine took his own life about two months ago.
+It sounds like you have a worm or you may need to just clean some of the junk out of it. This happen to me and I had a worm in one of down loads from school and did not know it.
+Computers get old (like mine) and when it's time for a change, it's time for a change.
+But sometimes it's just the Internet itself being slow and it's got nothing to do with your computer getting old or having viruses at all. What times do you use the Internet? Maybe that's the problem. Or maybe there're just too many files/programs/games on your comp. Once I downloaded the Sims2 and my computer just slowed majorly.
+click 'my computer' on desktop.  right click C drive, click properties, disc cleanup, check everything, OK, yes.   defragment.
+buy a security suite cd.

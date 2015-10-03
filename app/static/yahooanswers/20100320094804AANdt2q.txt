@@ -1,0 +1,13 @@
+what does rc23.com/d/sr............ mean?
+hi all what does www.rc.com/d/sr   plus a load more symbols mean when i try and get on a web page and end up with a blank page
+www.rc23.overture.com/d/sr   plus lots more
+
+download and run this - http://www.malwarebytes.org/
+
+download the free version and run it.
+
+that might get rid of the message
+
+copy an paste
+
+http://www.malwarebytes.org/

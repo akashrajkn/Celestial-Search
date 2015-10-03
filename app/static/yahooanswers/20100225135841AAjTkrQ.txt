@@ -1,0 +1,21 @@
+How do I stop this annoying Firefox pop up?
+How do I stop this Firefox pop up?
+The pop up says:
+
+"You have chosen to open <file name> which is a application/octet-stream"
+
+and then it gives me the option to save the file. But I am not trying to download anything. It happens when I try to open links, especially when I'm on YouTube. It's very annoying. How can I fix this issue?
+
+Just use Google Chrome, it's way better.
+Exit Firefox.
+
+In Windows Explorer, navigate to:
+C:\Program Files\Mozilla Firefox\greprefs
+Open all.js file with Notepad.
+
+Scroll down, and locate following lines:
+pref("network.http.version", "1.1");
+pref("network.http.proxy.version", "1.1");
+//pref("network.http.version", "1.0");
+//pref("network.http.proxy.version", "1.0");
+In your browser click on tools, then option for setting pop ups, then set your preferences.

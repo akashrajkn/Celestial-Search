@@ -1,0 +1,8 @@
+I bought a new domain recently but i have since found out it was dropped domain.?
+I recently bought a domain http://www.twurlit.com for a URL shortening site thinking this was a totally new one but i have since found out that it was infact a dropped domain from last year,the site has been setup and has been running for just about a week but on checking it appears that i am not properly appearing in Google search so could this mean that the site has the domain blacklisted or is it just the case of leaving it too be pick up by the spiders ???
+
+Some advice on this one please.
+
+Assuming you have coded the site properly to be picked by Google then it's just a matter of time before it should appear in their listings.
+
+

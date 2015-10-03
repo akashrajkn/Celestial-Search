@@ -1,0 +1,55 @@
+What does the http:// stand for?
+Just out of curiosity, what does the http:// mean in the beginning of a URL?
+
+hypertext transfer protocol: a protocol (utilizing TCP) to transfer hypertext requests and information between servers and browsers 
+wordnetweb.princeton.edu/perl/webwn
+
+HTTP(P2P) is a protocol based on HTTP. It is intended to improve page and object retrieval performance when web servers suffer server side ...
+en.wikipedia.org/wiki/HTTP(P2P)
+
+HTTPD - A web server is a computer program that delivers (serves) content, such as this web page, using the Hypertext Transfer Protocol. ...
+en.wikipedia.org/wiki/HTTPD
+
+HTTPS - Hypertext Transfer Protocol Secure, (HTTP Secure) an encrypted form of information transfer on the internet
+en.wiktionary.org/wiki/https
+
+HTTPd - Hyper Text Transfer Protocol daemon, commonly refers to a Unix web server that is able to handle HTTP and https requests
+en.wiktionary.org/wiki/HTTPd
+
+The Hypertext Transfer Protocol (HTTP) is the set of rules for exchanging files (text, graphic images, sound, video, and other multimedia files) on the World Wide Web.
+www.strath.ac.uk/its/helpdesk/glossary/
+
+The standard transmission protocol used on the World Wide Web. Apache implements version 1.1 of the protocol, refered to as HTTP/1.1 and defined by RFC 2616.
+213.11.80.10/manual/glossary.html
+
+An acronym for Hyper Text Transfer Protocol. HTTP is a formal communication method that transmits requests and data between user agents or web ...
+www.bigbaer.com/reference/glossary.internet.html
+
+The set of rules and standards that govern how information is transmitted on the World Wide Web.
+web.worldbank.org/WBSITE/EXTERNAL/WBI/0,,contentMDK:20169611~menuPK:654498~pagePK:209023~piPK:207535~theSitePK:213799~isCURL:Y,00.html
+
+Hypertext Transfer Protocol, a language used by web servers and clients (mostly web browsers) to communicate.
+www.beonet.rs/
+
+The HyperText Transfer Protocol (HTTP)is a fixed set of commands used during a hypertext link between a client and server.
+blink.ucsd.edu/technology/help-desk/queries/warehouse/terms.html
+
+Hypertext Transfer Protocol. It is a standard method of transferring data between a Web server and a Web browser.
+sharepoint.agriculture.purdue.edu/agit/webtrends_glossary.aspx
+
+Hypertext Transfer Protocol. A protocol for transferring files, especially HTML files and associated images, from one computer to another. ...
+www.cybox.com/~lou/glossary.htm
+
+The protocol that tells the server what to send to the client, so the client can view Web pages, FTP sites, or other areas of the net.
+www.cs.usask.ca/content/resources/csconcepts/2000_3/tutorial/glossary/glossarytext.html
+
+The protocol that Web clients and servers use to communicate with each other.
+www3.sympatico.ca/bkeevil/tapuser/gloss.html
+
+
+if u found this useful, please dont forget to vote best answer :):) happy reserching!
+Hypertext Transfer Protocol.
+Hypertext transfer protocol=http
+the : and backslashes are just things that seperate the web address and the http
+hypertext transfer protocol
+hypertext transfer protocol

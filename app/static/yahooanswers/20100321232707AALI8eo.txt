@@ -1,0 +1,6 @@
+Why my firefox 3.6 keeps crashing? I can't log into facebook without it crashing.?
+I uninstalled and restalled 3 times and it still keeps crashing.
+
+Maybe you should use back internet explorer
+Please don't tell me someone just recommended IE! Seriously, don't do that. Check there are no programs that conflict with Firefox or try Chrome or Safari.
+3.6 Is still in the Beta stage. Go back to the last version 3.5 (something). After July all of the bugs will be gone from 3.6 and it will not crash. In August 3.6 will be recommended.

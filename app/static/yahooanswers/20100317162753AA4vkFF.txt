@@ -1,0 +1,4 @@
+Possible to split cable from TV to get internet?
+I know it is possible to split cable internet to TV to get basic cable (while only paying for internet).  Is it possible the other way around?  I would rather pay for a decent cable package and not internet instead of paying for internet and just getting a very basic cable package.  I just know I can't afford both.
+
+No that is not possible. While you can physically split the cable connection, the data/signal coming through the line will not be correct. You need to pay for both services for them to work.

@@ -1,0 +1,10 @@
+How do you make a picture non-savable?
+I remember one time I was on Flickr and I tried to right-click and save a picture and it's saved this empty file titled "Spaceball". I was wondering if there's a way (or a different way to get the same effect) to do this on a site other than Flickr and if so, how? Thanks :)
+
+I am going to take a stab at this even though I am not certain.
+
+I would say that this is not completely possible.
+You can use scripts to try and block right clicks.
+You can use a flash-based viewer to prevent direct access.
+etc
+However, the browser's cache (temporary storage) can always be exploited to grab the images.

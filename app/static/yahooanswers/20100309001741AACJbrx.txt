@@ -1,0 +1,11 @@
+Cannot connect to certain websites?
+I'm trying to help my aunt fix her wireless internet problem, but didn't really have any luck. It's not a virus, anti-virus, blocked sites, no proxy, and I have it on open dns. It can connect to certain websites and not others. I can also go to cnet.com, but not to download.cnet.com (As an example.)It also cannot go to the microsoft website. She said the problem started when her Zune froze and stopped working (Couldn't even reset) and now she cant dl SP3 even from the updater. Says she is missing something. I've tried to ping the websites in the cmd prompt but it either times out or says there is an error. Her internet connection says Excellent and 54mbps, but the icon will dim which confuses me. She has a Dell Inspiron and her wireless modem is from Qwest.
+
+It sounds like it's a virus, if it is blocking security sites and corrupting security downloads. Try installing and full scanning with malwarebytes (it's free). http://www.malwarebytes.org/
+it could be a virus or it could also be a site restriction by your isp try using proxy on those websites you cant connect if you could connect using proxy then its your isp if not then its the virus
+try http://bypassall.blospot.com for a list of proxy
+Try to stop DNS client service:
+Control Panel> Adminstrative Tools> Services> DNS client>
+General: Startup Type -> Disable.
+Service Status -> Stop.
+Then click OK.

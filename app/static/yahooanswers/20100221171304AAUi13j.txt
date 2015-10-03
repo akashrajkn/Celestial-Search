@@ -1,0 +1,24 @@
+How do I stop word from opening when I click on a link in an email that should open with INTERNET explorer?
+I am running incredmail 2. When I try to open a link that should take me direct to a web site, it opens in Word insted. I have been using incredimail XE for years and never had this problem till it upgraded to incredmail 2. Can some one please help me?
+
+Strange. This shouldn't be an Incredimail problem at all.  The decision about what program to call to open a link should be made by the operating system, not Incredimail.  Try this:
+
+In Windows XP:
+
+1.Click on the Start->Control Panel menu item.
+2.Click on Add or Remove Programs.
+3.At the bottom of the left-hand list, click Set Program Access and Defaults.  (Because Add or Remove is searching for installed programs, this may not take effect immediately.)
+4.Click the Custom radio button.
+5.Click Internet Explorer as the default Web browser.
+6.Click OK.
+
+In Vista:
+
+1.Click Windows button->Default Programs.
+2.Click Set Your Default Programs.
+3.Select IE.
+4.Click Set this program as Default.
+5.Also click choose defaults for this program and make sure they¡¯re all checked for your browser.
+6.Click Save.
+
+That should do it.

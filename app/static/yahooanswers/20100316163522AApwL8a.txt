@@ -1,0 +1,5 @@
+I am receiving emails for my domain but have huge problems sending emails?
+I am running Server 2003 R2 IIS6 with pop3 & SMTP running. I can retreive my emails using Outlook set for pop3 but when sending the system does not want to know.
+Why & what would cause this to happen?
+
+Permissions and Rights .. by default MS have 'send' and 'forward' disabled (because too many idiots were setting up their email servers with open 'forward' ports that gave the SPAM merchants a field day)

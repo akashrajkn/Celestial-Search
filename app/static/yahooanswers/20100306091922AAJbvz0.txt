@@ -1,0 +1,25 @@
+Message board suggestion?
+Hi all, 
+I'm trying to find a decent place to start a message board....
+I've checked out a bunch of sites, most of which are overly complicated and have poor features. 
+
+I'm wondering if anyone can recommend a forum/messageboard host which has the ability to edit a post without "edited by" appearing in the post somewhere...
+And also post approval features, so you can check what added to your board before it becomes public viewing. 
+
+I've tried proboards, yuku, phpbb, forum motion and some others too but didn't find much joy. 
+If anyone can help point me in the right direction I would be very grateful. 
+Thanks all!
+
+What I have used (though not been admin of) is google groups.  You may want to give that a try, or maybe yahoo groups.  I would recommend that the most if you are planning to use a message board with people that you know personally.
+As you may know a domain name is just a name, not a real website. If you are going to create your forum website: 1- Buy a domain name. To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your website online at your purchased domain name.
+
+If you¡¯re going to create a forum site at your own domain without any forced ads, you need a web host providing forum tools (phpbb or vbulletin).
+
+Take a look at:
+http://www.threehosts.com/forum
+There you can reach the three reputable companies that are leaders in the forum website hosting industry.
+
+There you can find a video tutorial to learn how do it.
+I have used a few but I like http://www.forumotion.com the best its simple and easy to use
+
+The best thing about Forumotion is that there is nothing to download and nothing to setup. You just have to choose a forum name and they'll do the rest. You can have a fully functioning forum up and running in less than 30 seconds.

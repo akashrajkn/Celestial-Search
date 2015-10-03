@@ -1,0 +1,16 @@
+Is it worth changing from IE8 to Firefox 3.6 ?
+My PC is a few years old now, and pretty slow. Would changing to Firefox help at all ?
+
+Yes, your internet will work much faster, and will crash less, but your computer may run a little slower as a result. :)
+IE is a huge security hole of death.  You should always use a alternative browser.  Firefox, Opera, Chrome, Safari any one of those is far better then IE.  If you don't have an AV or Adware scanner chances are you've got a ton of bad things on your computer through using IE slowing it down.  So yes your first step is installing Firefox or any of the others I listed http://www.getfirefox.com .  Then install a AV such as Avira http://www.free-av.com and let that scan your computer.  Then install a Spyware scanner such as Malware Bytes http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html .  That should make your computer run far better.
+yes, ie8 uses too much ram, either change to firefox 3.6 or google chrome, I use both, and they are both really good
+You don't need to CHANGE to Firefox 3.6.  Simply download it and keep IE8 as your default browser.  If you find later that you like Firefox better, you can change it to your default browser.
+
+Firefox may help some with browsing speeds, but more than likely you have other things that you need to look at.  Defragging your hard drive, clearing your browser cache, removing spyware, removing viruses, and adding more memory will benefit you as well.
+firefox is much better than IE. so it is worth changing from IE8 to firefox 3.6. but google chrome is pretty nice.
+I have tried IE8 on my laptop and ended up having to a system restore to go back to IE7 then tried  firefox which i had no problems with and was faster with downloading stuff as was Google Chrome but with firefox u still have type in the full website where as Google Chrome loads your pages faster and u only need to put part of the address in till u get a list of sites to chose from I much prefer Google Chrome for surfing the web but I find firefox faster for file downoads
+Computer slow not due to IE.
+I think IE is more faster than firefox. Fixfox has many Plug-in.
+You can speed up computer here
+http://www.make-pc-faster.com/
+This tool even allowed you do IE restore.

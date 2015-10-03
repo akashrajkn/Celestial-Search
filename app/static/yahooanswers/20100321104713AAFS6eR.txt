@@ -1,0 +1,44 @@
+Need A Proxy.. I think?
+I was told recently that I had 12 counts of violating the anti-piracy rules of my internet server. I need a way to mask my IP so that this doesn't happen again. I don't have the money for a pay service. Just trying not to lose internet service permanently.
+
+it depends.  if it was really you being a pirate or whatever, they'll find you anyway.  but if you didnt do whatever offenses they mentioned, you should consider restricting internet access. if you have wireless, i would put up a WEP key.
+
+otherwise, here is a proxy for you. as long as you arent on a corporate network, i cant think of anything that would block it.
+Here's a free proxy created today:
+http://ipmasks.info
+
+-Unblock ANY Website
+-watch youtube videos
+-download up to 50 MB
+-hide you IP and stay anonymous
+-Fast and hosted on a dedicated server
+
+I get new proxies here everyday:
+http://tech.groups.yahoo.com/group/NewFastWorkingProxies/
+We have 2 fresh web proxies for you, which are not blocked at schools or works:
+
+http://www.homecomputer.ro
+http://www.findyourdating.com
+
+You can access Facebook, Myspace, Youtube.... or anything else.
+
+Happy Surfing !
+use 1 of the below
+
+
+schooljoker.com
+redbing.info
+yahooisfun.com
+
+proxies get blocked very fast..to get Fresh Proxies right to 
+
+your mail
+ join the group
+http://tech.groups.yahoo.com/group/getaproxy/join
+Did you ever consider not downloading pirated illegal material as the solution to your problem? You are risking a lot more than your internet service. These movie studios and record companies have a track record of suing people like you for millions of dollars and winning. Having a million dollar judgement on your record and loosing all credit for 10 or more years isn't worth it.
+
+Any legitimate vpn provider is going to work with the authorities and either block your access to torrent sites or report you when their IP addresses are identified as having downloaded pirated material.
+
+Non legitimate vpn's and proxies will get you viruses and malware and steal your identity.
+
+http://www.personalvpn.org/danger_proxy_servers.htm

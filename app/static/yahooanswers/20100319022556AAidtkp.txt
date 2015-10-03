@@ -1,0 +1,18 @@
+Websites??? Please Answer?
+Whats the best FREE program/site for making other sites. I've used dream weaver and piczo before. Are there any better ones?
+
+Also, if I put a password on a websites homepage, can people still get through to the other pages?
+
+pass
+Dreamweaver is the industry standard... have a look at the built-in templates...
+
+also there is http://www.webs.com/ to make a free website and http://www.wix.com/ if you wanted to create a flash web site
+
+Usually if you put a password on yr homepage people wont be able to get thru to the other pages
+
+If you require further help or want to ask me anything go to http://www.crossloop.com/antworks
+i'd be happy to help and you can also share your screen with me
+webs.com
+1) In my opinion, the best free program is NotePad (I actually use cPanel code editor, but same diff...). I HATE big clunky programs like dreamweaver that hog memory and my time, so I hand-code everything.
+
+2) Yes, so put a password on everything. Possibly use htaccess to restrict the entire site, tutorial here: http://surlz.net/1t

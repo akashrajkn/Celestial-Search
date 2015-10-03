@@ -1,0 +1,45 @@
+BT have rduced my internet speed rediculously what should I do?
+I wonder if some one can help me.I know I have asked a similar question before but things have got worse since.  I have internet with BT, im on option 3 Unlimited. I would not say im a really heavy user. My husband has a xbox and playstation 3 and downloads 1 demo every other week plus he play online for about 1-2 hours most evenings. On top of this my children watch about 3 cbeebies programmes on the iplayer per day. Apart from that I don't really download any thing. I did download a couple of Tv programs from Itunes last month but this is the first time I have used Itunes. As I have only just got a Ipod. Does this sound excessive internet usage.  At the beginning of januray I noticed that my internet had gone painfully slow. I then received a email from BT, saying they recon I have downloaded over 100gb. and that they are now restricting my internet speeds at peak times. . There is no way I have downloaded 100gb.I have a little programme on my computer that monitors and records how much I download So I know I have used no where near this.Could BT have made a mistake. I don't believe any one could download that much in just 1 month. The only other thing I can think of is that maybe some one has hacked in to my wireless network and downloaded stuff. But I don't know who as I live in a terrace hose and the cottages either side out holiday cottages and there are different people there every week. or how they could do this as my net. work is secure. My network is secure. and I have a built in fire wall in the BT home hub plus my computer has anti virus and fire wall installed. I contacted BT to complain and they were not very help full. I have managed to put up with the restriction until now as it was only in the evenings and I mainly download at night or early in the morning. But now its got ridiculous as they seem to have restricted my internet even more and all the time not just at peak times. My internet speed all the time at the moment it 98kb Which is ridiculous. What can I do. My internet is ridiculous it is so slow it is a struggle to even just surf the internet. Let alone do any thing else. My husband can't play online. I am using a friends computer to type this question. Can they restrict your internet usage this much. to the point where your internet is more or less useless. Can I complain again to Bt and If I do will they do any thing. What would you do.  I want to cancel and move to another provider but BT have told me ill have to pay to the end of my contract plus cancellation fee which seems ridiculous and unfair to me.
+
+Any advice would be much appreciated
+
+Thanks In advance
+I don not have teen children my sons are age 6 & 3 1/2. and both have specail needs. So don't really think they could be using the internet behind my back. Also we only ever have one console switched on and contected to the internet at a time. The PS3 is only switched on and used about once a week.
+Also one other thing I have done a speed test using Bt's own speed test and I get a speed of 8mbs. and when I log in to my home hub it says the same. But when I use the Think broadband speed test and other available speed testers I get a speed of 98kbs. Why such a difference. I know my internest speed is not 8mb
+
+You will need to know your rights first.
+
+Start here good luck BT can be a real pain.
+
+ http://ask.ofcom.org.uk/help/services-and-billing/bad_cs
+Ask BT for a breakdown.
+It is often the case in situations such as this that it becomes apparent that either the husband or teen child have been doing things on the web previously secret.
+You should also ask how an X-Box and PS3 together affect things as I have no experience with either.  I think if I was using X-Box and PS3 every evening, my wife would be wanting to discuss the quality of our relationship and interaction
+From the amount you say you download(Programmes, Demos etc etc) you are maybe using 
+2 - 4GB a month, unless your husband is downloading more then 1 demo evey few weeks, which can be up to 1GB each, BBC Iplayer is a bit of a pain, were you can rack up alot of GB without realising.
+
+From personal experience BT are awful to deal with.
+
+I suggest you watch very carefully what you download over the next few weeks, and know the exact figure in GB then give them a call.
+
+Jim has stated that PS3 & Xbox together may increase your download, i myself use xbox live, which when playing only does not use any of your download capacity, and im sure it is the same for the PS3, However i do agree with his comment about the amount your husband is playing each night.
+I'm sorry but you are wrong there. All providers operate a Fair Use Policy. How that usage is defined is up to the individual company.
+
+If they think your usage is excessive then they will throttle your connection.
+
+Your saying "My husband has a xbox and playstation 3 and downloads 1 demo every other week plus he play online for about 1-2 hours most evenings. On top of this my children watch about 3 cbeebies programmes on the iplayer per day. Apart from that I don't really download any thing. I did download a couple of Tv programs from Itunes last month"
+
+Have you any idea how much bandwidth allowance that lot would take in a month?
+
+Also from the time you log on till the time you log off, no matter who is using what, all internet usage involves uploads and downloads and counts against your usage allowance. 
+
+To give you a comparison, I'm on about 10 hours a day on and off, I don't play games on line, do very little video streaming or downloading, yet on my own I still clocked up 161.353 Gb last month and am up to 176.309 Gb already this month.
+
+Yet Virgin have never said anything or commented to me about my usage and I am on an unlimited user account.
+
+You moving to another provider wont solve your problem with that amount of usage. As you are within your first 12 month contract then they are quite right what they say about you cancelling. It's not about being unfair or ridiculous at all. It's what you agreed to in law when you signed the contract.
+
+Really there is no help we can give you except to advise you to cut your usage down.
+I had a similar problem and every time I queried it with B.T.it was always my fault.In the end I just told them if it was not put right ,because they had broken their contract I would change my supplier.Within a week I was up to 5kbps.Still not happy,I kept sending e-mails to the complaints dept.I am now up to 7 mbps.with a promise of 9 mbps by April 1st.Judging by why I was told by the engineer,a lot of the trouble is caused by B.T.upgrading their exchanges.I have got BT Vision and that takes up 2 megs.and I just told them to disconnect me and told them why.I could not get any progammes.Hence 2 refunds from the Vision dept.and 2 refunds from the Internet dept.My main problem was talking to someone I could not understand.But they do understand "I will terminate my contract"
+I download more than 100GB in 10 days
+http://ask.ofcom.org.uk/help/services-and-billing/bad_cs

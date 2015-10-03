@@ -1,0 +1,18 @@
+Internet Connection Wireless?
+Is there anyway to find out who has been using my username and password to connect to internet?
+Example...My friend knows my username and password,has wireless equipment the same as mine and goes home types in my UN AND PASS and connects.Is there any way that I find out is someone doing this?
+I know changing the password can do the trick,but I wanted to find out who is the doing this.Eventually I will change my password.
+
+why not just change the password
+Well you try and keep track of your internet usage ( you can probably get that from your internet supplier's site) if more than what you are downloading has been downloaded then yes someone is using it.
+I don't really know how to find out who exactly ( i don' t think you can)
+In any case i suggest that you change your password
+There is most certainly a way to know if someone is in fact accessing your internet, I have had the same problem with the folks next door, but by having certain ports open you could allow just you & your friend to access that wireless router, or if you have a good alert system like Sygate Personal Firewall, you could find out who was using your internet service.
+Here is what you could do:
+-CHANGE YOUR PASSWORD.
+-DONOT USE YOUR INTERNET FOR A MONTH AND SEE IF THE USAGE IS BEING EATEN UP.
+-GOTO Start>Network AND SEE IF YOU SEE A COMPUTER WITH AN UNKNOWN NAME
+-SET A PASSWORD
+
+You wernt really specific with the question.
+Hope i helped

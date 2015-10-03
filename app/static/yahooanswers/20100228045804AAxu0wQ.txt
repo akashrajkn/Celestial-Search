@@ -1,0 +1,15 @@
+What do you call the .au,.nl,.ru stuff on webpages ?
+I know .au is for australia .nl for the netherlands .ru for russia .tw for taiwan .ph for philippines etc.,
+but what do you call it?
+
+top level domain
+Web Country Codes on the Internet
+as ElMarkio said 
+
+Simply TLDs
+Technically it is a "Top Level Domain" representing a Country Code in the Root Zone Database.
+
+Below are a couple of links from IANA (Internet Assigned Numbers Authority) for your reference.
+
+http://www.iana.org/domains/root/cctld/
+http://www.iana.org/domains/root/db/

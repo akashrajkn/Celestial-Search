@@ -1,0 +1,13 @@
+firefox wont start. what should i do?
+my computer crashed once i downloaded the firefox add-on "stylish"
+
+and now everytime i click on firefox, it wont start. the program wont even open.
+
+do i have to uninstall it and install it again or is there a way to delete plugins without firefox being open?
+
+i dont know what to do and any help would be appriciated.
+
+im not sur ehow to fix firefox, but you could try internet explorer, safari, or what i use, google crome.
+You could try reinstalling it over the existing install to see if that fixes it, otherwise it's uninstall/reinstall I reckon.
+This is because of the computer¡¯s registry. The registry is a very complex and often misunderstood component of Windows. It¡¯s vital to your computer¡¯s operation. Think of the registry as your computer¡¯s brain. And everything you do on the computer, everything you install or remove, is stored in the brain. When you remove things, very often certain registry entries are left behind, like memories. But these memories are good for absolutely nothing.
+The registry hangs on to them, though, and eventually it gets so full that it¡¯s hard to find things that are important now.  The registry is probably the culprit if your computer freezes randomly.Consequently, one of the best solutions in managing the situation is to use registry cleaning tools  http://make-computer-run-smoothly.com                  with great power and capacity to completely flush out all junk files and fix all errors found.

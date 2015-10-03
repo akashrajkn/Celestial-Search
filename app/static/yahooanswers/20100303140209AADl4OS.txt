@@ -1,0 +1,19 @@
+Which is the best internet browser to use?
+On a computer that keeps freezing and doesn't like IE? I've had Firefox for a while but it's really slowed my computer down - which is the best alternative?
+
+GoogleChrome
+Google Chrome without a doubt
+Google Chrome is the fastest. I used to use IE and Safari but switched to Chrome because it was so much better. Its free to download here: http://www.google.com/chrome
+Chrome, Opera, SRWare Iron, which is like Chrome, but does not send your surfing habits back to Mother Google. I personally use and like Iron...
+Lots of people say Google Chrome, but Opera 10.5 is the fastest browser in the world. It also looks a lot better than most. It is also one of the most secure.
+(open windows update, there is a new thing that lists them all and were to download them)
+
+K-meleon is quite fast, firefox is good, but the addons and tools can get bloated and slow down the system, Safari is pretty good also, very fast.
+Chances are that Firefox isn't the culprit for your slow PC. I believe Chrome uses more resources than Firefox, especially regarding frequency of disk access and memory use, both issues create a common performance bottleneck.  
+
+Try Chrome by all means, but I think Firefox is your best bet.  Make sure you're running the latest version and depending on how handy you are with changing `services` in Windows you might want to visit the Black Viper website http://www.blackviper.com/ that gives tutorials on changing your Windows configuration by tweaking `services` speeding up your PC.  Failing that, add more RAM.  A cheap and easy way to improve performance.  Good luck!
+Go firefox all the way. So much faster than all others without slowing down your computer!
+Someone mentioned that Chrome uses more resources, but only for each tab. Each tab runs its own process,thats why you can drag tabs out to make a new window, pretty nifty feature.
+
+Chrome for sure
+Firefox.

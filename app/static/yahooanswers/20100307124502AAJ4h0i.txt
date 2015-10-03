@@ -1,0 +1,5 @@
+Nintendo DSi connecting to the internet help?
+Ok. I have a DSi, also a router, but when i go to settings, then internet, then connection settings, then click on none next to connection 1, then search for access point, and when i do that, my router name (which is shelly) pops up but it has a gray lock. How do you turn that gray lock into gold? Thanks!!!! :)
+I clicked on change to WEP but now it wants a security key! :(
+
+Your settings on you router are probably WPA, which means high-security lock, but DS's can only connect to weaker security routers, a good medium DS working security level is WEP, I advise you to change it to that.

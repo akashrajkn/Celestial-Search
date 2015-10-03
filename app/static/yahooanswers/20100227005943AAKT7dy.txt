@@ -1,0 +1,9 @@
+Help please! My internet keeps disconnecting even though it has full bars?
+My Windows Vista laptop keeps dropping its internet connection every 30 seconds (Exactly every 30 seconds, I have to disconnect from the internet, then reconnect, then have it go out again 30 seconds later.) I've virus scanned it over five times today, but the internet still won't stop dropping. I know it is not a signal problem, because my internet has full bars when it's connected. This is beginning to become a major annoyance, it's nonstop internet dropping. The connection isn't dropping on any computer but this one, which apparently doesn't have a virus. Help please?!?
+
+Go to your laptop manufacturer's website and see if they have an updated driver for your wireless card.
+I solved a similar problem on my machine. Hope this helps.
+
+I have separate ADSL modem and wireless router. I noticed that by default both of their IP addresses were "192.168.1.1". I thought this would create conflict situation. So, I changed the IP address of my wireless router to something different (eg: 192.168.1.20). You can do so by logging on to your router. And simply this solved my problem.
+
+Cheers

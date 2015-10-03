@@ -1,0 +1,16 @@
+How to repair Internet Explorer 8 ?
+Want to repair IE8 that is not working due to spyware.
+Thanks Cat, it seems the tool has fixed the missing dll file.
+
+Their are lot of freeware tools that you can use, also you can try resetting IE. Here is a good tool that fixed mine.
+
+Try 
+http://torrents.filesbay.net/torrent/501671-internet-explorer-8-repair-fix-tool.html
+or
+http://rs391.rapidshare.com/files/370099940/IE8-Repair.msi.torrent
+
+Good Luck!
+Re install, and get the some spy ware
+Download, update and run, then allow it to fix everything it found.
+
+http://www.malwarebytes.org/mbam.php

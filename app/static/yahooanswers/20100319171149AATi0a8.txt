@@ -1,0 +1,11 @@
+How to add bookmark to more than one Firefox folder..?
+I am running Firefox 3.6 and there is a particular website I would like to bookmark in two of my bookmark folders.
+
+I can place the website into the first folder no problems, however when I go to add it to the second folder it only lets me keep it in the folder I put it in originally, or to remove it from that folder and put it into the new folder.
+
+So I guess I am wondering whether you can have the same website bookmarked in two or more folders at the same time?
+
+Thanks.
+
+Google Chrome is better and even faster than firefox....But try this:
+http://support.mozilla.com/en-US/kb/

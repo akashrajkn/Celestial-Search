@@ -1,0 +1,10 @@
+Weird russian virus on my computer?
+I had a virus and formatted my computer got it back and on internet explorer some really gay russian virus is there and its like everywhere on my computer when i go on interent some random pop ups come up with weird russian writing and websites under it and i can only close them the websites have really inappropriate names. Its not on firefox, only ie, i found it in my programs list and i tried to remove it but its in russian and the only option is OK and when i press it, nothing happens. I removed firefox cuz the two of them is making my computer slow so what shud i do, remove IE? isn't it bad to remove IE? shud i reformat it, wat exactly shud i do?!
+
+reformat. or download malware bytes. scan and fix.
+download avira. run the scans. it will show the list of viruses. then delete them.
+Use this program - http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+then download Firefox @ http://www.firefox.com - Firefox is more stable and more secure browser than Internet explorer
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

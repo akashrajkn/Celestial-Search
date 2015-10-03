@@ -1,0 +1,6 @@
+Firefox page loading problems?
+Lately after updating to the latest verson firefox, i'm getting constant page loading errors.  Pages either load real slow or I get "Server not found error".  I've tried everything that I can think of, clearing cache, and the open dns service but no luck.  Internet Explorer works fine and chrome works a little better.  I have Windows xp sp2 and the most recent avast av.  any help would be appreciated.
+i don't have a firewall, have avast but its working fine with internet explorer
+
+Your firewall might be blocking Firefox. Check you firewall settings to find out. XD
+yes i'm getting that too. Very frustrating. My girlfriend had the problem a few days ago too, but hers seem to have resolved itself. Hopefully whatever bug it is will fix itself soon.

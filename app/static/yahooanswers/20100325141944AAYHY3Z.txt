@@ -1,0 +1,17 @@
+If I download FireFox, will InternetExplorer go away?
+and Will all my favorites and tabs go away?
+
+no, Firefox will ask if you want to import that information. it will also ask if you want to make Firefox the default browser, but internet explorer will always still be there.
+No, IE will still be there and you can copy your bookmarks to FF as well...
+No. IE will remain exactly as it is.
+
+You may want to make Firefox the default browser, though, so opening .htm and .html files will automatically use it.  Here's the easy way to do that:
+
+1. Open Firefox.
+2. Click the Tools->Options menu item.
+3. Click the Advanced Page.
+4. Check the "Always check to see if Firefox is the default browser on startup" checkbox.
+5. Click the Check Now button.
+6. Click OK.
+
+Hope that helps.

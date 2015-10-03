@@ -1,0 +1,8 @@
+How do sites know where you live?
+How is it that some sites that have those weird pop ups with girls that are "horny", know where you live??? It's kinda creepy going to a site and some random pop up telling me that this girl is in my town...oO Do they track your address or something? :O
+
+Well, to put it in really basic terms, your IP address (your numeric ID number that your internet provider gives you in order to get online), always corresponds with your actual physical location (usually down to your zip code). Ads can try and entice you into thinking you'll get some kind of local service by looking at your IP and then looking at a map that shows which location it corresponds to.
+Some sites will track your cookies, based on information you provided. But I think what your getting at is geolocation, which is determining the location of your ISP, usually close enough to you to be in the same city.
+
+It is really easy and cheap to do.
+ip adresses are linked to the town so it knows

@@ -1,0 +1,12 @@
+Why does AT&T U-verse internet  go out all the time?
+All right i had charter until i moved, worked great all the time.  Now, however, charter is not available and I had to get AT&T U-verse.  I have a Laptop and my  xbox 360 is hooked up wirelessly as well. The internet works great when its on, but it seems like it goes out every 5 minutes or so.  On my laptop the connection speed goes from 54 mbps to 24 mbps and the internet completely goes out for about 10 seconds.  10 seconds doesn't sound like a big deal, but when your in the middle of a game on xbox live and you get signed out, it gets annoying.  My download speed right now is supposed to be 18 mbps (I had upgraded it a few times thinking it would solve the problem), however, when i do the test on speedtest.net the max I ever get is 6 mbps.  6 mbps is still really fast and I shouldn't lose connection every 5 minutes, but i still do.  If anyone knows why this might be please help me out.
+
+i...got lost after xbox 360....
+but probably cos it SUCKS!
+good luck on ur quest to find help
+Maybe call AT&T, how would we know ?  ~
+ok. do you see your modem? or the att uverse gateway/router? try a hard reboot by unplugging the power cord at the back of it then wait for 10 seconds then plug it back in. Remember to do this once a month so that the connection will be refreshed every month.
+second one, do you have other wireless devices there or devices that transmits electromagnetic current like microwaves, or wireless phone and others that is near the modem/router? sometimes, the channel where your modem is set to is interfering with the signal that your phones or microwave is transmitting, that is the reason why you are getting kicked off the internet every once in a while.
+
+If these did not work, you really have to call the tech support department and specifically ask them to change the channel where your modem is set.. change it to channel 11. channel 11 is the non overlapping channel, so it will not interfere with the signal that your other devices there are transmitting.
+after that, specifically ask the technical support department to allocate the address of your modem, they'l know what to do.

@@ -1,0 +1,18 @@
+A Little Help with Internet?
+When i type a certain website to my address box, it automatically goes to another website? 
+
+For example, the tv show "iCarly". In an episode, they went to a website called "worldofchucks.com", when I typed that on my address box, it automatically went to icarly.com which is (the show's website). In the same iCarly episode, they went to a site called "chickapedia.com" and the same thing happened. 
+
+How do they do it? Because, i want to try it out myself. In short, if someone types a certain 'unreal' website, I want it to automatically go to my facebook account. Is that even possible?
+
+Thanks in advance :)
+
+well far as i can tell u is, if the website is real, then it'll go straight to the website if u typed it in right, but if it is a real website and it's just not goin to it for some reason, then it could be a virus, does everything else u do on the internet work fine? oh! also, it might take u to icarly.com cuz it wants u to sign in and make a user name and stuff like that before u can use the other links, or u can find a link on the icarly page to get to the other sites your lookin for:)
+Nickelodeon bought the domain names worldofchucks.com and chickapedia.com then redirected them to icarly.com (which they also own.) I imagine they have their own servers to do this with and do it before the episode ever airs.
+
+You would have to buy the fake domain names and then redirect to facebook - if facebook allows such a thing. I don't know so I can't speak to that.
+
+This kind of thing is done all the time - but you need to own your own domain names, and have the ability to redirect thru your registrar or web hosting company. It's not hard to do. You redirect (or point) one domain name to another.
+Domain Forward. iCarly owns the mentioned websites and points its traffic to their main website..
+
+No, it's practically impossible to route 'unreal' website traffic to you facebook account. You'll need to own every one of those 'unreal' websites in order to point their traffic to your facebook account.

@@ -1,0 +1,18 @@
+is there way update firefox spell checker?
+is there a way to go into fire fox spell check and update it or remove words that you told the system that is right but isn't
+
+Your personal dictionary, persdict.dat, seems to be in this directory
+
+In Windows XP:
+
+C:\Documents and Settings\your username\Application Data\Mozilla\ Firefox\Profiles\your profile
+
+In Windows Vista:
+
+C:\Users\your username\Appdata\Roaming\Mozilla\ Firefox\Profiles\ your profile
+
+(Note: If the directory Appdata doesn¡¯t appear in Windows Explorer, enter the full path name in Explorer¡¯s address window.)
+
+The file seems to be editable with Wordpad.
+
+Hope that helps.

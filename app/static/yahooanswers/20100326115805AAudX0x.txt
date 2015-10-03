@@ -1,0 +1,7 @@
+I just downloaded the latest version of Firefox, and now I can't load or stream videos?
+When I tried to play a video on Hulu, it wouldn't load and it locked up Firefox.  So I tried Youtube, and a few other random sites, and none of the videos would load and it always locked up Firefox.  Just yesterday, before Firefox installed updates, Hulu and other websites that stream videos worked just fine.
+
+Is this an issue with Firefox, or could it be something else?  I don't know a whole lot about computers, so thanks for your help.
+So uh, I fixed it.  Guess you don't have to answer the question anymore.  Thanks anyway!
+
+You may need to re-install Adobe  Flash  player. And you can also use other browsers like Opera, Google  Chrome.

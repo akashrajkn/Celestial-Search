@@ -1,0 +1,10 @@
+Why Is my Internet Explorer Toolbar Gone?
+The toolbar where you put in internet addresses is gone, my little cuz started smashing my keyboard, now its gone. I fixed it before but now i dont remember. When I roll my mouse over it a mini version appears, how do I get it to stay. Im using Internet Explorer 8, on a Toshiba Satalitte Laptop
+
+go where it say's view at the top then click toolbars and it should be in there.
+Try "F11". Hitting "F11" can get rid of the bars at the top and bottom of your screen, allowing for a fullscreen view of your internet browser. Simple fix.
+An easy fix this is to right click the area where your navigation bar (the technical term for it) should be. Just right click and click on Navigation toolbar. 
+There you go!
+
+Kyler
+IE8 Outreach Team

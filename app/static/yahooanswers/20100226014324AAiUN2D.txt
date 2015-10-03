@@ -1,0 +1,15 @@
+Does Anybody know what Domain Registrar will release Domain Names immediately after purchase?
+What im asking is where can I purchase a domain name, which i can sell almost immediately and transfer it to the new owner straight away, for example godaddy.com wont allow a transfers for 60 days after purchasing, which can be a pain if you want to sell immediately.
+
+p.s. If there ain't any then which has the smallest release time?
+
+The law prohibits transfers on domains less than 60 days old.
+
+In accordance with ICANN rules, you cannot transfer your domain to another provider until 60 days after your domain registration date
+Assuming your domain name is a .com, .net, .org the 60 day rule exists with all registrars.
+
+While you may not be able to perform a registrar transfer of a new domain for 60 days you can still "push" the name to a different registrant account at the same registrar. 
+
+If you sell the domain within the 60 days your buyer will simply need to open an account with GoDaddy (if he/she doesn't already have one) and you can transfer the domain into his/her account. The transfer restriction only relates to a transfer between registrars, not registrants.
+
+Good luck with your sale.

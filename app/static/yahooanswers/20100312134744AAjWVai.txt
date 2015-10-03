@@ -1,0 +1,5 @@
+Twitter won't let me sign out :( Help?
+I keep pressing the "Log Out" link  but it just refreshes the home page. Anyone know how I can log out? Thanks!
+
+First of all, in order to log out correctly make sure your keyboard is plugged in to the front usb spot of your computer instead of the back. Secondly, make sure to hit the log out button three times consecutively before the window changes. Then if this still does not work, it always helps to fight the computer.
+Close down your web browser then delete all your internet history, cookies and temp files then try the website again, it should have logged you out

@@ -1,0 +1,9 @@
+Trouble downloading on Firefox?
+When I download something on Firefox, it begins to download, but after it completes, it is no longer in the little "Downloads box" that pops up on the screen (the one with a "clear list" option on the bottom less).
+
+Where, then do I manually find the program I'm trying to download to complete the installation?  It's an updated anti-spyware program.
+
+Locate the file:
+Tools> Options> General tab: Downloads section.  
+Tick the "browse" button, look through the folder index; your current location of downloaded files will be highlighted.
+in option select show download when done,u can also check from tools and also pres ctrl and j.

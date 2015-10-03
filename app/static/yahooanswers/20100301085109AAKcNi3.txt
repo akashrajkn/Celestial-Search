@@ -1,0 +1,5 @@
+Internet question help please ?
+i hit a button and now when I am on the internet the bars at the bottom and top disappear until you hover over where they should be, how do I get them back ?
+
+F11
+f11 you accidentally pressed that an it went on full-screen if yo press it again the bars will come back

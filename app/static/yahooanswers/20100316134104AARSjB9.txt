@@ -1,0 +1,34 @@
+What Blog Site Should I Use?
+I'm in the process of creating my own independent magazine and am trying to develop a blog or website to better reach people.
+
+1)  Could you please suggest some blog sites or other websites that you think would be appropriate for this and tell me why you think these would be good?  For example what would be the pros and cons of using Myspace, Facebook, or Blogger, and which is better?
+
+NOTE:  I am certainly willing to use more than one website; if I have to, I will use both Facebook and Myspace, but I was hoping not to have to use, say 5 or 6 different ones.  I am mostly looking for the ones that would reach the most people.
+
+Any suggestions or insite you could give me would be greatly appreciated.  Thank you.
+
+
+Additional Details
+
+Some of the articles will be put on the blog/website as well as in the magazine, but I may use the blog/website to promote other work I'm doing, and to try to discuss some issues in general.
+
+The main advantage I need from this blog/site is a good MEDIUM FOR COMMUNICATION on topics in the magazine, especially to allow comments and Letters To The Editor.
+
+Other important advantages I need are:
+
+* having a space to publish articles, pictures, cartoons, and other work
+
+* having it seen by AS MANY PEOPLE AS POSSIBLE
+
+* generating INTEREST in it by those who see it
+
+* having people READ it and continue to read it
+
+* being able to personalize the style, background, etc
+
+* possibly generating interest in PURCHASING copies of the magazine
+
+you should read this post , it will help you in your blogs , there is the 20 top website that you can post your blogs  http://4everythingyouneed.webs.com/webmasterscodes.htm  enjoy
+I would use Wordpress. Not the hosted Wordpress at Wordpress.COM, the do it yourself (DIY) Wordpress at Wordpress.ORG. That way, you can customize it with any theme or plug-in that you want. The first (of many) examples that comes to mind is polls. If you're using DIY Wordpress, then you can install a plugin for polls that people can vote on. If you're using MySpace, FaceBook, or Blogger, then you're limited to the features they have, which may or may not include polls. What if you want to give ratings to some products? DIY Wordpress has plugins to replace your rating (such as 3/5 stars) to actual stars that are filled in or not depending on how high the rating is.
+
+The word for all of this in technical circles is "extensibility." It means that if you need your product (your blog in this case) to do something new, then you can extend it to meet your needs.

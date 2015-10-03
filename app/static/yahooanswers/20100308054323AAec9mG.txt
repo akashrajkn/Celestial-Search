@@ -1,0 +1,11 @@
+Computer Problem with Internet Explorer....?
+When I try to open my internet explorer window on my home computer, the window opens up and then about 5 seconds later, closes itself down.  Any ideas what the problem may be?
+
+That sounds like a virus to me. Might wanna scan your computer. In the meantime, you can try using a different browser such as Firefox, Google Chrome, Safari, etc, etc.
+Steven M has a good answer I would go with what he said.
+The virus guy sounds about right, also some anti virus software use to have that built into them and if you didn't renew with them, they wouldn't lat you play anymore. There was a class action suit against them for it and 2 of the bigger names did it.
+The problem is that you need to wear your Nikes when you open up IE.
+try opening up in safe mode then run your anti virus
+Kick your current sleeping on the job anti virus/security program to the kerb and install a free anti viral program like Avast and banish those virus monkeys to hell
+use another browser... like .... FireFox or Google Crome
+Internet explorer has virus problems...sounds what that is to me..Id run your antivirus, download firefox, and delete IE..

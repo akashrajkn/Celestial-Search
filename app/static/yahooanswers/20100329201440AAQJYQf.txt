@@ -1,0 +1,8 @@
+What's wrong with rapidshare?
+Okay so I have problems w/ RS and MU. I'm downloading two 200 mb files from rapidshare and megaupload (simultaneously) and I noticed the speed isn't quite right.
+
+My ISP is comcast and the speed is supposedly 20 megabits/second (megabits, not megabytes). Regularly when I download from RS and MU and HF the speed is around 200 kbs/second to 400 kbs/second...I guess because they cap the download speed for free downloads.
+
+Well, today it's around 60 kbs/second to 100 kbs/second! It's never reached that low.
+
+Depends on the traffic on their servers, rapidshare can be painfully slow, same for MU.

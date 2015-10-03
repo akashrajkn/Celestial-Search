@@ -1,0 +1,12 @@
+I have several friends with various email address domains. How can we all get on a real-time chat together?
+Don't want to use Skype or any video aps. I'd like to use something like the Facebook or Gmail Chat ap but I'm the only one with Gmail and I don't want all the other folks to have to get a Gmail account just to chat.
+
+You could all install IRC client (like MIRC), create a chat channel and meet there.
+this is much easier
+sorry go here 
+http://www.digsby.com/
+I think Yahoo Instant Messenger can do that, but I hoestly haven't tried with a domain that wasn't hotmail, msn or yahoo.
+it is likely that all of your friends have some form or chat service already. what you need is an application that works with all of them. Digsby was already suggested but it does not work with either mac or linux. The best choice is still Pidgin. it supports all the major chat clients (MSN, AOL, Yahoo, ICQ,and Myspace) and Jabber (Which is what Gmail, Livejournal, Zoho, and several other services use). Further with a simply add-on you can add support for Facebook chat. lastly I have yet to find a operating system that pidgin doesn't work in.
+
+here is the main site for pidgin: http://www.pidgin.im/
+here is the page for the facebook add-on: http://code.google.com/p/pidgin-facebookchat/

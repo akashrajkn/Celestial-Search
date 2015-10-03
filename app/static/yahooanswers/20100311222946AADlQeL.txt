@@ -1,0 +1,8 @@
+Mozilla Firefox Question?
+i accidentally got rid of my tool bar how do i get it back?
+*it is the menu bar with tools, file, ect.
+
+Right click where the toolbars normally are, and recheck the toolbar you want back
+Get add-ons from mozilla website or reinstall your mozilla firefox.
+Right-click on the free space under Mozilla Firefox title and set checkboxes at the required items.
+On the upsite of your browser click view then choose toolbars. Then choose the one you want to place back.

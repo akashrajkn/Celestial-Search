@@ -1,0 +1,25 @@
+what does it mean when i get a dns timeout error?
+ok guys this is starting to get really frustrating... im at school and usually i can log onto my college's internet but since last week i cant anymore. every time i go onto the internet via firefox or internet explorer it says connection is successful but i have a dns timeout error... and its starting to get really irritating not being able to use the internet at school especially on my own laptop
+
+any help is appreciated thanks,
+
+-karl t.
+
+Basically the error message is exactly right; your computer cannot reach the DNS server for some reason.  The DNS server is the Domain Name Server, it is in charge of converting your website names into IP addresses; such as google.com is actually 72.14.204.103 (it has multiple addresses).
+
+## Troubleshooting Steps ##
+Go to Start > Control Panel > Network Connections > right click on your "Connected" device > select Repair or Fix or Renew
+Try to surf, if it fails, continue.
+
+Bring up a CMD prompt.   Go to Start > Run > type "cmd" > hit "enter", ok, or run.  Next type "ipconfig /all" and look for "dns servers"  If it's blank then you need to fill it in, if it has IPs then they could be wrong.
+Type "ipconfig /release"
+Type "ipconfig /renew"
+If it's successful, try to get on the internet, if not continue.
+
+Get the DNS server ip address from either a working computer or from your network administrator.  Once you get the IP address go to Start > Control Panel > Network Connections > right click on your "Connected" device > Properties > double click TCP/IP Settings (v4) > then select "Use the following DNS servers" > put in the addresses and hit Finish / ok.  
+Try to get on the internet again; if unsuccessful, continue.
+
+Type "nslookup www.google.com"
+If it *doesn't* come up with an address, it's not something you can fix.  If it does, continue.
+Type "ping <ip address>"
+If it's successful then put that address in your web browser, if it works then it's a problem with the DNS server and it's outside your permissions to fix.

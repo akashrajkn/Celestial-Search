@@ -1,0 +1,13 @@
+Is it bad to run multiple anti-virus programs at once?
+i've heard different opinions on this topic, even from professionals.
+i run two (Avast and Malwarebytes) and never had a problem between the two.
+and i was wondering if it is okay to have them both installed.
+i'd like facts not opinions.
+
+Running both at once will not harm your computer or cause it to "miss" searching files for a virus. Just make sure your computer is fast enough to run both programs :) That is a fact.
+You 'd better have only one antivirus active to do the real-time scan (free ones are Avast, AVG Free or Antivir),but you can use more than one for the occasional full scan.
+As long as the two anti virus programs don't interfere with each other,you're good to go.
+Malwarebytes (just like SUPERAntispyware) is not an antivirus but an antispyware program. It doesn't conflict with any antivirus programs.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

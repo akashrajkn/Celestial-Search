@@ -1,0 +1,9 @@
+download/save mediasite lecture/videos to harddrive?
+how can I download mediasite videos on my harddisk? 
+I have already tried some "metaproducts offline" but was of no use... any other way please.
+
+Hi Dear
+Yes surely there is a way do this work through VDownloader .Download and convert videos to your harddisk. after downloading you can easily convert downloaded videos to mpeg, avi, mkv, mp3, mp4, mov, ogg vorbis, wmv, h264, xvid, divx etc.
+
+Free download it: http://vdownloader.com
+I hope this may help you. :)

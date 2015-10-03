@@ -1,0 +1,11 @@
+How come when I download something from Megaupload, it turns out to be only 17KB?
+When I download any kind of file from "MegaUpload" it says like [500MB] in the "Mega Manager", but when I go to the file itself, it¡¯s only 15-17KB. ALSO, it the file doesn't open properly:
+
+Ex: A rar. file says "Unexpected end of Archive" when I open it
+
+Can someone tell me what the heck is going on and/or how to fix it? 
+
+Also, on my other computer, it works fine.
+So, it¡¯s not the uploaders fault either o.o
+
+Your download is either stopping at 17KB for some reason or your downloading the download button picture and not the download itself.

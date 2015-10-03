@@ -1,0 +1,15 @@
+I have a virus that i cannot get rid of....HELP!!!!!?
+i use avg antivirus at the moment, and also malware bytes. the virus identified is Win32/Patched.CG and it is in the WINDOWS\system32\drivers\atapi.sys file. the only option it gives me is to ignore it. how am i supposed to get rid of this virus????
+
+Please help!!!!!
+
+i use avg antivirus at the moment, and also malware bytes. the virus identified is Win32/Patched.CG and it is in the WINDOWS\system32\drivers\atapi.sys file. the only option it gives me is to ignore it. how am i supposed to get rid of this virus????
+
+Please help!!!!!
+
+plus i have tried using avast with other trojans and viruses and it doesnt seem to pick many of them up - same with mcafee
+
+I found a thread that may help you
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

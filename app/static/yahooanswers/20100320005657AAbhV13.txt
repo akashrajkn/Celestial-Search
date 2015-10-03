@@ -1,0 +1,29 @@
+which browser is best?  Internet Explorer 8,?
+Fire fox, why is IE 8 so slow?
+
+firefox
+Mozilla Firefox
+Mozilla Firefox or Google Chrome. Your pick. I personally switched to Chrome after using firefox for a few years. Its definately not IE though :p
+Firefox is good but google chrome is better.
+IE will be old fashioned for ever.  I liked Firefox up until a year ago, now I like Chrome.
+I personally used IE 8 and believe me it is very slow. now i am using Mozilla Firefox. I thing Firefox is best
+Firefox because it has a built in accelerator and because Internet Explorer 8 is a virus magnet. Also Firefox can bypass some blocks that there may be. Its not allowed at my high school and I go to a technology school and my friend downloaded it and the Tech helper said its proxy settings can bypass some internet blocks and that my friend could have easily been revoked from using the school computers if he had been told on.
+Firefox and Chrome are both good, IE is a bit slow and insecure at times.
+
+Firefox runs fast, loads fast, and generally performs well.
+
+Chrome runs very fast, loads fast, and performs fairly well.
+
+They both support add-ons, with the newer version(s) of Chrome's release.
+
+Chrome runs pages in multiple processes, unlike firefox, which means that if one page freezes up, the entire browser will not, nor will some other tabs. 
+
+Chrome removes most menus (file menu, etc), replacing them with settings changed from a single button, while Firefox keeps the normal style.
+
+Both chrome and Firefox feature add-ons to personalize the look of the browser (aka: personas)
+
+Firefox has many more customizable settings than chrome, giving the user more control over general compatibility, options, and use.
+
+__________
+As for I.E. it runs slower than the others because it loads a lot more ('accelerators, toolbars, add-ons), has more resources devoted to background scripts than page loading, and lacks some features used to speed up operation like in Chrome and Firefox. It is however required to at least be installed, for some programs to run properly, as they rely on proxy settings (etc) loaded from it.
+firefox, google chrome, avant, opera, and safari are all good browsers

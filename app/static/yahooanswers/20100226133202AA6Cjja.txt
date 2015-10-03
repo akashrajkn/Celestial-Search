@@ -1,0 +1,10 @@
+Help internet not working for some programs.?
+I recently got rid of an anti virus that i had on my laptop, and after that some programs on my comp stopped working. I decided to reset my firewall settings but that doesn't seem to help I think i have tried almost every suggestion that i have go-ogled. 
+Safari works but firefox and internet explorer don't and a few other programs as well. 
+i tried to download a new anti virus but was unable to. 
+i've tried to do the add it to firewall exceptions but nothing is working.
+Help please!!!!
+I already tried to re-install the programs that don't work as well but it doesn't help.
+Thanks
+
+Anti virus soft by its nature messes with the .exe files on the computer.  Depending of how it affected them you may need to reload the programs what were damaged by the malware program.  Un install Firefox from the add remove programs in the control console, or programs if using VISTA. Use Safari to re-download Firefox and re-install it. It should now work..Do the same with IE, and your other programs that don't work.

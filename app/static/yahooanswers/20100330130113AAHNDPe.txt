@@ -1,0 +1,18 @@
+How to Resolve "Your browser's cookie functionality is turned off" issue?
+I have checked and my cookie functionality is turned on.  However, every so often it will tell me "Your browser's cookie functionality is turned off. Please turn it on. [?]."  Does anyone know why it does that, and how to resolve the problem?
+
+hi tony, when i read year question i had to find our answer so i went to start settings control panel i hit the internet options icon and there was the answer there by delete cookies and history you see settings put it on automatic that should get rid of your problem. sorry i went into so much detail but the answer was so easy i had to make it sound complicated or you would begin to take me for granted glad i could be here for you good luck hope i was helpful to you
+This link looks like it will get you taken care of:
+
+http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=61416
+
+It shows you to make sure your cookies are enabled and if they are they offered the following advice:
+
+If you've already checked that your cookies are enabled and you're still seeing an error message that your browser's cookie functionality is turned off, try opening a new window in your browser. Sometimes using tabs in a single browser instance can cause your cookies to stick.
+
+Still receiving this error message? Clear your cache and delete your cookies.
+http://www.google.com/support/accounts/bin/answer.py?answer=32050
+
+Also check to see your are not in private browseing mode.
+
+Hope this helps. Next time make sure you tell us which browser you are using. ;)

@@ -1,0 +1,21 @@
+New browser problem. Which is best?
+I have the option of downloading a new browser on my laptop. I would prefer one that is fast and quick with downloading, but I have a norton, yahoo and google tool bars which i would like to keep, so I do not want one which deletes them. Thank you to all
+I have heard Opera is a fast one also, it is just my laptop has received something through an update recommending a new browser.
+If I chose explorer 8, would that keep the toolbars?
+
+Firefox is best and you have to download your toolbars again whichever browser you choose then when you sign back in to Yahoo/Google your toolbar settings will still be the same.
+
+Also Explorer will still be on your computer if your on a PC .
+None of the browsers will delete your toolbars, and they should still be there if you choose to start using Internet Explorer again. Regardless, you will have to get another version of the toolbar that is compatible with the new browser that you choose.
+
+As for your choice of browser, just take a look at the features of each one and decide which one suits you best. I would recommend Mozilla Firefox or Google Chrome since they have a very large library of add-ons (although Google Chrome's library is still up-and-coming), which means it's also really easy to get hold of toolbars for them. Safari would also be a good choice, although it isn't as well supported on Windows machines as Firefox and Chrome, and has a smaller library of add-ons.
+
+As for speed, Google Chrome and Mozilla Firefox are about equal, as the fastest, to the average user when they are still 'clean' installs (ie. no add-ons to slow it down).
+
+Mozilla Firefox: http://www.mozilla.com/firefox/
+Google Chrome: http://www.google.com/chrome
+Apple Safari: http://www.apple.com/safari/
+
+[EDIT] If you choose to keep Internet Explorer, then nothing will change IF you have the latest version (8). If you have an older version, then it will simply be updated to version 8. Your toolbars should continue to function with the new version.
+
+

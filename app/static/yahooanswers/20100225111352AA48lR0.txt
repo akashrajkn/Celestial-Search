@@ -1,0 +1,15 @@
+Is there a way to prevent an email hitting a persons inbox... after it has been sent from gmail?
+i might have been a wee bit too hasty in using the 'send' button...
+
+no
+Not any more so than you can get back a letter you have dropped off at the post office!
+You have an option to undo right after the send.  It looks like you only have about 5 seconds to do it.  I am guessing it is way too late if you want to do it now.
+
+http://www.wired.com/epicenter/2009/03/gmails-new-undo/
+If you've already done this then NO. Not for this email sorry. 
+
+In the future you have an option. In gmail you can go to gmaillabs and turn on the option that gives you a small window in which to stop a message from sending. 
+
+This is particularly good if you send people a lot of quick replies and realize you replied to the wrong person etc.
+
+Hope this helps!

@@ -1,0 +1,18 @@
+Why can't I play video?
+Okay, I switched computers to my dad's Windows Vista. Everything has been working great but I immediately noticed that a lot of videos aren't working. Only internet videos, like none of the "play video here" on google  videos work (but when I click on the link, it works on the home site) and ALL the different players on different sites. Youtube works but that is about it. When I try to use the video, no matter what site it is, it very often has a small picture in the top left that look like a bunch of colours. I've never had this happen before, I do have Explorer 8. I think it might be because it has to be on the original site. Please Help.
+
+Have you tried downloading the latest flash from http://get.adobe.com/flashplayer/?
+It usually fixes these problems.
+Adobe Flash is required to play on most of those.  It is available at http://adobe.com
+
+You might also need Java:  http://www.java.com/en/download/index.jsp
+
+For non-Internet based videos (like downloaded movies) you'll want to install the K-Lite codec pack:  http://www.free-codecs.com/K_lite_codec_pack_download.htm
+
+These are all free.
+
+If none of this works you can always reset Internet Explorer 8.  This will remove all of the add-ons (toolbars and stuff) that might be getting in the way, and take it back to factory settings.  You'll still have your favorites, but you'll have to reinstall things like Flash Player or any toolbars.
+
+To reset Internet Explorer 8, click Tools, Internet Options, Advanced.  Try the "restore" option first.  If that doesn't let you see the videos go back and try the "reset" option.
+
+It *will* work if you do a reset, then install Flash Player.

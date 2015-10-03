@@ -1,0 +1,33 @@
+Domain name on blogspot.com?
+Can anyone tell me how much it costs to get my own domain name on blogspot.com? i have a blog there, but i want my own website with ".com" at the end instead of "blogspot.com." I hope this makes sense. Thanks in advance.
+for example, i want my blog's domain to be honeydew.com instead of it saying honeydew.blogspot.com
+
+It varies. See 'go daddy' for an example.  I recently paid $14. per.
+Just do a search on 'domain name'. You will get a list.
+From your question i understand that you want to continue using blogspot as your host but you want to use your own domain name. To do this you need to first purchase a domain name then point it to googles servers. When you purchase the name you will be given a control panel log in which will allow you to change nameservers to googles, the instructions are here:
+http://www.google.com/support/blogger/bin/answer.py?hl=en&answer=55373
+After changing your domain names servers you need to adjust the settings in your blogger account as per instructions above. Finally you just need to wait. It can take up to 48 hours for  nameserver change to propogate the www but is often a matter of minutes,
+There are many hosting companies who will give you a free domain name if you purchase your hosting from them, this has many advantages but as you are probably using blogger to earn from adsense then you have a load of free traffic immediately. Plus you would need to learn how to use your hosting control panel, good stuff but complicated for a beginner.
+As you may know a domain name is just a name, not a real website/weblog. If you are going to create your blog website: 1- Buy a domain name. A domain name is a name you want to call your website (ex: www.yahoo.com).  To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your blog online at your purchased domain name.
+
+If you¡¯re going to start your blog at your own domain with different pages, you need a web host providing wordpress.
+
+Take a look at:
+http://www.threehosts.com/blog
+There you can reach the three reputable companies that are leaders in the blog/wordpress website hosting industry.
+
+Hope this helps.
+If you want your own domain name, find a "host" company, who will usually sell you a domain and hosting in one package for around five bucks.
+
+I use GoDaddy.com
+
+Just choose your domain name, and specify that you want a blog (as opposed to a website).
+
+Then just follow the directions your host gives you to go "live".
+
+Have fun...and let me know if you need further help.
+
+I have much experience and training and am glad to share.
+
+Diane
+only 10$

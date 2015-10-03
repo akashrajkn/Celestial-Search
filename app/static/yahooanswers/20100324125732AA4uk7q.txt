@@ -1,0 +1,13 @@
+Do i have to put spaces in between a credit card number?
+when i enter it on amazon.
+cause they keep declining my visa debit card :S
+the name and the expiration day are correct...
+
+No - no spaces!
+
+Systems {anywhere, not just Amazon} will not recognise a credit or debit card number if you put in the spaces. Just write it as one long 16 digit number.
+no
+If they give you multiple boxes for your credit card number then the spaces are already added in.  Otherwise you do not have to worry about them.  
+
+Most websites will tell you either "with" or "without" spaces... though some just assume.
+Try it with numbers only, some sites want it that way.

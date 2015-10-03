@@ -1,0 +1,8 @@
+Why does my browser (Firefox) start to have a delayed reaction after I have it open for an hour or so?
+After like an hour or so I'll try to scroll or move the curser or type something and it will freeze for like a second before it reacts. I'll close and restart it and it will be fine, but then after an hour the same thing happens.
+
+Firefox is a memory hog and certain extensions are prone to memory leaks - keep task manager open and see the memory usage shoot up over time
+
+Try to keep the number of tabs open to a minimum and get rid of any extensions you don't use anymore however "cool" they may be.
+
+Or try Google chrome!

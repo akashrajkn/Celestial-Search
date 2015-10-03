@@ -1,0 +1,4 @@
+i can't play any video or audio online?
+i can't play any video file (youtube) online, neither can i play audio files (embedded files that play using windows media player). not sure why, because i could a few days ago.
+
+It's possible that the flash plugins have un-installed themselves.  try windows update, re-installing sound card drivers, installing a different web browser such as firefox or google chrome or try windows system restore

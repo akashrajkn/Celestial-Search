@@ -1,0 +1,6 @@
+Why couldnt I right click in my Firefox browser ?
+I recently updated my Firefox browser to Firefox 3.6. Now I cant right click on anything in the browser. The right click is simply not working. It works perfectly on Opera and IE. What is the problem?
+
+Disabling the Yahoo! Toolbar on Mozilla  OR Uninstall and Restart...........
+try going to firefox (safe mode) disable extensions and see if right click works
+give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine "experts" say is impossible

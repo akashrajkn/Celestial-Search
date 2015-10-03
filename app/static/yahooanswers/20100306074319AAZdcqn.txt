@@ -1,0 +1,21 @@
+Firefox text is shown in gibberish?
+Here's a picture:
+
+http://i223.photobucket.com/albums/dd272/noadove/xx.png
+
+Why is it shown like that? (I think it has something to do with the Helvetica font; it shows up like that on other sites)
+
+I've tried reinstalling Firefox, but nothing changed. I had the latest FF installment for a while, but this started happening about 2 days ago.
+
+Any help? ):
+
+Did you make sure you uninstalled the whole program before you reinstalled it?
+Go to your fonts folder: c:\windows\fonts.
+
+Delete the following fonts: Arial (all forms), Tahoma, Times New Roman, Trebuchet, Microsoft Sans Serif, Helvettica (if defined).
+
+Re-download and re-install these fonts from any free fonts site like http://www.downloadfreefonts.com/, http://www.1001freefonts.com/. [To install, just copy the fonts (the fonts are occassionally downloaded in .rar formats so you'll need to extract with winrar) and paste in the Fonts folder]
+
+Launch Firefox again. If it still remains the same, then its most likely an issue with viruses and malware. Scan your whole drives with an updated antimalware like BitDefender or Avast. 
+
+Hope this helps.

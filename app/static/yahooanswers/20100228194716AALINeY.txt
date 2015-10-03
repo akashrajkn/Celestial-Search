@@ -1,0 +1,6 @@
+Internet Explorer Malfuction? Please help.?
+Ok, so. When I signed on my computer after being out tonight my back/ forward buttons were missing. So were all of my other tool bars but i managed to get them back easily. But, how do i get my back/ forward button back? please help.
+
+P.S. I already tried the "F11" fix.
+
+Reset IE8 to Default in Options, Advanced...I would also run Malwarebytes, ccleaner and restart PC...

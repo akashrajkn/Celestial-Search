@@ -1,0 +1,9 @@
+my browser keeps going to webresults6.org?
+every time i do a Google search and click on one of the links my browser will go to webresults6.org instead of the page its supposed to...it works fine if i type the website in the address bar and only does it if i try to search something in a search engine then try to click on one of the results.
+oh yea it is also a fresh install of windows XP professional
+and this happens on all my browsers...firefox, IE, Opera, and google chrome
+
+its probably a virus meant to draw more hits and more money to their website
+reset your browser's cache? That's how I fixed a similar problem on mine.
+Scan for malware with free of this. http://www.malwarebytes.org/mbam.php
+Update it,, run quick scan,, remove all detected.. restart.. ~

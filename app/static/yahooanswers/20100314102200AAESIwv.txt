@@ -1,0 +1,20 @@
+I'm Looking for a code, can anyone help?
+I'm looking for a code on IMVU so i can make my layout into boxes below is a link with a example of what i'd like. 
+
+http://avatars.imvu.com/Court
+
+Can anyone help?
+
+I've been looking everywhere for the DIV boxes also but I found a way to do them thanks to imvu forums! ;] Here's how mine look if that's also what you desire: http://avatars.imvu.com/17keyana If so, continue on reading on how to do it.
+
+Okay, here's a website that have good DIV layouts.(your box layouts) http://jkb123.net/RoxieRockette/ When your browsing, make sure the layout you choose is a DIV LAYOUT and not and IFRAME LAYOUT(unless you know what to do. iframes are more complicated than an div.) If you find one you like, click on more at the bottom of the layout you want. The directions to edit the things you want to say on your layout should be there. I reccommend you read them.
+
+After you chose which one you like, I suggest you paste the code in the "MY ROOM" panel. You then should see the DIV layout in your MY ROOM panel. Once you do that you can go to "My Account" and scroll down until you see About Me Panel, Special Someone Panel, My Updates, etc. listed. Change all the view to Nobody except for the MY ROOM PANEL and MY STICKERS(change the my stickers panel view to nobody if you dont have any stickers or not planning on using/buying stickers to decorate your page later on.)
+
+Go back to your homepage and on your MY ROOM PANEL, copy and paste this code in there to hide the room picture if you want to: <style type="text/css">
+#room_panel_colRow a img {display:none !important;}
+</style>
+
+Now with that done, you can edit the information on the layout if you haven't already. If you did, you can use the stickers to make some finishing touch ups! 
+
+Hope that answers your question!

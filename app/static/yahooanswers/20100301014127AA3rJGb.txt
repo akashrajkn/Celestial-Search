@@ -1,0 +1,15 @@
+Why are antivirus and repair programs useless when you need them  ? I cannot upload pics to the internet?
+For 3 weeks now I have been trying everything possible to solve the "unable to upload pictures / media onto the internet" problem to no avail.
+
+The situation is, anytime I try to upload a picture, the internet window freezes.
+
+I have scanned with AVG 9, avast, and threatfire. I have run Ccleaner. I have defragmented 5 times. I have run system restore twice. I have deleted cookies, temp files, favourites and two of the antivirus programs.
+
+No result.
+
+Problem exists between keyboard and chair.
+Its obviously a browser based problem, Jerry. Click this link:
+http://www.mozilla.com/products/download.html?product=firefox-3.6&os=win&lang=en-US
+And download the latest version of Mozilla Firefox, the most powerful web browser yet. Then head over to http://photobucket.com/ (for photos) or http://www.filebox.com/ (for any other types of files) and use the web based up-loaders to upload your files and share the links around. 
+
+Just a heads up, don't download free registry cleaners, or free anti virus software. In most cases, they plant bugs in your system which systematically IMPLODE on your computer in a certain time and destroy it without you even knowing it until the last second. Use Norton, or Kaspersky Anti Virus for all those other problems. Purchased virus detectors are the ones which work properly and save your PC rather than ruining them.

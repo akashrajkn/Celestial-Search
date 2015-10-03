@@ -1,0 +1,5 @@
+How do i Access my Router through a web browser? (it doesn't load)?
+Yesterday, i could easily go onto my web browser and type my IP address into the URL bar and i could access my ports and other details (i have linksys router). but today, everytime i try to go on it through my browser it says "Problem Loading page" another detail i ahve to add is that when i logged onto my computer this morning, it gave me a message saying "another computer has the same IP address as you" and other things. after that i couldn't get on. is there anyway to fix that?
+
+This can happen because of too much trafficking through the router. Resetting the router is your best option. (On the back there should be a little hole with "reset" next to it. Press that and hold it down for 10 seconds.) If you don't already have a password on it, put one on. Some outsider might be accessing it. Hope you problem is solved!
+Power cycle your router. Unplug the power from the router and wait 2 mins. Plug it back in and wait 1 min. Reconnect computers. Mines does the same thing from time to time.

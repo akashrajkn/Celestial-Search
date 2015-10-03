@@ -1,0 +1,20 @@
+Stop internet explorer becoming the default browser?
+For some reason IE8 on Win7 keeps been set to default browser. U use FireFox and whenever I open it I get the "Set firefox as default browser message" and I always click yes but when I open it again I get the same message. Also If I open a hyperlink in word/msn etc. it opens IE even if firefox is already open.
+
+Start> Control Panel>Default Programs>Set Default Programs> Select Firefox> Set This Program As Default> Click OK
+about that microsoft word /  msn, that means that your default browser is your internet explorer browser.. to change that, go to your mozilla firefox browser,
+
+1. At the top of the Firefox windowOn the menu bar, click on the ToolsFirefoxEdit menu, and select Options...Preferences.... 
+2. Select the Advanced panel, then click the General tab, and then click Check Now.
+3. Select Yes to set Firefox as your default browser. 
+4. and if you dont want the prompt from mozilla firefox that always check if its your default browser, "uncheck" the thing under System Default on your mozilla firefox setting, then click OK
+
+and if your having problem in windows 7, do some of this steps:
+
+1.  Click on the Windows logo to open the Start menu, then select Control Panel. The Control Panel window will open.
+2. Click on the link labeled Programs. The Programs panel will open. 
+3. Click on the link labeled Set your default programs. The Set your default programs panel will open. 
+4. In the Programs list on the left side of the window, click Firefox.
+5. In the right side of the window, click Set this program as default. 
+
+hope that helps..

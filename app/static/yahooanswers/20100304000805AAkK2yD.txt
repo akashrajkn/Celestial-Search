@@ -1,0 +1,7 @@
+How to add another language on my blog ?
+I have a blog in English hosted by blogspot.com. To increase my visitors, i was looking at the possibility have dual language for my blog. I would like to post my blog in English and then another translated version ( i'll translate myself, not using any online translators ).
+
+Is it possible for me to post the main post in English and a link to the post ( of another language ). I want my visitors to visit my main page first before able to go to the translated page and yet i do not want the translated page appear on the main page but just a link for my visitors to click. Is this possible, if yes, kindly tell me how to do it. thanks a zillion
+
+You can use the babylon for this purpose. It's the best translator/dictionary in my opinion:
+http://babylon.gnds.info/?l=us

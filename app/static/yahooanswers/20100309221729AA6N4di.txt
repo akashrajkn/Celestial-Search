@@ -1,0 +1,10 @@
+Computer shows that internet is working but get DNS failure on every website I try?
+I can get my internet icon to indicate that I have an internet signal. It even says that I am online when I go into network properties, but if I try to open a web page it tells me that there was a DNS failure indicating that it could not find the DNS server. How do I fix this? Thank you.
+
+If you have Norton - try to turn it on or uninstall it. In another case - contact you Internet Service Provider.
+sounds like everything is working but your not contacting your service provider, try running your internet cd again, they could just be down too, someone near me took out a phone pole i had no internet a few days
+1. Try power cycling your modem (and router), or use the reset button.
+
+2. Call your ISP to see if there is a service disruption.
+
+3. Check for viruses. The newer ones can disrupt your Internet settings.

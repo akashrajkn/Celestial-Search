@@ -1,0 +1,13 @@
+What does Putting a filter on your phone have anything to do with Internet speed?
+I have Verizon High Speed. They said that I have to put Phone Filters on on the phone cords. My dad did Put them on and now its faster. And improved a lot. I don't get it, whast the conncetion between it, what caused this. My dd cound't explain.
+
+And honestly They don't teach these stuff in School.
+
+The phones are more than likely using the same signal as the modem sends out to your computers. This means that the signal coming into the phone and broadcasting out of it interrupts the modems signal and takes it longer to reach your computer. The filter modifies the signal given off so that your phones signal doesn't interrupt the modem anymore.
+It probably blocked all of the things that were holding your internet back.
+I cannot imagine why it is faster.
+
+For DSL, the filters allow only the voice part to go to your phone.  In fact, if you put a filter before your modem, you will not be able to connect at all.  With no filters, you hear a loud "hiss" in the ear piece.  
+
+So, the filters will improve you phone (voice), but should have no affect on the DSL line itself, unless you had a filter on in the wrong place (between the phone line, and the DSL modem).
+It don't make your internet speed any faster. But it keeps you from getting kicked off of the internet every time your phone rings.

@@ -1,0 +1,15 @@
+my internet explorer wont work?
+When i click on internet explorer the page comes up and then it says "internet explorer cannot display the  web page" i can get onto Aol but not onto internet explorer.
+
+Can anyone help me?
+
+Try these methods to resolve the problem.
+1. Clear cached data in Internet Explorer
+2. Reset security settings for Internet Explorer
+3. Run Internet Explorer in "No Add-Ons" mode 
+4.  Reset Internet Explorer
+5. Use the Manage Add-ons tool to determine which add-on is causing the issue.
+6.Reset Internet Explorer settings
+http://support.microsoft.com/kb/936213
+For aditional  details ,  instructions and methods to resolve the problem.refer:
+http://support.microsoft.com/kb/956196

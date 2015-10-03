@@ -1,0 +1,5 @@
+webpage redirecting =[?
+As of lately, when I google search something when I click a page that came up it redirects to some random page and I can't figure out how to stop it. HELP!
+
+Sounds like you have a virus. Run a scan.
+This sounds like malware (a computer virus) that is redirecting you to a scam/virus download page. Run an antivirus scan and check if anything comes up witht eh scan. Make sure to delete it. If you cannot delete the problem, delete Internet Explorer (Start > Control Panel > Add or Remove Programs and click on Internet Explorer) BUT FIRST MAKE SURE YOU HAVE ANOTHER BROWSER INSTALLED (such as Firefox, Safari, Chrome etc.). Then download Internet Explorer again, and your problem should be solved!

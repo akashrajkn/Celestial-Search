@@ -1,0 +1,8 @@
+I have an Internet Connection but trouble surfing the web?
+I have an internet connection.  My computer stats show that the wireless signal strength from my router to my laptop is excellent.  I can download things at normal to high speeds at all times.  However, surfing the actual internet on different sites is very difficult.  More often than not, when I try to go to any website, it says its connecting for a while and then gives up saying either that it couldn't connect and I should check my internet connection or the webpage is unavailable or that the link is broken.  I know I have a connection because like I said before, downloading remains unaffected.  And I can't believe that every webpage is unavailable or broken almost all the time.  Does anyone know what the problem could be?
+
+Download CC Cleaner. It's a Registry Cleaner Software. There are a lot but try this fisrt and still it doesn't help, try Registry Cleaner Excert. 99% it works, sure.
+Browse using different web browser Firefox, google chrome etc.  I personally do not use Internet Explorer.
+Other thing you can do is - restart the router (power off and back on again) and right button click on your 'wireless network' and click on 'repair'.  It will remove any proxy settings that you may have!
+
+Oz

@@ -1,0 +1,10 @@
+how can i browse WAP site?
+hi guy i just want to know that how can browse wap site and download it's content through my computer web browser
+
+WAP site is made browsing through mobile phone. You can browse WAP sites in your computer using any of this browser ¨C 
+Winwap ¨C http://www.winwap.com/
+Opera ¨C http://www.opera.com/
+Firefox with wmlbrowser plugin installed
+
+When u opening WAP sites from browser like Opera/firefox u need to enter site address as wap.sitename.com or m.sitename.com
+just download and install opera browser it will help u to surf web fastest way

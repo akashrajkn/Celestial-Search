@@ -1,0 +1,6 @@
+The sound on the internet keeps going quiet and muffled for a few seconds at a time?
+The sound on the internet keeps going quiet and muffled for a few seconds at a time before returning to normal only for it to start again within 10 seconds. I've been on multiple websites and it happens every time with music, video, ETC.. Anyone know why this is happening or what I can do to prevent it?
+
+Thanks.
+
+Sounds like the video/music could be buffering which may mean its still loading, can you pause the video/music wait for it to fully load.  Some sites have a different coloured bar that loads across to show how much of the media has loaded, does it still jump after trying that?

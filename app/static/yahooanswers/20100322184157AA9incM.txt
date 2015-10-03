@@ -1,0 +1,4 @@
+why do my web searched fail to load the first time; "server not found", but load the second time?
+use win xp, firefox all updated avg antivirus. this issue usually happens to websites i haven't been too. ill click the site, takes awhile to load then the server not found message comes up
+
+Try uninstalling and reinstalling Firefox again. get the latest version of Firefox from the website. lternatives.Does it only happen with firefox? IE 8 is good. And google chrome is also fast. for alternatives.

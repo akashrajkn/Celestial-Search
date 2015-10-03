@@ -1,0 +1,6 @@
+How to find password for wi fi?
+my aunt has wi fi but doesnt remember the password....they say they didnt put a password but its locked so they must have.....how do i find the password for their wi fi
+
+on their modem,on the Serial key sticker, it should say ''WEP key'' and then a few number and/or letters. Sometimes it's also in brackets
+You cant unless you can access the router. But you still need a password. On the router you can just push the rest button and will default to factory reset ---> no password
+shortie below said it best press the reset button on the back

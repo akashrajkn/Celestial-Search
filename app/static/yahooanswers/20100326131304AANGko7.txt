@@ -1,0 +1,4 @@
+Why can't I connect to the internet?
+Hey guys it always starts connecting etc and then it only gets to local internet connection and wont go any further. This has only started happening after I went onto wireless network setup wizard and setup a new wireless network to the same SSID as the one I already had, now it always says it can connect to it but then cant connect to the internet and is only local connectivity. We are running wi fi and a WEP key but I dont know what it is :P I dont know how to reconnect please help me I really need to to be able to talk to my parents :(
+
+How can you not know what you own WEP key is? How are you able to Access Yahoo! Answers without internet? But in any case, try restarting both your modem and your wireless router.

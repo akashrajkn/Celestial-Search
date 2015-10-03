@@ -1,0 +1,11 @@
+Anyone figured out how to alphabetize Firefox bookmarks??!?
+What's up with alphabetizing Firefox's bookmarks?! I keep trying to no avail and it seems everyone else has too. Is there anyone out there who has figured this out???
+Thanx!
+I've been on the Firefox site including forums and have had no luck with the specifics as to how to alphabetize bookmarks. I need the exact instructions so if someone knows exactly where it is on the site; url, etc. it would be great.
+I've been on the Firefox site including forums and have had no luck with the specifics as to how to alphabetize bookmarks. I need the exact instructions so if someone knows exactly where it is on the site; url, etc. it would be great. 
+Poui, I did what you specified but it doesn't work when I click on the tool bar itself. I have to do the multi step process every time I want to pull up the bookmarks. Any other thoughts? Thanks a lot.
+I've been on the Firefox site including forums and have had no luck with the specifics as to how to alphabetize bookmarks. I need the exact instructions so if someone knows exactly where it is on the site; url, etc. it would be great. 
+
+Poui, I did what you instructed but it doesn't maintain the alpha listing when I click Bookmarks on the tool bar itself. I have to do the multi step process every time I want to pull up the bookmarks. Any other options? Thanks a lot.
+
+Go to Bookmarks -> Organize Bookmarks.  In the left pane, click Bookmarks Menu.  At the top, click Views -> Sort -> By Name.

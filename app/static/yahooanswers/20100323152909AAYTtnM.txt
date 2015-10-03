@@ -1,0 +1,24 @@
+what firefox addons do you recommend?
+
+
+adblockplus
+
+downthemall
+
+firebug & web developer toolbar if you are a website programmer.
+i use:
+
+adblock plus
+cooliris
+coral ie tab
+downloadhelper
+fast dial
+undo closed tab buttons
+xmarks
+The one with the Themes. It is the best one, just go to the website and pick a nice theme. After you install it you can see the difference in FireFox
+
+https://addons.mozilla.org/en-US/firefox/search?q=&cat=2%2C0&advancedsearch=1&as=1&appid=1&lver=3.5&atype=0&pp=20&pid=5&sort=&lup=
+AdBlock Plus
+=
+NoScript
+When I use to use Firefox, I made sure I added WOT and AdBlock Plus, first thing...

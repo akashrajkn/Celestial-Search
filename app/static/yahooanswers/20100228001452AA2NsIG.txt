@@ -1,0 +1,6 @@
+How can I stop firefox tabs going to the end of the tab bar when I close one tab?
+Whenever I close one tab, it will go to the tab on the end of the tab bar. How can I just make it go to the next tab?
+
+Thanks
+
+tabmixplus

@@ -1,0 +1,4 @@
+How   can   you   solve   this   ????????
+tell   me   how   to   connect   Nokia   E63   to   bsnl   broadband   through   wifi.   My   bsnl   router   is   wireless
+
+Sorry, your phone has no other way to connect.  Since the router has no wireless, it would be like trying to connect your phone to a toaster.  You will NEED a wireless access point (such as a wireless capable router) in order to connect properly.

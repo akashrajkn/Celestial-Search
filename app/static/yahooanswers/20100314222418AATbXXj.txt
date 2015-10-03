@@ -1,0 +1,9 @@
+How do i connect Itunes to firefox?
+My internet explorer doesnt work but my firefox does. Itunes is connected to internet explorer so it doesnt recieve internet connection . Is there anyway to establish a connection between itunes and firefox instead of itunes and internet explorer?
+
+Set Firefox as the default Browser.
+Internet explorer sucks. Any way, set FX ( Fire fox) as your default browser...
+
+All hail firefox!
+
+~maplestoria

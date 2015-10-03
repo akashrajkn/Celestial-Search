@@ -1,0 +1,7 @@
+Firefox location bar problem?
+When I use hte location bar and type something, I used to get searches from my history and bookmarks. Now, I only get certain histories, not all of them. I have already clicked the "history and bookmarks" settings but it still doesn't work. I have firefox 3.6
+
+Also, when i want to clear histories, i cannot using the "everything" function. Even clearing recent history doesn't work (yesterday, 1 month).
+
+Uninstall firefox and then reinstall it. Hopefully that will fix the problem.
+Ask for your money back and sue the president of Firefox.

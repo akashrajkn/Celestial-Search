@@ -1,0 +1,4 @@
+What is a torrent tracker on the internet?
+Thanks
+
+In layman's terms, it is software that keeps track of everyone who has all or part of a file that is being shared via torrent.

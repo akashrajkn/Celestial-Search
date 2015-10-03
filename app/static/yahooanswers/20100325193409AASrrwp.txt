@@ -1,0 +1,16 @@
+Why cant some of my programs connect to the interent?
+a few weeks ago my norton 360 subscription thing expired, and i thought no worries, i was only using it cos i got it free with my computer (bought it just over 12 months ago). so after uninstalling everything symantec related, i downloaded avg 9 free. When i downloaded it it was not the actual program installation thing but one of the install clients that your run to download/install the actual program, but that could not connect to the internet. so i instead found a link on the website to download the full install and installed it no problems.
+But. now whenever i try to click the update button, it shows the download for like half a second (the green progress bar fills like one fifth of the way) before it says i could not connect to the internet.
+
+Also about a week ago itunes also stopped being able to connect to the internet, and after running a diagnostic, it says that the connection is there, but it could not make a secure connection.
+And finally yesterday firefox updated itself, as it does every few weeks, but when it was finished and opened up, it just shows the 'cannot connect to web page' or whatever, no matter the page i'm searching.
+
+All the help/support articles ive read say that its a firewall problem, but everything is allowed in the windows firewall (which im relying on until i get a new anti virus/firewall program, also no popup appears to tell me that the program im using is blocked).
+
+so yeah, anyone got any ideas? thx.
+also im using Windows XP 2.0 (or whatever the newest one is :P)
+you did not add a link?
+nevrmind, i got it
+
+What has probably happened is that Norton 360 did not completely uninstall and still has a firewall hook.
+Use the link below to download Symantec's products uninstall tool and run it. The tool will uninstall all Symantec products that are installed. This should solve your problem

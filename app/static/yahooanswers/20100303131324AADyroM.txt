@@ -1,0 +1,9 @@
+Mozilla Firefox problem.?
+I have Mozilla Firefox as my default web browser. So sometimes when i go on the internet, i get this little message that says that 7 new add-ons were installed, and then my Speed Dial add-on is gone. Could someone maybe give me some insight to why this is happening? 
+Please, and Thanks.
+
+Read about problems in Firefox here
+
+http://www.mozilla.org/security/known-vulnerabilities/
+
+Report your problems to the people that make the software so they can fix it;-)

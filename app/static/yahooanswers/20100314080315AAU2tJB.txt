@@ -1,0 +1,9 @@
+can anyone tell me what code 107 class 2 means?
+i have a virgin mobile phone and everytime i try to send a text message it says delivery failed and the code for the failure is 107 and the class is 2.
+
+SMS Error 107 is a general purpose error.
+In human language it means "Could not send text within the set time".
+
+Try changing the timeout of your SMS messages if you have that under settings, make sure you are using the full telephone number and try sending short texts (only a couple of words) to test which one might be the problem.
+
+If this persists then take the phone back to Virgin Media as it may have been flashed wrong before being released for sale/contract to the public.

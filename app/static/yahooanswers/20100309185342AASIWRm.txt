@@ -1,0 +1,13 @@
+Can you use Remote Assistance on XP to help someone using windows 7?
+I have an Xp. My grandparents just got a 7... they know nothing about computers.. they had to ask how to shut it down. can you do Remote Assistance from Xp to 7?
+For the smart people who cant figure this out... my grandparents dont live in the same city as me... or even the same state.
+
+Perhaps you could go upstairs/downstairs to the room their computer is in and just help in-person?
+Yes.
+yes you can,
+
+ask your grandparent click start button( bottom left round button ) the shutdown button is at the bottom right of the start menu.
+
+if you want to do remote assistance, click the search line at the bottom of the start menu ( beside the shutdown button ) and type 'remote'
+
+the result will show at the top portion of the search screen. then click on remote assistance.

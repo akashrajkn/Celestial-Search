@@ -1,0 +1,5 @@
+What would you do with a site that has unlimited webspace, unlimited bandwidth, but no SQL database?
+
+
+Use it to host my files. That would be the best thing to do. Or make a site that doesn't use SQL (none of my sites have). What site is that?
+Split it into multiple subdomains, then hire a SQL developer to build a database and offer him his own unlimited access subdomain as compensation.  If you divide infinity by two, you get two infinities.

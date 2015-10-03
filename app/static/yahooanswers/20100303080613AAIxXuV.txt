@@ -1,0 +1,17 @@
+my computer has a virus, and now i cant even get on the internet?
+My dell laptop and home pc have viruses.  I now can not even get on the internet.  I has timewarner come over and check out the modem and router, and they said it was my computer.  Any advice on removing it???  Geek Squad wanted a minimum of $200.00.  I cant do that.
+
+ok, but what does the computer is doing, does it pop up any messages,have you seen a different icon on your desktop. my advice reboot in safe mode with networking and download malwarebytes antivirus, run it and remove anything it tells you. also download rkill.exe that will stop any harmful processes in you computer.
+Scan ur whole system with avast internet security 2010 for good! and u can also try in "safe mode with networking" and see if the problem solves or not!!!!!!! gud luck!!!!!!!
+1st, try System Restore. Doesn't always get rig of viruses though.
+
+2nd, run a command prompt and type:
+NETSH WINSOCK RESET
+and Enter. Followed by rebooting the machine
+
+3rd, Just do a registry restore (rather than a system restore). You'll need to use another PC and download a tool like Viceroy's Registry Restore Wizard. If you can do that you could also download Malware Bytes Anti-Malware for good measure.
+
+4rth Create a new user account and see if all is accessible from there.
+
+5th Backup and reinstall.
+http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html

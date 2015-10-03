@@ -1,0 +1,12 @@
+How to import my bookmarks and history from Chrome to Firefox?
+How do I import my bookmarks and history from Chrome to Firefox??? I am switching from Chrome to Firefox...thanks...
+
+1. Click the Tools tools menu menu in Google Chrome.
+   2. Select Bookmark manager.
+   3. Click the Tools menu in the manager.
+   4. Select Export bookmarks.
+   5. Choose a location where you want your exported file to be saved, then click Save.
+
+Now -----> ( In Firefox )
+
+Bookmarks > Organize Bookmarks > Import and Backup > Import HTML

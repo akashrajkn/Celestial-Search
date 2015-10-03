@@ -1,0 +1,11 @@
+What is wrong with Firefox?
+When I try to open it it says 
+
+"The Procedure entry point js_NextActiveContext could not be located in the dynamic link library js3250.dll"
+
+Something probably got corrupted, so what you'll have to do is uninstall it, and then install it again.
+
+Go to your Control Panels -> Add/Remove Programs (XP)  or  Programs (Vista/7)
+Find Firefox, and remove it.
+Open Internet Explorer, go to www.getfirefox.com  and download it again, then install Firefox.  All your favorites and sites will still be there once its finished.
+uninstall, delete Firefox folder in the Program files, reinstall u should be ok

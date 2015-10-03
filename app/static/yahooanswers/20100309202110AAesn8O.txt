@@ -1,0 +1,12 @@
+Quick help plz, whats the internet adress for?
+that page that displays your router info etc. etc. I think it was something like 192.61. something something! ????
+Linsys Cisco Wireless G wrt5
+
+it's usually your internal ip address. if your router was provided by your isp then you can call them for help.
+It is 192.168.?.?. If you put additional details on what brand router you have I could give you the oter two numbers.
+192.168.1.1
+192.168.1.1
+AThis is a code made up of numbers separated by three dots that identifies a particular computer on the Internet. Every computer, whether it be a Web server or the computer you're using right now, requires an IP address to connect to the Internet. IP addresses consist of four sets of numbers from 0 to 255, separated by three dots. For example "66.72.98.236" or "216.239.115.148". Your Internet Service Provider (ISP), will assign you either a static IP address (which is always the same) or a dynamic IP address, (which changes everytime you log on). ISPs typically assign dial-up users a dynamic IP address each time they sign on because it reduces the number of IP addresses they must register. However, if you connect to the Internet through a network or broadband connection, it is more likely that you have a static IP address.
+
+Simply put, its your computer's ID.
+Default entrance info page: http://www.routerpasswords.com/

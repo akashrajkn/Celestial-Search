@@ -1,0 +1,9 @@
+I can't go on any websites on Internet Explorer, but I can on Firefox. How can I fix my IE? :(?
+I did get a virus before (the Antivirus Soft thing) but I got rid of it. I think. 
+
+To get rid of the Antivirus Soft I did have to go on my Internet Explorer to change LAN Settings in order to download updates for Malwarebyte' Anti-Malware (to get rid of the virus), but it did change back to the original settings. I still haven't been able to get on the internet through Internet Explorer since though...
+
+Help? :(
+
+You have to only uncheck the checkbox labeled "Use a proxy server for your LAN" under the Proxy Server section, I had the same issue. Here is the guide for that:
+http://www.2-viruses.com/remove-antivirus-soft

@@ -1,0 +1,7 @@
+How do you zoom in on safari internet explorer?
+the text is so small is there a way to zoom in on Safari Internet Explorer
+
+first decide what browser you're using. What kind of computer are you using. Holding the Control button and scrolling up with the scroll wheel is one way. command + is another way. or go to view-zoom-in
+Internet explorer:
+Hold down the control (CTRL) key and roll your mouse wheel or press the + key.
+To embiggen the text in Safari, hit Apple-+ until it gets to a size you like. in Internet Explorer I'm fairly sure you can do the Windows equivalent Ctrl-+.

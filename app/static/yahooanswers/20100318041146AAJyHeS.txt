@@ -1,0 +1,23 @@
+How can I delete anything and everything dirty from my computer?
+Or at least try? I'm a teen and I really don't need this bs anymore, I have more important things I should be doing instead and i'm becoming addicted. Besides, this laptop is used by my nosey mom too. 
+
+I feel guilty for letting it take up so much of my time. I want to get rid of every trace possible.
+
+Help?
+
+Only way to be sure is to format the hard drive - Google for how to do it :)
+The best (and easiest to use) tool I have found for cleaning up your computer and securely removing deleted material is East Tec Eraser.
+
+
+They have a 15 day trial version, which is fully functional, so if you just want to do this as a one-off, this is the tool to use.
+
+www.easttec.com
+
+This tool will also allow you to securely delete files or folders you select.
+
+
+Note to Firzen - formatting the hard drive does NOT remove the data - trust me, I get paid to recover data from formatted and f-disked hard drives all the time - I'm very good at it!
+1. Take back up of important files in a pen drive / external drive.
+2. Format the hard disk.
+3. Re-install OS and other software.
+low level format, it will rewrite every sector of the drive making it like it was in the factory.

@@ -1,0 +1,10 @@
+How to get TV on computer?
+on my friends laptop he has little tabs up the top to watch Cartoon network, MTV, Fox8 and he wont tell me how to do it. How do you do it??
+
+There is alot of different websites like fancast.com and hulu.com
+You need a "tv tuner card"
+If you have one installed you can use Media Center to watch tv on your computer
+With a PC tv-tuner you can add a coaxial connection to your computer so you can connect the cord from your cable/satellite box or an antenna. There are some tv channels that provide access via their online websites and there are some programs that make those channes/shows/clips available from within the program like the windows media center.
+
+With a slingbox you can access your home cable/satellite over the internet.
+Buy a TV Tuner Card...

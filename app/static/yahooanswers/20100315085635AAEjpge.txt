@@ -1,0 +1,7 @@
+What website allows people to have others edit & share their Powerpoint presentations?
+Google docs only lets me share it with others but my cohorts can not edit it freely. They would have to download it, edit it, re-upload it, and that is not a good way to go about the much need process!
+
+Any sites out there that do this?
+
+Perhaps dropbox could be of use. The primary use is to download a program, which syncs selected files between computers in the same dropbox group. This means that when you save changes to any type of file, dropbox will sync, so that your buddies recieves the changes.
+Only downside is that you can only edit a file one person at a time.

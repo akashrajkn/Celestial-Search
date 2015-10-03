@@ -1,0 +1,7 @@
+How does twitter verify celebrity accounts?
+
+
+guess celebrities contact them or something
+What Twitter says:  "[W]e've been in contact with the person or entity the account is representing and verified that it is approved. (This does not mean we have verified who, exactly, is writing the tweets.)"
+
+They don't go into the details, but I surmise that the accounts currently Verified were done so because the actual "person or entity" wanted to be distinguished from impersonators and fakes.

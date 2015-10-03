@@ -1,0 +1,4 @@
+Why won't firefox save my history?
+I have my web browser history set to be kept for the past 120 days, but recently my history library hasn't contained anything but my history for the last week.  I went to Tools --> Options --> Privacy and checked that my preferences were still the same, but nothing I do has had any effect.  Any ideas on how to fix this?
+
+Have you tried reinstalling Firefox?

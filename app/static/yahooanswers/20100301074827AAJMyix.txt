@@ -1,0 +1,6 @@
+What does this symbol "#" on Twitter mean?
+I need help on this you guys. Does this "#" mean to send a direct tweet to someone? Or does this symbol "@" mean to send a direct tweet? I need help on what both of those symbols mean. This would be a lot of help guys.
+
+@ directs a tweet to someone.
+
+# (the hashtag) denotes a topic, especially one you'd like to see Trending.  (As I type this, there's a topic called #amitheonlyone.  If you'd like to add something to that topic, you'd add that hashtag to your tweet; someone searching for it will see the tweets, including yours.)

@@ -1,0 +1,13 @@
+Firfox browser will not open/start/launch/anything/etc.?
+My computer was recently been infected with one of those fake firewall things, like Personell Security,etc. I got hit by Vista Smart Security, which is a virus. So I got rid of that, and did a scan with avg, and did everything, etc. And so when I go to run firefox, it own't start. I double click it, and I get about a 1-2 second of the little blue laoding circle on vistas, an then nothing. I tried to open it in safe mode, and still nothing. I tried renaming the exe file, still nothing, and I can't creat new profiles because when I try, I get the window thing at the bottom, but nothing pops up. Im using IE right now, and I don't know why this wasn't affected and firefox is. I don/t want to uninstall and reinstall, I don't even think I can, because anything that has to do with firefox won't open. 
+If any can help, well...please help
+thanks
+
+Control Panel> Add and Remove Programs and unistall Firefox.
+
+Then download a clean copy and reinstall it.
+
+http://support.mozilla.com/en-US/kb/Profiles  delete your profiles before you install the new version.
+
+A corrupt profile will prevent Firefox from launching.
+Try scanning alternatively with Spyware Doctor or other anti-spyware, because this rogue can be still hiding on your PC and blocks the Internet for you.

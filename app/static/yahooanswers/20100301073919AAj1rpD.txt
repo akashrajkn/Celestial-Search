@@ -1,0 +1,43 @@
+Internet Explorer Help?
+Hello,
+
+I have windows 7 with the current updated internet explorer. I am having trouble with passwords.
+
+Lastweek I was able to log into my facebook page and not have to enter a password. Today it will remember my username but it won't enter the password.
+
+It works fine on anyother site. I checked the auto complete and its checked for saving passwords.
+I didn't even log out of facebook. If i choose to close the page i am stuck re-entering everything.
+
+I don't even get a box that asked me to save info on facebook anymore..any help would be great.
+
+Also,
+Is firefox any good? is it safe to use? and how does it compare to windows ie?
+
+thanks
+
+Firefox is sooo much better than Internet Explorer, IE is shit.
+You should upgrade to IE8.
+Try this (on either):
+Internet Explorer users, do this first:
+Tools> Internet options> Security> tick the "Internet" icon> Security level box> set slider to "Medium high"> OK out.  Then:
+
+IE (pre-8): Go to the site first> Tools> Internet options> Security> tick the 'Trusted' icon> Sites> Add> ok> out
+Note this setting may permit undesirable 'Active scripting' or other server based action: use with caution, especially if you have 'Active content' allowed.
+Again, supplemental blockers, in browsers mainly, may have to be muted, or 'site allowed'.
+
+IE 8:
+Go to the site needing approval & copy the URL from address bar, then:
+Tools> Internet Options> Privacy> Sites> paste that URL into top line> Allow> OK> OK.
+The "Pop-up Blocker" may also need to be modified to accommodate the site. 
+Tools> Internet Options> Pop up blocker heading> Settings> again, paste that URL into the slot> Close> OK.
+
+General cookie settings should be:
+Tools> Internet Options> Privacy> Advanced: tick "Override..."; Allow 1st party cookies; Allow session Cookies  ?BLOCK 3rd Party cookies> OK> OK.
+
+IE (any breed) is a steaming pile of bull plop.
+Firefox is 2 orders of magnitude better and safer (with the proper add-on's).
+stop using Firefox and IE
+Install Apple Safari,it rules!! It's much faster than Firefox.
+P.S don't use Chrome,its all hype and it lacks security!!
+I'm a browser expert,so you can count on me :)
+Use Safari

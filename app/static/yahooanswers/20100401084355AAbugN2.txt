@@ -1,0 +1,24 @@
+Freeware to download Youtube videos on different formats using Firefox as Default Web Browser?
+I downloaded Cheetah Youtube downloader. It's apparently a good freeware, but it goes straight into the Youtube website launching IE. I have IE but version 6 which is no longer supported by Youtube. I changed the default web browser to Firefox, but it still keeps on launching IE. Looks like that software is for IE users per se. Is there any good freeware for this that I can use with Firefox. I have Windows XP. Suggestions welcome. Thanks. In the meantime, I'll just use free onlinee download websites.
+
+Get the free Firefox addon called Ant Video Downloader:
+http://www.ant.com/video-downloader/
+
+It works great on youtube and other popular sites as well.
+Download Video Downloadhelper for Firefox 
+
+Simple guide:
+
+1. Open Firefox
+2. In Firefox, go to https://addons.mozilla.org/nl/firefox/addon/3006 and click Add to Firefox
+3. Click allow and install
+4. Restart Firefox, there is a restart button in the addons manager that automatic opens when you install the addon
+5. When you restarted Firefox, you can go to youtube.com and download videos, the three-circels icon will start rotating and you can click the arrow and download the video
+HI in your Firefox tools menu go to "add-ons" and in the window that appears click on "get add-ons".
+There is a search bar on top of that window, type in something like flash downloader or flash catcher. it will show you add-ons that are used to capture flash movies from sites like youtube.
+
+
+Some that i use are "flashCatch" and "flash video downloader". Install the addons and restart firefox. Next time you visit youtube just click on the blue or red arrow that appears in firefox after the addon installation. you will be able to download movies.
+download the youtube flv video to your computer at first. this is a free and good youtube downloader. http://www.google.com/search?hl=en&q=leawo+youtube+downloader&aq=f&oq=&aqi= and after you download it you need to convert it to other formats such as wmv,mp3,mp4 etc according to your requirement. you can find it here ------------------------
+For Windows: http://search.yahoo.com/search;_ylt=A0oGk0kCWpxLS3ABbaFXNyoA?p=leawo+flv+converter&fr2=sb-top&fr=yfp-t-701&fp_ip=cn&rd=r1&meta=vc%3Dcn&sao=1
+For MAC: http://search.yahoo.com/search;_ylt=A0oGkirrVZxLU1UAsaJXNyoA?p=site%3Aleawo.com+mac+video+converter&fr2=sb-top&fr=yfp-t-701&fp_ip=cn&rd=r1&meta=vc%3Dcn&sao=0 all this can be finished by several clicks, have a try.

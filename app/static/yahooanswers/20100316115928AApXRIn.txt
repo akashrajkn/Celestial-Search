@@ -1,0 +1,8 @@
+How can I resize gif image through web site?
+I don't have image ready program, is there a web a web site that I can use? other than Lacunapic cuz it didn't work.
+
+Only if your going to make it smaller. Other than that just open up something like MS Paint or Paint.net
+Check out lunapic.com 
+
+-Upload the file and then go to edit image
+-Then go to resize image

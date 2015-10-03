@@ -1,0 +1,34 @@
+is there a simple way to repair internet explorer 8 that a novice can do?
+before i continue i would like to point out  : i dont have any spare discs or cds to copy anything on to.
+
+and system restore was turned off up until very recently  so i can't use that method.
+
+
+
+
+
+
+
+i downloaded some not very good programs recently ( quero  and privoxy )  and when i uninstalled them, i noticed changes to my internet explorer 8 browser - the go buttons , the arrows for back and forward have disappeared .
+
+the address bar has disappeared , and the google toolbar has disappeared and it won't let me reinstall it.
+
+
+i dont know what else to do to get my browser back to how it was, so i thought if i uninstall internet explorer 8 , that might work ?
+
+but i was wondering would i lose all my favourites in the favourites bar or the favourites bar itself ?
+
+
+anyone know or have any idea ?
+
+
+if i uninstall internet explorer 8 will i lose my favourites bar in the browser and everything saved in it ?
+
+
+or how can i restore my internet explorer 8 browser and get the go buttons back, the address bar ,  and the google toolbar ?
+
+The BEST fix is to abandon IE altogether. Start using another browser, like Firefox, Opera or the like
+Tools> Internet Options> Advanced> Reset
+
+Favorites will remain unchanged but any toolbars will need to be reinstalled!
+your best plan of action would be to uninstall IE8 >>http://support.microsoft.com/kb/957700  then reinstall it if you want >>http://www.bing.com/search?q=I+E+8+download&FORM=MSNH90&mkt=en-gb good luck   you should  not lose any files info etc by doing this

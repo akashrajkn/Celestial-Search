@@ -1,0 +1,8 @@
+preview when hovering over links?
+On my firefox browser it used to bring up a preview of the website whenever I hovered over the links. This was really useful to me when links were just words and no url so i could see where it's gonna take me. 
+
+But it stopped doing the hover preview a while go and I was wondering how I can get that option back? Is there an addon on firefox or something?
+
+This preview should show up on the Status Bar at the bottom of the window.  If there is no status bar, click the View menu item and see if Status Bar is checked.  If it's not, check it.
+
+Hope that helps.

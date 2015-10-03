@@ -1,0 +1,14 @@
+Who do you recommend for VPS hosting?
+I have a shared web hosting account right now.  My host is complaining I am using too much CPU.  They want me to upgrade to their VPS but it costs several hundred per month.  I would like a reliable and affordable virtual private server solution, preferably some outfit with USA based support.
+
+I had the same problem as you.  My webhost at the time wanted to squeeze me off of their server and upsell their VPS package.  You can actually find reliable and affordable virtual private server hosting for cheap.  When this happened to me a few years back, I used http://www.ApacheVPS.com and nver looked back.  24 x 7 USA support, USA based, only $12 per month.  Good luck!
+Refer to:
+http://www.threehosts.com/tell-me-more/hg,html
+
+Hope this helps.
+I recommend:
+http://www.slicehost.com
+http://www.linode.com
+
+They are great cheap VPS.
+Both have plans starting from $20/month.

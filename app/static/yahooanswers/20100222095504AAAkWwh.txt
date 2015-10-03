@@ -1,0 +1,37 @@
+Signed up for 8mb but only getting 2mb?
+I have AOL and when i check my speed its only 2mb yet im paying for 8mb. Im only about 2 or 3 miles away from the exchange so why is it so slow? Is it AOLs fault or BTs?!
+
+Contact Aol - if the 8MB is not actually available in your area, they should not have sold you the package
+Check the small print in the contract you signed with them. They tend to have a clause stating that download speeds might differ than stated.
+
+I had the same problem like you when my broadband was 10Mb but I only got 5Mb. Ended up ditching them on the grounds of breach of contract (I had crossed out the clause when I signed the contract) as I was not getting the speed I had been quoted.
+You should immediately call AOL show them the problem and ask why
+ask them to repair in 3 days ultimatum otherwise threat them to go in consumer forum
+be little strong so they will become serious
+and there would not be a huge diffrence of 6 mb because of remote connection
+
+bets of luck
+We're only about half a mile from the exchange and  never get the full 8mb from our Broadband provider.  I think they cover themselves by quoting "up to 8mb".
+
+As you're not that far from your exchange, it might be worthwhile getting on to AOL and asking why you're only getting 2mb, as it does seem very low.
+Any ADSL broadband is *up to 8 Mb because any provider including BT themselves cannot guarantee any speed at anytime because they are using an out of date telephone system that was designed and built for voice only in the 1930's.
+
+There are too many variables to take into consideration.
+
+1. Distance from Exchange.
+
+2. Condition of equipment, how up to date it is including the Exchange.
+
+3. Age and condition of wiring, joins, corrosion in the system.
+
+4. Line noise. Will affect it badly.
+
+5. How heavily the exchange is subscribed to.
+
+6. How many people are on at any one time.
+
+Any combination of those will drag your speed down. As much as BT and any provider would like, even they can't change the laws of physics.
+
+Also you say you are 2 or 3 miles from the exchange. You are actually getting the limit of being able to get broadband anyway. 5 Km or 3? miles is the limit with the older exchanges.
+
+The only one that is not affected by distance is fibre optic cable.

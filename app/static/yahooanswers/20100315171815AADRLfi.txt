@@ -1,0 +1,13 @@
+internet explorer or mozilla firefox?
+I had internet explorer and then people told me that mozilla if better because internet explorer has alot of cookies..not i have both :/ which one should i uninstall?
+so it wont make it run slower if i have both?
+
+Uninstall Internet Explorer
+keep firefox. IE is known for having security issues.  frefox also has a ton of add-ons that add features or allow more customization.  Google Chrome is a fast light weight browser, it might be worth checking out if you have some time to kill.
+
+-Chuck N.
+Don't uninstall either one, but use Firefox for your regular web surfing activities. Cookies are downloaded no matter what browser you use, and you can always change how cookies are stored on every browser out there.
+
+You'll need to keep Internet Explorer sometimes because some programs require it and use it to connect to the Internet (Steam for example). Uninstalling could cause problems with some programs.
+
+Use Firefox for day-to-day usage unless a website specifically says it only works with IE (some older sites will say that). Firefox is known to be safer than Internet Explorer, and statistically works faster due to a better Javascript engine.

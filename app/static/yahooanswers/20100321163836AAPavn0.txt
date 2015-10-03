@@ -1,0 +1,25 @@
+Mozilla vs. Internet Explorer Issues!?
+So, after getting my computer's hard drive wiped for the 2nd time, and assured that NOD32 is working properly, I finally want to start putting stuff back on my computer and using it more than my parents' computer. I recently got a few trojans that are knock-offs of Windows (Internet Security XP, Antivirus XP, etc.), thus the reason for the hard-drive being wiped. But, I got rid of the last one without having to wipe the computer. I'm thinking that is having consequences.
+
+Also, my friend suggested to me to get Mozilla Firefox because it has a built-in firewalls and such. I got it to install, but everytime I start it up, it asks to suggest a program to run it with...
+
+I originally had Internet Explorer, obviously, but it does the same thing, sorta. It keeps opening, asking for the file, opening, asking for the file, etc. 
+
+I'm not sure what is wrong, and I want to know if there is a way to fix this!
+
+Also: The Add/Remove Programs part of my Control Panel does not work!
+
+HELP! Do I need to reinstall Windows? Or is there a setting that went askew because of NOD?
+
+It isn't your anti-virus, it is a side effect of a virus that was released recently. But, it is hard for me to explain how to fix it in text. Reinstalling Windows again will solve the problem, but that would be frustrating. You could run system restore (off of the Windows disc) and that would fix the problem and most of the time it keeps your files. If you choose to do the restore make sure to have a backup of all of your files that are important because I've seen it delete files before.
+That last trojan.... the one you got rid of without wiping.... that's probably where the problems came from.
+Even though you destroy the bug itself it doesn't automatically fix the damage that it did.
+
+Firefox is in a lot of ways more secure than IE, and personally I enjoy using it much more than IE, but it does not have built in firewalls.... firewalls operate on a much lower level than web browsers.
+
+Yes..... reinstalling windows one more time is probably the best course of action. Just be sure to reinstall NOD32 (or perhaps a different, more reliable antivirus) afterwards.
+I would download, update, run Malwarebytes, Hitman Pro, ccleaner and restart PC...See if running these help and if not, I would find a friend, or, someone who can help you with this. Firefox is only as good as the addons the user chooses for security, otherwise it's just another browser. I think Chrome is better because it's faster.
+It is easy to solve this problem.
+Visit thsi page.
+http://www.keep-pc-clean.com/fix-cannot-open-ie.html
+It solves all kinds of IE problems with easy. Simply click the button, all problems gone.

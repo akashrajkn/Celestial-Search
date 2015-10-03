@@ -1,0 +1,16 @@
+Firefox keeps crashing :@?
+Well every time i go on it, and have more than 2 pages open. It freezes. And my CPU goes up to like 70% so i have to end it and start again.
+Ive updated it with the latest version.
+Any ideas?
+
+Firefox is a major ram hogger. It also depends on what sites you have open, and what programs you have open.
+I suggest using Google Chome.
+Firefox usually crashes to some people. This had happened to me sometimes last month. There is actually no way to fix it but to wait for a new update or waiting until it works. That's why i have internet explorer, Google chrome, And firefox.
+
+Also firefox does use lots of memory. Which can effect the performance. My suggestion is to get Google chrome or just use Internet explorer
+Seems to be you have add-on conflicts.  You might have to trouble shoot this by turning some off to see which one is the problem.  I suspect it could be an add-on from Microsoft that is causing this maybe turnoff Silverlight or .net if it is listed in Firefox.
+
+Update Java while your at it.
+Try using google chrome it is faster and no crashes.
+http://www.google.com/chrome?hl=en-GB
+A computer's registry is one big database that has numerous files, options, and settings. These settings and options keep changing with every second of you using your PC and can lead to the damage of some of these settings. This causes errors to show up and the computer to crash.  Registry cleaners http://make-a-computer-run-better.com      software scan the computer's errors and matches all files and settings with the applications that use them. If it identifies any file or setting to be damaged, missing, or corrupted, it provides you with an updated list of the same and also repairs these errors.  Therefore, if your computer keeps crashing and need to fix blue screen of death a good registry cleaner is all you need. Your computer can also cause problems because of redundant files in its registry. Reg cleaners identify all these redundant and junk files that were left over during the uninstalling process of hardware of software and delete them. This makes sure that the "computer keeps crashing" issue is taken care of.

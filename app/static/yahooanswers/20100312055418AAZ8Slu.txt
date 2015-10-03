@@ -1,0 +1,20 @@
+What is the url for Canada?
+Sorry I don't have the right terminology down but you know how in the U.S. our websites end with .com.....how does Canada end their websites and what is the correct terminology for that?
+
+Sorry such a stupid question but I do appreciate ur help.
+
+Here is what you are looking for:
+http://en.wikipedia.org/wiki/Country-code_top-level_domain
+
+By the way: US has the top level domain .us, .com is commercial and can be used by anyone.
+.ca is Canada.
+.COM  .ORG and .NET are typicall extensions for US and Canada combined.
+
+Yes, technically the US should be ".US" and canada should be ".CA"  . ..  and yes, ".COM" can be used anywhere in the world. . . . but typically, Canada uses the same as us. Where, other countries use their own "assigned" domain extension.
+Hi,
+
+It's a top level domain name.
+
+On the Internet, "com" is one of the top-level domain names that can be used when choosing a domain name. It generally describes the entity owning the domain name as a commercial organization. Along with the second-level domain name (for example: "yahoo" in yahoo.com), the top-level domain name is required in Web and e-mail addresses. 
+
+In Canada it's .ca

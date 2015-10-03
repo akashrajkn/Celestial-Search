@@ -1,0 +1,9 @@
+How do some webmasters embed Yahoo answers of their websites?
+I've noticed a number of websites that have embedded Yahoo Answers on their pages - obviously an easy way to add content - but I see nothing in the Yahoo site that offers embedded links such as the ones on YouTube - is html available?.
+
+They add a Yahoo badge to their website.  Follow these instructions to get to Yahoo's advice on how to create a badge:
+
+1. Click "My Activity" at the top of the page.
+2. In the "Share my knowledge" section at the bottom right of the page click "badge page".
+
+The page offers different badges to display. You should find what you are looking for.

@@ -1,0 +1,15 @@
+my laptop won't let me on twitter anymore. why?
+every time i try to go to twitter's website, firefox closes on me and asks to restore my session.
+this onnnnly happens with twitter.
+
+anybody have a clue as to why?
+
+a. An add-on being accessed by Twitter's web might be crashing or is already corrupted
+Try to re-install the plug-ins/add-ons.
+b. Your parents installed a special software that restricts your system to browse in Twitter
+Give mommy a kiss and give daddy a big hug.
+c. Something is wrong with FireFox's "cookies" and/or "cache" files
+Clear FireFox's history (open FireFox, select 'History' from menu then 'Show all...', click 'Organize' then 'Delete')
+d. Twitter's script is bugged?
+Try again sometime.
+shut it down turn it back on hit F10 and restore it to an earlier date there is probably a setting that got adjusted and you can back it up to reinstall the old settings just follow the prompts :)

@@ -1,0 +1,19 @@
+If you type amazon into google and click on the sponsored link why do different sites load instead?
+Never noticed it before, but it you click on the sponsored amazon.co.uk link several websites quickly load up (like supershocksale.com) before amazon.co.uk eventually appears.
+
+It only does it on the sponsored link - not if you click on the google results link for amazon.co.uk
+
+Just curious as I've never noticed this before
+
+Because those  sites ARE the sponsors
+many websites have amazon incorporated into their website. This is an affiliate type programme which allows website owners to have an amazon store loaded on there own website. The website owner then gets a small commission / refferal rate.
+
+The system is powered by amazon and is all set up via amazons secure online ordering. There is an example here
+http://www.aquatic-directory.com/amazon_бн
+
+Now the reason they are in the sponsored google links section is that the website owner pays so much per click to google to have their website sat in the top of google search results. So even though you are looking at amazon shops you are infact on another website that incorporates amazon.
+If you're looking for Amazon, Google figures you're looking for something from Amazon.
+
+Certain companies pay money to Google to have their links appear when someone does a search for something on Amazon, hoping to compete and get your business instead of letting you get to Amazon.
+
+Amazon likely doesn't have to pay to get results, as they're the first result after the sponsored links. If Amazon did pay Google money to be sponsored, they would be on top of those sponsored links, I'm sure.

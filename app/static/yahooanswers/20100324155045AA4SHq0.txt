@@ -1,0 +1,19 @@
+How can i get this virus off my computer?
+i open a message on facebook that was a youtube like from one of my friends but when i clicked the link it sent me to a fake youtube page and now my computer is infected with a virus. i cant use my main setting because every time i try to go in a box pops up that says i have to buy virus protection and when i try to "X" out it says i cant. i have to go to the guest setting to use the internet. also the audio device on my computer no longer works. when i try clicking a link on google i get redirect to so random website that has nothing to do with what im asking and also periodically a box pops up that makes me type in security words. its really a pain in the butt and i need it fixed asap because geek squad is trying to charge an are and a leg to fix it. and before everyone tells me to go into safe mode stop right there because i dont even know how to get to safe mode on my computer. i have a dell inspiron1501 so if anyone can help my fix my computer i well send you a box of brownies and cookies.....(im a pastry chef)
+
+Download Malwarebytes onto a clean PC , if you can't download it directly onto your infected Pc and transfer it ( .exe file) using a flash drive and run scan 
+
+Its free
+
+http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html?tag=contentMain;contentAux
+You need to google the name of the virus protection. Then follow the directions to remove it.
+
+Safe mode is easy, but you'll need to google the name of the virus protection as that's usually the best way to remove it. It's best to do that from a safe computer like another family member's. Ten to one there is a keylogger on your computer. 
+
+Then the directions will probably have you boot to safe mode. There should be a screen that says Dell when you start up your computer followed by a black screen and then whatever Windows you're using on there. During that black screen, hit F8 repeatedly till a boot menu pops up.
+You might want to check out this turorial: http://instant-pc-fixes.org/spyware/how-to-remove-the-google-redirect-virus/
+
+From the looks of it, you have a problem called the "Google Redirect" virus. This is an infection which makes many computers redirect the natural search listings of Google, and is quite difficult to fix.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

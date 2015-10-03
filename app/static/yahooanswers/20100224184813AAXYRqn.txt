@@ -1,0 +1,18 @@
+Laptop Connects to Internet and then Disconnects..?
+Ok, i have a laptop linked to a wireless router..
+I always have my wi fi button on whenever i use my laptop.
+Whenever i close my laptop, wi fi obviously disconnects.
+HOWEVER, when i open up my laptop and start using it. the wi fi works for like 4 minutes right away after i open it up. and then it disconnects from the internet.
+
+why does this happen? 
+
+p.s wi fi button is always on.
+wenever it disconnects, i just disconect from my wirelss router because it says "Identifying Router" , and then it works after.
+wenever it disconnects, i just disconect from my wirelss router because it says "Identifying Router" , and then it works after.
+
+Could be a weak signal coming from your router, signal is strong, then drops off.
+I solved a similar problem on my machine. Hope this helps.
+
+I have separate ADSL modem and wireless router. I noticed that by default both of their IP addresses were "192.168.1.1". I thought this would create a conflict situation. So, I changed the IP address of my wireless router to something different (eg: 192.168.1.20). You can do so by logging on to your router. And simply this solved my problem.
+
+Cheers

@@ -1,0 +1,17 @@
+Why are these folders 404 in my website log? Mobile web standard stuff?
+When I built my website, I didn't consider mobile browser users.  Now my website log shows 404s for: 
+/mobile/
+/mobi/
+/m/
+/apple-touch-icon.png
+/iphone/
+
+What exactly is the convention around these folders?  Does iPhone browser auto-test for these? Or were these typed in by the user?  Can/should websites create these folders with mobile-specific pages?  
+
+If someone could point me to an online reference, I'd appreciate it.
+My website is just static XHTML pages (if you want to see it, it's at http://www.tmanfitnlearn.com)
+Thanks
+
+The iPhone OS does auto test for /apple-touch-icon.png - it's the icon that it tries to use (if it exists) for the 'add to home page' option.  You should create this icon and have it as a logo so if people add your site to their iphone they see your logo to help them remember what your site is.
+
+The others... I think that's where mobile phones try to look for a mobile friendly browser option first.

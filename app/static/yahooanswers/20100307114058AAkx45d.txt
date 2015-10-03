@@ -1,0 +1,13 @@
+Where on my computer can I find the following information about the Internet connection I have...?
+- The Speed
+- Bandwidth Traffic
+- Free Online Storage
+
+I'm changing companies for my Internet connection and I want to compare the connection I have and the one I will have...
+
+Thank you!
+
+Online, online, and online.
+
+Your ISP's website would probably be a good place to start.
+for speed use http://www.speakeasy.net/speedtest/

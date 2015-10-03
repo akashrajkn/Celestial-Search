@@ -1,0 +1,4 @@
+Update Vista to 7?  IE 8 vs. Chrome or some other browser?
+I get enough "Internet Explorer cannot display the page" screens to choke a horse.  Is this just the fault of IE, or would Windows 7 improve my performance?  I'm a total computer feeb, so please  help!
+
+Chrome or SRWare Iron are my browser choices, but you might do what I did for a solution, find a DNS Server close to your location like, OpenDNS, Google DNS Public Servers, DNS Advantage, etc. One will usually be a bit faster than the others depending on location to your ISP...

@@ -1,0 +1,8 @@
+Downloading in Firefox?
+Whenever I download a a big sized video, at first the elapsed time would be 2 hours then a minute later it will become 4 hours... basically, the download time takes 4 hours or so even though the size of the file is for 1 hour only.. halp!
+
+Downloading a file off the internet involves several factors, not limited to; file size, your ISP speed, the server host speed, bandwidth pipe, etc. 
+
+I would recommend trying to use FireFox's add-on "Download Them All!", or use a torrenting program such a uTorrent to get large files off the internet.
+The web browser calculates the amount of time a file will take to be downloaded completely by downloading speed( the thing you see while downloading a file, like 56.6kbps( like that, beside the remaining time,lets say 45 minutes remaining.That increases when the download speed drops and decreases when the download speed increased.For example,from, 32.2kbps speed to 54.1kbps, the remaining download time,lets say,28 minutes,will decrease to about 20 minutes.The download speed is the speed a website allows you to download a file.For example,Rapidshare only offers about 40kbps maximum download speed for free users.So,if your Internet is very fast,say around 2Mbps or faster,the download speed will be the same.It depends on the website.
+basically it all depends on the speed of your internet connection.

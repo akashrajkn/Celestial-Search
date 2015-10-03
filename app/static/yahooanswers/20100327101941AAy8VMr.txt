@@ -1,0 +1,32 @@
+I've registered a domain name.  Are there any free web hosting services that will let me build content there?
+Hi all!
+
+I just registered a domain name for 2 years, for about $40.  In the past, I've had to pay for both the domain name and web hosting when I wanted to make a website.  Now I'm wondering if, with the proliferation of free web hosting services (Google Sites, etc.) it's possible to link that domain name right to a free website.  
+
+So, for example, is there any way to take the domain name www.rocksandelephants.com, and essentially use it as a free redirect address for www.google.com/sites/129324.html or something?  Is there ANY way to build a website on that address without having to pay more?
+
+... I have to pay, don't I?
+
+It is all depend on what you expect as a service.
+There are free hostings but in most cases those are limited capacity hostings. Usually they do not let you use your own domain name as a top level domain.
+If you already spent $40 for domain( godaddy will give you domain name registration for less then 10) then I would reccomend you to get normal hosting.
+Some of hostings are really cheap this days.
+For example webhost4life.com.
+Hosting with full range of services and platforms starts under $5 per month.
+I think this information can be useful for you. If you plan to get your website, here is one good free web hosting provider to choose - 000webhost.com
+
+They provide hosting absolutely free, there is no catch. You get 1500 MB of disk space and 100 GB bandwidth. They also have cPanel control panel which is amazing and easy to use website builder. Moreover, there is no any kind of advertising on your pages.
+
+You can register here: http://www.000webhost.com/234571.html
+You can use free web hosting services to get your website onlineat your purchased domain name.
+
+Refer to:
+http://www.atspace.com
+
+Without any forced ads! Great free service.
+Yeah, you have to pay for quality hosting.
+Stay away from 000webhost.  They are a scam and a big rip off.  just search google for "000webhost scam" and you will see.  Most free web hosting service will let you use your domain name.  My host offers free web hosting and do give the option to use your domain name.  However, they don't offer any website builder option for the free web hosting package but if you know how to build a website, go with them.  Good luck
+http://www.redefinehost.com is the best web host Ive used. They offer unlimited disk space, unlimited bandwidth, unlimited databases, and unlimited Email accounts for only $4.95 a mouth!
+Yeah sure, you can redirect that domain name to some free host but you'll soon realize it's not good enough and that you need a real host if you want the best solution.
+Not like that..You need to pay for the Domain name it's legal...Also Free Hosting is possible for the Small sites..In the site http://www.tucktail.com/ You can get the Hosting Plan at low cost..You can register the Domain Name and get the Free Hosting as one of the Free service,,,
+if you go to http://freewebhosting.comxa.com/ and enter your domain name when you sign up, they will tell you what nameservers to use. You then go to where you have registered the domain, and get the name servers changed. The content of the site is up to you and visitors will not be able to see anything that will indicate if you have a free or paid service.

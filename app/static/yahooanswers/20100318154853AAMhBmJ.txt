@@ -1,0 +1,4 @@
+Firefox address bar problems?
+I used to be able to type the web address in the url bar, click enter, and it would start loading the new page.  Now, I have to push the arrow next to it to make it go.  I know it's not my enter button that's broken, because it works for everything else.  Does anyone know how to fix this?
+
+It's possible the problem is caused by an extension. Follow the link for troubleshooting info: http://support.mozilla.com/en-US/kb/Troubleshooting+extensions+and+themes

@@ -1,0 +1,37 @@
+Internet Explorer isn't working although I have internet connection?
+Okay, for some reason, my internet explorer isn't working. When i try 2 open it i get the usual "Internet Explorer cannot display the webpage." Firefox works just fine but without internet explorer some of my programs are acting up. i tried re-installing IE but still, same problem. =( any suggestions?
+
+Hello ,
+
+  Remove completely your Antivirus software . You will need to properly remove by using the "Removal Tool" found at the Antivirus Website . Add or Remove Programs will not properly remove . Then install the IE8 again . Right after the IE8 install , be sure to install your Antivirus and run a Full System Scan after updating the Antivirus .
+I was going to sugest re-installing IE, you stole my answer!
+
+Have you tried resetting the browser in options to its origonal settings? Although this would do the same as re-installing it...
+
+Not something silly like it has Working Offline ticked? :)
+
+My next option is removing other browsers then removing IE until it is back it IE 6 and see if it works then?
+
+Then I would say hell with it and re-install Windows ;)
+Mine isn't working either.
+My computer made me upgrade my windows through Microsoft genuine or something.
+before that my internet explorer wouldn't even open.
+Now it opens, but when i type in an address it won't load and it gets frozen.
+I'm using Firefox right now too.
+
+It sucks.
+Did you use an antifilter or proxy ? If it is so, try to change your proxy settings from Tools | Internet Options| Connections| settings. In the "settings" dialog box, remove the tick from "proxy server" check box. Then click OK and try to use IE again.
+What version of Internet Explorer are you using? If you are not running Internet Explorer 8, try downloading it from here: http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie8_sm_a  
+
+If you are running IE8, try enabling compatibility mode. It is the broken page icon next to the refresh button on the toolbar. Here¡¯s a good resource from the IEBlog that talks about compatibility mode in detail if you¡¯d like to learn more: http://blogs.msdn.com/ie/archive/2009/02/16/just-the-facts-recap-of-compatibility-view.aspx 
+
+If that doesn¡¯t work, run IE in No Add-ons Mode.  Go to Start -> All Programs -> Accessories -> System Tools -> Internet Explorer (No Add-ons) - If this fixes the issue, then go to Tools -> Manage Add-ons and enable the add-ons one by one to find which one was causing the problem. 
+
+You can also try resetting Internet Explorer's settings by going to Tools > Internet Options and then the "Advanced" tab, and click "Reset..." 
+
+I hope this solves your problem!
+
+Cheers,
+
+Bryn
+IE8 Outreach Team

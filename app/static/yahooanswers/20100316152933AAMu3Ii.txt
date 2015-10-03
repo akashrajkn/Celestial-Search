@@ -1,0 +1,14 @@
+How do I turn off the automatic log in when I access Internet Explorer?
+When I open up Internet Explorer, my Yahoo Mail acct automatically shows up on the browser.  I am worried because anyone can then access my yahoo mail. How can I turn this off so when I access Internet Explorer, my yahoo email acct does NOT show up?  Many thanks for your answers!
+
+go into tools and click delete browsing history and then just delete form data and saved passwords and when you log into your email just don't check the box that says remember me.
+Push the big button
+OK TRY TO LOG OUT THEN SIGN BACK IN BUT THIS TIME MAKE SURE THAT 
+
+
+IT DOESN'T HAVE A CHECK!!!!!!  
+ 
+LIKE RIGHT HERE-------Keep me signed in
+                           for 2 weeks unless I sign out. Info
+ 
+                            [Uncheck if on a shared computer]

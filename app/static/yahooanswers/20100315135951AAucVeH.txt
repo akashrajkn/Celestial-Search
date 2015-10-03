@@ -1,0 +1,27 @@
+Does the mozilla firefox 'private browsing' setting actually leave no trace in your history?
+thanks
+4REEE - i don't know enough about computers so i won't try anything like that cause i'll probably end up losing everything
+:/
+
+Yes
+That's why its called "private browsing", so ofc not
+I've never tried it, but you can always "clear recent history".
+It will leave a trace, but only file recovery software can gain access to those files.
+
+If you want NO TRACE, then you need an erasure program that will erase the unused space:
+
+http://www.heidi.ie/node/6
+
+And do a 7 pass erasure on the external hard disk of interest. ( Oh heck, you can do 30 passes )
+
+BEWARE!!!!! Once you erase the unused space on that hard disk, nothing on the planet will help you recover those files!!!
+
+So choose what you erase WISELY!!!
+
+*
+*
+*
+It will leave no trace on YOUR computer. It will still leave traces on the websites you visit since Private Browsing doesn't change your IP address
+It should leave no trace of cookies etc on your pc. 
+However, if you are not the account holder & want to keep it secret from the account holder, then you can't. All calls are logged by your ISP.
+It just depends on whether the account holder looks at the history of it from there.

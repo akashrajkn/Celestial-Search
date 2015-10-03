@@ -1,0 +1,8 @@
+Why does the fields just reset when i try to log in to...?
+https://student.nmit.vic.edu.au/
+
+I can log in with my laptop and any other computer... but when i use this computer the fields just reset and does not log me in. I am accepting all cookies, im using firefox but i have the same problem with all browsers and i have used 'Spybot - Search & Destroy' which i think may have changed a setting which is causing the problem. I can also log into any other website fine.
+
+Thank You.
+
+when you boot up, press F8, it will let connect to your last best config

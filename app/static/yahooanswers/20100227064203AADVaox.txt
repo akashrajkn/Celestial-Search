@@ -1,0 +1,12 @@
+Internet Explorer 404 Error Pop Up. Even Opens when I dont have IE Open?
+I have tried everything. Ive scanned my whole system and there are no errors. I have ended the IE process and it gets rid of my desktop toolbar.
+
+I do use FireFox. But it still pops up. I think it is when I downloaded something because my Temp Internet Files keep gettin filled with all these porn/nudity pics/links I havnt even been too. But I have scanned and it comes up with nothing.
+
+And Ideas?
+
+Run a complete virus scan and then complete spyware scans using HijackThis,and AdAware.  Also, in task manager look in the Processes tab and sort by CPU to see if something you don't recognize is running.
+
+There is something lurking in your computer somewhere and these measures should help you find it and get rid of it.
+If you do not use IE then un install it then run the scans suggested in the post before.
+By George.

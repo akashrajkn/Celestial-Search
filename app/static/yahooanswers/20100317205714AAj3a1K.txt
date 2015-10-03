@@ -1,0 +1,40 @@
+what is the symbol/alt-code for the flower?
+i had it once but lost it and looking for it back :/ it literally just looks like a circle with smaller circles/leaves around it.. thanks to anyone who knows! (:
+
+? Is what I could find on my mac (black florette).
+
+On windows one way you can find out is to open charmap from the run prompt, and once you find it the alt-code should be on the bottom of the window.
+This question was responded here in this Forum two years ago by member Pey. Here is his winning answer:
+
+Best Answer - Chosen by Asker
+All of the Alt codes are at the link below.
+
+Alt 155 = ?
+Alt 1 = ?
+Alt 3-6 = ????
+Alt 0188-0190 = ???
+Alt 13,14 = ? ?
+Source(s):
+http://www.usefulshortcuts.com/downloads¡­ ...
+
+    * 2 years ago
+
+
+http://usefulshortcuts.com/downloads/ALT-Codes.pdf
+Code charts for all Unicode characters are available at http://www.unicode.org/charts/, along with a name index.
+
+Search for ¡°flower unicode¡± in Google. You will find the page http://www.fileformat.info/info/unicode/char/2698/index.htm as the second item.
+
+Then search for ¡°florette unicode¡± in Google. The first two pages listed are http://www.fileformat.info/info/unicode/char/2740/index.htm and http://www.fileformat.info/info/unicode/char/2741/index.htm .
+
+You will also find a listing of the dingbats section of Unicode at http://www.idnwhois.org/show_unicode.php?id=71 which also lists some other florette symbols.
+
+Once you have the Unicode hexadecimal number for the symbol you want, you can insert it into an hexadecimal HTML entity.For example, if the SIX PETALLED BLACK AND WHITE FLORETTE is the one you want, in many forums you can type in & # x 2 7 3 e ; (without spaces) and the symbol will appear. Or you can type in the decimal code which is 10046 as & # 1 0 0 4 6 ; (without spaces) and you will get ?.
+
+In Microsoft Word and Notepad (but not in most other applications) an extended Alt code method is enabled which lets you select Unicode characters by their decimal values, from 256 to 65535. Make sure that Num Lock is on, hold down the left Alt key, type the decimal value 10046 on the numeric keypad, then release the left Alt key. But you must set the font to one that contains that character.
+
+Now that you know the number, you should be able to find it in Character Map and just paste it in, provided you have set Character Map to a font that has the character.
+
+Alt codes on the system as a whole only cover the 256 values that appear in your current 8-bit DOS character set and in your current 8-bit Windows character set. But no 8-bit character set for DOS or Windows contains anything like a flower.
+
+See http://ipa4linguists.pbworks.com/ for a site which is intended to show how to generate Unicode phonetic characters for Linux, Macintosh, and Windows, but the methods indicated work for any Unicode character.

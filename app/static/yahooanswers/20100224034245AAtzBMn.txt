@@ -1,0 +1,17 @@
+please help internet firefox problem?
+ok well i recently downloaded the new firefox (firefox 3.6) btw im not on ir ryt now ;D ok on with the question so yeah i recently downloaded it and when i write in some thing (e.g www.google.com) and press enter nothing happens the page just reloads and doesn't load anything at all i know its confusing like it says (untitled) and that's all that happens i keep pressing enter but the startup page doesn't even load plz help if u understand what im saying :]
+-emy
+it also says connection refused?
+
+first of all .does it load in IE or atleast any other browser ? if not, check your connection.
+also if you are using a network, you may have to configure settings of firefox accordingly.OPTIONS->ADVANCED->NETWORK SETTINGS.
+configure referring to internet options in control panel .
+other than this firefox itself will NEVER create any problems. millions are using it.
+
+anyways try google chrome for a change...!
+hope it helps...
+Where are you typing the URL?  In the Navigation bar, or in Google search?
+
+Direct URLs should be typed in the Navigation bar /address bar at the top.
+
+"Untitled" sounds like you have opened a blank page using the "Open a new Tab" button, just close that tab by clicking on the X to close it on the (Untitled) tab.

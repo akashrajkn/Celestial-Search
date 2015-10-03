@@ -1,0 +1,18 @@
+winrar problem please help?
+winrar is getting files with out my permiision how to choose wat you want to uptain far as files ,
+yeah from the internet it gathers all kind of info
+
+without yer permission? do u mean 4m da internet?
+Reinstall WinRAR 
+it will solve your problem.
+Maybe you clicked on a link that points to an RARed or Zipped file which is why WinRAR popped up. Usually you have a choice between opening it with WinRAR or saving the file on your hard disk for later viewing or opening.
+Is this a legal or a cracked copy of WinRAR?
+
+I own a legal copy, and mine makes absolutely no connections to the internet whatsoever.
+(Version 3.92.)
+WinRAR doesn't have the ability to auto-update, nor does it have the ability do check for updates.
+
+My firewall doesn't register WinRAR as making any connections to the internet.
+(No incoming or outgoing.)
+
+Either you are using a cracked version that connects to the internet for whatever reason, or you are clicking on links that point to .rar files on the internet.

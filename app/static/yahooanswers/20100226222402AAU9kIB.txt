@@ -1,0 +1,12 @@
+Why can't I get rid of AOL as my homepage?
+Whenever I boot up my computer, AOL pops up in my web browser before I even open the web browser. I've tried resetting my home page and it doesn't work. I've tried logging out, that doesn't work either. It also just logs me back on after five minutes. Virus, maybe? I have no clue. I can close my laptop's screen, keep the web browser open, and when I open my laptop back up, it opens a new tab to AOL. Any clue on how to fix this? It's really starting to get annoying. :/ Thanks for your time.
+
+1: Find an awesome site.  
+2: copy the URL to the awesome site. 
+3:click "tools" 
+4:click "Internet options"  
+5: under "Home Page" 
+6:paste the URL.  
+7: press "Apply"  
+8: then exit & restart your internet or computer. :D
+if you don't use aol just uninstall it. to change your home page to whoever your internet provider is, click start> control panel > internet options, under home page type in your home page eg. comcast firefox safari etc, click apply then ok. and your all set.

@@ -1,0 +1,14 @@
+How do i get rid of so many toolbars on my internet expolorer browser?
+
+
+You should investigate getting Firefox or Opera since they're better browsers but IE should have a "Tools" option on the menu to remove third party add-ons. That's how Firefox does it.
+On the menu bar in Internet Explorer
+Go to Tools--> Manage Add-Ons
+A box with pop up with a list of items currently loaded into the Browser.
+Click whichever one you want to get rid off (its status would be "Enable"
+Go to the bottom section of the box, click disable. 
+A dialog box will pop up telling you of your choice and ask you to restart Internet Explorer for changes to take place. click ok. and click ok again to close the box of Add-Ons. 
+When you restart your browser the addons would not be seen. 
+
+hope this helps
+go to view then toolbars and you can just click on the ones you don't want to have

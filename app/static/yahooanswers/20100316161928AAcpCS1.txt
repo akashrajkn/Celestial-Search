@@ -1,0 +1,8 @@
+Connect phone to Wi-Fi?
+I've just bought a samsung gino slide and i connected it to my WiFi but now it wont connect anymore it says no response from AP how do i get it connected again.
+i have just bought a samsung geino slide and i connected by wi-fi to my BT Home hub (my wireless router for my laptop) but now when i try to connect it its says no response from AP what does that mean and how do i fix it ?
+
+It looks like there's a full user guide on the cd that came with your phone according to this video here:
+http://www.youtube.com/watch?v=DHvrRfH1iPQ&feature=channel
+
+Also, could you be more specific? Connection issues are a dime a dozen thousand. There are usually so many possibilities that without a good understanding of the problem (i.e. the step by step process it took to derive the problem) it becomes nearly impossible to offer a solution.

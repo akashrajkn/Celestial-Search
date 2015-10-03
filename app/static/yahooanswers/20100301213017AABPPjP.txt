@@ -1,0 +1,16 @@
+simple internet connection problem?
+I have a laptop, apple mini desktop, iphone, and ps3. all of my electronics are connected to my landlords wireless internet. the iphone and two computers connect fine, but the ps3 will attempt but then say 'obtaining an IP address timed out'. why is this? if i unplug the router, it works no problem, but then the next day or so it happens again. the router is upstairs so i have to call my landlord constantly to get him to restart it. there must be a better way!
+
+I stay in different hotels constantly dealing with configuring new PS3 connections, so I know it can be a pain because I NEVER have access to the router. So I can never reset it or unplug it or fiddle with settings. I have tried all kinds of different dns servers, changing gateway/router/ip settings, etc. I would consider myself very computer/networking literate. When I can't get the wireless on the PS3 to connect to the PSN network or if I have internet connection issues using wifi, I'll do a shared connection with my laptop, meaning I'll physically get a cat-5e ethernet cable and connect it to the rear of the PS3 and the other end into the ethernet port on my laptop. Then I'll configure the following settings:
+
+This is on Windows Vista, but other versions of Windows should be about the same. Using this method, I have not had any further issues and I don't have to worry about other settings.
+
+Go to: network connections:
+wireless->right click properties
+sharing tab->allow other network users to connect thru this computer's internet connection (it's ics (internet connection sharing).
+settings-> allow http & https
+Ok.
+Connect a cat 5 cable from the ps3 to your laptop's ethernet connection.
+Go to PS3 network settings and choose Wired connection with everything automatic, dhcp do not set, everything else enabled.
+
+It should obtain an ip address and network connection.

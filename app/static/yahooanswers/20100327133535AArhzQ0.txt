@@ -1,0 +1,11 @@
+Anyone else having problems getting into yahoo mail?
+
+I want to read my emails, but at the moment all it`s doing is searching for the page then just comes up with blank page, says done at the bottom.
+
+Yes most of the time, I get so ticked off that I give up, why does it keep on crashing? - I have tried in the early hours when not many people would be on - but it makes no difference.
+Yes, I can't get into mail even now.
+
+Seems like it comes in spells, but the last day or two is the worst.  It would be nice if they told us what was going on.
+best,
+Jay
+This has been happening for some time now, Yahoo are working on it they say but for now try this.Recommended fixes for the many current problems include Update Adobe Flash Player Internet Explorer and Java script . Clear Explorer cache, cookies, and browsing history. Some find that a return to classic mail improves things. You could also try an alternative browser. Hope this helps

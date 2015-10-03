@@ -1,0 +1,24 @@
+Is there any way to figure out who is "anonymously" asking me questions on formspring?
+Not that I don't love the attention of being called hot, etc etc, I don't like not knowing who it is, and it is bothering me, and my boyfriend is not enjoying it either. 
+Is there a way, at all, to track it?
+Edit: I need to rephrase. I do like the attention, but I do not like it from strangers.
+Ah, still need to rephrase (I'm sounding stuck up). I like the attention from my boyfriend. Not strangers. Jeesh, don't I have a way with words?
+
+nopeeeeeeeeeeeee
+There's a lot of pervs and jerks who use that anonymity feature to ask silly questions.
+My friend Arielle using Formspring, like you, and she gets gross questions daily :(
+i never tried formspring and seen it many times but you can get hidden trackers that MIGHT work. 
+the trackers will take down their IP so you can know the location of their place but that is all. 
+i'll play with that site and see if it works then get back to this question.
+
+//edit
+
+never mind...the codes don't work with that site.
+here is what i used.
+http://www.statcounter.com/
+http://getclicky.com/
+:(
+no :(. well the police could
+Does this mean that we aren't meeting at the Motel 6 this afternoon? If you come, I promise I'll stop asking questions...
+Wait... Did you just break up with me?
+Host an image, stick it in a post (if you can do that.  I'm not really sure what formspring is), check your server logs to see which IPs call the image.  Do this many times.  If you see one IP repeated a lot, that's probably your stalker.

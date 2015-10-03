@@ -1,0 +1,13 @@
+What's the best,free anti-virus etc. to use?
+Not just anti virus but other protection I just don't remember the names
+
+Malware Bytes
+avg
+Malwarebytes http://www.malwarebytes.org is probably the best that I've seen when using a manual scan, but the free version doesn't have real-time protection, but avast http://www.avast.com is also really good, so you can use avast as your main antivirus/spyware protection and if something gets by it, use malwarebytes to get rid of it.
+http://free.avg.com/download?prd=afe
+http://www.malwarebytes.org/
+Right now I have Avast! & I really like it.  I had a bunch of issues before I got it & my computer completely crashed, but this seems to be working really well so far.  Plus it was suggested by my step dad who does computer techy stuff for the military, so I assume he'd know what he's talking about =].  
+You can get it here ----> http://www.avast.com/index
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

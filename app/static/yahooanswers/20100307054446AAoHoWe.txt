@@ -1,0 +1,6 @@
+When I try to go to a certain web site it will say internet exp can not display the page,any other site works?
+the wesite in question is www.freedombywowmobile.com.
+
+internet exporlrer isint very good, try this website with google chrome or mozilla firefox..
+Hi
+I have just tried it on I.E. and firefox with no trouble at all. I noticed on the address you gave it has a . dot after com, try putting it in without this and it should be fine. good luck.

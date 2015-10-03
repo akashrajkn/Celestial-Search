@@ -1,0 +1,9 @@
+Can you use fake info on prizerebel?
+like use fakenamegenerator?
+
+You can use fake information, but it has to be somewhat plausible (location within your zipcode, same with phone number) and you have to use the same information for every offer. RoboForm is a great program to help you do just that. 
+
+Greasemonkey and the Just Say NO! userscript used together are also good for speeding up offer completion.
+
+[EDIT]: If you're completing medical offers (RH and Pharmdaily are good examples), make sure you enter in information that qualifies you for the offer. If not, the offer won't credit.
+.

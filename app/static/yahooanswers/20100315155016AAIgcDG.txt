@@ -1,0 +1,8 @@
+I delete the file containing the virus, will my computer still be infected with the virus?
+I stored a file from my pen-drive onto my pc even though the usb had a virus...after i was done using the file(which took about a minute)i deleted it and even formatted my usb...will my computer be infected by the virus?
+
+most likely not unless it spread and infected files which is very rare now days
+Well it probably is gone but make sure you run a virus scan.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

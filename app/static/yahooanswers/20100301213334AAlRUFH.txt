@@ -1,0 +1,5 @@
+Why can't I upload pictures from photoshop to tinypic?
+I have been trying to upload my photoshop pictures to show my friends but they always fail to upload can you help
+
+Make sure the size in MB is small enough. If it isn't try resizing your pictures.
+make sure you are saving the file as a .jpeg, .jpg, .png, or .gif. if you save a file as a .psd, it will not upload correctly. also make sure the image is not too large.

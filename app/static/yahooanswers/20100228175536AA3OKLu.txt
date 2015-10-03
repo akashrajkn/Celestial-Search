@@ -1,0 +1,30 @@
+What was the net originally called and intended for?
+
+
+military, you`ll have to google the name sry.
+It was 1957 when the then Soviet Union launched Sputnik, the first man-made satellite. Americans were shocked by the news. The Cold War was at its peak, and the United States and the Soviet Union considered each other enemies. If the Soviet Union could launch a satellite into space, it was possible it could launch a missile at North America.
+
+President Dwight D. Eisenhower created the Advanced Research Projects Agency (ARPA) in 1958 as a direct response to Sputnik's launch. ARPA's purpose was to give the United States a technological edge over other countries. One important part of ARPA's mission was computer science.
+
+In the 1950s, computers were enormous devices that filled entire rooms. They had a fraction of the power and processing ability you can find in a modern PC. Many computers could only read magnetic tape or punch cards, and there was no way to network computers together.
+
+ARPA aimed to change that. It enlisted the help of the company Bolt, Beranek and Newman (BBN) to create a computer network. The network had to connect four computers running on four different operating systems. They called the network ARPANET.
+
+Without ARPANET, the Internet wouldn't look or behave the way it does today -- it might not even exist. Although other groups were working on ways to network computers, ARPANET established the protocols used on the Internet today. Moreover, without ARPANET, it may have taken many more years before anyone tried to find ways to join regional networks together into a larger system.
+
+In 1973, engineers began to look at ways to connect ARPANET to the packet radio network (PRNET). A packet radio network connects computers through radio transmitters and receivers. Instead of sending data across phone lines, the computers use radio waves. It took three years, but in 1967 engineers successfully connected the two networks [source: SRI].
+
+
+Catrina Genevese/Getty Images
+Tim Berners-Lee
+Technicians joined the Satellite Network (SATNET) to the other two networks in 1977. They called the connection between multiple networks inter-networking, or the Internet for short. Other early computer networks soon joined. They included USENET, BITNET, CSNET and NSFNET.
+
+In 1990, Tim Berners-Lee developed a system designed to simplify navigation on the Internet. In time, this system became known as the World Wide Web. It didn't take long for some people to mistakenly identify the Internet and the Web as the same thing. The Internet is a global interconnection of computer networks; the World Wide Web is a way to navigate this massive network. In sailing terms, it's like comparing an ocean to a ship.
+
+Most early Internet users were government and military employees, graduate students and computer scientists. Using the World Wide Web, the Internet became much more accessible. Colleges and universities began to connect to the Internet, and businesses soon followed. By 1994, Internet commerce had become a reality.
+ARPANET. It was a Department of Defense project. It was an attempt to connect computers over a network that, if a router failed (or was destroyed), data could find another route to the intended destination.
+
+It eventually grew into today's Internet - and wasn't invented by Al Gore.
+
+And while we're on the topic, Yahoo started out as a text-only, drill-down directory. It was viewed to be better than other types of facilities such as gopher. Obviously, Yahoo must have been better - when was the last time you actually used gopher? Uh, yeah, gopher servers do still exist!
+The original network of computers was called ARPANet. It was made by the Advanced Research Projects Agency at the United States Department of Defense (it's now called DARPA- the Defense Advanced Research Projects Agency). The idea was to create a decentralized network with all the important information so that even if one datacenter was taken down, the rest of the network would be open. It was rather quickly taken over by universities who used it for communication and sharing data. The world wide web as we know it was created in 1989 at CERN in Switzerland, with the creation of the HyperText Markup Language (HTML) and the HyperText Transfer Protocol (HTTP), which allow formatted documents to be sent across the Internet.

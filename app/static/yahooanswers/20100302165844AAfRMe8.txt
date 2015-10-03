@@ -1,0 +1,13 @@
+Can we do video conference with more than one people at the same moment using skype?
+I am still very new at using Skype and I want to video conference with maybe 2 or 3 friends at the same time. I tried last night but it seemed I didn't find the way. My friends and I can do the call together but not the video. So is that possible to video conference with more than 1 person at the same time? Thanks for answering.
+
+Unfortunately, video conference is not yet available with Skype. This feature is rumored to be coming up in a later version.
+Skype, on and by itself, currenlty offers one to one "video conference" (that is, actually , a video call)
+If you want to extend those capabilities, you can resort to add ons for Skype.
+ViVu Inc offers a plug in that apparently does what you asked, at 9.95 a month (see first link)
+
+There are other networks that allow you to do video conferencing but don't work with Skype (so that all of the friends have to sign up there) You might want to check Yuuguu, since it has a free service that works from a web browser (see second link) or iMundo, that uses the free Adobe Collaboration Software (third link). ooVoo has a service that allows your frinds to see you from a web page without having to sign up, but it will be obviously complicated to implement. They have a basic free service though (see fourth link)
+
+MeBeam does something like what you are looking for, and it is apparently free. You add it to your friends list (and so do your friends) Whenever you want to have a video conference, all the participants consult MeBeam on Skype, and they will see a link to a web address where they can see the video conference. If it does what it says, it starts  in Skype and it works in the web (see the article in the fifth link)
+
+I did not try any of these solutions myself, but I do know that Skype can be extended in many ways.

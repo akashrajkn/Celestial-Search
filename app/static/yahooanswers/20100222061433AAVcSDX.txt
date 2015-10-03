@@ -1,0 +1,23 @@
+Do you like Internet Explorer 8 compared to 6?
+I've noticed that a lot of websites simply don't work correctly under IE6 anymore, and they are all pressuring me to upgrade to 8.  I'm not interested in any 3rd party browsers, so please answer only in regard to IE8 vs. IE6.  I know that the pros of upgrading is that the websites will work properly.  Are there any cons that you know of?
+
+no i dont like it at all but ie6  has become so unsafe to use I have switched
+
+I use google chrome mostly and for the things that give me problems with it (rarely) I have Opera9 for a backup.
+
+check out Opera9 you may really like it, its fast and has a lot of plugins and it is more secure than IE
+for simplicity Chrome is the way to go.
+Internet Explorer is not a very good browser but if you insist on using it use IE8.
+
+IE6 was released in 2001, it's outdated and doesn't support a majority of current web technologies. Also it's buggy, has security issues and will cause every web designer&developer in the world to hate you for using it.
+
+So please switch to a better browser or IE8 for that matter...
+It's more bloated than IE6, but is more secure.  IE6 has some well-known holes that are actively being exploited, rendering your data vulnerable.  You definitely should upgrade unless you don't care about your PC being hacked.
+
+I know you said you don't want any third-party browsers, but you really should consider Firefox.  It's free, has killer Add-ons and is much lighter-weight (consumes less memory) than IE and is, in general, a better browser.  I use it exclusively and only use IE when I absolutely have to (some websites require it).  HTH
+IE8 is faster, and safer than IE 6. It is also compatible with way more sites than any of the previous versions. If you are concerned with the way IE 8 will interact with sites you are visiting, you will be pleased to hear about a new feature that comes with IE 8 called Compatibility Mode which allows you to view sites as they would appear in IE 6 or IE 7, with the added security and speed of IE 8. 
+Here is a link to get you started:
+http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx
+
+Kyler
+IE 8 Outreach Team

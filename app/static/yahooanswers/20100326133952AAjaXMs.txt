@@ -1,0 +1,20 @@
+Whats a p2p user in limewire?
+i was just wondering
+
+pier to pier you are downloading from other people when downloading from limewire.
+p2p means peer to peer. basically just means the person sharing the file with you.
+Anyone using limewire is a p2p user. It means peer to peer which just means all the information you download or upload is from a person to another person.
+Every user on Limewire is a p2p user. p2p stands for peer to peer, which means the individual users are transferring files directly to and from one another (i.e. the files are not located on some central server)
+P2P is a name for the sytem of filesharing that limewire uses
+
+Peer 2 peer meaning one person  uploads a file , then another person downloads that file
+,and once they are done they upload it as well (if they choose to do so) 
+
+it starts with an uploader who uploads a file
+
+somone finds that file through limewire and downloads it 
+this person is called leacher but once they have downloaded it 
+and start to share it they become a seeder 
+
+so the file gets downloaded and then shared over and over again crating new seeders 
+for people to get the file faster

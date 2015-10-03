@@ -1,0 +1,19 @@
+what do you think of my website?
+http://dannyboy2111.tripod.com 
+
+i spend many hours on it so please if you dont like it dont say anything negative remember im only a 16 year old boy and i dont have any money so i do what i got with free stuff 
+
+Just Ignor The Pop up With the Message its there for safety and Security Reasons i know its anoying just deal with it please it only appears on the home page it doesint appear any where else on the site advently im going to work on a new security system to stop phising and other bad behavior but until than yea
+Thanks in Advance For your Help I Will Continue to Try and Improve it i Been Bringing in a lot of new stuff
+I know i am getting somewhere i have gotton 1 thousand and 100 + Visitors
+Danf2 thanks for the suggestion its ok to say you dont like something as long as you offer a suggestion to fix it which you did thank you im giving you the best answer you made some really good points
+
+As someone who is / used to be involved with creating websites I am always happy to see new people take it up. I know you said don't say anything negative but I feel constructive criticism is always a good thing.
+
+Personally I have a wide screen monitor. One of the important things on the Internet is to take into account other peoples browser configurations. Due to the fact that you have a fixed width and left justified content I see a column of text down the left side and a giant blank area on the right. To fix this use can use the CSS % instead of specifying pixels. That way on larger screens they will be wider and on smaller screens more narrow.
+
+Another important thing is spelling. The first one I caught was on your computer repair page. "a Virius mite be eating your computer" Virus is spelled incorrectly and it should be 'might' and not 'mite'. 
+
+Also users might find it difficult to navigate your website due to all the links in the left hand navigation bar. In the sources I have included a link to a nice menu system that collapses down and then perhaps you could put your links and parts of your site into categories.
+
+Hope this helps and your websites grows!

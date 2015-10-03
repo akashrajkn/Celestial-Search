@@ -1,0 +1,22 @@
+I can't delete internet explorer history! Please help me!?
+Hello! I have a very serious problem. A friend of mine, has used my computer to get in various sites. But I try to delete the history, and I just f***ing can't! I tried deleting it manually, but the tools--> internet options, by spybot search and destroy, and even by CCleaner! and the stupid history is just there, like nothing happened! It's not all history, but when I type in the address bar a specific word, it shows me the site he has been. i tried clicking on the x, and still it doesn't get deleted! Please please please help! I want to delete this ASAP!
+
+I am pretty sure you understanded what sites I am talking about, that I can't get rid off!... And it is really a privacy thing! So one last time: HELP!!! Please I am horrified that anyone might find out! I just can't get rid of it! :-(
+
+Don't panic.  Just go to your tool bar and click on the safety icon scroll to delete history and wahla history deleted.  Try it.
+That's easy.  For Internet Explorer 8, it goes like this.
+
+Open the Internet Explorer browser.
+From the Internet Explorer menu, select 'Tools'
+Select 'Internet Options'
+Click 'Content'
+Click the 'Settings' button in the 'AutoComplete' section.
+Click 'Delete AutoComplete History'
+Read the options and check off the boxes you want to select in the pop-up.
+Click 'Delete'
+
+You're done.
+depending on what version you have tools to internet options should work. you might have your privacy setting real high and it wont allow you to delete it. 
+
+one thing you can do is go into my computer right click on the c: drive. click on properties. then go to disk clean up. make sure everything is checked and do that. that should work
+if it INTERNET EXPLORER 7 or 8 go to control panel select genral tab tehn near browsing history heading there will be delete option then a sub menu appears in it click on delet under browsing history heading

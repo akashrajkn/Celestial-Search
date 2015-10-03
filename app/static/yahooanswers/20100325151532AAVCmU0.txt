@@ -1,0 +1,12 @@
+Why are all these websites not working?
+in the past week something weird has happened on my computer.  Most of the websites that i've gone to in the past along with others have stopped working.  When i try to go to them, either i gives me the "internet can't display this page" message or the format is all screwed up and pictures don't show up.  I thought my computer was just screwed up but when i went on my parent's computer, the same thing happened.  What's the problem? Is there something wrong with the connection? and if so how do i fix it?
+thank you!
+
+Your internet speed is extremely slow.
+Try to talk to your ISP - it's quite common that your internet service provoider gives you a much lower speed than what you're paying for. Just call them and it should be fixed within a few minutes - that's what happened to me :)
+Make sure no-ones using xbox live/plystation online
+
+Make sure no-ones using any download programs like kazaa or uTorrent which take up all the 'bandwidth'
+
+try unplugging and plugging back in your router,modem and pc
+Try clearing your browser cache and see if you can get in.

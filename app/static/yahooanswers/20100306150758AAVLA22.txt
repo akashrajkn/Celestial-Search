@@ -1,0 +1,8 @@
+why cant my daughter get google chrome or internet explorer to work on her laptop when internet is workin?
+
+
+it might just be a bad download so uninstal it and try reloading it.
+if she cant get either to work, it could be a connection problem.
+check your internet connection.
+Download, update, run Malwarebytes, Hitman Pro, ccleaner, Reset IE8 to Defaults in Options, Advanced and Restart PC...
+Hmm. That is weird maybe try contacting them tat happened to me and my parents did it

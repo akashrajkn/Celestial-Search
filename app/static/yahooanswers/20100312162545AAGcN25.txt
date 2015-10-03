@@ -1,0 +1,5 @@
+For some reason, when I try to download files from Megaupload on Firefox or Chrome, it doesn't work. It starts?
+Does anyone know what it could be? Or how I could fix it?
+I end up with a 15kb file and it won't download any futher.
+
+Maybe the link will help...

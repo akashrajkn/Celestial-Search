@@ -1,0 +1,19 @@
+Help I have a virus - Dracur - how do I get rid of it for good ?
+I keep getting a virus on my pc called Dracur. No matter what I do it keeps coming back everyday. I run my anti-virus/anti spyware everyday to get rid of it, but it still comes back. How do I stop it infecting my computer? (Note: Avast does isolate the virus.)
+
+The virus attempts to enter my computer even when my browser is closed? How is this happening?
+
+DO...
+The reason why it keeps coming back is possibly because it is in your system,possibly a file in your startup sequence. You so right about Avast not isolating it. The virus or whatever it is no longer coming from the internet as it has been imbedded into your system somewhere.
+you can try the following. 
+Download a copy of spybot-search and destroy -->http://download.cnet.com/Spybot-Search-amp-Destroy/3000-8022_4-10122137.html and malwarebytes anti-malware software from-->http://www.malwarebytes.org/ open them, update them and run them 
+
+Run an online scan from the official site of Norton Antivirus, Panda,AVG and BitDefender(http://www.bitdefender.com/scanner/online/free.html) and see if they come up with anything.
+
+Hope this has been helpful. 
+BTW, what were you doing/what did you do prior to getting this infection? (i.e. updates,new installations etc)
+Turn off your computer, then call a computer maintenance place you can trust.
+Last time we had a virus, the computer place we barely heard of had it for 5 months then said he couldn't do anything. Ask some people or look on the web for high performance maintenance places around your area.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

@@ -1,0 +1,20 @@
+help with internet explorer?
+i usually use Firefox now, but i know some sites still require Internet Explorer (IE) to access them. for some reason, IE wont connect for anything, to go online, nor updates...i want to remove it, if possible i know its part of windows programming, and reinstall it at its current Version 6.0...any ideas?
+both worked fine last week, i don't know what went wrong...
+
+U don't need to uninstall, i'm not sure u can, but the reinstall of the version u wish to download will replace your currecnt install, that is to say it will uninstall it and give u ur fresh download. I wudnt recommend downloading version 6 because of compatability problems and also security problems but anyway the download will be on the microsoft site. www.microsoft.com just search for internet explorer 6
+When you switched to Firefox you must have deleted some IE access options.
+
+Delete IE entirely and install the most recent IE.
+
+( My Firefox brings up all IE links with no problem.)  ????
+You don't really need IE for even Microsoft/Windows Updates. 
+
+Go to Mozilla Add-On for Firefox and get the Coral IE Tab Add-On. With this you can have Firefox open sites in an IE tab and they will work great. I use this for my Microsoft/Windows Update and never have a problem. Any site only working with IE will work with this add on.
+You don't mention which version you have on there now...See if you can Reset IE to Defaults in Options, Advanced. You will want to download and  use at least IE7, because MS has or will soon, discontinue updates for IE6 and 6 is just not safe to use anymore...After you install 7, be sure to check MS Updates for any Updates. You should also use ccleaner and restart PC.
+I concur your statement concerning  certain sites requiring IE to access them. If IE is having issues, I would advise 
+1) installing back the particular component from your XP CD or by 
+2)visiting Microsoft's website to download IE 6-->http://www.microsoft.com/windows/ie/ie6/downloads/default.mspx 
+You can also check out probably a later version if you interested. the page covers updates etc 
+
+Hope this helps.

@@ -1,0 +1,4 @@
+Is there a faster way to delete a tab/window in IE?
+I used to remember. I think it was control+ something else.
+
+Ctrl + W

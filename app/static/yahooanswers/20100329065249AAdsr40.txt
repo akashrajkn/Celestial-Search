@@ -1,0 +1,4 @@
+wikiHow problem, please help?!?
+I got a message from wikihow saying that I made several edits recently that were not in line with wikihow's standards (like spamming and stuff.) but i didnt do it. it said that several people could be using the same network / ip address. did someone hack my computer??! or is it just someone whos on the same ip network as me?!! plz answer!
+
+Someone who happened to have the same IP address as you did did the edits. It could be someone from the same network or perhaps you have a dynamic IP (most likely you do) and your IP changed and some other computer got associated with your old IP address (which happens all the time). It is possible that someone hacked your computer, but it's extremely unlikely.

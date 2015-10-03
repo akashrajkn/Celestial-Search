@@ -1,0 +1,4 @@
+ITunes can't connect to Internet?
+My Internet was switched from one service to another and Internet works on my computer. Firefox works but iTunes won't. Please help.
+
+Do you have a firewall, if so look at it's log and see if ITunes tryed to connect, if so see from what port, then open that port.

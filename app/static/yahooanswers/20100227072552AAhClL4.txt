@@ -1,0 +1,16 @@
+whn i vsit sum websites t says 'sorry ths website s nt availbl fr u r country' i'm frm india wt 2 do?
+when i visit some websites it says''sorry this website is not available for u r country'
+i'm from india, 
+i want to get into those websites what 2 do???
+Egs: in CBS.com some part of the site is accessible to only US & UK......
+is there any other way so that i can use the site frm india??
+
+There's not really much you can do since your ISP is monitored by the government of the country. The only thing I could think of was to try and find a mirror to the site or try a proxy.
+same problem here all you need is to change your IP to an USA IP
+go to :http://www.ultrareach.com/download_en.htm
+and download a small tool (free) 
+or go to 
+http://www.proxy4free.com/page1.html
+it contain a lot of free websites that will let you browse through them to blocked websites
+Use a proxy or change ur ip or use invisibleurl.com to browse pages .
+http://www.downloadhouse.tk/

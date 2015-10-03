@@ -1,0 +1,25 @@
+I can't access a certain website and i don't understand why..?
+.. there's a website for a radio station that i was trying to access but i can't.. the first time, everything was fine, i could check the website and everything in it and all was going smooth and great, then the next day, i try to access it again and what i get is this page:
+
+_____________________________
+
+Server Error in '/' Application.
+
+Index was outside the bounds of the array. 
+
+Description: An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code. 
+
+Exception Details: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+
+_______________
+
+Then a Source Error, Source File, and Stack Track all with a bunch of a codes..
+
+what does that mean? and can i ever access this site again? i don't have a radio, this is my
+only source for this station
+what should i do?
+thanks
+
+That is an error in the code for the site. It is nothing to do with your computer, it means that the developers of the site have accidentally made a bug in their code.
+
+Nothing can be done until the developers fix the site. I would suggest emailing them.

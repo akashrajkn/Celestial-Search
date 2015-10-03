@@ -1,0 +1,13 @@
+Ever Feel Like Ringing A Programmer`s Neck?
+I have an older model computer and use ustream.tv.  So I got interested in /producer.
+Happily I believed this would enhance my video quality when streaming to high quality.
+So I downloded the program, happily installed it. Happily ran the program only to be told I have to upgrade my video card to meet their criteria. There is a lot of this type of anger-vating programs out there as well as websites,forms explorer, and other stuff that just makes me want to kick the living %$#t out of these idiots. Maybe I sound enraged - but if this kind of stuff has happened to you it makes me MAD, I am so sick of these DE-limiting sites and programs etc,etc. As an example, changing sound files on your computer XP always goes to the default folder MEDIA instead of going back to the sound file you just applied.. HUUlking -OuuuTTT!!! ARRRRGGGGHHHHH!
+
+So you have an older video card that can't handle a new application ... and it's the programmer's fault? Right. Just get a better video card. In fact, it's probably time for a new computer. Upgrade & enjoy the higher-quality experience, don't cry about the world not upgrading itself to suit your needs.
+Ahhh grasshopper, you have to go with the flow. I just move or copy the media files to the default folder.  Your anger blurs your thinking from finding the simple solution. Try a new PC.
+As a web programmer, I frequently become aggravated when code doesn't run in certain environments. The problem is, there are too many different video cards, different drivers, and combination of hardware that it is impossible to test code on all but the most common set ups.To test them all would require years of labor. 
+
+All new software is designed using current technology. Programming languages and hardware change, making it impossible to retrofit software to run on older systems. An older video card will not support the new technology being utilized by the software. 
+
+I sympathize with your frustration, but don't curse the programmers. It's a much harder job than you think.
+If you don't want to keep up with technology, simply throw your computer away. Or give it away. Problem solved. It'll save a programmers life, and maybe yours too.

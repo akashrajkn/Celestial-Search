@@ -1,0 +1,6 @@
+Do I need an ISP for wireless?
+I have a desktop computer.  I currently have a dial-up (Netzero) ISP.  What exactly is wireless, how does it work and do I need ANY ISP to connect to the Internet?
+I know this question has been answered for laptops and for cable connections but I don't have either one.   I'd like to do away with dial-up but my budget doesn't include cable of any kind.   Can you just buy a router and do a one time shot kind of thing?   Sorry, I'm really technically challenged.
+
+you can not go wireless on dial up due to dial up is the slowest connection and the do not make wire routers for diaal up
+yes

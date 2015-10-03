@@ -1,0 +1,6 @@
+how do i delete browsing history on firefox?
+when i go to TOOLS the "clear browsing history doesnt let me click it because its a gray color.
+Ctrl+shift+delete doesnt even work either.
+
+Goto : Tools-options-privacy-"clean your recent history".
+done.

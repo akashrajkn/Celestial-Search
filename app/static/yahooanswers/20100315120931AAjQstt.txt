@@ -1,0 +1,22 @@
+How do I set up a wireless internet connection in my home?
+I've recently been given a wireless router by a friend of mine, and I'd like to set it up so we don't have to queue for the computer all the time (we have 3 PCs, two of which have USB wireless sticks, and one is connected to a router.).  
+
+Do I just unplug my BT Voyager 220V and plug in my wireless router?  Or do I need to install software?
+
+Any help is greatly appreciated.
+
+Cheers.
+
+router probably does not need software. plug your cable modem into the router instead of into your pc. there should be a port marked modem on the back . then plug your pc into the the router in one of the ports for that . 
+your router will have a webpage for setting up the router . type in your model number and " configuration page "and you should be able to find the config page in search engine.  go there and config your router and then config your pc to the same settings.
+You fail to mention the make' model no. of your wireless router :-) .... so the quick answer is 'no' .... 
+
+Typical issues :-
+1) It's 'used' = so your first step will be a 'factory reset' (so it get's rid of whatever custom settings the previous user has entered) = so go find the Manual on the Internet and work out how to do a factory reset ..
+
+2) You will need to configure the new router with your BT user name and password ... since most people set this up only once, I bet you no longer remember what they are :-) = so next step is to discover your ADSL log-in details.
+
+3) Before turning of your old router, make a note of any FIREWALL settings .. you will need to enter these into the new router ... (if it has a firewall that is .. if it does not have a firewall, DO NOT connect it to the internet under any circumstances)
+
+
+If it does not have a firewall, it is possible that your new wireless router can still be used - but only as a stand-alone wireless 'access point' (i.e. you plug it into the Ethernet from the BT router, and use if for wireless only ..  however this also assumes it has multiple Ethernet sockets (4 is typical) and will act as a 'mini-hub', since the BT router has only 1 Ethernet socket )

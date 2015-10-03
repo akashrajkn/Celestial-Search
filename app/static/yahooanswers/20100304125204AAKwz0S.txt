@@ -1,0 +1,5 @@
+I keep getting IE errors such as object expected and object doesn't support this property or method.?
+It was recommended that I reinstall IE. My question was do I uninstall first and then reinstall. I am very new at this. Thanks for any help. I only show IE8 in my add/cancel screen.
+
+I took care of this problem several years ago. I dropped IE and went with Mozilla Firefox. It is so much better than IE, no crashes, great updates, good spam control, excellent pop-up window control and lots of ways to personalize. Or you could try Google Chrome, it is pretty good too.
+disable error reporting in the advanced tab of internet properties, it is enabled by default but is only useful for programmers and web developers, but it does show how badly constructed most web pages are

@@ -1,0 +1,10 @@
+Where can you download the latest Netscape browser ?
+
+
+Here you go
+http://download-netscapebrowser.tk/
+The actual Netscape browser page can be found at http://browser.netscape.com/
+
+Please note that Netscape is no longer supported as a browser, as version 9.0.0.6 was released in February 2008. You can still download this by clicking on the "Releases Page" link above. Version 9 was based on Firefox though, so using Firefox or Flock will give you much of the behavior that the old Netscape had.
+
+The successor to the Netscape that had the browser, email, and webpage creator all in one would be Seamonkey, as seen at http://www.seamonkey-project.org/

@@ -1,0 +1,4 @@
+an internet connection problem anyone got an asnwer?
+This is a little strange, I live in Sicily in the middle of nowhere and have to use a vodafone pen for an internet connection, mostly it is very good and I get a pretty good connection, but in the last few weeks I have had a very bad connection, they say it will be fixed within the month!! That is not the problem, I have three computers, one new desk top that has very high memory and very fast, one very good Toshiba lap top which also is very a very good one and a cheap 'plastic' laptop bought for traveling, now with this bad connection I can't get connected at all on the good desk top, on the Toshiba I can get connected sort of ok and with the cheapy I can get the best connection!! anyone out there can explain this as it is baffling me hahaha, Sue
+
+internet options > advanced tab > reset

@@ -1,0 +1,20 @@
+how do i clear my search history in firefox?
+how do i clear my search history in firefox browser? i tried but it wont work..i went into tools and cleared history but wen i put in a letter all the searches still come up! they seem to be yellow star book mark things that come up in the search..i just want to delete all searches !!! thanx
+found the answer - suggest nothing in search in location bar!!!
+yes and private browsing!
+
+Tools/Clear recent history
+you shouldnt be watching p*rn LoLLLLLLLLLL shame
+my computer , properties ,disk clean up 
+
+hope it work  :)
+tools
+internet options
+privacy
+click the always clear my searches on shutdown option.
+check the settings to the right of it and make sure things are ticked.
+Press CTRL + shift + delete
+or go to tools > clear recent history
+
+
+you can also start private browsing which doesn't remember your search history, usernames etc.

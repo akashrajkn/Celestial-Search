@@ -1,0 +1,12 @@
+eBay shipping / shipping labels- Items marked as shipped?
+Recently, Ive been selling a few things on eBay. When the buyers finally send their money from Paypal, I use the "Create A Shipping Label". The problem is, when Im finished creating a shipping label, eBay marks the item as "Shipped on (Day I print the label)".
+
+ I want to know if there is a way where eBay will not mark the item send the minute I print out a shipping label. Ive changed the "Shipping date" box when your filling out the information for the label, but it still says that Ive shipped my item.
+
+I cant seem to find out how to fix this. Its like once you print the label, eBay assumes you have shipped the item out on that day, which is not true for me in some cases. Any help would be greatly appreciated. Thank you in advance!
+
+The only "recent" answer for your question I could find was this http://forums.zfirm.com/showthread.php?t=7110
+
+I'm assuming there still isn't a way to change this, as this post was from early last year.
+
+I know that my parents print out one of the sale pages that has the buyers address on it and use that as a label, saves money, and you can then manually mark it as shipped when you do ship it.

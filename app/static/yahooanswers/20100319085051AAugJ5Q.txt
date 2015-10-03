@@ -1,0 +1,8 @@
+which web account allows you to see if your sent mail has been read?
+i know back in the day, AOL supposedly had it that when you sent someone mail, you can later check (by going through your sent mail) to see if the message has been read.
+
+Windows Live supports read-receipts: 
+http://email.about.com/od/outlookexpresscomposing/qt/Request_Read_Receipt_for_a_Message_in_Windows_Live_Mail_OE.htm
+
+Otherwise, you will need to use an external service to add a tracker to your email:
+http://www.aboutonlinetips.com/free-email-tracking-software/

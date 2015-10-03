@@ -1,0 +1,48 @@
+How to remove Internet Explorer forever?
+Hey, I'm Rachey. 
+Lately, I've been using Mozilla Firefox and noticed that I may not need to use Internet Explorer ever again, but the thing is when I click on my friends' link and stuff, it would appear using Internet Explorer as the default...I want Mozilla Firefox to be my default...Can anyone help? Thanks in advance!
+
+You could remove it, but I wouldnt recommend it.  Open the control panel.  click programs.  click set your default programs.  this is where you can change which program is your default.  to remove it completely against my recommendations, click control panel, click programs, click programs and features, and click turn windows features on or off.  It is one of the listed features
+The first time you installed and used firefox it should have given you that option to make it your default browser. Now you should still be able to do that either in firefox options or in the control panel.
+
+I would however not uninstall Internet Explorer, as not all sites work properly in firefox and the same goes for Internet Explorer, This is why it's good to have at least two different browsers installed on your computer. I have three
+
+Internet Explorer
+Fire Fox
+and very recently Google Chrome
+You cannot get rid of IE as long as you're using Windows. IE is an intrinsic part of the OS.
+But you can systematically (as needed) avoid the use of IE by any application, wirh the exception of Windows Explorer.
+I haven't used IE since 2001, at all, even if a newly installed program open an IE window, I "educated" the program into not doing it anymore.
+Uh, IE is impossible to get rid of, blame Microsoft. If you want Firefox as default then: 
+Open Firefox>Tools>Options>Advanced>General>Check Now.
+
+The General Tab is a small tab inside of the Advanced tab.
+Hello Rachey,
+
+Hope it will help you with
+
+Internet Explorer is a windows default component, it is built in everytime you setup any windows operating system. but surely you can remove internet explorer by this way
+
+1. using windows xp
+a. click start
+b. go to control panel
+c. click add/remove programs
+d. at the leftside you can see WINDOWS COMPONENT
+E. click windows component
+f. uncheck INTERNET EXPLORER
+G. click next
+H. click finish
+finally restart your computer.
+
+if you are going to restore internet explorer, you can do the same just check the box of the internet explorer..
+
+hope this can help you rachey
+Open FF 
+
+Go to Tools > Options > Advanced > General Tab and press the check now button. Press yes and FF will be your default browser. 
+
+To uninstall IE
+
+Open Control Panel, Add Remove Programs > Add/Remove Windows Components.
+
+In the window that opens, uncheck IE and click next. Follow on with that and IE will be uninstalled.

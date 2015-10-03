@@ -1,0 +1,18 @@
+are there any decent ad blockers for internet explorer?
+when i first signed up for an account in late 2006 on yahoo answers, i dont remember ' ever ' seeing any intrusive, distracting advertisements - over the last year or so it seems now they are a fixed , permanent feature.
+
+i find them distracting and annoying at best . i despise them.
+
+ive managed to block them on google chrome useing an ad block, ive also blocked them on firefox , but there are tons of ad ons on firefox it keeps freezing and doesn't operate too well.
+
+but i notice the ads are still showing on internet explorer , i thought i blocked them with a host file, blocker - but the ads are still managing to show through..
+
+
+is there any effective way i can block the ads through internet explorer ?
+
+i really dont like them, i resent their presence and they ruin my enjoyment of yahoo answers.
+
+yahoo survives on adds, you can have pop up blocker etc on and you still get them, want no adds on yahoo, they start charging for accounts? Not IE
+I don't use Internet Explorer for it's lack of protection and abilities in this department. I would suggest changing browsers before trying ad ons for that with IE. Try Firefox and then install the add-on called NoScript. It gives you the ability to allow or block anything on the page you are looking at. I been using it for years and swear by it.
+.l
+not an add-on but as a background working software "Ad Muncher" is really successful with "munching" ads and stuff. it doesn't matter which browser you are using. it is not free but i say give it a try ;)

@@ -1,0 +1,6 @@
+I accidentally changed my tab on IE8?
+I downloaded a program to my computer (myHeritage) and it changed the screen tht opens up when i open a tab on Internet Explorer. How do i change it back to the way i had it?
+Specifically when I go to tools at the top of IE i go down to Internet Options and i click on settings under tabs. when it appears theres a drop down window that says the new tab page. how do i change that?
+
+Go to "tools" in IE menu and open preferences, under the General Tab you will get the tab settings..
+Clicking on that will open a new window where you can edit how a new tab should open. All the best

@@ -1,0 +1,6 @@
+Some typing doesnt show up in internet explorer.help!!?
+sometimes when i type in internet explorer the letters i press dont show up. it is random which ones dont show up and i have to press it a few times for it show up. it is only in IE. please help!
+
+It's probably the keystroke capture malware on your system screwing up.
+
+Make sure that your system is free of malware and viruses.

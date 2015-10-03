@@ -1,0 +1,21 @@
+Impact on British ISP's?
+What do you all the think the impact on the British internet providers has been since the release of online media streaming, not so much youtube but more BBCi player, they allow streamed content of HD and it is hugely popular... surely this has put a lot of strain on the providers servers.  Have they had to spend a fortune to upgrade?
+
+any views would be great?
+
+I think the impact has been immense. I know Virgin Media have had to upgrade there servers repeatedly to contend with the load (from viewing their support tickets) and some of those updates are still ongoing.  In the first 20 days of release VM  reported they had 10 million views on BBC Iplayer and guess what was the top..... yup you guessed it. Eastenders. 
+
+Source: http://www.digitalspy.co.uk/digitaltv/a113434/cable-iplayer-earns-105m-views.html
+Well considering the whole telephone network is owned by BT and everyone has to use it because there is no other, and due to their couldn't care less attitude for the past 10 years, they suddenly realised that they have been caught out with their knickers well and truly down! Now it's all panic to try and catch up.
+
+Telecential [the original company that is Virgin now] on the other hand were laying in fibre optic cable way back in 1993/4. BT at that time poo pooed the idea at the time and said it would never take off and it was a total waste of money and we will continue to develop our dial up and broadband services!
+
+The strain hasn't been that great on Virgin because as fibre optic cable is not affect by anything like copper wire is, the infrastructure is already there. All they have got to is upgrade the servers capacity where as BT has got put in completely new cabling, exchanges, equipment etc just to handle the workload.
+
+That's why Virgin offer 10 Mb/s as their standard service and offer 20 and 50 Mb/s services as well.
+
+In fact they have just put their 100 Mb/s service on line
+
+http://www.dailymail.co.uk/sciencetech/article-1253703/Virgin-announces-launch-100MB-superfast-broadband.html
+
+This is not to be confused with Virgin's ADSL service where they have to use the BT network.

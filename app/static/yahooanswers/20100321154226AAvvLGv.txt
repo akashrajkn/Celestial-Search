@@ -1,0 +1,27 @@
+What internet is better fire fox or internet explorer?
+my computer is slow in the internet and i want to know which internet is better Fire fox or internet explorer.
+
+Firefox is better on every possible front.
+Firefox, it has about 2,000 less security holes.
+Firefox is faster, safer, and more customizable
+Here are the pros and cons of the two:
+
+Firefox pros:
+* Infinitely more customizable, akin to the apple adage "there's an app for that", for anything you want to do in Firefox, "there's an addon for that".
+* The gecko rendering engine obeys internet standards far more accurately and renders pages far more quickly than internet explorer. For immediately visible results, you'll see almost all the pages you browse to look better and load faster.
+* Far more security than internet explorer, and a pop up block that actually works most of the time.
+
+Firefox cons:
+* Depending on how many addons you get, it could get a little bulky, and start taking up a lot of RAM.
+* Takes longer to boot up than internet explorer, but once you start it up, it is a lot faster. (On slower machines, I generally just open it up and keep it open, unless I am forced to close it).
+
+Internet Explorer pros:
+* Takes slightly less time to boot up than Firefox.
+
+Internet Explorer cons:
+* Is the spawn of Satan.
+I'd give Jason J three thumbs up if Yahoo would allow me, simply because "Spawn of Satan" is three words!
+
+However, for the record - Internet Explorer 8 supports ARIA (Accessible Rich Internet Applications) tags better than Firefox.
+
+Hey, IE has to win SOMETHING!

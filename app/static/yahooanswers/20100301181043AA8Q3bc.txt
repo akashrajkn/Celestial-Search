@@ -1,0 +1,4 @@
+I keep losing Internet connection?
+I own a 64bit HP Limited DV series laptop pavilion which had Vista as an original OS. Recently I completely restored my computer with Windows 7...(had to, i had another issue that upgrading wouldnt have fixed so I restored it completely with win7). My issue now is that I cant stay connected to the internet...its seems like the more I access internet wise e.g. several tabs open, several youtube videos loading etc. the more often it loses connectivity. I diagnose the problem and it comes back always saying its the "Default Gateway is not available"(a device that connects a local network or computer to a network. A broadband modem or router is usually the default gateway). So how do I fix this and what exactly is that??? Because I cant download an excessive amount of mbps or else it will trigger limited connectivity which is NO Internet connection!
+
+I would check with the geeks at craigslist Computer Discussion Forum...

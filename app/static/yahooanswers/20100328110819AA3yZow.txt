@@ -1,0 +1,5 @@
+HOW DO I GET WIRELESS INTERNET SERVICE?
+A friend sent me his old laptop, someone told me to buy an antenna that plugs into it?
+Help! I am a computer dummie!!!
+
+If its an old laptop, you'll have to first verify whether the laptop has a wireless card inside.  If not, you'd need a PCMCIA wireless card.  After that you can get free wireless internet service by visiting various places that offer free wifi.

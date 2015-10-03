@@ -1,0 +1,37 @@
+How do I uninstall Internet Explorer?
+I am having too many problems with IE,so I wanted to uninstall it. Imagine my surprise to find that Microsoft doesn't have an uninstall in either the install/uninstall programs feature or in directly under the IE program group in my programs.
+So how can I fully uninstall it. I have already copied my favorites to a separate folder for future use,although additionally it would be nice to copy my history as well.
+
+You do not want to uninstall IE as you will need it for Windows Update..use an alternate browser such as firefox or chrome..Either one of those browsers will pull all of your favorites to it also.
+go to control panel
+and click add or remove programs
+search for "WINDOWS INTERNET EXPLORER"
+
+then uninstall it
+Close all programs.
+Click Start, and then click Control Panel.
+Click Uninstall a Program under the Programs category
+In the Tasks pane, click View installed updates.
+In the list of installed updates, double-click Windows Internet Explorer 8. 
+In the Uninstall an update dialog box, click Yes.
+When the uninstall program is finished, restart your computer.
+Hi
+Here is a link from Microsoft. Hope you can find it useful. 
+Please be reminded that the responsibility will be totally yours if you accidentally give damage to your OS.
+
+http://support.microsoft.com/kb/957700
+Unfortunately tou are stuck with it if you use windows. However that doesn't stop you from installing other browsers like Firefox (which is my main browser), Opera, Safari, Chrome etc. All bookmarks/favourites can be imported between the major browsers so you will be able to find your most visited sites.
+Hope that helps you.
+you come control panel and click Add and remove program. In left hand, you chose add and remove window feature. Wait some seconds, if you want to remove IE, you clear the check box of IE, then click ok.
+Have fun!
+You can't :(
+
+But, as suggested, you can install your favorite browser, set is as Default, and just not use IE.
+Once you update or reinstall the windows automatically the Internet Explorer will installed in your system
+don't uninstall it, it can bring further problems
+
+download another browser like mozilla firefox, google chrome, Safari, or Opera
+
+I know that chrome and firefox import your history and bookmarks, the others maybe but i cant assure you
+
+install the 4 of them, do what you do usually, and leave the one that behave the best (in my experience chrome is the faster, firefox is a little slow but has a lot of complements in the net for accesory functions, safari is fast, but gave me problems with facebook, opera too)

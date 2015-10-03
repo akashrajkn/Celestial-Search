@@ -1,0 +1,13 @@
+How do I make firefox....?
+How do I make firefox my open my email? When I click the email icon on the messenger it opens with the normal internet explorer, before it opened with firefox. How do I get it to open with firefox?
+
+you need to download and install mozilla thunderbird
+try making firefox your main or official internet browser
+Apparently, your default browser is set to Internet Explorer. Simply go to the Control Panel, select Default Programs (in XP) or Programs/Default Programs (Vista/7)
+The reason is firefox is not currently set as ur default browser. The link clicked outside the browser will open in the default browser, in your case internet explorer.
+you failed to mention the operating system you are using.
+For vista the setting is in "Default programs" in start menu.
+
+i am getting the feeling you like firefox over IE, while you are at it. you may try these tricks, it will make the opening time of webpage much faster. One of the cool things with firefox.
+http://tech-hutblog.blogspot.com/2008/02/tips-for-faster-internet-connection.html
+With firefox open, go to tools <> options <> advanced <> put a check mark in the box that says always check to see if firefox is my preferred browser. Then click check now. If not, make it your preferred browser.
