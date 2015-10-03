@@ -1,0 +1,5 @@
+can i change the colour of opera browsers grey bars?
+
+
+You can go to System,  and choose Appearances,  where you will see edit preferences and choose a color scheme. There will be tabs to click and you just go on from there choosing from the available options. This is across the top row with Applications, Places, System, browser (net scape, fire fox, etc.) If you have the browser installed on Add Remove Applications the color scheme you choose will transpose into it.
+Yes chose Appearances you will see edit preferences and choose a color scheme.

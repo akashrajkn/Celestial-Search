@@ -1,0 +1,12 @@
+how to make infolinks script work on blog?
+i just some time ago signed-up on infolinks
+but how should i make script work?
+please someone who is experienced 
+please guide me
+
+I placed info links in my blog and it is active. Just copy the ad code and place it on ur blog with the following steps. 
+Go to the layout of ur blog from there click add widget and select the html widget, then place the code on the window and save it. Info links will select appropriate text in ur blog and place their links whenever ur blog is approved. They will conforming it to u by email.
+visit my site & blogs
+http://darshi.webs.com
+http://sridarshika.blogspot.com
+http://darshiprakash.blogspot.com

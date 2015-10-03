@@ -1,0 +1,8 @@
+Firefox pages not loading?
+I do some surveys online and sometimes if i click to go to the next page, it will load for about 30 seconds, and then the page will come up saying connection timed out or page not responding, then i click back, and then itll work, what can be the problem? I have ccleaner and delete cache and temp. internet files often, firefox is allowed through my firewall, any ideas? all help is appreciated!
+
+Sounds like the server is timing out. It doesn't sound like the problem is on your end at all. When you time out then click the back button, you are sending out another HTTP request and with a little luck the new request goes through without a hitch. SO don't worry, the problem is very probably the server and not you.
+It might be your internet connection and not the Firefox Browser. That used to happen to me until I made several changes. I, too, have CCleaner and one of the changes I made was to stop deleting the Internet Cache, Internet History, Compact Databases and everything else under Firefox. I don't know but hopefully you solve that annoying problem.
+
+-Update-
+One temporary fix I made was to refresh the page and if that didn't work then I would go back and retry the link.

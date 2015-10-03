@@ -1,0 +1,11 @@
+https not showing secure info.?
+I just redirect the http to https in appache httpd.conf file in the server.
+but when I loading the page its showing SSL after that it is showing a warning message "However, this page includes other resources which are not secure....."
+
+please help me
+
+Websites often have 'assets' that are delivered using unencrypted techniques.
+Quite often, they are advertising, from 3rd parties not related directly to the site you've asked your browser to go to.
+Not a real big issue, but your browser is notifying you that the condition exists.
+This mild warning can be disabled in browser tools, security warnings, if you feel comfortable using 'https' and all it implies.
+do you have ssl 2.0 or ssl 3.0 enabled

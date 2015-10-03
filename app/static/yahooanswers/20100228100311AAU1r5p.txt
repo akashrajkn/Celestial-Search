@@ -1,0 +1,5 @@
+Why does a yfrog.com link not work in Firefox?
+Why does a yfrog.com link ( http://yfrog.com/2e47044607j ) not work in Firefox (i get a page saying bad gateway) but  work in Internet Explorer?
+
+It works for me, using firefox.
+Try going to http://yfrog.com, then log out and back in to re-establish the link to Twitter.

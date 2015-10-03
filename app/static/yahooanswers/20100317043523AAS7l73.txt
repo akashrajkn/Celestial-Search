@@ -1,0 +1,14 @@
+Have my emails be read/opened?  Is there a way to see?
+hi.  so i would like to know if there is a way to see if my emails have been read, or if there is an email account somewhere (like AOL, yahoo, gmail...ect...) i could get that shows me, or if there is any other way.  thanks for the help!
+also- i have tried SpyPig.... but i did a test email...and the image i copy and paste from SpyPig into the email to make it work, doesnt show unless i click show images...and only then does it register with spypig as read...any help there either?
+
+The only way is to ask for a reply.
+some mails do have a read receipt function but again itz up to d reader to send it or disapprove sending it.
+To discover if the recipient has received and read your mail, you can 'tick' the 'Return Receipt' and 'Read Reciept' options offered by most mail 'send' packages .. however the recipient can use their own mail package 'privacy' settings to ignore such requests ..
+
+If you have the slightest reason to suspect that some-one else has access to your email account, CHANGE YOUR PASSWORD NOW ...
+
+Most email packages automatically mark messages as 'read' when you open then, HOWEVER it is quite possible to manually mark them 'unread' again ..
+
+By far the best solution is to download messages onto your own PC (by using a mail package such as Mozilla Thunderbird) .. this way you mail is NOT left 'on-line' at the mail service provider ... anyone getting access to your on-line mail would then see only your very latest new mail, not any of your old mail (or copies of yours sent mail .. .. ..)
+Your unread e-mail is in BOLD print and read in regular

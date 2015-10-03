@@ -1,0 +1,15 @@
+Firefox won't display any images?
+All of a sudden firefox won't display any images on any website. I've already checked my settings and cleared my caches and cookies I've also updated my firefox to 3.6 and nothing still seems to work. 
+
+Does anyone have a solution to this problem?
+
+May be your firewall blocking images from displaying. I have heard these issues with Symantec / Norton firewalls before. Check your firewall settings to see if they are being blocked
+try google chrome. If that works, then you know it's firefox
+Have you checked this setting:
+
+1. Click the Tools->Options menu item.
+2. Click the Content page. 
+3. Check the Load images automatically checkbox.
+4. Click OK.
+
+Hope that helps.

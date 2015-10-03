@@ -1,0 +1,11 @@
+i have Internet Explorer and Firefox is it possible to have a home page on each?
+
+
+Your "Home Page" is just the first page that your web browser (like IE and Firefox) open up to. So yes you can have a different home page on each browser. 
+
+The only thing you cannot do is have both of them be your default browser at the same time.
+You have to change the Homepage option in the Preferences option window to set your favorite site as homepage.
+
+Btw this is a nice plugin to try out for firefox
+http://www.internetdramasblog.com/2010/03/awesome-firefox-plugin-cooliris.html
+Sure, the settings are separate for each browser...

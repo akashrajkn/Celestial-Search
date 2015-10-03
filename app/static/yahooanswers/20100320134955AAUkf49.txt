@@ -1,0 +1,5 @@
+I can't change my homepage with internet explorer 7. PLEASE HELP?
+Every time i click internet explorer on my desktop, it opens up to  a page that says "Thanks for choosing Internet Explorer 7" and then it says "change your settings." ive had this ever since i made the computer account months ago, and every time i try to CHANGE the settings, it ALWAYS says that they cannot be saved correctly. someone please help? i cant change my homepage until i change my settings (in which i really dont care about, ive tryed everything on the page.)
+
+Google Chrome is your friend.
+Try upgrading to IE8. That should solve your problems.

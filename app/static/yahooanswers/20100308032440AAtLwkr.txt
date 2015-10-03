@@ -1,0 +1,30 @@
+i keep getting redirected to crap sites and home pages when i go for the wesites am after,ANY IDEAS FOLKS, Ts?
+
+
+Install Malwarebytes free from http://www.download.com and then do a scan with it to fix the problem
+Find porn sites that won't lead you to viruses
+you gor spammed dude! i suggest u install a free spam/spyware remover application called Microsoft Security Essentials from the Microsoft website. it's free! If u have one then scan your computer for potential threats.
+i highly recommend using Spybot http://www.safer-networking.org/
+You probably have some icky malware on your PC... Do a free scan from somewhere like Norton or Mcafee.... Also run a full virus scan
+Download antimalware from:
+
+http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+
+Install...
+Update...
+
+Full Scan of Computer and restart pc
+
+and repeat until no threats found...
+
+If you are repeating more then 3 times scan in safe mode...
+
+If you cant install the software...
+
+Restart computer in Safe mode with Networking and follow steps above...
+
+Regards
+Anthony Stamataros
+Computer Emergency Services
+www.computeremergencyservices.com.au
+anthony@computeremergencyservcies.com.au

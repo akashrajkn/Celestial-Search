@@ -1,0 +1,15 @@
+what kind of internet connection should i get?
+should i get wired DSL that is up to 384 kbps, or wireless that is up to 768 kbps?
+
+i heard that wired is a lot faster than wireless.
+i am more on surfing and downloading movies, by the way..^^
+correction: wireless that is up to 512kbps!! sorry..
+
+The higher the connection speed the faster the internet, so in your example the wireless is faster and best for downloading.
+Wireless has the possibility to cut out periodically, but for your uses, it would be the better choice.
+
+If you play online multiplayer games, the cutting out (IF you even get any, some people don't), would be painful.
+In networks, wired is faster than wireless. However, if you are comparing the wired DSL subscription which will give you 384kbps versus the wireless DSL subscription which will give you 768kbps then the 768kbps is faster even if it's wireless.
+The data transmission rate for the wired is slower than the wireless option, but wireless by its very nature is unstable, has higher latency, and a higher chance of disconnecting, and its very rare that you get the advertised speed on a wireless connection.
+
+The wireless is probably fine for downloading and surfing, but if you're after stability, DSL is a much better option.

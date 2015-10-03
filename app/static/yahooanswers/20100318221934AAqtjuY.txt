@@ -1,0 +1,6 @@
+i am online but my computer says that i am not?
+the little box on the right hand of my computer that states that i am connected to the internet has an x on it saying that i am not in fact connected, but here i am on the internet...
+why is that?
+just askin
+
+Yeah I have the same thing, its something to do with your network connection. I have ADSL & when I use the USB cable I get the X saying Local Area connection - a networkcable is unplugged but if I use the ethernet cable I dont get that message.  (I have to share my cables if you are wondering why I dont use both) Hope that makes some sense, anyway so long as it works Im happy :)

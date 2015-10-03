@@ -1,0 +1,7 @@
+In Firefox how can you set it up so that it will save only the cookies you want and delete the rest?
+
+
+Try Tools>Options>Privacy. Set it up to accept or not accept cookies and set exceptions.
+Hi there! All you have to do is go to the tools menu at the top, click clear recent history, a window should pop up with a danger sign, click details & highlight everything you want to clear except cookies! :)
+
+Hope this helps!

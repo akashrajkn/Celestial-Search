@@ -1,0 +1,11 @@
+Has anyone had similar problems with some webpages?
+For the past several days I've had some problems with websites in general.  For example, on some websites, they will not load because it takes to long.  also, when I go to websites like facebook, myspace, hotmail email, or do a web search on yahoo, all that comes up is the text. 
+
+Everything is installed properly on my computer and my firewall is not a problem because I've been using it for a while.  It's has been happening on both my computer (windows vista) and my grandparents computer (an XP) computer.
+
+Is anyone having similar problems and can they be fixed?
+
+It may be router lag. Reset it, and check that the connection and wiring isn't faulty or that neither the computers or the router is over heated. If you use dial-up, that may be self explanatory.
+
+Also, check that you have flash and that your browser is up to date and functional. Run a spy-ware/virus scanner too. Also, consider the amount of space you have left on your computer and the amount of RAM you are using. Close all other running programs, give your computer a few minutes to "warm up" or basically run through all its processes after it turns on. Then, check to make sure that your computer doesn't lag in any other area and check the amount of space left on the hard drive. Run the spy-ware/anti-virus check and ventilate all your computer equipment.
+I've had that kind of problem before. It was a computer that was on its last legs, it ran everything slowly: Word, Excel, everything. How are the other programs running on your computer?

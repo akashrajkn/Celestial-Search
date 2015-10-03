@@ -1,0 +1,14 @@
+Foxfire start-up file...how to disable ?
+Just got Foxfire and unlike Windows Internet Explorer, Foxfire has a screen/window that comes
+up when my computer starts that gives me the option to select (on it there are two icons
+the regular shortcut or the safe mode one) an icon to clic that will start the browser...
+But I already have the icon on my start menu and the file window is only an irritant so
+how do I disable it ? I have only an Athlon 3500 single core CPU (939 socket) so I have avoided
+an up-grade due to having to buy a mobo also and adding more money to a computer which
+after the Ram, PSU and G-card up-grade has cost me over $700.00..enough already..
+But to lighten the load on the CPU, I don't have ANY desktop icons and use the start menu
+to launch programs from...and since I'm running multiple windows, I don't need an additional
+one occupying my task bar from the Foxfire file...please help me remove this unwanted
+new file window...
+
+Sorry Raymond, I don't know the answer.

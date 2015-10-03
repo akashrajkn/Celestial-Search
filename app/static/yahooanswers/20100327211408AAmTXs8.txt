@@ -1,0 +1,41 @@
+How do I open up WordPress?
+I downloaded WordPress and two themes to my iMac.
+I bought a WordPress hosting package at GoDaddy.com.
+I "installed" a WordPress database at GoDaddy.com. 
+Now I do WHAT with my wp-config-sample-php file?
+I tried to look at that file, but it's all jumbled together and I can't read it or understand it. I tried to follow the instructions at WordPress.org exactly, but the names of things don't exactly match. If I make these mysterious changes, THEN what the heck to I do to turn the stupid thing on.
+
+I just don't get it. Blogger, you log in and go. TypePad, you log in and go. Hosted WordPress, I need to write my own html code, then do what? Print it on yellow paper, and burn it under a full moon while chanting naked? This is the BEST blogging platform in the world? I don't get it. Can I get through this, or should I just go back to TypePad? Help!
+
+You need not install anything manually. Godaddy can do it automatically via their software installer section. Once it's fully installed (it can take a little while) you can do all the customization via the WordPress admin pages.
+Hi,
+
+You need to "activate" the plugin for it to work. To learn more about wordpress, visit :
+
+http://bit.ly/bpViGG
+
+Hope it helps.
+Hello, to open up a Wordpress blog you usually have to purchase a hosting package etc. But I've developed my own service in the past few months which is free!
+
+To sum it up, you receive a hosting package with unlimited space to upload whatever you like!
+I also go ahead and install Wordpress for your so that you don't have to mess with all that annoying work.
+
+Installing themes is really easy once Wordpress is installed!
+Its just a few clicks of the mouse and browsing for the theme on your computer!
+
+THIS IS ALL 100% FREE!
+
+I have tons of happy clients and I hope you are one of them!
+Hey Commander, 
+
+Your wp-config-sample.php file is just that, a sample file. The reason why your WordPress download gives you a sample file rather than an actual file that works is because you need to alter that file with information specific to your blog before allowing your wordpress install to use it.
+
+When you created a mysql database with GoDaddy, you specified the name of the database, a username and password. It is those three specific pieces of information that you will need to enter into your wp-config-sample.php file. Once the new information it entered, you can rename wp-config-sample-php to wp-config.php which is the actual file WordPress will be using. 
+
+The reason why everything is all jumbled when you go to open up your wp-config-sample.php is because you are on a mac and the .php file was most likely created on a windows operating system.    I have taken the liberty of posting what the real contents of wp-config-sample.php are here: http://pastebin.com/39t6tLCy
+
+Just copy that code into a mac text editor and save it with as wp-config with a .php extension. Before you save it, make sure to enter your database name (where it says "YOUR DATABASE NAME"), username and password where it says "YOUR USERNAME" and "YOUR PASSWORD". At that point, all you need to do is upload the file in the root directory where you installed WordPress and you are all set to install wordpress (just navigate to your domain name and follow the on-screen instructions. 
+
+I realize you have had a bit of difficulty installing wordpress here but I promise you will be much happier with your own wordpress site and domain once it is up and running. 
+
+If you have further difficulties with this issue or any other problems with WordPress, send me a message through the contact form on my blog about blogging (link below).

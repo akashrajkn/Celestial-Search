@@ -1,0 +1,15 @@
+My internet signal quality is "excellent" but i still cannot use the internet??????
+I just moved house and my new wireless machine is drving me crazy!!!!!!!!
+once its connected to my wireless thingy...it always says you are now connected to XXXXXXX and the signal quality is 'good' or excellent' whatever....but once i clicked onto the website..it just says 'sorry page cannot be displayed'...basically its just like i have no internet connection..
+
+however, sometimes..i.e. now..it works...but sometimes i have to try refreshing the page for 30 mins..until finally i can use the internet....sometimes...(like last night) i tried to whole night and it wouldn't work.....
+
+what is going on? should i call a computer expert over? or buy a new wireless machine
+what is going on???
+
+The signal quality is the connection between your computer and your wireless access point or router. It has nothing whatsoever to do with your Internet access. What kind of Internet access do you have? Is it DSL? Cable? Dialup? The problem is there, not with your wireless.
+Maybe u should try this one, make sure u use just one internet profile.Go to control panel and delete modem list on the window.Let your computer found it self.
+If doesnt work, just contact to your costumer service.
+Turn off your computer and then turn off your DSL Modem/Router. If you have a separate router turn it off too. Leave all the equipment off for about two minutes.
+
+If you have a separate router from a DSL Modem/Router combination you should turn the stand alone router on first and wait a minute or two, then turn your DSL Modem on. After that you can turn your computer on and everything should be fine.

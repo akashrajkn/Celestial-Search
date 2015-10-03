@@ -1,0 +1,16 @@
+help with internet download speed?
+just yesterday, I noticed that the download speed in my internet suddenly slowed down. It was around 80 to 90 kbps before and since yesterday, it changed to around 20 kbps. The internet speed is still roughly the same though. When I tried a speed test, the download speed really reduced but the upload speed remained kinda the same. What could the problem be here?
+
+your internet provider has overworked lines. but they will NEVER tell you this.
+no
+90 kbps sucks, you should try a new provider
+Try using DAP
+Dear Friend,
+
+This is a problem from the side of your Internet Connection Provider (ISP). So, you need not to do anything else.
+
+From the side of you, you may boost the performance of your computer in order to tweak the downloading process. You may defrag the drives, registry, manage Windows Startups, clean Registry Broken Entries, Fre-Up Unnecessary Drive Space, etc. to boost the performance of your system.
+
+* * * *
+For more information, mail at: vikas.jnpt@yahoo.in
+* * * *

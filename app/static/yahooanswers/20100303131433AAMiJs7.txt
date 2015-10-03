@@ -1,0 +1,8 @@
+Why does the last update in firefox read from 1969?
+shows dec 31 1060 when I check the update status in tools>options>advanced>show update history for updates 16,17 and 18. Is this Firefox or windows XP fault?
+
+January 1, 1970 00:00:00 UDT (the time in London) is the time many computer dates are calculated from, where a number is the number of seconds from this time. So this particular time is the timestamp 0.
+
+So December 31, 1969 is what day it was for time 0 in timezones west of London. Because of this, if software uses a date that is not defined, it is interpreted as 0, and therefor shown as December 31, 1969.
+
+So basically, the Firefox update didn't specify the timestamp correctly, and so the time showed up way in the past.

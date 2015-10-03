@@ -1,0 +1,16 @@
+Im locked out of my internet?
+i just typed this all out and the page refreshed so im doing it short story stylenow and screw grammer lol. i cannot get mts to give me my internet password so forget that. i havent used the internet on the comp in question and the other one  is fried. i have the internet user name but thats about it. i need some hack to get my password back and the only info i have is the internet user name,. can ya help me out?
+
+What is "mts"?
+Call your Internet Service Provider and explain the situation. They should be able to sort it out for you.
+@knowguy: MTS is a Canadian ISP.
+
+On the webpage, it says call this number if you have forgotten your password: 
+
+QUOTE
+If you have forgotten your MTS internet password please dial CALL-MTS or 225-5687, choose the Internet option and request a password reset. You must have authority of the internet account to do this.
+/QUOTE
+
+From: http://www.mts.ca/portal/site/mts/menuitem.3daf24924ae9c4e50e14081031248a0c/?vgnextoid=13c77e2a9023d010VgnVCM1000000408120aRCRD&vgnextchannel=81da07731918b010VgnVCM1000000408120aRCRD
+
+If you're referring to your router though, you can just restore the router to factory settings if you forgot the administrative password. I think you're referring to your MTS account password though, which I suppose only MTS itself can reset.

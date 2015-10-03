@@ -1,0 +1,11 @@
+internet explorer lost i dont know how it get it back?
+my computer is in korean language o its little difult as you guys suggest me here before,i try to make shortcut but it disapear plz would you teach me step by step?
+lost  back and forward on the tool bar of my acount
+
+start->run->iexplorer.exe
+Go to Start>Run and type iexplore.exe then press enter.
+
+Edit: It's iexplore.exe NOT iexplorer.exe and stated by the person above.
+The quickest way is to right click on the Task Bar ? Tool Bars ? Select "Quick Launch" 
+
+It will then put a Internet Explorer icon next to the Start button.

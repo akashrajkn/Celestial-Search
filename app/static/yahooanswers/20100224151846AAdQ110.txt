@@ -1,0 +1,14 @@
+Is the HP Website Down?
+I have been trying to go to www.hp.com and it won't load. Is it down?
+is there any way u could post a link? its still not working for me
+
+Works fine for me
+http://www.hp.com
+You can find out if a website is really down, or if it's a problem with your connection to it, by using http://checkw.com/
+
+You can go to the main page and type in the URL, or go to it right from your browser by adding the link you want to check right after the /. So for you:
+
+http://checkw.com/hp.com
+
+For me, it shows that it's up.
+it is down right now as well!

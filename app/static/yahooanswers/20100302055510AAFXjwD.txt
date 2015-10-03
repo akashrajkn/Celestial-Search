@@ -1,0 +1,13 @@
+Why isn't my Internet Explorer working?
+So make a long story short, I have had the Flock browser for a while now and I never really used Internet Explorer.  I would be able to connect with it though and still use it if I had to.  Now, I recently downloaded Mozilla from Flock and it didn't work, so I uninstalled it.  I was going to try to use IE to download Mozilla again, but now it just says "Diagnose Connection Problems" when I'm connected fine. It won't work at all, and I'm not sure what the problem is... Help?
+One more question... what would be considered funky settings and how could I check my firewall? I'm not really experienced with this. lol
+
+Assuming its not something silly like say, IE needs to be reinstalled; check the IE settings- make sure that it doesn't have some funky settings, or the firewall is blocking it.
+
+Worst case, download FF on another computer, copy to flash drive, install to computer from there (maybe retain a copy of the installer just in case you have to install it again)
+check your avialable space, defragmentor page will tell you exactly how much space you have, and add/remove programs will let you make more, and do the disk clean up
+If ur using a laptop check the wireless switch, if ur using windows such as vista, u should have a bar on top of ur desktop, make sure one of the lights is switched on deppending what conncetion u have.
+
+Microsoft has been ordered this week to give all its european users who are using vista, xp and 7 an option of 12 different internet browsers, 5 main ones will be IE, Firefox, G Chrome, Opera and Safari, u'll also get another 7 less known options, it will apear in a pop up starting this week, That may be the reason why its slow,
+
+

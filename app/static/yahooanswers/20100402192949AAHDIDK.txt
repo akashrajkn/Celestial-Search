@@ -1,0 +1,11 @@
+Internet explorer wont work but firefox does ?
+When I click on my IE it says page can not be displayed but firefox is working perfectly, Its not blocked by a firewall either. is there a way I can fix this ?
+I dont use IE normally... The problem is programs like MSN are connected with IE and wont open either. I dont get it
+
+Why would you even want to use IE? It's full of security holes, and leaves you much less protected than Firefox, heck, most other browsers.
+
+Just stick with Firefox.
+Try this : Tools > Internet Options > Advanced.  Click Reset
+
+-MM
+You have a virus if this is true for all pages.  Make sure you have tried more then a few.

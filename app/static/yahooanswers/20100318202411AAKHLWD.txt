@@ -1,0 +1,44 @@
+Help with setting up internet connection. For computer/internet people...?
+Please read, I really need help. 
+
+So here's the deal, my uncle bought a new laptop (HP). But he has an old Dell Computer which he got 10 years ago. My uncle has bought a router that is wireless G. His Dell Computer is so old that it doesn't have an Ethernet Port at the back so we bought a USB adapter (so we could plug the computer in to the router). He has a DSL Connection and a modem that used to be directly connected to the Dell.
+
+-The computer is connected to the Router.
+The modem is connected to the Router.
+
+There is a USB connection from the Modem to the Computer.
+How do I properly configure the computer so that the internet will work?
+Since there is an ethernet cable running through from the modem to the Dell, will I still need the USB connection for internet?
+Drew- I said that we got an adapter for the ethernet port
+Drew- I said that we got an adapter for the ethernet port
+
+No, you do not require both connections at the same time.
+For USB connection you need to install driver for the particular MEDEM (What make it is.)
+
+For ethernet, you may have already LAN drivers installed on the system.
+You just connect modem to LAN port using LAN cable, connect modem to phone line (or whatever the connection is).
+Now you are done to dial the connection. Go to control panel->networks and internet->connect to a network.
+Here you can set up your Internet connection according to your ISP.
+how is there an ethernet cable running from the modem to the dell if it has no ethernet port?
+
+you should have an ethernet cable running from the modem to the router,
+if the dell has a ethernet port then you should have a second ethernet cable running from the router to the dell. if there is no ethernet port on the dell then you will need to install a wireless usb adapter on the dell to replace the ethernet cable.
+the configuration of the router depends on your specific internet provider, most routers come with a setup cd that takes you step by step through the process for less advanced users.
+
+i assumed you meant a usb wireless card.
+If you have all devices plugged in correctly, and your router is configured properly, then you should be able to plug and play (with a direct ethernet cable).
+
+If you are not getting a connection, then check your network settings (LAN) and do a repair by rightclicking on it.
+
+Also, you can right click on the LAN icon and go to properties and make sure that your  Internet Protocol TCP/IP is set to obtain IP and DNS automatically.    (hightlight and hit properties button).
+
+
+You may need to go to your device manager and right click on your ethernet card and make sure you don't see an error symbol.    Right click and do a disable and then repeat and do an enable.
+
+You can always see what your computer is "talking" to by going to your RUN box and typing in CMD and then in black screen , type IPCONIG.
+
+The Default Gateway number should be the device you want to configure. (For example, if you have a linksys router, that number is 192.162.1.1)
+
+Restart your computer also, so that the comp can read the router and after the above steps.
+
+As for what "the rider" said above, don't go set up a connection -------- your router should be doing that for you.

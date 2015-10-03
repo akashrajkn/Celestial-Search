@@ -1,0 +1,8 @@
+I keep getting re-directed to other sites when I open up my broswer?
+Every time I open up my browser and search for a site and click on it, it send me to other sites.  I know I have mal-ware.  I ran ad-aware and malwarebytes which usually does the trick, but it doesn't seem to be getting it this time.  
+
+Anyone know of how to cure this without having to reformat....again.  thanks
+
+Run windows live scan.  Go to onecare.live.com.  This is a free scan and clean site.  It's a windows product so it does a better job at digging out malware and viruses in widows than most other programs.
+I use spybot S&D from http://www.safer-networking.org/en/home/index.html which solves most problems.  Another thing you could do is google the site that it is sending you to (use a different browser than the one that's infected.)
+Run Malwarebytes, SuperAntiSpyware, ccleaner in safe mode and when back in normal mode run Drweb Curit and Hitman Pro...

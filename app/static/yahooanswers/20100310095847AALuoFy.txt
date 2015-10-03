@@ -1,0 +1,21 @@
+How to detect the IP Address and Country of a visitor to my website?
+I know there are tons of websites out there to detect IP address. Not only do they detect the IP address, but they also display the country of that corresponding IP address. 
+
+I want to know how to do detect the country of a visitor to my website.
+please list the program languages that I might have to use
+
+This is what we use and it works great...
+http://www.ip2location.com/
+for something not as pricey tho Geolocation class can be used to determine the geographic location of an IP address using the hostip.info Web services.
+
+The class is guaranteed to work with PHP version 4.2 and PHP 5.2. It accesses the hostip.info Web services API site passing a given host IP address as query parameter.
+
+The class retrieves and parses the response to return the country, the city, and the latitude and longitude coordinates of the specified host.
+
+More details here:
+
+http://www.phpclasses.org/browse/package/3813.html
+Try to use free javascript tracking tool from http://www.ipaddresslocation.org/ or 
+http://www.find-ip-address.org/
+
+Your visitors will see cool tracking information's about them.

@@ -1,0 +1,15 @@
+I changed my ip address and fcked up my modem.. Help me?
+I bought mw2 on ps3 today and could not play online, I had to open some ports... Then I found that could DMZ my ps3... I followed instuctions and changed something in the medem menu... I went to 192.168.1.1 and I have beetel 220bx1... I remember that I changed something like ip address, I changed it to 192.168.1.101... Now I can't connect to 192.168.1.1 to change it back... I am doomed... I can connect to internet but not to 192.168.1.1, I tried 192.168.1.101 and other, but to no avail... And now I can't cnnect to it and change poerts... Please I'm dying, Help me
+
+I got the same problem, lemme know when u get the answer k?
+it needs to be un-fcked
+That is sooo funny!!!
+
+Ha ha ha ha....
+
+ps. your a prick
+very funny
+You should be able to reset your modem to factory setting. There is probably a recessed button somewhere on the modem that you can push and make it reset itself.
+Go to start => Run then in the box that appears, type cmd to open the command prompt.  Once it's loaded, type ipconfig and press return.  You'll get a whole load of text appears but you're looking for the line that says Default Gateway.  This is what you really changed your router to.
+
+If that doesn't work, it should have a hard reset button, usually next to the power switch.  Hold this in until the lights all flash then wait until the modem restarts itself fully before re-connecting on 192.168.1.1

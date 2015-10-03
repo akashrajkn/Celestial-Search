@@ -1,0 +1,19 @@
+internet  not loading    pages and very slow?
+i ave fire fox  i installed the  newest update and      pages    some pages  wont load     like a game i play  is called empire craft   and  the website   wont   load and wen it does    i go to play te game and te game wont load i dont know if its my internet or there server or    my internet pervidors   problum      can some one please help
+
+Try a different browser...like Opera, or IE.
+If it is still slow, I would suggest turning off and on your router.
+Have you defragged your hard drive recently? You may also need to update Flash.
+There are MANY reasons for computer slow downs:
+ not enough memory
+ too many programs starting up with windows at boot up time
+ too many junk files
+ too many restore points
+
+Clean windows registry can speed up the computer.
+Over time, you install new programs, uninstalled unimportant programs, update software's, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://downloadlk.com

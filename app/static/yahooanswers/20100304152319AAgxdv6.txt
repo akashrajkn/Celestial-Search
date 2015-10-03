@@ -1,0 +1,16 @@
+Av.exe virus wont let me do ANYTHING!!?
+This virus is everywhere i mean everywhere. i wanna make a list of things that the virus wont let me do.
+1. Wont let me System Recover (at the start up)
+2. Wont let me use Windows Registry
+3. Wont let me use Web Browsing software (IE, Fire Fox, Safari ETC.)
+4. Safe Mode is the same as Normal Mode
+5. I can't use USB Flash drives to transfer over malware, spyware, anti virus programs
+6. Task Manager is down
+7. It wont let me use any back up or system restore because i need permission from Admin (I am the admin)
+
+Please help out here!
+
+to do system restore turn off or un plug your computer turn it back on holding down the R key until you hear clicking it will come on system restore, do full system restore with no back up, it will make your computer like new
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

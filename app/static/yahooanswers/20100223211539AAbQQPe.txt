@@ -1,0 +1,11 @@
+"internet explorer could not open the search page" problem?
+When I try to go to a website on internet explorer it says "internet explorer could not open the search page" my internet is connected, firefox works perfectly fine. Ive checked my internet settings on ie and its all seems good. But i cant get it to work, and also my itunes music store wont connect either, and i cant upload anything to firefox, it just says error on the site. Ive have this problem once before but i cant remember what i did to fix it.
+
+Reyart PC in safe mode by tapping F-8 key choosing "Last Known Good Configuration" from menu. Next download, update, run Malwarebytes, ccleaner, Reset IE8 to Default in Options, Advanced and Restart PC...
+May be you have used an antifilter or proxy , and forgot to turn back the proxy settings in your browser?
+
+For IE, Go to Tools| Internet Options|  Connections | Settings (or Lan Settings, if you work on a network) 
+
+Then remove the checkmark from the first checkbox in Proxy Server section. Then press OK twice.
+
+Good Luck

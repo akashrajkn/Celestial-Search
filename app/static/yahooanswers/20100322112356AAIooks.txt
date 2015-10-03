@@ -1,0 +1,4 @@
+How do I set up my router to use hotspot shield so I can use my PS3 and netflix?
+I downloaded hotspot shield, but the netflix still doesn't work do I need to do anything else>
+
+Hotspot Shield doesn't work on a router, I can't imagine how you configured this.

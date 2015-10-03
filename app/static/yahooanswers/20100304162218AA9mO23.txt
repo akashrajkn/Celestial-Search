@@ -1,0 +1,7 @@
+if i have one internet source?
+if you have one internet source can you use with 2 computers if you have a extension and internet cables
+
+some external modems and routers allow more than one connection.
+it would be easier to fix the primary comp. with a router, and have the 2nd read from the network.
+you need a wireless router if you want to connect 2 computers to the internet.
+find a program called win gate and install it,it will make one of your computer server and the other will be a network and both can work together

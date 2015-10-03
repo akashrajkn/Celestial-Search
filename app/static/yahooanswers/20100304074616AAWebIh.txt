@@ -1,0 +1,5 @@
+My Mozilla works faster.. but when I upgraded to IE 8 from IE 6, its taking forever to load?
+Even if I re install IE 8, its not working faster, please give me any tips if you have any.. I want to work on IE 8 as well. It works fine for all of my other friends
+
+The Windows Registry is the master control center for your operating system and applications it runs.  Corruption or overload registry issues can cause all sorts of pc performance problems, including poor application startup times, slow Windows start-up, extremely slow shut down, slow internet surfing,inability to resume from computer sleep and more.Cleaning,compacting, and optimizing your Windows registry can go a long way to dramatically speeding up your computer¡¯s performance, start-up and shutdown speed.
+Recommended:  Run a  Registry Scan http://make-a-computer-run-better.com         Now to Detect Errors and Improve your PC¡¯s speed instantly!

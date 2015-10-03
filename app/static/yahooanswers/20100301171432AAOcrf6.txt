@@ -1,0 +1,10 @@
+How can I get Google Chrome to keep me logged in to sites when I close the window?
+When I opened a browser on my old computer, I could go to facebook and I would still be logged into fb from last time. But my new computer makes me log in to sites again any time I close the browser. How can I stay logged in?
+I have windows 7 and my sites don't stay logged in.
+
+Google Chrome will do this by default as well, unless you sign out of the site.
+Most sites use what's known as a 'cookie' to keep you logged into sites when you close your browser. So you don't usually need to worry about this, so long as its a decent website it should do it anyway. By the way have you tried a Google Chrome extension that shows you all recently visited sites and instant access to your favourite pages?
+
+Check some of them out here:
+
+http://www.accelerated-ideas.com/softwaredownload/prod-chrome-extension.aspx

@@ -1,0 +1,10 @@
+Downloading Issues...?
+Okay first off I have Windows Vista and Internet Explorer 8.
+Okay I was trying to download a WoW addon, but when I clicked on the download link it went to the Internet Explorer could not Display the webpage thing... OIt does it when I try to watch videos too... HELP!
+Thanks in Advance
+
+Are you using the 64-bit edition of Internet explorer? If so, try using the 32-bit. If that's not the case, then you may want to test and make sure, java, flash, and cookies are all working properly. If all else failes, download and install firefox. 
+
+SuperGeek
+www.spoiledgeek.com
+thats a pretty common fault with internet explorer, use google chrome it is much faster and much more reliable

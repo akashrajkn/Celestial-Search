@@ -1,0 +1,17 @@
+How to join partial files manually, downloaded by Internet Download Manager.?
+I use IDM to download files form the internet, IDM usually downloads these files in a temporary folder, and in small parts. When downloaded, idm joins them to make the complete original file.
+Sometimes idm gets disconnected, or the file(s) doesn't support resume and on disconnection i am unable to get the desired file, because idm doesn't join the partial downloaded parts.
+These partial files are of type FILE. 
+My question is, how can i join these incomplete parts. Is there a software out there that i can use?
+Some times, these files are apart of a movie (AVI) then i can play he first FILE part in VLC Media Player, but the other parts don't play. How can i join them.
+A big thanks in advance..........
+
+Open a command prompt window
+Type the following command:
+
+copy /b file1 + file2 joinedfile
+
+(replace file1, file2, and joinedfile with real file names)
+
+this will merge file1 and file2 (to a file named joinedfile in this case)
+You can then merge the other files to the joined file to get another joined file. You get the idea.

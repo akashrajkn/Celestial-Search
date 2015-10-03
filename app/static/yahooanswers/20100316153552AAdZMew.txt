@@ -1,0 +1,17 @@
+I HAVE A VIRUS!!!! HELP!!!?
+I don't know how i got it! All i know is my antvirus software didn't catch it. I had porn site popping up and all that good stuff :) I had a guy work on my computer and he said it's fine now...but now i can't get on the internet. It shows that i am connected and everything adds up but i can't get on. Any idea what it could be?
+
+reinstall + reboot (your browser)
+
+If that doesn't work then idk
+Reinstall your browser.
+Try going into the control panel and disabling then enabling your LAN or Wireless adapter for your machine.  If that doesn't work, try downloading (from another computer) a program called Spybot S&D.  It will let you know if you have something other than a virus inhibiting your internet connection like spyware.
+Drink some tea and you'll feel much better
+You can use SpywareNoMore. 
+As we all know Computer hackers seeking financial gain rather than thrills or notoriety are increasingly flooding the Internet with malicious software code (spyware, adware, key loggers, trojans). They are infecting computers with highly sophisticated programs that record surfing habits, bank passwords and other key financial data and send them to crooks over the Internet. These programs can be hard to spot, disguised in downloads such as toolbars, search engines, browser accessories, screen savers and other seemingly helpful utilities.
+
+SpyNoMore anti-spyware safeguards your identity and restores system performance through fast, smart and powerful spyware protection.
+http://www.dvd-rip-software.com/Other-Software/Other_Tools/SpyNoMore.html
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

@@ -1,0 +1,22 @@
+Firefox Browser how to empty?
+Can someone please tell me how to empty the firefox browser cache
+
+on your browser bar, click on Tools... its pretty self explanatory from there, I think
+Click on Tools, then Clear Recent History.  Set the time range to "everything", then uncheck every box except for Cache (if there are other things that you want cleared, check those boxes also), and hit Clear Now.
+Go to Tools, then to Options.
+In the menu, select "Advanced" then in the tabs click "Network".
+You'll see under "Offline Storage" you'll be able to clear your current cache as well as change the settings for how much it stores, if anything.
+If you have Firefox version 3.4 or below
+1st click on Tools
+2nd click on Options
+when the window opens
+3rd click on Privacy
+4th click on Private Data
+5th at the bottom click on Clear now
+when window opens
+6th clear or place check marks on type of info you want deleted and 
+7th click on Clear Private Data Now.
+For Firefox version 3.5 and higher 
+Just click on Tools and go to Clear Recent History. You can then choose how much info you want cleared i.e 1 hour, 2 hours, 4 hours, Today, or Everything. You can also choose what type of info you want deleted, then just click on Clear Now.
+
+The link below will give you more info if you need it.

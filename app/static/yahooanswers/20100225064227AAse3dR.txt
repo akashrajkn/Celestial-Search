@@ -1,0 +1,4 @@
+Help me with my internet connection problem, please?
+OK i'm using adls cable with modem. When i connect this model to my laptop, internet is fine. But when i connect it to my pc, the connection is good at all. Like when i press a link, a page that says i don't have internet connection appears as though i don't i'm not connected, now i can refress a few to get the page to load, but i dont have this problem with my laptop. Help.
+
+Try loading you internet servers cdrom into your pc again and reload as per instructions

@@ -1,0 +1,26 @@
+Firefox (3.6) gets glitchy after 20 or so minutes?
+I now have Windows 7 Pro 64bit and have noticed that Firefox gets glitchy after about 20 minutes regardless of what I was doing.  This never happened on Vista, although I was using Firefox 3.5 back then.  I have seen a friend's computer with Vista have the same problem.  Can it be Firefox 3.6?
+
+Some examples of glitchiness:
+- Flash videos (using Flash 10) would stop for a fraction of a second.  The stop intervals can be anywhere from about 10 to 25 seconds.  The sound is not affected.
+- While typing (relatively fast - I believe the last I was tested, I was at 90 wpm), all of a sudden, it would look like I am not typing, then a fraction of a second later, all the words would appear really quickly.  
+- While scrolling I would try to scroll, nothing would happen, I would scroll again, then the window would scroll to the very bottom (can get quite annoying!)
+
+I have tried Chrome, with the same problems.
+
+None of these problems happen on IE8 or any of my programs (i.e. Photoshop, Windows Media Player) or windows explorer (i.e. when I open my library and browse my pictures or music).  
+
+I have already tried uninstalling/reinstalling/updating Firefox and Flash, disabling various add-ons and plug-ins and updating drivers (touch pad, video).  I have not tried system restore because I cannot remember when Firefox was working properly, if ever.  
+
+I know I can just close and relaunch Firefox whenever I want to watch a video (because the glitchiness is most bothersome while watching videos).  But at this time when I want to watch videos longer than 30 minutes I use IE8.
+
+Does anyone else have this problem?
+Any suggestions?
+
+My laptop is a VAIO VGN-FW290.
+
+Well, i have 3.6 ,, but, i have a 32 bit vista.. Can you get the 3.5 back..  ?  I have no issues with it. works fine for me.. and i have a bunch of security add ons.  ~
+If you can¡¯t find the right Windows drivers manually I would recommend just getting a software program that can do it for you. There is a program I use which will find drivers for just about all hardware devices. The best part is it takes a snapshot of your system specifications and matches the right driver to go with it. Perform a free driver scan at:
+http://www.drivers-updates.net/drivers/windows-vista-drivers.html
+You can also search by the following link:
+http://search.yahoo.com/search;_ylt=A0oGkwVSn2tLfmwAQjxXNyoA?p=site%3Awww.drivers-updates.net&fr2=sb-top&fr=siteexplorer&sao=0

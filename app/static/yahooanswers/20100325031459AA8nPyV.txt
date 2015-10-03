@@ -1,0 +1,13 @@
+my mozilla browser takes more time to open,solve it?
+
+
+Use Google Chrome. Or uninstall your add ons
+Mine is doing the same thing, but hopefully it is cause i am using my old pc, even the gmail is crap and i only downloaded it today, have you tried Chrome that is the other one i am using and it is fast give it a try
+i use opera less traffic and it is like here the more people that use it ----it does slow down 
+fox is very popular and sometimes they can't handle the load
+here are other choices
+avant browser
+goolge 
+opera 
+remember like i said-- less traffic----the faster your browser will be
+You can effectively see if you're having the same speed issues using another browser (is it page loading or the browser itself that's sluggish?). If it's a generalized issue with your computer, you might want to defragment you hard drive. If it's Firefox, try disabling the extensions you're using (if you have any) and see what difference that makes. If that doesn't help, you can always try uninstalling/reinstalling Firefox.

@@ -1,0 +1,4 @@
+How do I restore previous websites in the address bar--FIREFOX?
+I don't know what happened but I can't see the previous websites I've typed into the address bar anymore.  It's kind of annoying to type in the whole address again without having it pop up automatically.  How do i fix this?  Thanks.
+
+Check your history and see if it was deleted.  You might have to update it as well because there was a recent update. If your history was deleted then you will have to then type everything back in.

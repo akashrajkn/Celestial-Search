@@ -1,0 +1,10 @@
+i use firefox browser and ive got a problem!?
+basicly when i used to close the pade id click "save and exit" but i clicked "dont show me this again" by accident so now it doestn come up no more and takes me back to the home page :( any clue how to get it back up ?
+
+Close down Firefox completely
+
+Go to Start -> All Programs -> Mozilla Firefox  Then open Firefox (Safe Mode)
+
+when the dialog comes up, check "restore to default settings"
+Try the newly released opera 10.5! It rocks! its the fastest!
+http://www.opera.com/

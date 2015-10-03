@@ -1,0 +1,15 @@
+i wanna upload some photos on google earth?
+i upload some photos on panoramio site but i cant show on google earth software tell me the way by which we can see photos on google earth tell me the way in brief
+
+I assume that you want these photos to be viewable in the GE layers?
+The easiest way to add photos to the layers is to open a free
+panoramio account and upload them there. You will need to position
+them on the globe after you upload them. If they qualify, they will
+eventually be added to the panoramio layer in the geographic web. You
+will also get a network link for your images which you can use
+immediately to see them in GE.
+
+http://www.panoramio.com/
+
+Read the FAQ on the panoramio site to get an idea of the type of
+photos which get added to GE and which ones don't.

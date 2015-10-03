@@ -1,0 +1,6 @@
+How do add links to your facebook youtube and twitter onto your blogger.?
+I'm a total noob when it comes to blogger. How do I add things like links to my facebook, twitter and youtube accounts? I see the add widgets option but which do I use to add these things?
+
+Hi, dont get yourself complicated simply write http://yourdomain.com and the link would be created. In twitter add the link on tweet and on facebook see on your left side you will see add link simply click on it and add your link.
+
+Pretty simple na.

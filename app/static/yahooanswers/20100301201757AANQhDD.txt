@@ -1,0 +1,21 @@
+internet history help me figure this out please!?
+ok so i have parents that like to monitor my internet searches and history
+i have firefox and so i always press the delete history and everything button to delete it all
+here is the problem
+my parents have a friend that taught a special way to look at the deleted history and searches
+my question is does anyone know how to access this secret way that i dont know about and delete my history from there?
+please help!
+i let me friend borrow my laptop the other day and opened up a whole bunch of straight and gay porn sites!!!
+i was horrified! 
+my parents will take away my computer for sure if i am unable to find this special way at looking at the deleted history
+i saw this computer technician once access it so i know it can be done,
+please can someone help me before my computer gets take away?! 
+btw its a windows vista computer
+hope this helps
+
+In Firefox: Tools > Start Private Browsing, or Ctrl + Shift + P. This will enable private browsing.
+Download CCleaner. It will delete everything, everywhere.
+http://www.ccleaner.com/download
+
+Works for all browsers.
+restore it to a day before you looked at them sites

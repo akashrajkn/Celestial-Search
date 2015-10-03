@@ -1,0 +1,9 @@
+Does windows 7 provide adequate virus protection?
+Does windows 7 provide adequate virus protection?
+
+No operating systems provide adequate virus protection.
+Your windows program doesn't provide the virus protection you need to get a security program to do that.  The only type of protection that it provides is a firewall.  But it is advisable that you get security software that has it's own firewall that is superior to Microsofts.
+No. Windows 7 is an operating system. Operating systems don't provide any real protection (except for the occasional security warning). However, Microsoft has released an Anti-Virus called "Microsoft Security Essentials." Look it up online. It works great with Windows 7 and has worked great for me so far.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

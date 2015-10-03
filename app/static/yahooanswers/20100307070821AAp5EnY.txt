@@ -1,0 +1,16 @@
+Streaming Video Problem?
+When i try to view a video from websites like youtube, a warning comes up saying that I do not have the latest Adobe's Flash Player and must download it for me to be able to watch the video. However when i do click the link to download and install Adobe, a virus threat pops out saying that the installer has viruses. Does any one have a virus free solution?
+
+instead of clicking the link (often a dangerous thing to do) go to google and key in adobe flash player from there and then you will know you have gone into the right website before downloading.
+Hello my friend,
+
+Go here to download Adobe Flash: 
+
+http://get.adobe.com/flashplayer/
+ 
+A lot of times however, its not the case, and it may just be a virus. Try running an antivirus, like Malwarebytes (http://www.malwarebytes.org/)
+
+Also, try using a different internet explorer. Try using Google Chrome, my personal favorite after moving from Firefox, has a lot less issues like this.
+
+Good luck my friend, hopefully I helped!
+true you should download the flash player from a legit site but your antivirus may still pose as a problem and may stop your videos from streaming ( kaspersky has done this before). so if your videos still arent working go to your anti virus and disable the web antivirus (only. do not touch your virus scanners)

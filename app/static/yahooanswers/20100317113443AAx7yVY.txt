@@ -1,0 +1,19 @@
+Deleting entries in drop-down box of address bar on mozilla firefox?
+two questions:
+
+1. is there a way to delete entries in this drop down box?
+2. when using private browsing, will the sites visited appear in the drop-down box?
+
+thanks
+
+1. Hover over them and press delete.
+2. No, that's the point of it.
+You can disable the drop down on firefox simply by:
+
+? typing into the address bar about:config
+? Click on the button saying i'll be careful i promise
+? in the filter box type in browser.urlbar.maxRichResults
+? double click where it says 12 opposite and change the value to -1
+? Restart firefox and the drop down is disabled. 
+
+hope this helps

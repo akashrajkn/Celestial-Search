@@ -1,0 +1,8 @@
+How can I use a Windows Mobile based mobile phone as a modem?
+I have a HTC Touch mobile phone with Windows Mobile 6.1. I have tried using the Comm manager and switching on Internet Sharing, and turning on the connect option only to have the Windows 7 Home Premium Sony VAIO to not recognize the phone as a modem. Any Ideas? Should I call US Cellular? Sony? Windows? lol yeah right as if they even have a support hotline. lol
+I guess I should have added I also have the software..Windows Mobile Device Center 6.1
+
+Its possible your carrier has disabled Internet sharing. 
+
+But, you have to ensure that active-sync is installed, because if it isn't your phone will not connect. Can you dial up without the computer connected? If so then I suspect its been disabled if you're running the Internet sharing app.
+you can't use that method but i highly reccomend http://www.wmwifirouter.com/ it makes your phone a wireless hotspot that up to 8 devices can connect to through your phone.. wirelessly! if your interested in this you can get the free version here http://global.wmwifirouter.com/trial/ then download the cab on your phone.

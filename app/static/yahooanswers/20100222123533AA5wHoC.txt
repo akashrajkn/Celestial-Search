@@ -1,0 +1,8 @@
+Internet Explorer Problem?
+Every time I start my PC, right at start up, an internet explorer error message is displayed. It  says "script error, do you wish to continue to view the page"( I m sorry for not being able to quote the exact message). I am at a loss to understand what the hell went wrong.May I emphasize that it happens only at startup,.
+Please help me out guyz.
+
+Restart PC in safe mode by tapping F-8 key, choosing "Last Known Good Configuration" from menu. Next download, update, run Malwarebytes, ccleaner, Reset IE8 to Default in Options, Advanced and Restart PC...
+It could be malware I would just reinstall IE this usually fixes all script errors
+Sorry But I couldn't stop myself in writing this
+"Chirag Tale Andhera"

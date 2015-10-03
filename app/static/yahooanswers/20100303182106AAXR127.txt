@@ -1,0 +1,11 @@
+what does this error mean?
+Coppermine critical error:
+Unable to connect to database !
+
+MySQL said: Access denied for user 'lolisam'@'localhost'
+
+
+i got it when i tried going to a site that was saved under my favorites.
+any help is greatly appreciated :)
+
+The website owner needs to update their code or database settings because the username - password that they use to "login" to their database is incorrect. Nothing you can do other than contacting the website's owner or tech person to fix it.

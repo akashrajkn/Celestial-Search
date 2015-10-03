@@ -1,0 +1,25 @@
+is there a tool i can use that clears all my tracks on internet and websites?
+i have been to and clears any Thing type like credit card details i  have cc cleaner adaware microsoft anti vires firewall sbybotvglary utilliities malware anti malware advance system care ibot 360  ca yayoo anti spy
+
+If you want to clear it you should have all of this:
+1.Tune up u utlitilties 2010
+2.registry clean expert
+3.Advanced System Optimizer 
+4.window doctor
+ 
+
+All of this are you use it cuz it can clean ur tracks on the internet and can speed up ur pc!!
+Hey don't forget to vote me a best answer cuz it's work.
+Install  CCleaner, it,s free and gets rid of all unwanted files and web sites. Make sure you know what you want to dump  before you hit the clean up button.
+You don't need anything because that is already built into XP and Vista.
+
+Internet Options ? General ? Browsing History ? Settings ? Select "Never" in the top button setting and at the bottom set the History days to 0 ? OK
+
+Content ? Auto Complete ? Settings ? Remove all the ticks ? OK
+
+Advanced ? Security ? Scroll down and put a tick in "Empty Temporary Internet File Folders when Browser is closed" ? Apply & OK
+You can use SpywareNoMore. 
+As we all know Computer hackers seeking financial gain rather than thrills or notoriety are increasingly flooding the Internet with malicious software code (spyware, adware, key loggers, trojans). They are infecting computers with highly sophisticated programs that record surfing habits, bank passwords and other key financial data and send them to crooks over the Internet. These programs can be hard to spot, disguised in downloads such as toolbars, search engines, browser accessories, screen savers and other seemingly helpful utilities.
+
+SpyNoMore anti-spyware safeguards your identity and restores system performance through fast, smart and powerful spyware protection.
+http://www.mobi32.com/Other-Software/Other_Tools/SpyNoMore.html

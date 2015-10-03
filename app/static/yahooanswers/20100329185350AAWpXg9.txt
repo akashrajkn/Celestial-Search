@@ -1,0 +1,5 @@
+A really Quick question about AT&T wireless internet?
+So i have a 2wire router and we got this other router (lynxe or somthing like that)  and i want to know if i can have 2 routers and will it slow down our upgraded speed or screw everything up that is connected to phone line?  thanks 10 pts best
+Umm... i know 1 is "G" idk what the 2wire one is
+
+Yes it is possible to connect two routers to your in home network. I don't think it will slow down your connection speed. Unless one router is rated a "N" router, and another is a "G". That will be the main thing on the speed. Because "N" routers are faster than "G". But it will not screw everything up with the phone line. Just follow this guide I posted it talks about how to do it, and whatnot.

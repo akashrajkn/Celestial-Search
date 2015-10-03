@@ -1,0 +1,16 @@
+Realisticaly how long will a 3GB monthly usage allowance last?
+I use the internet for approx 8 hours a day to check e-mails and addresses on ebay.
+
+If your just more or less doing that, then that should be sufficient.
+
+What eats up your allowance is streaming videos and films.
+
+However as you have a small cap if you download this small free program. 
+
+It¡¯s only 1 MB ?
+
+http://www.hootech.com/NetMeter
+
+You can set it with your cap. It will show a running display of your usage [all up and downloads] and keep running logs on a daily, weekly and monthly basis. It will also, work out daily what you have left for the rest of the month and how much you can use each day. It will also warn you when you are approaching that limit.
+
+It will also give some idea how fast your using your limit.

@@ -1,0 +1,7 @@
+Computer/Internet help?
+My computer wont pick up an internet connection even though my Xbox and laptop(which im using) have perfect internet connection. Every time i try to connect to the internet on my comp it says modem had an unreported error and i dont know what to do. I hav a netgear modem/broadband thing and thats all the info i can give u. Sorry if there are not enough details.
+
+Only laptops,xbox and the Wii etc. can get internet connection (Wireless) well the computer needs wired connection trust me!
+
+Hope i helped
+it sounds like you need to update the ethernet drivers on the computer. go to control panel, system, then device manager then network adapters. you should find it in there. try right clicking on it and click on update driver software. if it fails to find a driver then note down what its called and google it

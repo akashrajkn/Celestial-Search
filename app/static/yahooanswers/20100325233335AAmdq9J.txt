@@ -1,0 +1,33 @@
+How to create profile for mozila Firefox and then set it?
+I want to change the startup page of it and some other things also...
+
+I want to do all this using a batch file....
+
+Create a New Profile in Firefox
+Step1
+Close Firefox. Click 'File' and then 'Exit' to make sure the program is completely closed.
+Step2
+Click 'Start' from the desktop and then 'Run.'
+Step3
+Type 'firefox.exe -ProfileManager' (without the quotes) in the 'Open' text field.
+Step4
+Click 'OK' to launch the Profile Manager.
+Step5
+Click the 'Create Profile' button to begin using the profile creation wizard.
+Step6
+Click 'Next' after reading the welcome message.
+Step7
+Type a profile name in the space provided. Consider using something descriptive to help you remember what is saved in the profile.
+Step8
+Click the 'Finish' button to complete the wizard.
+
+Use Your New Profile in Firefox
+Step1
+Open the Profile Manager following the instructions above.
+Step2
+Browse through the list of profiles that you have created.
+Step3
+Click the profile you want to use.
+Step4
+Click the 'Start Firefox' button to use the selected profile.
+run your firefox.exe with -P

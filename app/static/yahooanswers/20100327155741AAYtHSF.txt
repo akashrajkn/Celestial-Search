@@ -1,0 +1,22 @@
+Where can I upload 7 gig vid for my family to view for free?
+Hi I want to upload a 7.9 gig hol video for my family to view.   have checked a lot of options available for posting videos for family etc online but non of them seems to allow for over 5 gigs.  Is there a way to do this?
+
+Thanks
+
+Well, if all else fails, split it into two 4 gig parts and upload them to YouTube.
+
+Good luck!... ?
+use 7zip and ''add to archive'' split the volume by 700mb and then upload each compressed file individually onto rapidshare and email the files one by one to your family, tell them to extract just the one 001 file
+You need to convert it into a more reasonable size
+
+Format factory (freeware) should do the job
+
+http://www.formatoz.com/
+
+It would be wise to install a codecs package first, so you have maximum output options
+
+http://www.free-codecs.com/K_lite_codec_pack_download.htm
+(pick the full option)
+
+If a full Hollywood film can fit in a 700 MB AVI file, I'm pretty sure your blockbuster can be reduced quite significantly too
+If you are able to compress it to 5gb there is a site called upload direct that lets you upload 5gb for free. You can send it to your families emails or you can give them a password to log on and view it.

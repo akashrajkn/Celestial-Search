@@ -1,0 +1,10 @@
+Firefox - How do I block all sites by default, and set up a whitelist?
+I'm trying to set up Firefox so that by default it blocks all websites, except for certain sites on a "whitelist," so my kid can go on the internet, but only use the sites that are on the list.
+How would I go about doing this?
+
+Download the add on for Firefox, forget what its called.  Then you can do that, but it will be a pain.  You'd be better off using something like K9.
+This article explains it.
+Hi you may Try this blocker:
+http://download.cnet.com/Aobo-Blocker/3000-27064_4-10896516.html
+Aobo Porn Blocker - Software to Block Porn Websites, Applications, Filter Web.
+You can set a whitelist with this filter.

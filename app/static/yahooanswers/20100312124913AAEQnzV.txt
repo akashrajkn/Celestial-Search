@@ -1,0 +1,19 @@
+Mozilla Firefox won't open at all?
+I used mozilla firefox for a long while, and it worked fine.
+Then all of a sudden it just stopped opening.
+When I click on the icon, it does the loading hourglass thing for a few seconds then does nothing.
+No matter how long I wait. 
+It's been probably a couple months since I have used it, and Im just now getting around to asking how can I get it working again?
+Please help! Thanks :)
+
+re-install firefox and update to latest version.
+
+if you have already done that, then try downgrading to a previous version (e.g version 2.20)
+Go to control panel and uninstall firefox. and then download it again. make sure to keep it updated. 
+
+or... when you are on your desktop screen, click ctrl, alt, and delete at the same time to bring up the task manager. click processes, and look for the process called 'firefox.exe' choose to end the process and try opening firefox again.
+It is a long time since I've used Windows, but I can't help but wonder if your computer has some sort of malware in it. I think I would update my antivirus then scan to see if it finds anything. Then try and save your browser settings. One way to do that is to use another browser which will copy those settings. Once you have done that, download the latest version of FF, then remove the old version and install the new version. If you don't have an alternative browser, get at least one. 
+The best long term solution is to not use Windows unless you have to, use one of the free and better (and free) operating systems such as Ubuntu for your day to day computing and surfing.
+First, Reinstall Firefox.  If it don't work run a scan with a anti- virus if you have one on your computer you don't need to pay for some but stay away from avg also Microsoft Security Essential it free also Avast is free if you need to get one. If the anti-virus scan didn't find anything tried running Malware Bytes AntiMalware. You can get it by download.com.
+If you have it set to update automatically it probably has and gone wrong  but Give up on Firefox until its fixed there are currently just too many problems to rate it as a reliable piece of software. Try Orca, K-Meleon or Flock they are all free Mozilla based browsers and are all faster than Firefox. They have been produced by people who agree the Mozilla search engine is best but that firefox has gone wrong somewhere. If you go to firefox help pages or Mozillazine help pages you will see that the people there are extremely arrogant and blame everything and everybody for having problems with Firefox. Not a good sign. IE8 is OK with a shell like Avant or Maxthon or slim browser. But a browser that is not part of the OS will always be more secure. the less well known it is the less likely it will be hacked.
+reinstall and/or update

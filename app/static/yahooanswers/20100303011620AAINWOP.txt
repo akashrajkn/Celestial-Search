@@ -1,0 +1,28 @@
+how do i get rid of that stupid google searchbar? i can't find it in programmes uninstall?
+so far, when i click the little arrow on the right of the bar,when i go to manage internet explorer add ons, it locks the bit where it says remove it
+
+CCleaner :) best thing you can get, gets rid of everything. 
+
+Google it and get if from File hippo. Trust me its amazing.
+If you mean google toolbar for internet, than go to control panel, than programs and features or add remove programs, depends on what windows you use, find it in the list in alphabetical order and press remove or unistall, and thats it its gone, done it numerous times.
+right click your favorites bar(not on icon)
+Select the toolbar you no longer want.
+Uncheck it. Toolbar gone....
+Whenever you install new software, uncheck toolbar downloads and avoid starting app at windows start up.
+You can try right-clicking your Internet Explorer Icon, then click 'start without   add-ons' then just follow directions....it allows you to disable or delete a toolbar.
+If you have Firefox 
+Right click under the google search box.
+A pop up opens click customize.
+A larger pop up opens and you can now click on the search box, and drag the google search into that bigger pop up.
+
+Hey presto no more search box.
+
+To put it back start from the begging, when the large pop up opens simply drag the search box back to where it was.
+With you browser open click on View ? Tool Bars ? If there is a tick beside "Lock Tool Bars" click on it to unlock it.
+
+Then go back and where it says "Google Tool Bar" remove the tick from beside that and it will disappear. Up to you whether you relock the Tool Bar afterwards.
+
+If you wan to totally remove it ? Control Panel ? Add & Remove ? Scroll down till you find the Google Tool Bar and then click on Remove.
+
+You might be asked to reboot afterwards.
+dragging it to the pop up window once you click the customize button I will also recommend that

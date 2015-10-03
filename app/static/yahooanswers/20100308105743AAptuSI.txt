@@ -1,0 +1,19 @@
+Autocomplete will not work on Windows XP, Internet Explorer 8?
+I had a knarley virus on my computer a couple weeks back, so I gave it to my father in law to fix. When I got it back the Autocomplete had stopped working. I am pretty computer savy so I've tried creating a new user profile, editing the registry and whatnot (it will not allow me to delete the subkey I need to delete). Anybody have anything else I can try? All the stupid microsoft sites I've gone to haven't worked for one reason or another.
+
+If you confirmed that your system contains virus, then you could not delete using anti virus. If you try to install anti virus software is worthless because virus will change your registry key values so you can't view you hidden files too. 
+   So at first check whether your Registry has been working if it so god saved you little. Click "Windows key+R" then type "regedit" so that registry window will open. Then "HKEY_LOCAL_MACHINE" and then click  "SOFTWARE" then WINDOWS at last click CURRENT VERSION. Then you can see RUN in the tree. Just click on it you can see a list of programs which runs at start up. Delete the file which you suspects.
+Look at this article for full details
+Actually you can change the registry of your computer, and then your problem may be solved. 
+But the registry is the most important part of a computer. If it is crashed, you will not be able to use your computer. I suggest you uninstall Internet Explorer 8 because it is not stable. You can uninstall it as the following steps:
+1. Open the Add or Remove Programs window by doing one of the following: 
+For Windows Classic view, click Start and select Settings | Control Panel. Double-click the Add or Remove Programs option. 
+For Windows XP categories view, click Start and select Control Panel. Click the Add or Remove Programs link.
+2. Select Internet Explorer 8 and click Remove. 
+3. Click Yes in the confirmation dialog that appears. 
+4. If the program is running, click Yes to close it and to continue. 
+5. Ensure that all other programs are closed and data is saved, and click Yes to restart your system
+
+Then reinstall Internet Explorer 6 or Internet Explorer 7.
+
+You'd better back up for your registry before making any changes to your registry. Then you can restore it back if there is serious problems happening.  RegistryMum can help you for this. You can know more about it from http://www.registrymum.com . Hope it can be helpful.

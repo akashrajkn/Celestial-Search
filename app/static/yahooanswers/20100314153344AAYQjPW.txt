@@ -1,0 +1,29 @@
+Glasser wont work with Firefox 3.6?
+Every time I try to start up Firefox I get a java script error
+
+Enable and disable the java script and try woking into it.
+
+To enable JavaScript in Firefox 1.xx series
+ 
+Open Firefox.
+On the Tools menu, click Options.
+Click Web Features in the Options list. (Fig.1)
+Under the Web Features section, check the box next to Enable JavaScript.
+Click the Advanced button to open the Advanced JavaScript Options box. (Fig. 2)
+Check the boxes under Allow scripts to section that you want to allow.
+Click OK.
+Click OK.
+
+...
+Once you disable it, update your firefox browser, then try it. Else you should reinstall and see
+Hi, Juwan L
+
+There are 3 step to repair firefox 3.6 error
+
+My friend had the same problem with you. I am sure your computer has registry problems.It is very easy to repair firefox 3.6 error. you just need 3 steps:
+
+1: Download a registry cleaner and install it.
+2: Open the registry cleaner and scan you computer for free.
+3: Click fix button and you done.
+
+Download the top firefox 3.6 error repair tool here:http://www.RepairErrorInstantly.com/ttfix-firefox_3.6_error-zz0001

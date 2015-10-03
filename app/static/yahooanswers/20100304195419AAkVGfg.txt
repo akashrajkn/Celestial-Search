@@ -1,0 +1,4 @@
+Internet Connection Clogging Up?
+I am running Vista (Service pack 2) and run through wireless.  When i connect to the internet, everything is fine.  But then after say 10 mins - 1 hour, my internet connection slows down big time, to the point that when I go to load another page, it takes forever & just seems to keep on tryng to connect.  The problem is always solved by restarting my computer.  I'm positive that it's not the wireless connection, cause that's still connected.  I'm figuring it could have something to do with my firewall (Zonealarm), but I not sure.  I run Avast & Malwarebytes on my computer (both with real time protection), so I kinda don't think that I've got a virus or that it's a spyware issue.  I clean regularly with (Avanced Sysytem Care) & (CCleaner) as well.  Any help would be much appreciated.
+
+Vista is the worst OS ever made!

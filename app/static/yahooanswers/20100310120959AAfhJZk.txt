@@ -1,0 +1,36 @@
+what is the best browser?
+opera 
+google chrome
+etc.
+
+no firefox for me.
+
+There really isn't a best, there is the best for your uses.
+
+I use IE and Google Chrome the most.
+
+Firefox and Safari are also good.
+
+I do not like opera.
+
+Try them all and find the one the best suits yours needs and likes.
+Download Internet Explorer 8. It is by far the best web browser ever. Here is the download link:
+
+http://www.microsoft.com/windows/internet-explorer/default.aspx?WT.srch=1
+
+Hope you download...its free and worth it.
+
+~Bradley
+Firefox is fast and best ever. Google chroma is OK.
+Internet Explorer does not render html according to standards set down by the W3C (the body that declares the standards). This means that web designers/developers have to code their sites differently specifically for Internet Explorer. IE 8 is the best, but as of yet doesn't include support for the new version of html (5) that comes out in the summer.
+
+Chrome and Safari are based on the same engine. Safari runs well on Macs, but not so well on PCs. Chrome is a nice browser. It allows you to run tabs that won't record your history; Google call this incognito mode, but it is commonly known on the web as porn mode. Also, each tab in Chrome is a separate process; this means that if something (like flash) crashes in one tab, only that tab crashes and not the whole browser. Both of these conform to standards and support html 5.
+
+Firefox is a Mozilla product. It's very nice. It has a lot of plug ins available that allow you to customise the product, adding either additional security, useful tools, or fun things. I particularly like that I can stop javascript from running and block adverts in web pages.
+
+Another browser that is based on the same engine as Firefox is Flock. Flock is a social networking centric browser. It allows you to view RSS feeds, twitter, facebook, flckr, etc. from within the browser, rather than going to the separate sites and tracking down your individual friends.
+
+Opera has less than 1% of the market share, and therefore doesn't tend to be supported by many web sites to the same level that the above browsers have. It's nice, but doesn't really have the power behind it.
+
+Until Chrome came out on the Mac my primary browser was Firefox. I now use Chrome as my primary browser, with Firefox and Safari on my Mac. On my PC I use IE for work tools as they are designed to work best in it, then Firefox and Chrome for personal browsing.
+Chrome or firefox

@@ -1,0 +1,35 @@
+Mywebsearch.com help?!!!?
+OMFG.
+Everytime io wanna go on meez.com it take me to a god damn stupid search page...
+How can i make this quit happening...Its so anoying...
+
+Hi Angelz,
+
+This is Jason with Mindspark Interactive Network Customer Support.
+Though it appears the toolbar has been uninstalled successfully, it is probable that some of your browser settings have not been restored.
+
+What you are experiencing is the result of the My Web Search toolbar ¡°Search Assistant¡± feature.  Upon installation, the My Web Search toolbar Search Assistant modifies a setting in your Firefox browser to provide relevant search results in response to incorrectly formatted browser address requests.
+
+In order to disable this feature please open your FireFox browser and type ¡°about:config¡±.
+This will bring you to a page which states, ¡°This might void your warranty! Changing these advanced setting scan be harmful to the stability, security, and performance of this application.  You should only continue if you are sure of what you are doing.¡±
+
+Please heed this warning and follow our instructions to the letter.
+Click ¡°I¡¯ll be careful, I promise!¡± 
+This will bring up a list of settings.  At the very top of the page where it says filter type ¡°Keyword¡±.
+This should bring up a setting labeled ¡°keyword.URL¡±.
+Please right click on this and select ¡°reset¡±.
+Once you have done so feel free to close and reopen your browser.
+To confirm the reset was successful, type ¡°cnn¡± into your browser¡¯s address bar.  You should be directed automatically to the CNN homepage and not our search results page.
+
+To reset your home page back to your desired choice, use the following instructions:
+1. Navigate to the page you want set as your home page.
+2. At the top of the Firefox window on the menu bar, click on the Tools, and select Options.
+3. If it isn't already selected, click the Main icon. The Main options panel is displayed.
+4. Click on Use Current Page.
+?           If you have a group of tabs open, the entire group of tabs will be set as your home page.
+?           You can also use the Use Bookmark button to set one of your bookmarks as your home page.
+5. Click OK to close the Options window.
+
+We hope this helps and for further information on the My Web Search toolbar, or Mindspark, please see http://www.mindspark.com/main/toolbar-info/index.shtml
+
+To contact Customer Support directly: http://smileycentral.custhelp.com/app/ask/

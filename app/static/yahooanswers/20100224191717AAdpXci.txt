@@ -1,0 +1,12 @@
+Blocking on Formspring.me?
+I learned that by clicking the "Spam" button on a question on Formspring, it apparently will block the person (or so the site says).  I was wondering if anyone knew if this holds true even if the user is anonymous?  Will it block their IP address or something?
+
+Thanks!
+
+It will block the IP address. When they try to ask another question, it wills say invalid request - to make it look like it's just an error and they are not blocked.
+They can unblock themselves by resetting their internet or going on another computer.
+
+When they ask non-anonymous then it blocks their username.
+
+When they ask anonymous, it blocks their IP because other than that their is no way to identify them.
+

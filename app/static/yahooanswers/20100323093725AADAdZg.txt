@@ -1,0 +1,4 @@
+how do I link a MyName@domain.net to another email address such as gmail?
+I need to be able to have things automatically forwarded to another email such as gmail, and be able to send from gmail as the @domain if that makes any sense..
+
+You can have your gmail account login to your other account and PICK UP the mail and put it in your gmail inbox, but that is as far as you can go. Spammers try to do exactly what you want to do, make one account act like another to fool you and your spam filter. Oh, I get it now, you're a spammer wannabe and want to know how the other spammers do it!

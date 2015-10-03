@@ -1,0 +1,9 @@
+I got spam mail from my own email account on AOL?
+How, why? Is my account hacked? What do I do now?
+
+its called spoofed email.  add it to your spam list, and update/upgrade your filter.
+your computer has a virus
+run your virus scan
+Yes, your account has been hacked by a worm and has sent a spam email to everyone in your contacts. You need to change your account password so it doesn't happen again. Also, make sure you have good virus, spyware and other malware protection.
+Your address has been spoofed!
+OMG you invented a new word....ispam.

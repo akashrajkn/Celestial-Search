@@ -1,0 +1,18 @@
+Why won't it load the right page!!! (please answer)?
+When ever I try to load a web page that I search say in google, it will not load that page!!!
+The computer I am using is an xp which I bought from a friend ages ago it came with antivirus, which only just expired so till I can get the money together I am using AVG free! I don't think I have a virus. I never use this computer TBH like once a week as I have a windows 7 laptop. If you have any ideas on what's wrong tell me PLEASE!!!
+
+There is a file on your computer called hosts.ini that overrides your DNS.  That is, when you type in an address your DNS converts the name into an IP address and your computer goes to that IP address (a numerical address).
+
+If you have an entry in your hosts.ini the computer will go there without consulting your DNS.
+
+Viruses like to add entries into the hosts.ini, so you go where they want to you to go.  It keeps you off antivirus sites.
+
+To fix this, run WinsockXPfix.  It's free:  http://www.snapfiles.com/get/winsockxpfix.html
+
+It's a great free program, totally free of spyware.  In fact, it doesn't even install on your computer.  It just resets everything.  Afterward you reboot and you should be fine.
+
+-------
+
+AVG misses a lot of viruses.  If I were you I'd go to Download.com and download Malwarebytes Anti-Malware.  It's free and spyware free as well.
+Have Malwarebytes scan your computer.  It does a great job and will catch things that AVG misses.

@@ -1,0 +1,10 @@
+What add-on for FireFox =)?
+can let me save every image on a current page? My sister likes to download galleries and galleries of pictures of a certain celebrity, but it lists all the images on one page and she literally has to click on each of the hundred images for it to open in a new tab so she can save it in good quality (if she saves the thumbnails, that's exactly what gets saved - a thumbnail)
+
+So, is there any add-on that lets you somehow download the full resolution of multiple images without having to open them in new tabs?
+
+Thanks for any help ^^
+
+Thumbnails is kinda hard to work with, when all the images are on the page itself I click File->Save Page As ad save it as Webpage Complete and then beside the saved HTML file there'll be a folder with all the page's contents, among them are the images, by arranging them by type you can copy the images to a new folder...
+
+You can also go to the Add-ons page and search for "image download", I see there's one called "Bulk Image Downloader" which says that it downloads from thumbnails, but I haven't tried it myself...

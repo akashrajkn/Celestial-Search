@@ -1,0 +1,11 @@
+Is it possible to change the email of the Skype account?
+Or do I have to create a new Skype account?
+
+You have to create a new account!
+Here's what you need to do:
+1) Log on Skype
+2) Go to Skype - Account
+3) You get a pop-up page. In the bottom left corner you see your registered email. 
+4) Click on email settings, proceed as instructed.
+
+NB: if you do not know your password and have no access to your registered email address and have no purchase history you will have to create a new account, as customer support will have no means to verify your identity. But if you know your password, you can change your email address fairly easily.

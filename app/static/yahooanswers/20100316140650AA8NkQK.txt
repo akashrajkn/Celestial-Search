@@ -1,0 +1,11 @@
+When I click my internet it refuses to open?
+My internet will not open at all. It was opening just yesterday. This is a 2008 E-machine, and no it isn't a virus I cleaned my computer out and rebooted and installed updates yesterday. If anyone has any help please tell me as soon as possible. Have a nice day!
+
+Never say never, and never say it may or may not be ANYTHING.
+Scan with McAfee or Norton, then scan with Yahoo anti spy in the toolbar for free.
+Then run your disk cleanup and De-fragment and then restart.
+Then go to Start, My Computer,double click, and select C:/ and right click and properties. Then in Tools select Error checking. Run this you will have to restart.
+
+Then in the search bar on your PC in the start menu search "Memory Diagnostic" Run the diagnostics on the PC and this will be done soon as you restart again.
+
+Keeping the internet browser cleared will help, you must run either disk cleanup daily or buy more memory, this is why your internet stalls. You may also have a temporary internet outage in your area effecting service. You can also go to Safety at the top of this screen, select Delete Browsing History and this will help some also.

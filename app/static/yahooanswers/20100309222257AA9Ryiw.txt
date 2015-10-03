@@ -1,0 +1,7 @@
+Why does my Firefox keep crashing when I use BlogTv, but it doesn't crash when I'm using other sites?
+When I enter BlogTv, about 20 minutes later, it always crashes. It doesn't do this for any other site. I tried using Internet Explorer, but instead of crashing, the site just doesn't respond.
+
+it is local system problem,related to firefox.
+Every file present in your registry contains a command or direction for every program and application on your computer. Registry files are the files that give your computer the instructions for what to do next. If these registry files get corrupt or misplaced, your computer fails to understand what to do. In these instances, your computer loses control, eventually leading to a crash.At this stage the priority is to fix these registry files. In such situations it is suggested that you do not try to fix the registry yourself. Immediately find registry cleaner software and scan your computer to locate any errors. This software will identify all the missing entries or errors, restoring them right away. In many cases, your computer will be back to normal. It is recommended that you run this software once a month for best results. I should like to commend Registry Easy http://cleanup-comuter-run-perfectly.com
+  to you !
+Try upgrading your machine to something that was made within the last decade or so.

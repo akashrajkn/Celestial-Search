@@ -1,0 +1,8 @@
+Does heavy traffic on the Internet slow your computer down?
+For example, we've got AT&T high speed internet service, which they told me is DSL service. Does it slow down your computer more if a million nearby people are using it at a given time, rather than just one guy down the street, or isn't there any impact on computer speed?
+
+Especially on rush hour when all the 9 to 5's get out from work, the highway is all clogged up.
+It will slow down your internet, but not your computer.
+Not DSL. Cable, though, is shared between households, so that would be slowed.
+You will be sharing your connection with 10 or 20 others, it's called the contention ratio and yes if they are all using it to capacity at the same time, anything you do on the internet will be slower than normal.
+Internet has no relation with your computer speed, slow internet speed slow up browsing, downloading and uploading over internet. If you are a internet user then you dont care about your pc speed all you care is your internet speed.

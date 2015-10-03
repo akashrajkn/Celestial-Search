@@ -1,0 +1,15 @@
+Why won't this let me add any contacts?
+Every time I click to add someone the bar above my task bar says something like: javascript:oRelationships.addfriend(
+
+How does yahoo know I'm a loner? Ahhh!! zero relationships.. hah
+
+Turn JavaScript back on on your browser. 
+
+Internet Explorer:
+http://kb.iu.edu/data/ahqx.html
+
+Firefox/Safari:
+https://www.google.com/adsense/support/bin/answer.py?answer=12654
+
+Chrome:
+http://www.google.com/support/forum/p/Chrome/thread?tid=5e291648113cc731&hl=en

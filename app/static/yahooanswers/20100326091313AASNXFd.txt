@@ -1,0 +1,10 @@
+Can't connect to internet?
+My desktop cannot connect thru the internet from the ethernet cord in the wall. This cord is good cause I used it to connect my laptop to go online and the internet works. I think my desktop might have a virus that is preventing me from going online. It is a dell. Does anyone know how to fix it and make it read the network connection and go online?
+
+Maybe internet access is blocked on one way or another? When you plug in the cord, find "Network and Sharing Centre" or "My Network" or whatever it is called on your computer. You can sometimes get to it through the start menu, but if not then it will be in the control panel.
+
+See if anything appears in this window. If there is a connection appearing, then go through the options to find any hints on why it is unable to connect.
+You can use a network diagnostic tool which comes with all computers, go to control panel: Network and sharing center and click "diagnose and repair" It's probably not a virus.
+Only thing I can think of is to double check your that your network isn't disabled on your desktop.  Start>Connect To>Show All Connections.  Try right clicking on your landline, disable, then enable.   
+
+I'm assuming you've already tried a reboot.

@@ -1,0 +1,25 @@
+INTERNET EXPLORER is not working?
+every time i open explorer it give me " Internet Explorer cannot display the webpage" and then i refresh it and it works again then somethimes i am watching youtobe and it playes the first 5 sec and it says loading and it never loads then , i refresh it and it does the same thing i am tireeeeeee.
+i formatted my pc 2 time nnow and this issue is same can someone help plz
+Category
+
+You could try http://www.opera.com/
+get chrome or firefox
+
+
+i cant believe you even use IE
+ahem, I used IE, and have had this same issue. If you you have charter or something like that, they have tehnical team you can call. Plum choice is good too! Oh we call tech support and they are a BIG help! Try getting a computer savvy person to help you out! That my advice. 
+PLEASE PICK ME AS BEST ANSWER!!!
+Try enabling compatibility mode. It is the broken page icon next to the refresh button on the toolbar. Here¡¯s a good resource from the IEBlog that talks about compatibility mode in detail if you¡¯d like to learn more: http://blogs.msdn.com/ie/archive/2009/02/16/just-the-facts-recap-of-compatibility-view.aspx 
+
+If that doesn¡¯t work, run IE in No Add-ons Mode.  Go to Start -> All Programs -> Accessories -> System Tools -> Internet Explorer (No Add-ons) - If this fixes the issue, then go to Tools -> Manage Add-ons and enable the add-ons one by one to find which one was causing the problem. 
+
+You can also try resetting Internet Explorer's settings by going to Tools > Internet Options and then the "Advanced" tab, and click "Reset..." 
+
+If you¡¯re still not having any luck, I recommend you reinstall IE8 on your system.
+
+I hope this helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team

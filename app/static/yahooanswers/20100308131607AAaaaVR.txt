@@ -1,0 +1,24 @@
+Last.fm pros and cons?
+Hi guys.
+We are doing an assignment based on search functions on websites and I chose last.fm.
+I'm not saying last.fm is my favorite site but I absolutely can't think of any cons for it!
+
+So... does anyone have or had any issues with last.fm? Doesn't have to relate to the search function, it can be a problem that you have experienced on the site as a whole. Or any issues with scrobbler or any of their apps.
+
+
+Thanks heaps!
+Scorepyon
+
+Not sure about search-related, but I could dish out some problems with Last.fm...
+
+Last.fm has the annoying habbit of putting all artists with the same name on the same page.  Because of this, the similar artists search feature can provide some seriously unrelated artists.  This is dramatically apparent when listening to an artist's similar artists radio station.  Last.fm will randomly pick a similar artist and if it falls on an name registered to multiple artists then you are SOL.  You will likely get a track from one of the other artists and it will ruin your entire day. :p
+
+In search terms, this means that it is providing false positives for a search query because its database entries are not fully unique.
+
+Last.fm will also block the searching of some user-created tags if there is not enough usage of the tag.  I find this simply unacceptable.
+
+
+Not related to the search function...
+A while back users were freaking out about a variety of problems.  Some of them were as big as scrobbling history vanishing overnight, but others were trivial such as animated gif avatars not working because last.fm fubar'd their image conversion software.
+
+There was some controversy in the past with tracks being scrobbled by users even though the track had not been legally released yet.  This lead to the realization that the scrobbler only used the ID3 tags of the mp3 to determine what the track was, and didn't try to confirm the track in any other way.  This means that anyone can muck up their own ID3 tags so that the listening history both for that user and overall become inaccurate.

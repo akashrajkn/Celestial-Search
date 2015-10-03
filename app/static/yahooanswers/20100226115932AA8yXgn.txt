@@ -1,0 +1,7 @@
+hi i downloded firefox 3.6 im a firefox fan but in firefox 3.6 everey think is small to small to read?
+i went back to firefoxe 3.5.8 alls fine wots wrong with fire 3.6  tride ajust font size/tried display settings to no avall my lappy is a toshiba satellite L350-171 18 months old
+
+Try ctrl +
+That should make your fonts larger.
+ctrl - makes them smaller...
+Just click View in top bar and zoom to your preferred settings, just as before.

@@ -1,0 +1,13 @@
+My Internet Explorer and Firefox programs don't work....help?
+Hey...
+So I just used HouseCall to remove a malware/virus program on my laptop.
+It got rid of the virus....but completely removed Firefox and Internet Explorer with it, leaving only the shortcuts and the buttons on my program list.
+
+What do I do to get internet back on my laptop?
+But I don't have internet to download them....so I'm kind of stuck....I'm on someone else's pc asking this.
+
+u can try to download the firefox or internet explorer. do one of them. it may cause a virus if u download both. hope this info. helped.
+You can do IE restore with RegTOOL.
+More benifit, With RegTOOL you can safely clean and repair the windows registry with a few simple clicks.
+
+http://www.keep-pc-clean.com/

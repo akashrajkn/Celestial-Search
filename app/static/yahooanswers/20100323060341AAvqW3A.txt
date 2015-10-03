@@ -1,0 +1,7 @@
+I have lost my go back button on my toolbar along with not being able to right click to see the view button?
+I was messing around with my options when I deleted my go back and forward buttons. All I have now showing is most visited, getting started, latest headlines, free hotmail, suggested sites, and web slice gallery. How do I restore my options I had before? I tried reinstalling firefox but it still does not show up. Help, I will give out max points for this. Thanks
+I go up to where my buttons should be at and right clicked all over but no luck. Also do not see anything with tools either. Help
+
+Right click on the menu bar and then click "Customize" and the click on Restore Default Set!
+Hope this helps!
+On your tool bar, maybe the far right, look for the word "Tools" and the black down arrow, Click on it and go down to "Tool Bars" and click on them and see what happens. That will probably bring it back.

@@ -1,0 +1,16 @@
+I have a virus I need advice on getting rid of on my wife's net-book.?
+The virus acts like this: Every time my wife tries to log into ebay it redirects to a look alike e-bay site that says as it's heading, "Identificate your personality information:" followed by fields to fill in personal info such as ssn, credit card numbers with the CCV, mothers maiden name and the like.
+
+I updated my norton virus profiles and scanned with no results. I contacted ebay and they gave me some things to try and a malware removing program to use and still no results.
+
+I am running windows Xp on this net-book.
+
+Actions to take if all else fails.
+
+Save all personal data photos  to external sources thumb drive external drive sdhc card etc.
+
+Google "How to restore XP on XXX". 
+XXX= your netbook brand and model, follow the instructions to restore it to factory settings.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

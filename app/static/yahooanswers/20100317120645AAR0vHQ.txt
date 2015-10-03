@@ -1,0 +1,23 @@
+Internet history in firefox..?
+People keep mentioning that you should be able to give a time-span for which items you want deleted when deleting history - i cannot see this option anywhere?
+
+for example, if you select the option to have firefox delete all history every time firefox is closed, does that delete your ENTIRE history, or just the most recent?
+
+thanks
+Jamie - i don't seem to have an option for clearing recent history under the privacy tab?
+:/
+
+it deletes ALL of it, if you would like to delete it with in a certain amount of time you have to goto tools > options > privacy > then click on where it says "clear your recent history" then at the top there is a drop down list of the time limits, like last two hours , last hour , everything etc....
+Hope i helped 
+Jamie
+Go to Tools>Options>Privacy.
+
+At the top, there is a   (a tab at the to p of the box that appears) dropdown menu that is next to the text 'Firefox Will:' Click the box, and sleelect 'Use Custom Settings  for History'
+
+The third checkbox down after clicking this will read ' Remember my browsing Histoyry for at least ___ days.
+
+Input the number of days you want the history remembered before it's deleted. second  Click OK and  you're set.
+
+I hope this helps,
+
+Lucien Briscoe

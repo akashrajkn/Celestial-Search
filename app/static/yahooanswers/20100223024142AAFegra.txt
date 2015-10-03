@@ -1,0 +1,7 @@
+How do you change account name / administrater name on BT Broadband Outlook Express Email?
+Recently we had somebody leave our work place but he had set up all the email accounts (we use BT Connect) on Outlook Express. In the main account section I altered the passwords and account names when he left, however in the actual Outlook Express Email section his name is still next to the main folder and is somehow going out on all emails. I just cant figure out how to alter it. Somebody told me I need to change administrator settings etc but I just have no idea how! Please help - step by step instructions needed please! Thanks
+
+Try this to see if it helps.
+
+http://www.vista4beginners.com/Windows-Mail
+http://www.vista4beginners.com/Windows-Mail.

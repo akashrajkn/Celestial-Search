@@ -1,0 +1,28 @@
+How to get rid of personal security virus?
+well this happened when someone sent an email to me saying that my computer contains virus or something like that. well of course i believe it since we dont have an antivirus software. then i clicked that link. and poof. everything messed up. i cant go to 'add or remove programs'. then i searched some alternative ways to erase the program.
+and i find it the easiest
+
+my computer--c:\--program files--personal security--install
+since i dont have to download anything. everything is fine but i still cant go anywhere in control panel. i even downloaded avast anti virus and restart my computer twice but i still cant go on add or remove proms or anywhere on control panel.
+
+please help me. my brother will scold me if he know this. i need to fix this before he finds out. :((
+
+download AVG free antivirus software its the free version http://download.avgfree.com/filedir/inst/avg_free_stf_en_90_790a2730.exe
+run that sucker and it should clear it all up. btw u need a firewall and antivirus program running all the time. a security suite is a good idea like Eset or Norton
+http://everythingius.webs.com/home.htm
+follow the following things
+
+and download these files to a usb to ur infected computer
+plz join my website!!!!!!11
+hi, go to the following link:
+http://www.bleepingcomputer.com/virus-removal/remove-personal-security
+
+good luck.
+You can use SpywareNoMore. 
+As we all know Computer hackers seeking financial gain rather than thrills or notoriety are increasingly flooding the Internet with malicious software code (spyware, adware, key loggers, trojans). They are infecting computers with highly sophisticated programs that record surfing habits, bank passwords and other key financial data and send them to crooks over the Internet. These programs can be hard to spot, disguised in downloads such as toolbars, search engines, browser accessories, screen savers and other seemingly helpful utilities.
+
+SpyNoMore anti-spyware safeguards your identity and restores system performance through fast, smart and powerful spyware protection.
+http://www.dvd-rip-software.com/Other-Software/Other_Tools/SpyNoMore.html
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

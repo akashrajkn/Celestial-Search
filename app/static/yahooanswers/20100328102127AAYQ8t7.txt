@@ -1,0 +1,12 @@
+My internet keeps disconnecting?
+Yesterday there was a minor power outage. Ever since then my internet keeps disconnecting and connecting back every 30-60 seconds. How can I fix this? This is really starting to piss me off :|
+
+check all your connections, if they are all secure and your internet is still not working call your isp (internet service provider).
+Shut down your system...pull out the adaptor for your modem and router (if you have one), wait for a minute or two.  Plug back the adaptor(s) and Boot up your system.
+
+If this does not resolve things...call your Service Provider...and explain the problem and what you did to resolve it...it is now their turn to check the connection on their end...maybe jump start it.  
+
+It may be something to do with clearing your connection at their end from the power outage so they may have to release IP etc.  Be sure to tell them what you did on your end to fix it...because they will likely want you to do it again so they can watch it on their end.  
+
+Ohhh, and if you get someone who does not appear to know what they are doing...ask for a supervisor.... I will not suffer idiocy from call centers who hire untrained techies, nor should you.
+Be nice about it though...some are on the job training and may need help to help you which may not help their ego much. If I get some arrogant person who claims it is on my end...thats when I am firm about a supervisor intervention.

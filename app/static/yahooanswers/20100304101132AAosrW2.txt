@@ -1,0 +1,6 @@
+Mobile numbers for AIM showing offline?
+I use AIM to text since it's easier to use when I have WiFi and no signal.  As of recently, many of the mobile numbers on my buddy list are showing up as 'offline' which is odd because mobile numbers can't be offline.  The main problem is that two of the mobile numbers are still online...so from there, I am lost.
+
+Check to make sure that your friends did not set up mobile forwarding themselves.  If they added the phone number to their aim as well as you adding it, it would be linked with their aim account and may show up as offline.  Or if they deliberately set themselves as offline.
+
+Also make sure that those number still work. Some providers (i.e. cricket) do not allow aim messages on the network.

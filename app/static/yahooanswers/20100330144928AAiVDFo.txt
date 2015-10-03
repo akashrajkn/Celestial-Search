@@ -1,0 +1,17 @@
+Mozilla Firefox users. Help me!?
+I accidentally got rid of the navigator bar and the menu bar. How do I get them back?
+
+Right click at the top of the window (before the system bar (very top)) and check them back on.
+
+Hope that helps.
+
+-PW
+
+*EDIT* Also I just noticed something If you are IN your browser window (focused) and you press your alt key it will make the menu bar pop open. Once you have done that right click on the menu bar and check the check box to turn it back on. :)
+View - Toolbars - Navigation Tollbar.
+
+Sorted.
+Right click and check options.
+
+Btw this is a nice plugin to try out for firefox
+http://www.internetdramasblog.com/2010/03/awesome-firefox-plugin-cooliris.html

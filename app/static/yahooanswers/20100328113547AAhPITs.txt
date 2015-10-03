@@ -1,0 +1,16 @@
+Help with downloading this thing?
+Ok so im trying to upload pictures but i need to download this aurora thingy but i cant cuz the information bar doesnt come. Any help? This is what it says:
+
+Aurigma Image Uploader ActiveX control is necessary to upload your files quickly and easily. You will be able to select multiple images in user-friendly interface instead of clumsy input fields with Browse button.
+
+To install Image Uploader, please click on the Information Bar and select Install This Add-on or Run Add-on from the dropdown menu.
+
+Then either click Run or after the page reload click Install when you see the control installation dialog. If you don't see Information Bar, please try to reload the page and/or check your security settings.
+
+try whith torrent
+Make sure you try all browsers for download. Most likely its your browser's settings.
+
+And... Your missing information:
+
+Whats the URL?
+Whats the browser your using?

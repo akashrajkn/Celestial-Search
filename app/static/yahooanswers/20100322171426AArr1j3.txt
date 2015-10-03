@@ -1,0 +1,11 @@
+Firefox Memory Usage a little bit high?
+this just started about 10 minutes ago. my firefox just got slower. alot slower. I go on chatroulette just for shits and giggles but it uses at least 100% of my computer usage via Taskbar manager and use as much RAM as it could, i have 2gb of ram and it got to about 1,500,000 K's! Then i just had to end process.
+
+its just when i go on chatroulette it just takes up THIS MUCH MEMORY
+
+is it firefox? or is it chatroulette itself, or is it my ISP?
+
+Hi, and sorry for my bad english (I'm French).
+No, it's not because of firefox... Chatroulette is running slow for everyone on earth today : they are upgrading the website. As you might have noticed, if you were connected today, it's glitchy too.
+
+bye bye.

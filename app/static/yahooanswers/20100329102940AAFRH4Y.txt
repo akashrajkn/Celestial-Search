@@ -1,0 +1,9 @@
+how can i connect the net with the mobile phone?
+i m using internet in my laptop. how can i use net in my motorola phone using the data cable? its that possible.... if anybody know plzz help me
+
+Yes, it is possible but be warned, mobile phone networks calculate the charges for this on the quantity of data downloaded and because it is fast you will end up with a huge bill possibly costing hundreds of ?'s for one session.
+
+Put simply, you link the computer to the phone, either by data cable or bluetooth and use the mobile phone number for dialling up to your internet account is if you were connected to a landline.
+
+But i repeat it is VERY expensive and not to be recomended.
+it will use up all your talk time

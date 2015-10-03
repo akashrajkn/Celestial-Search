@@ -1,0 +1,5 @@
+dsi internet connection problem please help?
+well my dsi usually connects to the internet no problem but today im having trouble connecting. iv checked the internet settings and there all fine but it wont connect. well it connected earlier but now it wont. any suggestions?
+
+it could be your dsl company is having problems not your computer
+are you using router/home gateway? If so go to 192.168.1.254 or your routers IP

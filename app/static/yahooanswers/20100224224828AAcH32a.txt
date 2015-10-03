@@ -1,0 +1,21 @@
+ThePirateBay.org Trojan Ads?
+I go on The Pirate Bay every now and then. Recently, about 2 days ago, I got bombarded with Bit Defender firewall telling me 3 viruses have been blocked just from browsing TPB, not downloading. I went to Wikipedia and they had a section called "Trojan Ad Scandal," which said how TPB knew about it and had no intention of getting rid of it. Now, I go back to Wikipedia to show my friend the article and it isn't there anymore. Does anybody know of a link that tells about the Trojan Ad Attacks on TPB?
+
+I'm just amazed at the risks teens will take - with their computer - simply to get something for free that should not be free.  In a downloading context, there is no legal use for Pirate Bay.  This is why the site itself has disappeared a couple of times.
+Teens may think in a "Oh look, I got it for free" manner an d believe the whole thing to be some sort of joke, but in the real world, music artists are being hurt financially and the economic balance of the movie and software industries are being adversely affected.
+The basic rule of commerce is you have to sell your current product to generate money to create the next product.
+In the adult world, all the teens currently thinking they're so smart, would be labelled as petty crooks and if persistent with their activity might get into serious trouble.
+Fly with the crow, get shot with the crows!  You go to a site for illegal software and you expect them to be legit?  Really?  Here are your articles
+
+http://forum.suprbay.org/showthread.php?tid=21589
+
+http://forum.suprbay.org/showthread.php?tid=54886
+
+http://forum.suprbay.org/showthread.php?tid=345&page=2
+
+http://torrentfreak.com/the-pirate-bay-user-pages-blocked-by-google-090315/
+
+http://www.tomsguide.com/us/bittorrent-piracy-trojan-virus,news-3279.html
+there are have some Trojan running on your computer! 
+The latest software can remove it:
+http://trojan-checking.com/Trojan/

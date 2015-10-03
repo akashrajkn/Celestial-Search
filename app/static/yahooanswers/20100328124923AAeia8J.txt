@@ -1,0 +1,7 @@
+My internet isn't working. help pleaseee :( best answer best points?
+I had Linksys chipset or whatever you call it, and it was fine. Today when I turned on my comp it's not working. idk what's wrong. there's a connection but and it say's I am connected to it but it's not working. so i clicked Diagnose and it sometimes it says nothing's wrong but then it says networks aren't in range. 
+how can i fix it?
+it shows (says) that I'm connected but internet isn't working.
+
+It sounds like this might be a wireless connection. If that is the case, try resetting your router by unplugging it for 10 seconds and then plugging it back in.
+The first guy has a good suggestion.  Unplug the router for 30 seconds, then plug it back in.  Wait a coupld minutes and turn your computer on.  Sometimes the router can get screwed up internally and benefits from a reboot just like a computer does...

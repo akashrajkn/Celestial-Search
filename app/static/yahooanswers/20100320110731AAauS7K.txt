@@ -1,0 +1,7 @@
+If i'm using Firefox, can someone get on my computer and see my history on Internet Explorer 8?
+
+
+If they felt like it, sure.
+no.
+Each browser has it's own history files.
+Each web browser keeps its history separate. Your Firefox history doesn't appear in Internet Explorer and vice-versa. If you go to Tools>Clear Recent History in Firefox then it will delete your history.

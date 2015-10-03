@@ -1,0 +1,30 @@
+What is thedifference in wireless internet and wifi?
+Well i have a wireles router at home but my iphone wont connect to it but when i am at like starbucks it works, is there a diference in the wireles internet and wifi
+
+wifi is a wireless modem/router access to the internet which is usually some sort of privat network or even in a business like starbucks.
+wireless internet is a phone company device which acts as a modem and directly connect your device to the web, and can be anywhere cell service works.
+as for your home network, you need ot look at the settings in your router/modem as there are plenty which could be limiting your access, from 'only allow connections from list'( a mac address listing which limits who can connect to your network), to encryption protocols and passwords or assigned addresses.
+No, your wireless at home IS WiFi.  You are not connecting to it properly, there is most likely a WEP security encryption on your home WiFi.  You need to program your IPhone to work with it.
+wifi is wireless internet.
+and you probably have either a very new wifi standard in youtr router or a very old one so the Iphone doesnt support it.
+wireless- you can get connection anywhere
+wi-fi- you have to hook up to a network to get connection
+Im pretty sure wifi requires a "hot spot" like a radius about a router and wireless internet is what someones phone may have that allows them to connect whenever, wherever.
+Wifi is at home,wireless internet relates to phones and al that.Remember,for wifi sometimes you need WEP,(I think it means Wireless Encryption Protocol.)
+Hope This Helped!
+Hi Nathan
+
+Well WiFi is a networking standard;
+when you use WiFi you are connecting to something called a Wireless Access Point or (WAP)
+this is then connected to the "internet" via wires and cables.
+Your "WAP" is your Home router, which has a range of about  30 -90 Meters
+
+Your Computer <--WiFi--> WAP (Wireless Access Point) <--Cables--> "The internet"
+
+WiFi is the connection between your computer and the WAP by using radio waves
+
+hope this helps
+
+Sy
+
+Nine-tenths of wisdom consists in being wise in time. - Theodore Roosevelt

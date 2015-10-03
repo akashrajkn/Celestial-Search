@@ -1,0 +1,9 @@
+How to enable JavaScript into your browser?
+Hi,
+so I was wanting to go on this website that converts youtube videos into mp3 files and it hasn't been working out. Link: http://www.video2mp3.net/about.php
+I tried it in two different... well now three browsers and nothing is happening. I read on the website that it needs to have JavaScript enabled... so is mine already not? My main browser is Safari, then I used FireFox and then Google Chrome. Thanks!
+
+Hi,
+
+Here is how to enable JavaScript for various browsers: http://www.php-etc.com/tutorials/how-to-turn-on-javascript.php
+at the top of your bar-well on the bar,click on tools,then internet options,and then content--there will be a box you can either check or uncheck to load java

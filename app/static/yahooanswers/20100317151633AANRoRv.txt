@@ -1,0 +1,22 @@
+Ubuntu bittorrent client?
+i just installed ubuntu (64 bit), but the default bittorrent client, transmission sucks. so whats a good one for ubuntu.
+
+whats wrong with transmission? just play with the settings, its probably the best linux torrent app there is, you CAN run utorrent using wine easily enough, just google that as running wine requires a totally different explanation.
+
+you can schedule downloads, create a folder that automatically downloads any .torrent file put into it, shut down automatically when downloads are done, throttle speed, use port forwarding, add trackers, use dht, use encryption, use block lists (no peer guardian!) all with transmission, I suggest playing around with the settings more.
+
+the MOST advanced torrent client is actually rtorrent but its cli only (text program), if you thought transmission sucks I'm assuming this isn't what you want.
+I use rtorrent. 
+
+Deluge, however, is an excellent client based on libtorrent with a very nice GUI. This is my second choice. You can get it here: http://deluge-torrent.org
+
+There's even a patch available for Deluge to display RDNS in the peers list, which, on any OS, is my most strongly demanded feature (other than Azureus, this is the only other *nix client to do that, I think). 
+
+Some other nice clients include qBittorrent, ktorrent and uTorrent via WINE (which should work more or less out-of-the-box, as it were). 
+
+I don't really have any problem with Transmission though. If it had a more extensive GUI I might even use it.
+uTorrent under Ubuntu in 3 Easy Steps
+http://news.softpedia.com/news/uTorrent-under-Ubuntu-in-3-Easy-Steps-49037.shtml
+
+
+LUg.

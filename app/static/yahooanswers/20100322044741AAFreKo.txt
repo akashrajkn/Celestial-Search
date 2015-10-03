@@ -1,0 +1,4 @@
+Why do i have bad internet connection from my bunk bed?
+I have a metal bunk bed and i have the bottom bed. i have really good fast internet but when i take my laptop to my bed the internet gets really slow and sometimes disconnects. Could it be the metal bunk bed interfering with the signal? why does this happen?
+
+Yes, more than likely. You could try using a better external USB WiFi card.

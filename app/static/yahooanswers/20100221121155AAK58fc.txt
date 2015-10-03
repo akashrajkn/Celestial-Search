@@ -1,0 +1,32 @@
+Why does firefox run slow and crash sometimes?
+
+This is a brand new computer. Doubt it.
+
+maybe its your computer.
+I had this issue; just try reinstalling it and it works fine. Also, it may be your computer.
+
+As a last resort, try a different browser. 
+
+Safari or Internet Explorer.
+in firefox click on tools then click on clear recent history. clean cookies and internet cache files there. also you could download Ccleaner(its free) and clean your registry and all internet files. should speed it up unless there is another problem.
+because you have a virus on your computer
+Most computers actually run slow because of a hidden part of your system, which is constantly being used by Windows. This part of your PC is called the "registry" and is the central database for Windows, which stores everything from your latest emails to your desktop wallpaper. It's one of the most important parts of Windows and can easily make your PC run slow.The more corrupt registry files your computer has, the more it struggles to read them.The files which makes it run slower and slower. To fix this, you simply need to use a registry cleaner http://computer-e-book-money.com/     . These are small software tools which actually work by scanning through the registry and fixing any bad files that are in there. This then allows Windows to read as many files as it wants, when it wants to.
+Most people ask the firefox slow.
+You can have a check below
+1. internet speed. ping www.yahoo.com if less 300ms, it is ok.
+2. spyware.
+Perhaps, your pc infected spyware/virus/trojan, you can try another software to remove it.
+http://toptenantispyware.com
+3. Registry.
+Lots of things get saved on your PC that you don't need. Some are benign. Some slow you down. And some let prying eyes track what you do on your PC.
+install Registry cleaner and run daily
+http://toptenantispyware.com/Clean_Up_Center.htm
+Pc registry Errors cause pc slow down or pc errors.
+Clean your Registry can make your computer faster
+ 
+http://registry-computer-cleaner.com
+If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://registry-checking.com/Slow_PC

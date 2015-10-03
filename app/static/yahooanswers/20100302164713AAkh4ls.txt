@@ -1,0 +1,4 @@
+Running an Imageboard on Weebly?
+I have a weebly account and i want to make a simple image board but I'm kinda confused on how to do it
+
+Usually , you get the code for it,, and put it on the site. Ask weebly , if you are unable to do this. ~

@@ -1,0 +1,19 @@
+Removed "vista security virus" but IE and Firefox won't work!?
+I used Malwarebytes as it is recommended by a lot of people. It didn't complete the job, so I used Superantispyware as well. That seems to have done the job as the crazy pop ups and warnings are gone.
+
+But now as I try to use my computer(after restarting and everything) Internet Explorer, Firefox, Skype etc. simply don't work. When I click to start those, it gives me the "open with" window every time. Only if I right click and select "Run as an administrator", it opens up like it should.
+
+But it is not normal. I shouldn't have to do it every time! Is the virus still there then?
+
+Please advise.
+
+Thanks guys for your help. That's what I wanted to do right away but thought there might be a way around it that I don't know.
+
+The challenge I have is the windows CD, I lost it. I have the serial number etc., but my research showed that I cannot reinstall without the CD. Will contact the manufacturer's office first thing tomorrow morning. Don't know if I will get any positives.
+
+Appreciate your help guys.
+
+kaspersky.com. Very good anti virus!
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

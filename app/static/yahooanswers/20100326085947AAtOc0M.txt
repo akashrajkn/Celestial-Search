@@ -1,0 +1,12 @@
+Am I stealing internet?
+when i connect to the internet on my laptop, it is called belkin54g public network.
+i dont know where the signal comes from.
+also if im not stealing is, how can i increase the signal strength because it isnt very strong
+
+Ha ha ha!  If it's not yours then you are stealing.  Der.
+You're most likely getting the signal from a router of a neighbor of yours. It's not illegal from my understanding, but it may slightly decrease their internet speed what with another user. The reason you're able to access it is because they didn't set a password, which I highly suggest to do when getting a router.
+If it is a public network, then you are not stealing it.  The only way to get a better signal on a laptop is to either hook up a really big antenna to it, or more reasonably move yourself closer to the wireless source.  You can find it by walking around and seeing when it gets weaker or stronger.
+It's theft of service, since you're getting service you're not paying for.  (It's like finding a car with keys in it, so you take it for a drive.  *Can* doesn't equal *may*.)  If you're caught, you can be forced to pay the monthly charge since the person whose signal you're stealing first got internet service (which, at $100/month for 10 years, would be $12,000.  And I've been with my current provider for more than 10 years.  Your neighbor may have been with his for more than 10 years too.)  Your neighbor may lose his internet service (providers have been known to do that) so he'd sue you for his trouble and loss.
+
+It's just not worth the risk.
+If it really is a public network, then you are not stealing anything. However, if it's your neighbour's, then you are. As for signal strength, you either have to be closer to where the signal comes from, or get an external antenna.

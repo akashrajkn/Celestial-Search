@@ -1,0 +1,7 @@
+Internet help!!?? How do i.....?
+Kay so i have Windows nternet Explorer and every time i type in a address it shows the history of that site and is there any way to stop that cuz i don't want it to show the history??!!
+
+That's an easy one lol well... when you open up internet explorer go to tools, then internet options. After internet options click on the content tab. Then you will see a section that says autocomplete. Click the settings button within that section. From there you can check and uncheck what every you like lol
+
+Breakdown:
+internet explorer>tools>internet options>content tab>autocomplete(settings)>uncheck like crazy.

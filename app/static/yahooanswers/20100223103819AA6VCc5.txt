@@ -1,0 +1,8 @@
+uStream producer screencast sound?
+I just started using ustream producer and I want know if i can stream the sound with the window i'm streaming. like, if i broadcast me playing a game, i dont know how to make it broadcast the games sound as well. can anybody help me?
+
+Hello
+On this page you'll get
+the requested information.
+
+http://www.ustream.tv/forum/showthread.php?t=2861

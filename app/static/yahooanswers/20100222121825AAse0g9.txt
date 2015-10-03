@@ -1,0 +1,9 @@
+Trouble with Firefox?
+When I download something on Firefox, it begins to download, but after it completes, it is no longer in the little "Downloads box" that pops up on the screen (the one with a "clear list" option on the bottom less).
+
+Where, then do I manually find the program I'm trying to download to complete the installation? It's an updated anti-spyware program.
+
+make sure you have the regular foxfire.
+follow these links,
+http://support.mozilla.com/en-US/kb/unable+to+download+or+save+files
+http://blogs.howtogeek.com/mysticgeek/2008/07/15/automatically-clear-download-history-in-firefox/

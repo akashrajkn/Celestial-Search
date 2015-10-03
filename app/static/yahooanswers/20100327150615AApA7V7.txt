@@ -1,0 +1,10 @@
+Trying to download Firefox but my antivirus keeps blocking it due to a trojan?
+I have VIPRE anti -virus and I have tried downloading Firefox about 2 times now but when it got around to about 13 percent or so it stopped. A small window from VIPRE popped up and informed me that it had blocked a trojan from the Firefox download. Please help? Internet Explorer is WAY too slow.
+
+i think you try to download it from an untrusted site, try this: http://www.mozilla-europe.org/en/firefox/
+if it's still not working, your anti virus software is probably not the best (honestly i haven't even heared of it). Try Antivir, it works perfectly for me and is for FREE: http://www.free-av.com/
+Download the Firefox from a safe and valid able web-site... i suggest you http://www.filehippo.com/ 
+if you tried to download it from http://www.filehippo.com/ (this) then you should unblock it or Stop the Guard or scanning that your anti-virus is doing! 
+you can also use Download Manager... so if it closed you can re-download it or etc... (Internet Download Manager, and Oribit are really good Download Mnagers... Google them if you wanted to download them!!)
+
+Hope I was helpful! ;)

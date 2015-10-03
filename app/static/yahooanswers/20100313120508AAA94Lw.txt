@@ -1,0 +1,27 @@
+Does anyone besides me have a spam email? is it a good idea?
+I have 2 emails my real email and my spam email. A spam email is an email that you give out to websites, people or groups where you have to give your email but you're uninterested or you know that for sure you'll get "spammed". Opinions,comments,concerns?
+
+yeah i do that. i used to wade through so much spam to get my real emails, this way is so much easier
+You are being prudent by using a "dummy" or "throw away" account to get memberships to sites, groups, etc. If the account ever gets overrun with spam, you can simply delete it. However, it is always a good idea to use a different password for any such accounts to further safeguard your real email account.
+
+Here are a few steps you can take to try and avoid spam.
+
+1. Don't open unsolicited Spam. Often what happens is that when you open up spam, it sends back a trigger to the originating source indicating that a valid email address has been found thus subjecting you to even more spam down the road.
+
+2. Don't use the Preview Pane for the same reasons as #1. Also adjust your email options not to automatically open up email messages. Set it so that after you finish reading one email and take the necessary action you return to the inbox and not open the next one.
+
+3. Set your email options to accept mail from only people in your address book or safe lists.
+
+4. Set some filters to automatically route spam to certain folders for easy deletion later.
+
+5. Use a throwaway account for any online registrations you need such as news sites and contests, etc. Often these email addresses are sold to other places, particularly advertising firms. If the throwaway account gets over run, you can simply delete it and create another.
+
+6. Use the BCC when composing emails and encourage your friends to do the same. What this does is protects mailing lists from email harvesters.
+
+7. You can consider using a third party application such as SpamFighter (free version can only be used for 1 account and it is for Outlook and Outlook Express only) http://www.spamfighter.com/ . Mailwasher is also a good antispam tool. http://www.mailwasher.net/
+
+8. Never reply to any spam email that you happen to open and receive for the same reason as #1 above. 
+
+You can see more info at the webpage below:
+
+http://www.us-cert.gov/cas/tips/ST04-007.html

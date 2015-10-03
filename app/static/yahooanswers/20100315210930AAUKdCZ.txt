@@ -1,0 +1,18 @@
+Firefox Add-on Manager?
+Is there an add-on for Firefox that manages your other add-ons? I searched google for nearly an hour looking for one, but I could not find anything. Also, I tried to find the mozilla page that lists all the add-ons for firefox by categories and such, to see if I could find it there, but I couldn't find that either.
+
+Links for one or both appreciated.
+I already knew about that box. But I can't ever find it. I know there is an add-on which adds a shortcut to that little box onto a toolbar at the top of the screen, which was what I was looking for...
+
+Firefox provides its own add-on management. It's quite capable and being improved, too. Follow the links from this online discussion:
+
+http://mozillalinks.org/wp/2008/01/firefox-3-add-ons-manager-is-almighty-too/
+
+Wanting something - unneeded?
+
+Good luck!
+---
+Additional info:
+ALT-T A brings up the tools menu. So does clicking Tools | Add-ons.
+
+Too many added buttons or icons clutters up a program window or the desktop IMHO. Just remember "ta".

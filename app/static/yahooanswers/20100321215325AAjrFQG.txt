@@ -1,0 +1,18 @@
+Recommended free antivirus/malware program?
+My computer has been freezing and running slow lately so I wanna download an antivirus program. I've already ran adware scans and defragmented parts of my computer(always freezes during the process) 
+any antivirus scans that you recommend that is free and efficient? Any other methods u recommend for my situation?
+
+try avast or avira you can get it here freeware  http://4everythingyouneed.webs.com/  enjoy
+Avast home edition is free and awesome. been using it for 5 years now.
+http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+AVG is free for personal use. I've never used it but I hear from other people that it's good. Also, my old high school from 5 years ago used it while I was there.
+Did you use "disk cleanup" as well? It gets rid of old unused space, but to answer your antivirus program question, I recommend AVG free version and/or Spybot they are both free and good, but also get rid of programs you don't need. Too much space used slows down the computer because it may take too long to search for what you want.
+I use Avast as an anti virus program (the only thing I don't like about it is if I have the volume on and there is an update, it will loudly tell you so, lol.) but it's a great, free, effective program. I also use Spybot as a malware/spyware removal. You should look into getting that too, it's free as well. When my computer is lagging a little more than normal I usually do a scan with the Spybot. It helps more than what you realize, and also deletes temporary files which helps speed things up a bit.
+
+http://www.avast.com/index
+http://download.cnet.com/Spybot-Search-amp-Destroy/3000-8022_4-10122137.html
+Hi lava_hotty,
+
+i would suggest you to try Panda Cloud - it is the best free antivirus nowadays!
+
+Look at this latest comparison of best free anti-viruses: http://best-free-antivirus.tk

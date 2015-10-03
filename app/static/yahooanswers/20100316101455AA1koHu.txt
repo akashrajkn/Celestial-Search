@@ -1,0 +1,24 @@
+How to count rows in a table that is online?
+I am working at doing some data input for a fitness company. My job is to count how many clients the company has each day and put this in an excel spreadsheet.
+
+The company's records for the last year are on the internet in the form of tables whereby each row counts as one customer. So, a 26 row column = 26 customers.
+
+It's very laborious to have to count the rows though and I was wondering if anyone knows if it's possible to somehow highlight all the tables and count them that way? Or any other way?
+
+Would be much appreciated
+Is there any way of counting the rows online or do I have to copy into excel?
+
+use the counta() function
+if your data is in column A
+then copy&paste this formula
+
+=COUNTA(A1:A99999)
+
+then as you add rows, the formula will automatically adjust.
+if you have a header row, then you probably dont want to count the column label so adjust it to
+=COUNTA(A2:A99999)
+i just used A99999 because its large enough to count a bunch as you add.  if you have more customers, then just adjust the 99999 part
+
+edit-
+sorry, i dont know how to count online
+i would copy&paste into excel

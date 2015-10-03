@@ -1,0 +1,10 @@
+Anyone else having trouble getting surfthechannel.com to open up in Internet Explorer?
+I've tried several times to open the web page. After typing surfthechannel.com into address bar all I get is a blank webpage and the address bar just displays the words about: blank. Any idea what is going on.....has the website shut down?
+
+Hello,
+
+It's working for me, it might have been temporarily down at the time that you attempted to access it; you should probably check your Internet Explorer's settings to make sure that they are not interfearing with the website.
+
+Regards,
+New York City Police Department
+NYPD@Hargray.com

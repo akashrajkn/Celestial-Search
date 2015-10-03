@@ -1,0 +1,9 @@
+How to know my internet connection's username and password?
+I have Tata photon+ internet connection but they did not gave me information about username and password. when I plug my wireless modem,automatically stats Huawei Access Manager and show me if i want to connect. It do not ask my username and password. Please advise me
+
+You Modem is all you need. Whoever owns the modem owns the connection. You do not need any username or password. 
+
+Username and password are needed in connections which can be accessed from more than one location or device.
+
+As far as I know mobile internet connections do not need username and password. But you should call the customer support to confirm that.
+If your using a mac, go to keychain access and then passwords, find the name, double click on it, type in administrative pw and then click show password!  and there you have it, password and name. but for PC's idk..sorry

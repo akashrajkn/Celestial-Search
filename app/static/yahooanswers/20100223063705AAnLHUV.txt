@@ -1,0 +1,33 @@
+My Internet Explorer Keeps Freezing...?
+Ok so I'll be running any programs on there and occasionally it will freeze up and I'll have to close it and restore the pages I wa on. I've done a virus and malware scan of my whole computer. I have a great antivirus program. I can't redownload iexplorer 8. I need some suggestions to solve this problem... What can I do to get my Internet Explorer working likeit used to, like it should?
+I don't want to use a different browser... that wasn't in the question. I asked how can i get my INTERNET EXPLORER to fuction like it's supposed to again. Idiots...
+
+Download a real browser.
+
+You know, like Safari, Chrome, or Firefox.
+It doesn't exactly solve your problem, but I still suggest downloading a new browser like Firefox or Google Chrome.  
+
+These browsers tend to lock up much less and run much faster than Internet Explorer - they are even faster than Internet Explorer 8!
+
+http://www.getfirefox.com/
+http://www.google.com/chrome
+John,
+
+Here are a few options that should solve your freezing problem:
+
+1. Clear your Cache. Or else run your Junk Cleaner or CCleaner. In IE 8, click Tools > Internet options > Security > Reset all Zones to Default level 
+2. If still you find your IE giving problems, close it and run IE (No Add-ons). This opens up the browser without loading any add-ons, toolbars or plug-ins.
+3. Run sfc /scannow and at the end reboot if asked for. This will replace corrupted system files if any.  
+If you find it running OK, then the problem is most probably caused by an addon. In that case you have two options :
+- Use the manage Add-ons tool, and disable each one after the other to find out which one is causing the problem.
+- In Internet Options, go to Advanced Tab and click on Reset tab. Restart IE. This step deletes all temp files, disables any add-ons, plug-ins, toolbars and also resets all changed settings to default. Although this is a quick-fix, you will have to re-install the add-ons.
+
+If you feel the need to Repair Internet Explorer, then this article will guide you http://windows.microsoft.com/en-US/windows-vista/Tips-for-solving-problems-with-Internet-Explorer 
+
+If these steps do not solve the problem, I would suggest reinstalling IE8. You mentioned you could not, why?
+
+Cheers,
+
+Bryn
+IE8 Outreach Team
+The Windows operating system constantly refers to the registry to get information about all of the components such as hardware and software which are installed on the computer. The registry tells Windows what to do and how to access the various programs, files, and processes.However, the registry can contain bad information which sends Windows off doing useless tasks or running unneeded routines. Sometimes errors occur including the freezeing. Other times the system slows down. Because of the sheer number of factors that can affect the registry, there¡¯s no one size fits all approach. You can¡¯t just go into the registry and remove the bad information because it¡¯s nearly impossible to decipher which information is good and which information is bad. That¡¯s a job better suited for software. I should like to commend Registry Easy http://computer-e-book-money.com            to you ! You can try ! Good luck!

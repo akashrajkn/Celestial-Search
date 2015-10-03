@@ -1,0 +1,50 @@
+i am making websites in french and english should i get 2 different ones,.FR and .COM?
+Or should I just use the .com
+
+Amberche,
+
+
+==== In a nutshell ====
+
+If you are entitled to registered a .fr (check right below), do it and you will benefit from cross-domains linking, built-in localization from search engines (SE), a boost within French search engine results pages (SERP), and immediate local recognition from users. 
+
+If you cannot pretend to a .fr, don't panic, create 2 sites！ http://www.example.com and http://fr.example.com ！localize them in Google Webmaster Tools (GWMT) (see hereafter for details), and choose for each the web host in accordance with the geographical target.
+
+
+==== Who is entitled to register a .fr? ====
+
+Even before arguing (see hereafter) about the value of registering a domain name ending with the top level domain (TLD) .fr, you have to know that, in order to be eligible to register a domain name with such an extension！like in many other countries in Europe！you need to be either:
+
+！a company (or a local subsidiary) residing in France (proof is actually required from the French business databases (e.g., Infogreffe, RNCS, SIRENE, BODACC); or
+！a French Government agency, regional or local administration; or
+！a physical person residing in France (regardless of your citizenship); or
+！a French citizen (regardless of your country of residence); or
+！a trademark owner (person or company) to the extent that the trademark record was either filed with the French "Institut National de la Propri└t└ Industrielle" (INPI) or with any other internationally recognized intellectual property organization, in which later case (international trademark) the record must target explicitly the French market.
+
+See source section below for detailed information from the French domain name management entity.
+
+
+==== Value of registering a .fr =====
+
+So, as stated above, forget it if you're from New Orleans and  have no physical ties whatsoever with France as either a territory or citizenship ;-)
+
+As French myself, we're used to .com's and even see them as more sexy than their .fr counterpart！remember we still dream about America, even nowadays, we see you through our lens as geniuses！well, I'm exaggerating a little bit but not that much.
+
+From a Search Engine Optimization (SEO) standpoint, there's a value for getting a .fr！to some extent. Here are some plus and minus！or neutral！points.
+
+Google！among other search engines (SE)！says that the TLD is sufficient to help relate the site to a country！and in most cases, a language.
+
+At the same time, Google allows you to explicitly target a country for a site of yours！regardless of its TLD！that you manage within Google Webmaster Tools (GWMT) (see link below). In that case, Google says the TLD doesn't matter. In fact it's more to help Google localize a country-agnostic site (i.e., .com, .org, .net, .info) rather than re-localize a .fr to Hong-Kong for instance！which doesn't really make sense.
+
+Aside from explicit localization in GWMT or from the TLD of your choice, Google says that the IP address of your site！something link 66.201.244.33！is also part of the localization equation they use. So if your site targets the French market, it's better to host it as close to France as possible！ideally locally or at least in Europe. And host your .com in US if it's the target.
+
+
+==== Above all ====
+
+If your goal isn't short-sighted, it's not these "tricks" that will make your site successful！they merely but effectively enhance its online visibility！but the genuine value you wholeheartedly give to end users！through good content or true willingness to help them, for instance. You should not minimize their effect but, you know, I've learned the lesson at my own expense that a diamond cutter！however skillful！cannot make something valuable out of a raw material of low quality！or if he does, he will be uncovered one day, one week, one month, or year later; just a matter of time.
+
+
+Should you need further information, you can send me an email through my Yahoo Answers account profile (email is enabled)！I'll be glad to help you in both your decision and local positioning.
+
+--
+Pascal

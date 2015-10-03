@@ -1,0 +1,38 @@
+Why does my friend have such a bad connection to mw2?
+We both enjoy playing mw2 on the xbox360 but she always has really bad lag and so when we are on special ops, we ALWAYS lose connection, its so irritating. Any suggestions as to what she can do to improve her connection? Thanks if you reply :)
+
+There are many things that could be screwing with your internet connection, and a few solutions you could try.
+
+
+First Thing:
+
+Problem: ISP Sucks
+
+Description: Your friends ISP may suck. One of the worst Internet Service Providers rhymes with Cell and starts with a B. I cant legally say who but I think you have the point.
+
+Solution: Theres not much you can do, except switch to a faster plan or switch ISP.
+
+
+Second Thing:
+
+Problem: Xbox Live
+
+Description: Some times people can not connect to certain people on live because of Host problems. Not much else to say other then live can be buggy. 
+
+Solutions: Not to much can be done about this, and because you want Spec Ops you cant use a 3rd party to let you play. 
+
+
+Third Thing:
+
+Problem: MW2 Host Servers
+
+Description: MW2 is an awesome game not doubt about it, however they sort of cheeped out on the servers. If you have noticed MW2 makes you run off 1 main host that is picked. If they quit a game thats when your game freezes and it says picking new host. If they would have made dedicated servers then you wouldn't have connection problems at all.
+
+Solution: Yell at Infinity Ward and tell them to smarten up :P
+
+Thats just about all I can think off, I hope I helped.
+
+Best of Luck,
+
+     CasualMW2Gamer: Experienced MLG player for team AFK
+Well MW2 has just 1 problem; IWnet. Check your NAT type at the game screen (the scrren after "play game" on MP, where you can choose "Find Game", "Private Match" etc) and how to open it if it isn't open. Worked for me, but still depends on the host. Maybe she makes a better host than you and vice versa. Don't try parties if you see you both make a bad host, wait to join a game and invite, then wish you're on the same team. It's just IWnet and Activision...Patience and BC2 are the only cures (or moving to London and taking a 100.000.000.000.000 Gbps connection and a computer with a 10.000GB ram along with a 100.000.000 GB hard drive and a 16 GB graphics card. Just kiddin', of course!No really it is a way.Can't decide)

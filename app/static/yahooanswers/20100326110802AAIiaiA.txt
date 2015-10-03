@@ -1,0 +1,7 @@
+Why does it take so long to open web pages..?
+
+
+clear the cookies hold ctrl+shift+del then clear the lot that will help you hope this works or if you live in a flat for some reason its longer
+The answer could be a variety of things like slow internet connection, too much in browser cache, etc etc... 
+you need to find out what applies on you, Go through this article,it has many solutions depending upon different cases, it should definitely help.
+http://tech-hutblog.blogspot.com/2008/02/tips-for-faster-internet-connection.html

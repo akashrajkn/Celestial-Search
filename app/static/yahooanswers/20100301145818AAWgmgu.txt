@@ -1,0 +1,45 @@
+MY INTERNET I SOOOOOOOOOOO SLOW?
+alright, i'm with Bell for my internet, and ever since last night, my internet has been HORRID. no ones downloading anything in my house, and right now, the internet is being used for my xbox (but not even playing online) by brother on msn, and me, on yahoo answers. this should not make my internet this slow! any idea on what's going on? Maybe something on Bell's end? if it is, what are they doing? Because this happens to me like 3 times a month. It's so bad that i'd have to wait 30 minutes just to load a youtube video that 3 1/2 minutes long
+@ ymaster
+i've posted like 3 questions in that, how do you not know what i'm asking?
+
+And your questions is?
+honestly, in my opinion... ask http://feedmeadvice.com they usually know about that stuff.
+Christ, that is slow.
+
+Go on speedtest.net and test your speed, then contact Bell and see what's up.
+
+If this is happening frequently, then I would seriously consider changing ISP.
+depends on how much your paying but i would switch to another user. comcast has internet for 20 bucks for 6 months but i would suggest brighthouse has internet for 38 a month but it never changes and its highspeed ive had no problems with it and ive had it for a year
+You might try "tracert":
+If you are experiencing the problem on other computers in your house it is likely to be the isp or a fault in your line.  if not try restarting the pc, doing a virus scan, restarting your router
+Make sure that your neighbours arnt interfering with your signal move your router, mirrors have an effect just move a few around and see if that helps...
+
+But routers just have a tendency to just die sometimes, so flick it off and on to see if that works...
+Perhaps, your pc infected spyware/trojan, you can try another software to remove it.
+http://toptenantispyware.com
+Registry problem
+Lots of things get saved on your PC that you don't need. Some are benign. Some slow you down. And some let prying eyes track what you do on your PC.
+install Registry cleaner and run daily.
+http://toptenantispyware.com/Clean_Up_Center.htm
+It seems that there is network interference with your house, if you live in a buildup resedentual area there may be other wii-fii signals penetrating your house! to fix it all you really can do is switch off the internet hub for about 1/2 hour. And reboot and/or reset your hub. This WIll fix any problems your having with configuration.
+
+Keep the internet Strong!
+If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://registry.tp5pro.net/Slow_PC
+There are MANY reasons for computer slow downs:
+ not enough memory
+ too many programs starting up with windows at boot up time
+ too many junk files
+ too many restore points
+
+Clean windows registry can speed up the computer.
+Over time, you install new programs, uninstalled unimportant programs, update software's, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://registry-computer-cleaner.com

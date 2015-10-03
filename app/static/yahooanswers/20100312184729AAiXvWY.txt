@@ -1,0 +1,16 @@
+INTERNET ROUTER question?
+alright, I have a laptop and soon my little sister is getting a netbook. I have a wireless router, but i was thinking if the router can give access to both my laptop and netbook without getting another Enternet cable or router??
+
+If you are using wireless on both your laptop and your netbook, then you don't need any extra cables or routers.  Multiple devices can connect to a wireless router at once.
+Yes.
+Yes
+it should most can handle two or more machines. although with both on at once, you may notice a tad slower speed.
+Yes. Most routers will support up to 256 devices. Normally this is 4 hardwired and the rest would be wireless unless a switch is added to the router. 
+
+In you case, you would only need a cable if you wanted to plug the netbook directly into a port on the router instead of using a wireless connection.
+yes it can not a problem 90% of wireless routers theese days have upt2  4 connections on them 95% have atleast 2...
+If you have some more information about the model of router (and how you've got it connected currently) somebody might be able to check for certain.
+
+Routers generally are not single device err, devices. They're designed to connect multiple machines to the internet at the same time.
+
+So just hook her netbook up with wireless and away you go!

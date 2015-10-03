@@ -1,0 +1,28 @@
+Why can't I connect to the internet anymore?
+This is a little embarrassing because I am an I.T. Professional (software developer for both the Mac and the PC). Anyway, my daughter's computer got hit by a virus tonight, so bad the Task Manager was at full tilt and I literally had to pull the plug. No dice on the reboot, it was a registry level infection, so the only option was to use ERD  Commander to wipe the disk, then reinstall the Operating System (Windows XP, 32 bit, on an older machine).
+
+Anyway, I can see plain as day the "1394 Connection" by going through:
+
+Control Panel -> Network and Internet -> Network Connections
+
+and it says "Connected, Firewalled" and the window shows the speed at 400.0 Mbps but nothing is being "transferred", so this rate is no doubt optimistically high.
+
+Even as I write this on the machine next to it, it shows "Connected 00:07:24" so it looks like it is working.
+
+Just to drive myself to madness, I unplugged the ethernet cable and plugged it into my ANCIENT Macintosh G4 I bought in 1999, and it was able to launch the fossil known as Mozilla and connect to the internet with no problem!
+
+So, I know it's not the port on my router, it's not the Broadband service provider, and it is not my "machine" since the thing was working fine before the virus knocked us out.
+
+The only thing left is the software, but it was the XP version (service pack 3) that came with the box.
+
+Is there anyway to resolve this perplexing issue? Why won't this machine connect to the internet?
+Ah ha, now we are getting somewhere.
+
+Yes, under "Other Devices" the "Ethernet Controller" has a yellow question mark.
+
+Have to disconnect and reconnet the software drivers, then they will renegotiate.
+Ugh, I run into these kinds of problems after I wipe a hard drive. I can ask you to try something and you can let me know what you find.
+
+Its possible the software could not all be there when you reinstalled so check your devices. Go to the Device Manager and let me know if you see any Yellow Question Marks. I don't know how experienced you are with this though. If there are some, then what are they? You may need to download drivers for it.
+
+My email is DominicS48@hotmailcom if you want to further discuss.

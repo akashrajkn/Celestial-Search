@@ -1,0 +1,13 @@
+WHY DOES CHATROULETTE FREEZE WHEN YOU CHAT?
+i've talked to so many awesome people and hate it because my computer freezes every time i chat longer than 10 minutes. why is this?? i have a brand new hp laptop with windows 7.
+
+It is your internet, it cannot sustain a chat/cam with a foreign server for over 10 mins. This is probably due to speed, location, quota or even your firewall.
+
+Most of these can be fixed easily. Some cant though
+
+
+Vote me Best answer (L)
+Are you sure it's your computer, as it may be the chatroulette server crashing. Also what browser are you using? Try switching to firefox or chrome as there may be a memory leak in the browser.
+OMG i have the same problem too and i have a new hp laptop and windows 7 also! it's so frustrating o_o
+i don't know, i got an hp laptop too (windows 7) and it freezes all the time, and it takes forever to get a new partner.
+this happen all the time. I already download google chrome but it's the same thing. try disabling your firewall maybe it would work. good luck

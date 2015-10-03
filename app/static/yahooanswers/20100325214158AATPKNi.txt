@@ -1,0 +1,15 @@
+Why does my Firefox keep crashing -__- ?
+It keeps freezing and then it says:
+
+A script on this page may be busy, or it may have stopped responding. You can stop the script now, or you can continue to see if the script will complete.
+
+It happens like every five-ten minutes. It's reaaaaally annoying me now. How can I stop this?
+I just had a chocolate chip cookie a couple hours ago! :D And I always delete cookies and history. =/
+
+you should clear out some space by deleting cookies, no not chocolate chip cookies.
+
+just go to tools>internet tools>browsing history>cookies
+Delete some cookies and restart firefox. 
+
+This used to happen to me a lot so I started using google chrome. It's really fast and it doesn't crash a lot.
+A computer's registry is one big database that has numerous files, options, and settings. These settings and options keep changing with every second of you using your PC and can lead to the damage of some of these settings. This causes errors to show up and the computer to crash.  Registry cleaners http://make-a-computer-run-better.com      software scan the computer's errors and matches all files and settings with the applications that use them. If it identifies any file or setting to be damaged, missing, or corrupted, it provides you with an updated list of the same and also repairs these errors.  Therefore, if your computer keeps crashing and need to fix blue screen of death a good registry cleaner is all you need. Your computer can also cause problems because of redundant files in its registry. Reg cleaners identify all these redundant and junk files that were left over during the uninstalling process of hardware of software and delete them. This makes sure that the "computer keeps crashing" issue is taken care of.

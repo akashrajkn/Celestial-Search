@@ -1,0 +1,4 @@
+Why does my internet say that i have not enabled cookies even though i did in the internet options?
+I can not log into certain things and some links on facebook don't work and it is really annoying. They say that i have not enabled cookies but i definitely have. Im just confused right now and i need to know quickly because i must finish an assignment on one of the websites.
+
+Check your security things.  Your anti-virus or anti-spyware program may be a little too aggressive, or you may have something like No-Script turned on.  It is probably something in your security.

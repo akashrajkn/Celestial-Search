@@ -1,0 +1,4 @@
+Who's familiar with pidgin application here?
+I have a chatmate and he told me that he is not aware whenever I am online until I start chatting him because he is using pidgin. Is it true?
+
+Duh. Pidgin also has OTR-enabled chats. So your chats with him probably don't get saved.

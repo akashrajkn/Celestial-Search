@@ -1,0 +1,13 @@
+How can I change my NAT type to "open"?
+I'm a PC gamer and I can't join my friend's party in MW2 due to my NAT type being "strict". I have opened "Computer", found "Network" and then found my router. In its "properties" I have all the details about it; "Serial number" and "MAC address" and other such random things.
+
+Any useful suggestions would be appreciated.
+
+You need to know what you're talking about before asking the question.
+
+http://en.wikipedia.org/wiki/Network_address_translation
+
+Once you've read that, read the router's manual.
+If you have horrible Windows, you might have to configure the firewall there too, in which case, read the manual.
+
+And one last thing, read the manual of the game.

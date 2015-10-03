@@ -1,0 +1,8 @@
+How do I fix my firefox so everything I have looked up is not highlighted in purple?
+I also don't want it to bring up previous searches?
+
+ctrl+shift+delete
+
+then tick all the boxes and click clear private data now
+
+Hope that works for you

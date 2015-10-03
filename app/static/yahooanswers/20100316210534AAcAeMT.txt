@@ -1,0 +1,5 @@
+whats the point of IE or Firefox offline mode?
+I know you can get around megavideo's time limit with it, but what else is it good for?
+
+Some older computers used IE as a picture viewer, so someone without an internet connection could still use it for that purpose. Also, if your designing a website on a computer that doesn't have internet access (maybe a laptop while not at home) you can preview it with either browser.
+Anytime you want to work on something say a project, you can open every page you need to work on it . It just allows you to work offline on your stuff and like you said, it keeps you from using someone's bandwidth for a long period of time. This keeps the site's you get your info from happy and because your not using any of their bandwidth and it is more secure for you to do this not being online

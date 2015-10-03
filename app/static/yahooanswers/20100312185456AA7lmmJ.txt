@@ -1,0 +1,5 @@
+Weird error when trying to browse a cosmetic website?
+Maybe it is just the website but i'm trying to click on the eyes button to look at the eyeshadow on www.dulcecosmetics.com? But  it says: Unable to connect to the server. Error is: Access denied. Just a white screen saying this. Is this just my comptuer or what? I'm trying to get some to do reviews on for my youtube channel :(.
+
+It's an error on the website - they've sent you to a directory that has security that disallows browsing, or to a page that is locked down. Nothing you can do but email the webmaster with the page and error, and hope they fix it.
+It's their website, nothing on your end.

@@ -1,0 +1,31 @@
+Internet Explorer will not connect to any website, but I do have a proper internet connection?
+I'm working on a friend's computer, they said their computer would not connect to the internet anymore.
+
+After having a look, it gets an outgoing connection just fine as I can ping websites through the command prompt and other programs not dependent on the internet browser work just fine. It's only the internet browser that fails to connect to anything.
+
+Another thing is - internet browser works just fine in safe mode. In fact I'm in safe mode right now.
+
+I've tried Firefox, Opera - same result
+I've disabled unnecessary startup programs via msconfig
+I've disabled the windows firewall and all other securities that might cause such a problem.
+I've thought about viruses but scans with Malwarebytes anti-Malware and others have found nothing of consequence. 
+
+Suggestions?
+What might be causing this and how might I fix it?
+@ I 8 Tax  -  no luck, good suggestion though.
+
+
+I addition, I also can't even access things like my router's configuration settings (192.168.1.1) through the browser. It's like the browser is completely disabled in some way.
+I did only work with the startup items in msconfig, didn't even look at services.
+I'll do that in the morning - thank you for your help.
+
+internet options > advanced tab > reset
+could be several different things. Websites use port 80 to connect, something could be blocking that port. 
+
+Usually what I try is to telnet through port 80 you would just bring up a command prompt in windows and type 
+
+telnet www.yahoo.com 80 
+and push enter it should take you to a flashing black screen. Push enter key twice and it should say connection to host lost. if it does not something is blocking port 80. 
+
+The fact that you can connect in safe mode and not regular windows just puts up all kinds of flags that there is still some kind of security software running blocking it. If you go to msconfig it make sure you uncheck the services not just the startup items for the security software
+

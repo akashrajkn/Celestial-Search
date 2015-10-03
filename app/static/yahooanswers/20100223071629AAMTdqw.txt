@@ -1,0 +1,26 @@
+Mozilla Firefox - closing internet page help?
+I have about six tabs open and I want to 'Save and Quit' so next time I open Firefox I can continue what I was doing the night before. Unfortunately when I go to close it sometimes the 'Save and Quit' option occurs, and sometimes there is a warning that says something like 'You are about to close multiple tabs' - this doesn't offer my the option of saving them..
+
+How do I get the 'Save and Quit' option back up?
+Okay so Harmon has figured it out - I opened a mozilla window with multiple tabs and when I went to close it the Save and Quit message came up. 
+
+Problem resolved!
+
+(also, if you have the option ticked to show your old tabs when firefox starts up this won't work - for obvious reasons)
+NO WAIT NOW IT'S NOT.
+Gahh.
+I tried to close all my tabs but the 'You are about to close six tabs' came up.
+I'm so confused.
+
+I believe there is an option within the firefox settings that will allow you to save certain tabs to always open up when you open firefox. As for the saving tabs issue that bugs me as well any suggestions guys?
+open firefox ,... from Tools menu choose options, in the general tab you will find combobox called 
+When FireFox starts , choose (Show my windows and tabs from last time) and then OK
+The simple answer to your question would be to disable the "You are about to close multiple tabs" warning and then you should always receive the save session prompt. Also, you can use the bookmarks folder to save all tabs as a new folder.
+
+Or you could do what I did and install the TabMixPlus add-on. This add-on adds a ridiculous amount of functionality to Firefox tab controls. It has it's own session restore functionality which replaces the default session restore. If you add the session manager button to one of your toolbars you can open it and select "Save this Window" or "Save this Session" and enter a name for it. A few advantages of TabMixPlus:
+- Awesome context menu controls like: duplicate tab, reload all tabs, reload all other tabs, protect/lock tab, etc.
+- A new closed tabs button on the toolbar. If you accidentally close a tab just click the button, or use the drop-down menu to select a tab you closed previously (I opted to have the closed tabs reset when I close the browser, but this is easily altered.)
+- The session manager can not only restore an entire session, it actually remembers where you were at on the page and takes you back to the exact view you left. Unfortunately it does not save text or selections that were being entered prior to close.
+- New auto-restore features allow you to automatically open a set of pages, restore the previous session, or create a new session each time you open the browser.
+If there are more than 2 windows/instances of firefox are opened simultaneously then closing the first one will only give the "Multiple tabs" warning, because "save & quit" feature works only on the last instance of firefox.
+from Tools menu choose options, in the general tab you will find combobox called ............

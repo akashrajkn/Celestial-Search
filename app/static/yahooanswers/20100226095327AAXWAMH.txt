@@ -1,0 +1,19 @@
+Why has my internet gone so slow?
+We are with BT internet and phone line and we used to be on 2-8Mb/s internet speeds and now it has gone down to 0.1Mb/s!! The phone line is very crackly and the internet turns off every now and then. We have rang BT about it, they said it was something to do with their exchange servers but it is fixed now. Well it obviously isn't, does anybody know what the problem is and how we can fix it? BT are no help at all.
+
+Thank you,
+Mike
+here is our internet speed details:
+
+http://www.speedtest.net/result/730147392.png
+I have tried turning off/on pc/router + resetting everything + unplugging/plugging in everything and done what BT advised us but none of this work.
+
+Try to unplug and replug your ethernet cable, turn the modem off, and then again on. Try to restart your computer. Connect everything like it was, and then try your internet speed again.
+If it still continues to be slow, call the company and tell them you're going to break the contract, since their service is not as it supposed to be WRITTEN ON PAPER.
+Once they begged me not to break the contract.
+it could be something to do with the cookies that have collected on your computer. i dont actually know but my computer can go really slow at times and the phone line goes dodgy and its the cookies. ps im with bt too and your right there no help :)
+ehh... i had sumtin a bit like that... but it turned out to be our neighbours wer robbing it.... make sure nobody around you is stealing your connection
+
+dont no it dat was any help or not but i tryed
+Have check you pc make sure why is your pc is slow.
+ http://slowpc-checking.com/Slow_PC

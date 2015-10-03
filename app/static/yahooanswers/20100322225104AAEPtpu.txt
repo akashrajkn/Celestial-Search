@@ -1,0 +1,25 @@
+can my internet surfing be tracked?
+i use like this secured network that i pay for every month and i wondered if my browsing can be tracked  and what i can do to prevent it...
+Thanks! =)
+PS i have cookies disabled
+
+Delete the history, No one will see your porn.
+Your ISP can, anyone intercepting your packets can, and if someone installed spy software on your computer, or connection they can.
+if someone else is connected to your connection 
+then yes it can
+
+if you have a certian type of virus
+
+Yes it can
+YES IT CAN IF SOMEONE HACK TROW YOUR FIREWALL OR IF SOMEONE INSTALL A SOME KIND OF SOFWARE TO MONITER YOU.THOSE THE SOFWARE TOU HAVE SCAN FOR SPYWARE
+Ok YES
+Alot of sights can track ip addresses and stuff and yes viruses can log where you go. also your Internet provider can and sometimes it logs where you go on your router. Your browser also logs stuff but you can easily delete your history.
+Use AVG antivirus free edition to combat spyware and just surf on sites that are good :) you shouldnt worry about this.
+On the computer itself the simple deletion of cookies and erasing of history as well as doing a search on your computer for any random files pertaining to the unwanted content should remove all traces. As far as the actual web goes its a minefield. Someone may be tapped into your network or your file may be intercepted and read before delivery or a hacker may have gotten spyware onto your computer all of these are pretty unlikely but they are still possible. The best way to prevent information from being viewed is to look for sites that have a lock in the subject bar that indicates that they are encrypting your files at your computer and then unencrypting them upon arrival at their servers. While this is still not necessarily 100% protected its a lot better then just sending your sheep (information) into the wolf pack (internet)
+Any spyware/parental control software can. If someone is intercepting your packets, they can. If you don't delete your history, cookies and cache someone can. The ISP can. The admins of the secured network can. The FBI can.
+
+There is no way to be 100% safe.
+yes everything you do can be tracked!! your computer is assigned an IP address everyones has a differant one to find out what yours is go to ipchicken.com to avoid "tracing" you should use a proxy such as kproxy even though they are slower it makes you less tracible
+Yes, you can be tracked even though you've got cookies disabled.  However to secure erase what's on your hard drive download a program called CCleaner and then select the Gutmann Pass method; this will overwrite your history 35 times with 1s and 0s so no one can see what you've been upto apart from your internet service provider.  If you connect via another computer in your house then the administrator of that computer can see what you've been upto!
+
+When getting rid of your computer replace the hard drive with a brand new one and then destory the old one by drilling several holes in it so the data can not be recoverable.  Apparently according to urban legend the US Security Service shoots the disused hard drives in order for the data to be made unrecoverable.  As even with an erase program such as CCleaner; all it takes is time and forensic computer programs to recover what you've been upto.

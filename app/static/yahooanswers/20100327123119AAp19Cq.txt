@@ -1,0 +1,17 @@
+my browser jumps or redirects me all the time.  How do I stop that?
+when I type something in my browser my choices appear.  If I click on any of those choices I get redirected or jumped to someplace I didn't want to go.
+
+There are known viruses which are infecting your Internet Browser making it redirect you to a malicious sites every time you click a link, I would suggest running a Anti Virus
+
+Here are some Free ones.
+Microsoft Securtiy Essentials (Microsoft.com
+Avira (avira.com)
+Avast (Avast.com)
+
+Can also be you are using a fake browser, I suggest using one off these
+Comodo Dragon (Comodo.com)
+Firefox (Mozilla.com)
+Opera (Opera.com)
+Google Chrome (Google.com/chrome)
+try searching for add-ons / plug-ins for your browser
+Firstly, try deleting all your cookies, you can usually do this in your browser option, if that doesn't work download a new browser or reinstall the one you have now, then get yourself a good anti-virus like AVG or Avira Anti-Vir to stop malware from infecting your browser. By the way that's most likely your problem, you have malware or a virus on your computer sending you to sites you don't want to go.

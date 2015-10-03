@@ -1,0 +1,9 @@
+Why can I download torrents fine, but internet pages don't load properly (if at all)?
+My torrents are downloading at normal speeds right now, but web pages for both my computers rarely load. I usually get just text (with hyperlinks) when it does load. It seems to go through periods where everything loads fine, though.  This has just been happening today.
+
+Help me please!
+
+*cough* you are downloading a virus *cough* Stop whatever you are downloading
+This is assuming that you're trying to load the web pages while downloading the torrents:
+The rate at which you download torrents is not always what affects your download speed. Remember, you are connected to other people. Sometimes you're connected to only ten. Sometimes you're connected to a hundred. Sometimes, just maybe, even more. The number of people you are connected to can slow you down. Your router (is this right?) can handle only so many connections.
+By the way, are you seeding?

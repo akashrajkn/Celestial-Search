@@ -1,0 +1,35 @@
+My sister's computer is having a problem with Internet Explorer - it won't allow her on any websites...?
+Everytime she tries to go on anything, this pops up: http://s703.photobucket.com/albums/ww31/Well_Hello_Beautiful/?action=view&current=vista-1.jpg&newest=1
+And when the scan is done, up pops some virus thing it says we have to buy. What could be wrong with it, and how could we try to fix it? 
+Thanks. :)
+Thanks for all the good answers, everyone! It's all better now. :)
+
+You have a virus.  There are several good free virus scans avail on the internet.  Don't click on the pop-up.
+Starring... you know I'm a technophobe and have nfi... Luckily I have awesome Contacts who do have a clue lol! *coughs* Dr House *coughs* Nick *coughs* Carebear... haha!
+
+Please help my favourite Penguin!!!
+
+:D
+step 1: Download Firefox
+step 2: Uninstall Internet Explorer
+step 3: ????
+step 4: Profit!
+try to restore U R computer to earlier date
+most of the viruses can be remove by this
+
+try it
+start-all program-accessories-system tool- system restore
+i bet your sis is trying to surf all naughty sites... nice! ;) ... just show her our facebook comments. its a bit pornish too. it should calm her temporarily.. lol
+What LoverRBoy said is correct.  It's time to  do a System Restore - 
+
+Start ------>  All Programs------> Accesories---------> System Restore
+
+Then just pick a day before this happened.  What is does is change key registry files back to the way they were on the day you choose.   Virus add instructions to registry files that you don't want in there, then your computer executes them
+Nick is correct. Do a system restore.
+As an added precaution i would do a full virus scan after the restore is complete to catch the virus and remove it, lowering the chances of the exact same thing happening again.
+
+I also recommend using the Mozilla Firefox browser instead of Internet Explorer. Its much better, faster, more customizable and has heaps better security.
+i agree w/ Nick. but then run a scan .
+download malwarebytes and run it. 
+or type regedit and check your registry keys
+if you haven't changed to IE8 do so ...

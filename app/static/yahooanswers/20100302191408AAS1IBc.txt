@@ -1,0 +1,12 @@
+My internet freezes at random?
+My computer is kinda getting old I have XP home. My internet for the past couple months has been slowing down on me. I share my router with 2 other people.
+But, almost every day it goes through a point where my internet just freezes if I can even call it that. It won't let me on my main sites like Facebook and myspace, it loads other things just fine but not that.
+When it freaks out I open a new IE tab and it loads google just fine and stuff.
+Sometimes it just doesn't load anything at all.
+It just does it at random moments of the day.
+I don't have any viruses.
+
+you guys may be dloading too much, so bandwidth is limited
+ok several things.. go to help on the top left side of your internet explorer.... then click on about internet explorer... if it says ie 8.... uninstall it... you should be using 6 or 7... by you going to add and remove programs in the control panel... look up windows internet explorer 8 and unistalling.. dont worry , when u restart the pc it will have your previous version...
+also... clear cookies and files and reset your browser... go to tolls on the top left side of internet explorer then internet options... under browsing history click on delete.. then delete cokies and temporary internet files.. the rest dont matter...
+then go to the advanced tab under the same window, click on reset ( righ on top of apply) this will definateley improve your surfing experience.... after this... cal your company if it is still slow... it might be a line issue..oh, dont forget to power cycle ( tunr off/on) your modem and router every once in a while...adn keep them away from the carpet or keep the maway from electrical equipment.. for at least 2 feet... it generates static....Much love

@@ -1,0 +1,9 @@
+Help!! Why won't the......................?
+Little button  ON AIM EXPRESS that says "edit" (where you can put your picture) actually work!? Every time I press the stupid thing, it doesn't open up a  new window that says "take a picture with webcam' or "upload from your computer" or something. Its like the link to that button is broken... And it works on other computers! WHY??? help me. thank you !
+
+xoxo Haydee
+
+Check if your antivirus or security settings are blocking any pop ups. Reinstall aim
+1.It could be a java error try updating your java http://java.com/en/
+2.could be your browser wont support it try other browsers
+hope this helps

@@ -1,0 +1,6 @@
+My avira anti virus wont remove after sytsem restore?
+ok so messed upmy computer i fixed it but my anti virus in add or remvoe programs wont be removed caouse setup could not determine the feature controll file or was unable to read it corretley same thing with my frostwire i can remove that thow but when i download it agian it wont star up and pops up with a error i also tryed to manuly delete the avira by deleting its files in prgram and files but it would not let me so how do i remove this avira and redownload it agian i already tryed to download it agian with haveing it to stop it from poping up with the error evry time i try to run it but it does not work
+
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

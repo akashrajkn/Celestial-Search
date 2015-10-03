@@ -1,0 +1,6 @@
+Browsing cookie causing a site to not update?
+I'm sure that Youtube just got its new looking recently. But when I checked the site using Chrome, Youtube showed the previous looking with five stars rating still up there. Then I cleaned my browsing data and then the new looking was there. So I reckon the reason is that Chrome pretty much downloaded the design of the whole site so that even though the site itself is updated it wont be shown.
+
+Can anybody tells me if I'm right? And if so, how to turn off this kind of function without affecting any other cookie?(You know I do like cookies since they make website load way faster)
+
+try it again pressing ctrl+f5

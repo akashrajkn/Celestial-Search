@@ -1,0 +1,19 @@
+Help! Is it possible for tenants to steal internet connections?
+My parents are the landlords of the two unit house, where the tenant pays every month. First of all, I know very less about rental and estates, so I may seem to not know about the laws, conditions..etc.
+
+My parents seem to get along with the tenant, because my parents are really nice towards him. 
+
+Here what's related to the question. The tenant came up (we live on the upper floor) and asked about our internet modem while I wasn't home. My mom, without judgement said she allowed him to copy the code that was on the modem. She believed that the tenant tricked her by saying that his own internet doesn't work. 
+
+My older brother (who cooperates with my parents in taxes, bills, mortgages, wages...etc) and I believe that he is stealing our internet connection.
+
+Does anyone knows if he is actually using/stealing our internet connection? What should I do? My parents only made few agreements such as covering his water/electric bills, A/C+heater, and a parking space and nothing else.
+
+put a password on the router
+Of course he stealing it!
+do you guys have a wireless connection? iF you do then yes they can piggy back on your connection if you haven't locked yours. it sounds like they are stealing the connection
+If you suspect that someone is stealing your internet credentials, there are several things that you can do. First you can change your existing passwords so that others can not log in using stolen passwords. But if you can not do this still you can check whether someone is using your internet connection. You can request this facility from your internet service provider. They can check what are the IP address that using your internet connection or internet credentials. If that list is having IP address not belongs to you, those are suspicious IP address. Even then can check who is the owner of those IP address. In this way you can find whether someone is using your internet connection. But I not sure whether your service provider will charge for this service or not.
+I'd call up your phone/internet company and tell them to give you a new code, very easy and the guy will not be able to connect to your internet anymore, but I wouldn't see any harm in him using my internet, unless there's a good reason to not trust, and in that situation, he wouldn't be renting from me in the first place.
+Just change the router password, that will stop him if he is stealing internet.
+Read your manual or google your router to find out how to change the password.
+He's using your internet connection for free. If you don't want him to use it then you can always change your password.

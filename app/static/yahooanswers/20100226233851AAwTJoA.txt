@@ -1,0 +1,5 @@
+How do i know who viewed my blog at blogger?
+i dont mean to know how many viewed, but to know WHO viewed it.any idea guys?
+
+i dont think thats possible
+You could create a guestbook page where you ask visitors to sign.  That would be the only way I know of because a visitor to your site is just an IP address.  You could get location information but that would be about it.

@@ -1,0 +1,9 @@
+How much space will i need?
+Hi there.
+How much space will i need to for a site say with about 10 000 users, doing stuff like uploading pictures, chatting, posting comments ect?
+Any help or links would be much appreciated!
+
+It's not possible to give a definite answer, but you shouldn't buy more space than is needed. When you are reaching the limit, add another few gigabytes into the server or upgrade your hosting plan.
+
+I can say, no shared hosting account will allow that many users posting content, so either a dedicated server or VPS will be needed.
+What you have asked here can't be certain. If you are looking at opening a chat room or site like face book think how much space a user has and what each pic/vid/what ever each person should have. Like googlemail, this constantly is expanding its users space and capacity of what can be stored. I would reckon around 100gb for a good size that's 10mb each person. But for you to set the web up around 3gb depending whats going on the page

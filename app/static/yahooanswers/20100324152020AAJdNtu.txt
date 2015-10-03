@@ -1,0 +1,5 @@
+does any1 know how i can download this bbc video ?
+http://www.bbc.co.uk/persian/tv/2009/01/000000_ptv_live_s.shtml
+
+Yes, StreamTransport can do it well.
+http://www.streamtransport.com

@@ -1,0 +1,20 @@
+Is this site offline for you?
+I cannot access this website. 
+For some reason when I last updated it the site is having problems. 
+http://gamingrant.com/
+Thanks guys.
+When I published the site I accidentally also published a page which was supposed to be deleted, but it was still in the "pages" folder.  This caused the entire site to be taken offline until I republished it with the page fully deleted.
+It isn't working again. 
+I tried updating it, and it suddenly went offline.
+
+works for me
+Nope, works fine!
+Nope, works for me.
+
+Try going into command prompt (If you have Vista or Seven you need to run it in elevated mode, to do this go to Start->type 'cmd' without the quotes->Right click on first entry and select 'Run as Administrator'. If you have XP or lower go Start->Run->Type 'cmd' without the quotes), then type 'ipconfig -flushdns' without the quotes. This may fix it. Otherwise try turning your router/modem/computer all off at once, count to 10 and turn them back on.
+Nope works fine.
+This is a site I use it comes in very handy!
+
+http://downforeveryoneorjustme.com/
+
+:)

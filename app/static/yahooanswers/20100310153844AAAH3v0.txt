@@ -1,0 +1,19 @@
+How do I uninstall internet explorer?
+I have windows vista and I installed Google chrome and now I want to uninstall Internet Explorer. I do not know which one it is (7 or 8) and it is not in the uninstall list.
+
+It's an integrated part of Windows and cannot be uninstalled. Just ignore it.
+You can't remove it completely as it is a standard part of Windows.
+
+Additionally, if something goes wrong with Chrome, you'll have a backup.
+Don't bother.
+
+Some websites can't be accessed by other browsers still and its always good to have a backup.
+Steps for Windows Vista or for Windows Server 2008
+To uninstall Internet Explorer 8, follow these steps:
+
+   1. Close all programs.
+   2. Click Start, and then click Control Panel.
+   3. Click Uninstall a Program under the Programs category
+   4. In the Tasks pane, click View installed updates.
+   5. In the list of installed updates, double-click Windows Internet Explorer 8.
+It's impossible. It is an integrated part of the operating system, and does not show up in the add or remove program list. Leave it be, just remove it as the default web browser.

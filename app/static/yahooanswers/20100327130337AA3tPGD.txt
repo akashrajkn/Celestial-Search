@@ -1,0 +1,8 @@
+firefox opens a new window every time i click a link. Any fix?
+
+
+Tools>Options>Tabs and change what it does when you click on a link using the dropdown.
+
+On top of that I use an AddOn called Tab Mix + which adds loads more options.
+https://addons.mozilla.org/en-US/firefox/addon/1122
+Preferences> Tabs> Open new windows in a new tab instead.

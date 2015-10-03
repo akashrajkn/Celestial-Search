@@ -1,0 +1,12 @@
+I cannot load nypost.com but can load all other websites, using firefox and internet explorer?
+I cannot load the nypost.com website  but can load all other newspapers and websites.
+
+Neither can I. Very strange. Never had this happen before where only one site is affected.
+
+Fixed it. Had to unplug cable modem.
+may be it is blocked by your ISP or .. , try to use some kinds of antifilters (proxies) such as ultrasurf .
+
+you can download it from here (www.ultrasearch.com). The installation and operating instructions
+ for using in firefox, is written in its site.
+
+Good Luck

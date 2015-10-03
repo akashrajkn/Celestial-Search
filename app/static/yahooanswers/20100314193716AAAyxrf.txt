@@ -1,0 +1,6 @@
+safari and google chrome wont pick up my internet connection, but AIM messenger and internet explorer will?
+whats going on? i just installed McAfee Virus Protection. Could that have anything to do with it.
+what does that mean
+
+just make sure that they are not working off line from file tab
+McAfee is probably blocking it. I don't have the program so I can't tell you how to unblock it.

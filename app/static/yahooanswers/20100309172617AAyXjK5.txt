@@ -1,0 +1,8 @@
+Question about 'Second Life' the game. First of all I am a newbie on SL. Recently I brought a space ship to-?
+use as a permanent home on SL.But always after a period of time ( between minutes to a couple of hours)my space ship disappear and go back to my 'lost and find' folder. My question is does anyone know a SIM where my 'rez' object will remain there for ever or at least a long time? Thanks for any answer.
+
+It sounds like you're trying to rez the home on land that you don't own.   Every piece of land in SL is owned by someone and each one has a certain prim count allotment.    Owners are careful about their prim counts and it's considered extremely rude to rez something on land that you don't own unless there is a prior agreement with the owner.   Ultimately the land owner has full control over what's on his land and if he doesn't own it, he'll likely return it.
+
+There are public sandboxes that allow you to rez items or build stuff, but only temporarily. You're expected to de-rez all your stuff when you leave.
+
+If you want a permanent house to live in, then you'll need to own or rent land.  I'd recommend renting.

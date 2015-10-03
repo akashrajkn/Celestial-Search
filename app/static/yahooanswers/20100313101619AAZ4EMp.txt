@@ -1,0 +1,11 @@
+How do I remove Antivirus7?
+ok so it poped up i needed to scan so i did, and it says i have a few viruses but there not that bad, but now that its instaled its wanting me to bad some software but its very expessive and not wroth it, plus it wont let me on some sites (such as networks, myspace, facebook) so dont tell me keep it or buy it THATS NOT AN OPION please tell me how to REMOVE it
+
+try this...
+go to:
+-start
+-control panel 
+-add or remove hardware
+if your lucky, you should find the antiviris somewhere in the list of programs, click it and click remove. thats all you should have to do. hope i helped.
+it's not only expensive and annoying, Antivirus 7 is malicious too. here's how you can delete it http://www.spywarevoid.com/remove-antivirus-7-antivirus7-removal-help.html follow the removal steps
+try this program : http://www.adfirewall.com/malware_remover/antivirus7/

@@ -1,0 +1,15 @@
+My firefox or google chrome browser wont open?
+whenever i try this box pops up saying "this operation has been cancelled due to restrictions in effect on this computer. please contact your system administrator."
+
+i am logged in as administator, i tried restarting it, i right clicked and clicked on run as administrator but nothing works, what do i do?
+
+Before I can help you I would need to know what Operating system are you using? From what I could pick up, is it Windows Vista by chance.
+I'll also need to know what you were doing or what you did prior to getting this message?
+Did you just updated your antivirus or your browsers by chance.
+Get back to me as soon as possible so that I can try to help you ok.
+Though it seems as though something or someone changed your permissions so you should definitely check it out. if everything seems ok then it could be a spyware or malware.
+Try installing spybot-search and destroy-->http://download.cnet.com/Spybot-Search-amp-Destroy/3000-8022_4-10122137.html
+and scanning your system and you can also try 
+running Malwarebytes-->http://www.malwarebytes.org/
+
+Hope this was somewhat helpful but I still need to know what I asked earlier so that I could further assist.

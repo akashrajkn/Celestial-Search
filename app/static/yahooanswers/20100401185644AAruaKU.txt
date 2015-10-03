@@ -1,0 +1,4 @@
+How can firefox speed up your browsing when your internet service only goes so fast?
+I have verizon high speed. Verizon says it is always set at the same speed. So how can having firefox speed up my browsing? I have heard people say it does "speed up their browsing" but if your internet speed is already set not to change based on usage or number of people online at the time how can any browser speed up your net surfing? thank you.
+
+Firefox closes tabs and keeps them from running to boost speed. It also automatically closes other programs as well. Its not about the overall speed of your modem, Its about the PC's performance and FireFox helps it out.

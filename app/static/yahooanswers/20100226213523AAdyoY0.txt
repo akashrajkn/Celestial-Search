@@ -1,0 +1,12 @@
+Internet Disconnection problems.?
+Yahoo Instant Messenger, Yonno [Firefox add-on], any internet browser that isn't Firefox, every MMO I have on my computer, and programs I want to download that need internet connection are not working because for some reason they believe my internet is disconnected, even though it's not. The only thing that isn't fooled by this is Firefox. I posted this question a few times in other places without getting much help. Does anyone know how to fix this?
+According to my friend, it's a Windows 7 network glitch. Still don't know how to fix it though.
+
+try downloading programs using internet explorer
+then you have two choices
+
+1.   Contact your ISP and check with them
+
+2.   if your still not sure on what to do
+then go to your local computer store and get them to look at it and fix it for you
+Restart PC in safe mode by tapping F-8 key, choosing "Last Known Good Configuration". Next use Malwarebytes, ccleaner, Reset IE-8 to Default in Options, Advanced and Restart PC...You might also have to Reset Router or unplug it for 10 sec and plug it back in Restarting PC...You can renew IP in the 3rd link, and the last thing to try is reinstalling the Network Driver, if the above doesn't work...

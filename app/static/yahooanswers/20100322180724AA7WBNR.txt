@@ -1,0 +1,4 @@
+I'm having Internet problems?
+Ever since my college changed the internet connection, supposably to make it faster I've been having problems with webcams and videos in general loading on websites. I've tried clearing the cache, enabling cookies and checking firewall. i also have the up to date versions of adobe flash and java but nothing seems to be working. anyone have any tips or suggestions? Thanks
+
+Contact the helpdesk, since they're the ones who know what was changed and if there are any known problems.

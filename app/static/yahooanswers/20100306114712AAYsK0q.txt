@@ -1,0 +1,5 @@
+Another Paypal/Bank Account Question?
+Ok, so if I have $30 directly in my paypal account and I wanted to buy something from eBay that is $34.99 but the rest of my money resides in my Chase online bank account, will the eBay system first drain the $30 from my paypal account and then take the $4.99 out of my Chase online bank account to pay for the rest? I mean before I got a refund for an item on eBay, I actually never put any money into my paypal account, it always just took the money directly from my Chase online account and it was very easy. I just don't want any problems that's all.
+
+Paypal always takes a remaining balance first to pay for your items. So yes, you will pay the $30 from your Paypal account and the balance of $4.99 from either your bank account or credit card, however you have it set up.
+When you checkout it will tell you exactly where the funds are coming from, and let you change that. The PayPal balance is always used first so y ou can pick where the $4.99 comes from

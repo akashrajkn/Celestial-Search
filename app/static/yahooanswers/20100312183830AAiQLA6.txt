@@ -1,0 +1,11 @@
+How to get online fonts into Paint?
+How do I take online text fonts into Word and Paint
+
+Just install the fonts normally and they should show up.
+What should happen is when you download them (you need admin rights) and save them into your win32 or win64 it should automatically work for all windows based programs
+Install/copy them to appropriate location.  In XP (classic view of control panel) there is a fonts icon you can copy/paste them right there (also works with Windows 7).
+You can go to www.dafont.com download any font you wish to have.
+after downloading it. Extract it with WinRAR.
+go to your control panel and look for the file where it says "fonts"
+open the folder up and drag the font file into it.
+Then you'll have the font's for paint, microsoft word and any other program that include text.

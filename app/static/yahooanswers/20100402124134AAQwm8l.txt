@@ -1,0 +1,4 @@
+Please Help - Uninstalling Internet Explorer?
+Yes, so i uninstalled I.E, the laptop rebooted. But i can still run internet explorer, and the shortcuts are still there? Wtf. Also, I.E is no longer in the add/remove programs section.
+
+Unless you have Win7 you cannot uninstall IE!

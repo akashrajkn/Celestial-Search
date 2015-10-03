@@ -1,0 +1,4 @@
+How do I upload a moving avatar with a file type .gif?
+every time i upload it, it stops moving....plz help.
+
+If it stops moving then the most likely answer is that whatever site you are uploading to does not support gif's. They may let you upload them yes, but most forums and stuff have the option in the background to disable moving pictures.

@@ -1,0 +1,4 @@
+How can you delete the tumblr blog by the staff?
+When I try to delete the tumblr blogs by the staff, I cant. There's no "delete button" or such.
+
+You can't delete them. Click on their icon, which should lead you to their tumblr profile. Wait until the page is fully loaded, and then you should see 2 gray, rectangular buttons. One should say 'unfollow' and the other 'dashboard'. Click the 'unfollow' button. After you click it, the button will change to 'follow'. Click on dashboard to go home, and the staff blog should be gone.

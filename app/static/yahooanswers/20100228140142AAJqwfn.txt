@@ -1,0 +1,10 @@
+Firefox Cache Folder in Windows 7?
+I'm trying to located the Firefox Cache Folder in Windows 7 to see if I can recover some photos I just looked at with the browser.   
+
+  Anyone know where the folder is located?
+
+Try here:
+
+C:\Users\your username\AppData\ Local\Mozilla\Firefox\Profiles\your profile\Cache
+
+Hope that helps.

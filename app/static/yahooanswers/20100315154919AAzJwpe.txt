@@ -1,0 +1,13 @@
+IE is faster than Firefox on my new windows 7 for videos?
+i played the same video on Firefox and on IE then timed it. IE was faster. i liked it better when Firefox was. please tell me why.
+
+There are two possibilities:
+
+Caching. When you viewed the file in Firefox, the computer downloaded parts of it to the computer. When you viewed it in I.E., it was able to use those already downloaded parts so it didn't need to redownload everything.
+
+Luck: a lot of it depends on what your Internet speed is at the time you download the video. This has absolutely nothing to do with the browser. In fact, you're probably viewing the video in Flash Player which is its own separate program that gets embedded inside the browser.
+firefox is the best and is faster because it isnt looking for errors constantly maybe you need to intall a new version :D
+What does it mean "faster" ?
+Faster video download? I would bet that it is related to a luck or some addons that you have installed to your firefox.
+Faster playback and working overall? Probably related to addons.
+When it comes to video then in the core there is usually Macromedia Flash (a terrible thing by the way) and it is the part that needs to be fast. And it is more-or-less the same on every browser - but might be affected by the addons.

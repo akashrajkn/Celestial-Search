@@ -1,0 +1,76 @@
+Safari and IE won't display web pages even though I'm connected to the internet?
+Okay, I'm having an issue. My Firefox browser works. It lets me browse web pages, no web problems. 
+
+However, Safari and IE don't. Safari will say "Safari can¡¯t open the page ¡°http://www.apple.com/startpage/¡±. The error is: ¡°There was a problem communicating with the web proxy server (HTTP).¡± (CFURLErrorDomain:306)" IE does something similar. 
+
+I've also noticed that I can't get on iTunes store. It says the connection has timed out. 
+
+What is going on?!
+I've updated both, neither are working.
+Nevermind, I figured it out. You were all wrong. NO POINTS FO YOU! Hahaha, just kidding.
+
+if it works,why fix it? just use firefox
+You need to probly update your computer for the itunes and safari is bad bad safri use fire fox
+Does your computer have a virus?
+call your internet company
+u probably have over used it and for the firefox thing you just need to renew your connection
+It maybe to do with safaris server itself, i don't think it is the browser personally, try clearing your cache/cookies and all history, If you don't really need to use safari then i would just use firefox, you could try it again some other time, probably itunes is full of traffic at the moment (too many people going on it), if safari doesn't work the next time you go on it, try downloading the browser again.
+maybe try to download firefox again...what u need to do uninstalled the first one then reinstalled it again.
+
+then after you did that..try to do your things again check it did work.....sometimes some software don't work properly if they didn't get installed properly.
+Ok. The first thing I need to tell you is that I don't like safari! Google chrome is way better! It's fast! Anyway.... Try reinstalling Safari.
+Thats all I have to say..........
+When is the last time you restarted your computer?
+
+Your internet controller in your mother board might be bogged down by way to much RAM. Restart your computer. If that doesn't work try restarting your router as well. Updating may help to.
+That's very odd, you can try this...
+But honestly if Firefox is working then I'd leave it alone and just stick with that as your main browser.
+You should also try re-installing Safari and make sure your Internet Explorer is up to date and not an old version.
+
+If you have Windows XP
+System Preferences -> Network -> Advanced -> Proxies and make sure HTTP proxy is not checked.
+
+For Vista
+Start -> Internet Explorer -> Tools -> Internet Options -> Connections -> LAN Settings -> Select Use a proxy server for your LAN -> Advanced
+
+Type your address in but reverse the slashes so instead of http://apple.com/startpage/ change it to http:\\apple.com\startpage
+If this is a home or personal notebook computer, you shouldn't need a proxy server.  If you didn't install one, and your parents haven't installed content-blocking software, then you may have contracted some kind of malware.
+
+In Firefox 3, try:
+
+1. On the "Tools" menu, click "Options..."
+
+2. Click the "Advanced" toolbar button, then click on the "Network" tab.
+
+3. Under "Connection", click the "Settings..." button.
+
+4. If the "No proxy" radio button is selected, then you don't need a proxy for web operation.  If it is, write down or screen capture (see below) the list of proxy settings that are known to work.
+
+5. Click OK twice to close the Connection Settings and Options dialog boxes.
+
+Then, for IE and Safari (which uses IE settings) open IE and:
+
+1. On the "Tools" menu, click "Internet Options"
+
+2. Click the "Connections" tab, and then click the "LAN Settings" button.
+
+3. If the "Use a proxy server for your LAN" is not checked, I don't know what's going on.  If it is, click on the "Advanced" button and write down or screen capture every setting (just in case).  Then click "Cancel" to close the "Proxy Settings" dialog.
+
+4. Check the "Automatically detect settings" box and clear the "Use a proxy server for your LAN" check box. and click "OK" to close the LAN Settings dialog.  Click OK to close the Internet options.
+
+6. Close ALL Internet Explorer windows and restart IE to see if it works.  This may take a LONG time to display the first page.
+
+Malicious software or installed parental control software may not let you change these settings, though.  If you are connecting through a school or work network, you may not be able to get to the net at all without using a proxy. (That's part of what the "just in case" was about.)
+
+*** Screen Shot:  To take a screen shot of one window on Windows, while the window is active, click Ctrl+PrintScrn.  This will copy an image of the screen to the clipboard.  Then launch an image editor program like Paint (Start>All Programs>Accessories>Paint) or a word processing program like MS Word or WordPad, and use Edit>Paste or Ctrl+V to paste the image into the new image file or document.  Save the image/document and/or print it.
+Here's a free proxy created today:
+http://ipmasks.info
+
+-Unblock ANY Website
+-watch youtube videos
+-download up to 50 MB
+-hide you IP and stay anonymous
+-Fast and hosted on a dedicated server
+
+I get new proxies here everyday:
+http://tech.groups.yahoo.com/group/NewFastWorkingProxies/

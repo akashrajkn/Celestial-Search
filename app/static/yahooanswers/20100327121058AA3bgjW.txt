@@ -1,0 +1,15 @@
+i want to watch pure pwnage but i dont live in Canada?
+I've tried a proxy server but all the ones i use even when i enable scripts it still says they are disabled
+
+Use a personal VPN, http://www.surfbouncer.com they have Canadian servers and IP addresses. Video works over the VPN. I use it for Hulu, BBC iPlayer and CCTV from outside all of the respective countries they are in.
+Here's a free proxy created today:
+http://ipmasks.info
+
+-Unblock ANY Website
+-watch youtube videos
+-download up to 50 MB
+-hide you IP and stay anonymous
+-Fast and hosted on a dedicated server
+
+I get new proxies here everyday:
+http://tech.groups.yahoo.com/group/NewFastWorkingProxies/

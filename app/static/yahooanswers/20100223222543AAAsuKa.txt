@@ -1,0 +1,5 @@
+How to get wireless Internet to work?
+My cousin has a laptop computer with a wireless card in it.  She has tried to connect to the Internet at a couple of public places with Wi-Fi (like McDonald's).  She can see that she has an excellenct signal, but when she clicks on the Internet, it says that the webpage cannot be displayed.  Her husband has about the same laptop and he can get on in a wink of an eye, but he's not sure how he did it.  She thinks it may have something to do with a setting here or there but not sure what to check.  She has asked me to help her, but I'm not sure what to do either.  What is she doing wrong?
+
+Make sure your IP assignment options are set to DHCP (Dynamic).
+down in the bottom right there should be an icon with 2 computers click it and make sure that the network is selected and that you have wireless turned on on the computer

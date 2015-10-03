@@ -1,0 +1,13 @@
+Is this a virus? for Windows 7 user i need help!?
+ok first of all i have Avira,Kaspersky,Norton and Avast anti viruses and all updated only Avast was last month but thats not a problem...i think i have a serious problem i have a game that have issue on windows 7 and microsoft give a provide link patch for the game its a binary type of file for that game fix but after i download the patch and run it a MSDOS sudden pop up and something about TEMP@#$*&% file on window name seconds later a "Insert DVD on driver" is pop up i dont get this why does pop up like this appearing i tried another site with same file still i got the same..im guessing its a virus? or corrupted type of setting? on my backup PC same hardware and OS (windows 7 32bit ultimate) the binary file that i downloaded was run fine like normal..i tried scanning my entire hard desk with those anti viruses they found nothing..does anyone here can help me?
+
+Damn How many Antiviruses do u have
+
+one will work but y do u have that many antiviruses
+If you can¡¯t find the right Windows drivers manually I would recommend just getting a software program that can do it for you. There is a program I use which will find drivers for just about all hardware devices. The best part is it takes a snapshot of your system specifications and matches the right driver to go with it. Perform a free driver scan at:
+http://www.drivers-updates.net/drivers/windows-vista-drivers.html
+You can also search by the following link:
+http://search.yahoo.com/search;_ylt=A0oGkwVSn2tLfmwAQjxXNyoA?p=site%3Awww.drivers-updates.net&fr2=sb-top&fr=siteexplorer&sao=0
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

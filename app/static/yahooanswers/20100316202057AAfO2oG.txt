@@ -1,0 +1,10 @@
+Internet explorer screen too big?
+I reformatted by computer and now my internet explorer is too big. My screen size is set at 100% and text size is at medium. It is only internet explorer. My desktop is not enlarged. Anyway to solve this? Thanks
+When I use ctrl or minimize it, only the breadth changes and words becomes too small to read. The length is still the same and I have to keep scrolling down
+
+I think you have the standard resolution which should be fine . 
+otherwise you can try minimizing you screen resolution like 1024x768 or smthg like that .
+hope this helps
+Jaly aka the badass
+Hold down the "Ctrl" key and then move the scroller on your mouse to adjust the size of the screen.
+try changing the zoom level in your internet explorer

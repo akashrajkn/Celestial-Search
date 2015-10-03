@@ -1,0 +1,108 @@
+How can I make a blog completely private, even from search engines?
+I set mine so I'm the only one that can see it but I found it in google, how can i mae it completely private?
+
+Copied from newwebmasters.net
+
+How to Prevent Pages Being Indexed by Search Engines
+By corbyboy ? August 9, 2008 ? Post a comment
+
+Keep those robots at bay
+
+As much as webmasters are desperate for search engine spiders to crawl their pages, there are often times when you want a page or section to be ignored. They might be non-content pages such as terms and conditions or a privacy policy. They could be test pages or just private pages that you don＊t want to share.
+
+This article will show you all the different ways to keep search engines away from your content. The most appropriate method to use for your own situation is up to you.
+
+Robots.txt
+The standard way of preventing search engines accessing a page is to block it using a robots.txt file. It goes in the the base directory of your website.
+
+You use the following syntax:
+
+User-agent: *
+Disallow: /sessions/
+Disallow: /cgi-bin/
+The * under User-agent means that the rules apply to all spiders. The Disallow rule lists the directories that should be excluded.
+
+You can do other things with robots.txt:
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: *
+Disallow: /
+These rules in this example mean that Googlebot is allowed to access the entire site (note how there is nothing after Disallow). Every other user-agent is blocked. There are more advanced examples of how to build a robots.txt file at robotstxt.org.
+
+There are two important things to remember about using robots.txt. The first is that a spider can ignore it. This is particularly true for robots harvesting email addresses or scraping your content. The second is that anybody can read the file. Don＊t use robots.txt to hide secret information, as a quick glance at the file will tell you where all those secret directories are.
+
+You should also be aware that even though search engines won＊t spider the site, the URL can still appear in search engine result lists, especially if the page is linked to from another site.
+
+META Tags
+You can use meta tags to control how spiders index specific pages. They look something like this:
+
+<meta name="robots" content="noindex,nofollow" />
+The options that you have concerning robots are:
+
+※index§ 每 which tells the robot to index that page
+※noindex§ 每 tells the robot to not index that page
+※follow§ 每 the robot should follow all the links on that page
+※nofollow§ 每 the robot should not spider any links from that page
+The default is ※index,follow§ so if you want your page spidered and the links followed then you can omit the tag.
+
+When using a meta tag to ※noindex§ a page you will not have the problem of the URL appearing in the search engine results. It will be completely omitted. Remember that a page that is not indexed will still be crawled and unless you have also specified ※nofollow§ in your tag, the links on that page will be spidered too.
+
+Nofollow Links
+You can use ※nofollow§ on a specific hyperlink to stop search engine spiders from following that link and crawling the page. It is supported by Google, Yahoo! and MSN/Live You use the following syntax:
+
+<a href="http://example.com/page.html" rel="nofollow">Example.com</a>
+This syntax was originally created due to the problem of comment spam on guestbooks and blogs. The original idea was that a site could be linked to without passing any PageRank or link influence.
+
+While this method is useful to prevent a spider following a link to a page, remember that it only affects the specific hyperlink it is attached to. If another link without nofollow points to the same page then that link will be followed and the page will still be indexed.
+
+Password protected pages
+A common way to keep private pages secure is to protect them with a password. Since the page cannot be accessed without the proper credentials, search engine spiders cannot index the page. As with some of the other examples, the URL may still appear in search engine results if a link to the page is found.
+
+The following code shows you how to protect a page with a username and password using PHP. It uses basic HTTP Authentication:
+
+<?php
+if (!isset($_SERVER['PHP_AUTH_USER'])) {
+    header('WWW-Authenticate: Basic realm="My Realm"');
+    header('HTTP/1.0 401 Unauthorized');
+    echo 'Text to send if user hits Cancel button';
+    exit;
+} else {
+    echo "Hello {$_SERVER['PHP_AUTH_USER']}.";
+    echo "You entered {$_SERVER['PHP_AUTH_PW']} as your password.";
+}
+?>
+To read more about authentication in PHP visit php.net
+
+Offline Pages
+It may seem simple but keeping your web pages offline is the perfect way to prevent them being indexed. Maybe they can be put on an intranet rather than fully online. If collaboration or viewing over the Internet is essential then this method isn＊t suitable, but on many occasions it is.
+
+Remove URLs From Search Index
+Google and Yahoo! both have tools that allow you to remove specific URLs from their search index relatively quickly.
+
+Google Webmaster Tools
+If you have rgistered with Google Webmaster Tools then you can use this to remove a URL.
+
+From the dashboard click the website that contains the URL.
+Then click ※Tools§, followed by ※Remove URLs.§ Google will give you some tips about getting your URL removed and keeping it like that.
+The URL you want to remove should be blocked from further spidering. If you don＊t ensure this then the page will simply be indexed again at some point in the future. Once you are certain this is the case, click ※New Removal Request.§
+You then choose what you want to remove. You can remove and individual URL, an entire directory, a whole site or the Google cached copy of a page. Make your selection and click ※Next.§
+Enter the URL to be removed and click ※Submit Removal Request.§
+Yahoo! Site Explorer
+To use Yahoo! Site Explorer you need to verify your site.
+
+From the Site Explorer homepage either search for the URL you want to remove or click ※Explore§ and locate it manually.
+Click [Delete URL/Path] next to the URL you wish to remove. Any URLs below that particular folder will also be deleted.
+You will be presented with a confirmation page which will list all pages to be removed. You can edit this list to keep certain URLs. Click ※Update§ to create a new list.
+Click ※Yes§ to confirm your deletions.
+A note on removing URLs with webmaster tools. Using Google and Yahoo＊s webmaster tools requires you to verify your site. The deletions will only stay in effect as long as your site is verified. If at any point your site becomes unverified, your deleted URLs will return to the index.
+
+Another important note. When you remove a URL, make sure it is blocked from further crawling via one of the other methods listed above. Otherwise your deleted URLs will be reindexed soon after they are removed.
+Don't link to it or offer any links to it.
+
+Don't 'ping' any of the services.
+
+Don't offer your RSS feed.
+
+Never put your URL anywhere on the internet.

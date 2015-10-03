@@ -1,0 +1,12 @@
+What's your Internet speed, in megabits per second?
+If you don't know it, check here:
+
+http://www.bandwidthplace.com/
+
+Upload or download?
+My download is about 20 Mb/s, but my upload is only about .3 Mb/s
+theres also speedtest.net and speakeasy.net
+http://www.speedtest.net/result/758482914.png
+
+(with a desktop machine streaming Spotify and a work laptop connected through VPN to the US) ^_^
+Wow... 20,000kbps? That's a lot, I have 1,600kbps. You know... actually correctly identified as 1.6Mbps...

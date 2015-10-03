@@ -1,0 +1,13 @@
+At the bottom of internet explorer, where it usually says 'done', it says 'error on page'. How do I fix it?
+http://s473.photobucket.com/albums/rr91/shanutzeh/Error%20msg/?action=view&current=Error.png
+
+It's kind of frustrating, I can't click on links and things, and on facebook I cant click on anything...
+
+If you have a question please ask, I will answer, PLEASE come back to check :-)
+
+this happens to me regularly. it is annoying and i can't click on anything it's as though the screen has froze. i hope you get the answer, i will be interested to find out what to do. sorry i can't give you an answer, but hopefully somebody will.
+http://support.microsoft.com/kb/936213/en-us
+This page is microsoft troubleshooting for internet explorer problems.  Rather than try to guess you might check out these steps.
+EDIT-I have read that sometimes simply clearing the cache will solve the problem(delete browsing history.)
+ Also be sure your windows updates are on so newer pages are recognized.
+ Let us know how you solve it so we can benefit.

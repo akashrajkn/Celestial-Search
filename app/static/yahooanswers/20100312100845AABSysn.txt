@@ -1,0 +1,12 @@
+how can i download PICASA VIDEOS ?
+MY UNCLE HAS PUT THEM ON PICASA..I WANT TO DOWNLOAD IT VIDEO??
+
+WHAT SHOULD I DO??
+
+PLEASE HELP ME
+
+Install  "downloadhelper" extension  in firefox then you can download any video form any webpage.
+
+When we play the video online the logo "downloadhelper" starts to swing meaning its ready click in its drop down button and you are good to download.
+
+Cheers

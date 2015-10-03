@@ -1,0 +1,18 @@
+how can I upload a powerpoint video to my "Webs" site (formerly freewebs)?
+
+
+Upload the PowerPoint video to Youtube first,then embed the embed code to your webpage.
+I think an article named "6 Approaches to Putting PowerPoint Presentation on Web"  may help you solve the problem.
+Go to the article source: http://www.dvd-ppt-slideshow.com/ppt-to-dvd-tips/put-powerpoint-on-web.html
+You can either convert your PowerPoint to video or flash(with a smaller file size and high compatibility with different browsers) to upload it to your web. 
+
+Here is an article introduces how to create web-friendly flash from PowerPoint:
+http://www.acoolsoft.com/support/knowledges/create-web-friendly-flash-movies.html#105
+
+Besides, if you need to convert PowerPoint to video, here is a FREE tool for you: Acoolsoft PPT to Video Converter (http://www.acoolsoft.com/powerpoint-to-video-overview.html#105 )
+
+Hope it can help.
+Here is an article about 5 ways put PowerPoint presentation on web:
+http://www.sameshow.com/other/5-ways-put-powerpoint-presentation-on-web.html#155
+
+Hope can help you@~

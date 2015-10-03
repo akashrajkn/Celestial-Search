@@ -1,0 +1,4 @@
+My torrents are downloading very slowly, what can i do?
+I use Bit torrent 6.3 to download mostly movies and music. I had this problem before and i forwarded ports 6881 to 6889. This worked for about two months, now they downloading slow again. Are there any other ports that i can open to make these download faster?
+
+Use Utorrent it's better and bittorent sucks!

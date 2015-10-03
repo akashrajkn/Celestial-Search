@@ -1,0 +1,14 @@
+a internet question, please answer?
+you kno how on some websites you type in the search box and then you go back to the search box and it shows your history what you typed? if you kno what im talkin bout, could you tell me how to change it to where it dont save my history. thank you
+
+um to get rid of the history, you have to actually clear your data online if you have mozila go to tools then clear recent history, for internet explorer you have to go into the control panel go to internet options and under browsing history hit clear all, i do not think there is a way to just keep it from collecting data
+If you're using Internet Explorer, Go to tools menu --> Internet options --> then choose delete.
+
+If you're using Mozilla as your browser, go to tools menu --> Clear recent history then check them all.
+
+That's it. But if you really want privacy and on your computer, go download "CCleaner" or "Traceless"
+
+Both programs are written to delete all the history and recently opened programs and documents you've used.
+
+Good Luck Mate! =D
+The exact answer will depend upon what browser you are using.  Internet Explorer?  Firefox?  Opera?  Chrome?

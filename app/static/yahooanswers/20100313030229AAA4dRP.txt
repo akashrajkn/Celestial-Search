@@ -1,0 +1,15 @@
+Why has the RSS feed on my WordPress blog disappeared and how can I get it back?
+I've got a Wordpress blog being hosted by Godaddy and I was just trying to set up an RSS feed for it but when I clicked on the "Subscribe" link to see if it worked, I got the message "This feed no longer exists." Here's the URL:
+
+http://www.survivalprep.net/feed/
+
+I don't remember deleting any files in my FTP directory, but if I did is there a way to restore them? Or could the problem be somewhere else? Or is there something else that I should do?
+Leenus, I just activated a different theme but I'm still getting the message "This feed no longer exists."
+
+Why should I stock up on stuff? Part 2: Buy it, then hide it!
+
+Why should I stock up on stuff if people will just steal it anyway?
+
+If these are some of the posts on your blog and you are not able to view your Rss feed on your website, then its a problem with the theme you have installed but not the Wordpress.
+
+Try to download some random themes and check whether you can see the RSS button or not.

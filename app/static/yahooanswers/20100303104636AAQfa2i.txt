@@ -1,0 +1,17 @@
+firefox doesnt play videos but IE does?
+i just downloaded firefox.it doesn't play any videos on youtube.
+youtube says either my javascript is didabled or i have older version of flash player.
+i checked and found my javascript is enabled.
+but the same video works perfectly well on Internet Explorer.
+pls. help i wanna use firefox.
+
+you just need to go to firefox and install https://addons.mozilla.org/en-US/firefox/browse/type:7
+You need to upgrade your Flash player - You can do this by going to this link & installing the plugin:
+http://get.adobe.com/flashplayer/
+I hope this helped!
+//Relex.
+Hi Chirag j
+
+
+For what I've found it appears you need to uninstall then re-install the Adobe Flash plugin.
+flash isnt enabled/installed

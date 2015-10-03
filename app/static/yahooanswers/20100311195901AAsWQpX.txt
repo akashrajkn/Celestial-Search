@@ -1,0 +1,20 @@
+how do you uninstall firefox? it's so annoying i need to uninstall it!?
+it's so annoying and i hate it please HELP!! i need something that wont give me a virus when i install it!
+
+to uninstall any program on your computer go to Control Panel>Add or Remove Programs.
+
+If your running Windows 7, it's in Control Panel>Programs and Features.
+Your can Uninstall either software in your Control Panel/Uninstall software.
+But firefox is clean,there is no virus in it...
+Firefox is one of the best browser out there, it security features is much better compare to IE or google chrome. I'm not sure why you accuse a browser for giving you a virus. Getting a virus is totally depending on the user surfing habit. Most likely you've downloaded malicious viruses from websites containing java scripts but you don't have to worry because Firefox has plugins
+
+You can download the latest plugin for firefox. All you need to do is go to  tools - add on. You can search for a plugin that blocks ads and prevent java script from activating.
+
+If you still insist on removing firefox just go to control panel -> install/uninstall --> uninstall firefox
+
+Perhaps you should do a virus and a spyware scan? There is many good free anti-viruses and anti spyware out there.
+
+Personally I'm using Avira Anti-Virus and IO bit security 360 as my anti-spyware. If Virus and anti-spyware scan still doesn't help. I suggest that you download HiJackthis and send your logs to any Internet Security forums to help you diagnose your system.
+
+Good Luck
+give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine "experts" say is impossible. usually in the all programs menu under firefox there is an uninstall option

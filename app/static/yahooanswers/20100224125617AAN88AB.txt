@@ -1,0 +1,42 @@
+I recently blocked a site through my router, then unblocked it why can i still not access it?
+help please
+
+i have a lynksy router, and i have tried deleting my cookies
+
+because the internet host still recognizes it as blocked
+It may be cached in your router. Try unplugging the power cable for 30 seconds, then plugging it back in. Go to the web interface and check if the site is still in the block list. If it is then remove it and make sure that you selected "Update" or "Apply".
+
+Next you need to flush your DNS incase the site is still pointing to your router's block page.
+
+Follow the correct instructions for your OS (i.e. if you are using Windows XP only use the ones that i've marked as Windows XP. For Windows Vista/7 use the ones I marked as Windows Vista): 
+
+Go to start->run (Windows XP)
+Click start then click in the find box (Windows Vista)
+
+Type in cmd
+
+Press enter (Windows XP)
+Right Click on cmd in the list and press Run as Administrator. Press YES on the popup box. (Windows Vista)
+
+Type in:
+ipconfig /flushdns
+--------
+If you are using a Mac, type Terminal in finder and press enter.
+Type in
+dscacheutil -flushcache
+Press enter
+--------
+Close all your internet browsers and try again.
+use 1 of the below
+
+musicweapon.info
+yahooisfun.info
+googleisfun.info
+newcampus.info
+oldcampus.info
+
+proxies get blocked very fast..to get Fresh Proxies right to 
+
+your mail
+ join the group
+http://tech.groups.yahoo.com/group/getaproxy/join

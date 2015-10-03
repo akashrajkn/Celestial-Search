@@ -1,0 +1,16 @@
+Question on Using Firefox 3.6?
+I've been using Firefox 3.6 for a while, as it seems to handle many tabs at once much better than Firefox 3.5 did, but there's one thing from the old Firefox that I miss and was wondering if there's a way to change. In Firefox 3.5, when I used Ctrl + Click on a link, the new tab moves to the end of my tab list, but in the new version, when I use Ctrl + Click on a link, the new tab comes directly to the right of the current tab, even if there are other tabs already open to the right of it.
+
+I know it's a small thing, but it bothers me to no end. If anyone knows how to make the new Firefox do that, or if there's any plugins that can change it, I'd love you for eternity if you'd let me know how to do so :)
+
+Thanks in advance!
+
+I would recommend you get used to the new Firefox behavior. It confused me a bit at first, but after awhile, I started to really appreciate it. It is more logical. Also, you can easily move tabs around by clicking on them and dragging them where you want them (even into their own windows or into existing Firefox windows).
+
+But if you find you really don't like it and can't, or don't want to, get used to it:
+
+1) Enter about:config in the address bar
+2) Find tabs.insertRelatedAfterCurrent
+3) Right-click on it and select ¡°Toggle¡±
+
+That will revert to the old behavior.

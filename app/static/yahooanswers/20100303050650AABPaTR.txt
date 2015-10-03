@@ -1,0 +1,66 @@
+internet explorer not responding?
+all this week, internet explorer dipping in and out, white screen etc, what is going on ?
+
+I got a very simple and effective solution.
+
+GET FIREFOX or GOOGLE CHROME!!!!!
+
+Get real dude. IE is crap!!
+The best solution would be to try a different browser. I like Mozilla Firefox the best, Google Chrome is good too. There's a bigger selection of addons for Firefox though I think.
+You should get firefox, its faster and never has any problems
+ie always done that on me too .. i switched to firefox and have never looked back.
+it's 100% better than ie and being able to personalise it makes it nicer to look at too lol
+Dear Friend,
+
+On my own experience, I was experienced some viruses or malicious software that made Microsoft Internet Explorer (IE) to not respond due to modifying its system files. Hope if it is not this case. There may be other factors that may be responsible for this situation, such as modifying the system files or registry settings, etc.
+
+Here are three options for you as [A], [B] and [C].
+
+[A]
+
+It will be advisable for you to reinstall its latest version.
+
+1. Goto the Microsoft Web Site: www.microsoft.com
+
+2. Download the latest version of IE that is compitable with your operating system.
+
+3. After completion, open the SETUP.EXE File that came.
+
+4. Follow the instructions on your screen and install it.
+
+[B]
+
+An another trick that let you help resolve the problem is to reinstall IE without downloading and installing its latest version. It is as below:
+
+1. Click Start.
+
+2. Click Control Panel.
+
+3. For Microsoft Windows XP, goto Add or Remove Programs. For Microsoft Windows Vista/ 7, goto Programs & Features, and select Turn Windows Features On or Off sub-option.
+
+4. For XP, click Add or Remove Windows Components. For Vista/ 7, do the step 5.
+
+5. Make IE unchecked and click Next button.
+
+6. Follow the instructions on your screen and wait for a few minutes.
+
+7. Reboot (Restart) the pc after completion.
+
+8. Do the Steps 1 to 4 once again.
+
+9. Now, make IE checked-up, and click the Next button.
+
+10. Follow the Steps 6 and 7.
+
+Hope if this resolved the error.
+
+[C]
+
+Otherwise, it will be better for you to use Mozilla FireFox, Opera, Netscape Navigator or Opera for Free.
+
+* * *
+If you have any problems, mail at: vikas.jnpt@yahoo.in
+* * *
+reinstall :D
+Use Firefox, its aweeesome!
+dont use chrome..its all hype :|

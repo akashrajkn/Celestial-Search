@@ -1,0 +1,9 @@
+how are websites made these days?
+are they still based on html??
+
+Not all I suppose... I'm not even sure how to make one. com.com?
+Yes.
+
+But people hardly code in raw HTML any more.  They use applications like "Dreamweaver".
+yesthey are html, you can use a program called easyhtml, microsoft frontpage, wix - www.wix.com
+Yes sites usually contain html, xhtml, and/or css. PHP is popular as well.

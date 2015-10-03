@@ -1,0 +1,17 @@
+Why does Chat Roulette always switch my cam from ManyCam to my webcam?
+Hello!
+Well I learned how to make a "fake webcam" for Chat Roulette on a program called ManyCam. Anyway, I went to chatroulette, switched my cam to "ManyCam" (there were two ManyCam options?) and my video shows up and everything, it plays perfectly, etc. Now, when I press "start" and it connects me to somebody, it switches back to my webcam and you can see me?? How can I fix this? 
+Thank ya! :)
+
+idk this is happening to me to and its angering me xD
+I hade the same problem an di found out why:
+
+
+1st:you need to download google chrome 
+2ng:go to chatrt.com
+3rd:it will show manycam as 1 of you cams to use.
+
+
+ps.hope it help and if it does pls top ans me ;) -_-
+Use split cam or any other program instead
+I believe that Chat roulette has started blocking the 'fake webcam' programs like Manycam.  You can go back to the original version of Chat roulette via chatroulette.com/classic and run the older version.  This one still works with Manycam.  I think the intention of the authors is to try to stop Manycam completely.

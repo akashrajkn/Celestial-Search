@@ -1,0 +1,25 @@
+Internet running unusually slow?
+My internet has been running horribly slow lately. My download rate is only at 9-15kb/s, while I usually get atleast 100. Help?
+
+Call up your ISP and ask them what the fuck is going on
+or possibly low on memory, if u have windows memory diagnostic tool run it first for problems, click start, run feed this into run & go, this will check and fix any problem, or u might have too many programs on your desktop..  f that's the case, then add more RAM's
+I would run Malwarebytes, Hitman Pro, ccleaner, Reset Router or unplug it for 10 sec and plug it back in and restart PC...I would reinstall Network Driver next, if the above didn't fix it...
+Not with this computer. I was able to ask if a radioactive cow is dangerous  ( :
+If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://slowpc-checking.com/Slow_PC
+There are MANY reasons for computer slow downs:
+ not enough memory
+ too many programs starting up with windows at boot up time
+ too many junk files
+ too many restore points
+
+Clean windows registry can speed up the computer.
+Over time, you install new programs, uninstalled unimportant programs, update software's, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://clean-computer-registry.com

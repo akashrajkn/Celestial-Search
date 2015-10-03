@@ -1,0 +1,12 @@
+Can't even find wireless networks.?
+Alright.My iPhone, Xbox, and 3 other laptops can detect and connect wirelessly to my wireless modem. Yet one can't. I've made sure the WLAN switch is on and indicated by a blue light. I've even tried connecting with the ethernet cable directly to the modem but it still can't detect. Any ideas?
+
+Well you didn't state WHICH ONE... but i'm going to assume the laptop .... lol  Any how, it's probably just the network controller is bad ( in other words your hardware adapter is bad if it's the Xbox or the Iphone ~ i believe thats low chance for those 2 ) 
+
+In the laptop if i was correct, then it's a good chance that the Onboard Wifi is bad, so you may want to get a wireless internet card and try that, but first thing i would try is uninstalling the Networking drivers then reinstalling them.. 
+
+Uninstalling Network device
+
+In windows 7 or Vista Go to the Windows button ( formerly Start button ) Right click on "computer" click "properties" then on the left click "device manager"  ( might say manage devices ) Find the Networking group, and expand that. Find your Network cards or w/e and Uninstall that.. reboot then reinstall ~ then hope for the best~
+
+If it IS your Xbox or Iphone... look into having the manafacturer take a look into it.

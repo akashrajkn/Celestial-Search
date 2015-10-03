@@ -1,0 +1,32 @@
+Can my school access my chat/internet history?
+If I use yahoo messenger while at school, using the school's wireless internet, can the school access my chat history and current conversations? How likely is it that there is someone reading what I write?  What about the things I look up on the internet while at school - can the school see that too? Is it possible for them to access my IM conversations if they take place when I'm at home? 
+
+Even though there isn't really anything I want to hide from them, I'm not especially comfortable with the idea of my internet use being monitored. 
+
+To what extent can a school (or other organisation) see what I do online?
+Thanks everyone for your advice. I use my own laptop.
+
+Yes, they can... they own the computers. But rarely will they do this... too much traffic: needles in haystacks.
+Yes they eventually can do that. Read the IT and Computer Lab rules given 2 you. This done by security purposes, in case something goes awry...take care.
+If you're using their computers they can go so far as to see your screen remotly.
+
+If you're using your own laptop, they can still see what sites you access but would take advanced skills to see what you're typing by using a packet sniffer/monitor.
+If they have it set up to do so, they could have any number of key loggers or other monitoring software installed on the computers - and for all intents and purposes it's perfectly legal. After all, the computers are theirs.
+well, seeing what you do online, they can pretty much see everything you type into a search engine, as for using yahoo messenger with wifi, if someone duz check they can see that you are using the wifi, but they most probably wouldnt be reading everything your talking about. And as for IM conversations that are done at home they cant see any of that.
+If its there internet that you are using they can and WILL see everything and by law GOOD because its there's..........you would like to know whats happening with something thats yours.......
+And NO they cant go so far as to read you chat while you are at home, only when you are chatting on THERE internet.......
+Possible, but unlikely. The admins usually have better things to do.
+The school's IT department should not interfere in someone's privacy, they can know if you're connecting to yahoo, msn or any website in general. But usually IM, emails and communication stuff are encrypted so that even if someone is attempting to use packet sniffing on the network to see the in-going and out-going data packets from your computer to the school's router, he'd find the packets encrypted and decrypting them would take him big time and effort that probably he'll not be interested to do it for each single message you send.
+
+So it might be easy to know that you're browsing a certain website, but if you're interacting with a website or a webservice, it'll take a lot of work to find out what you're doing. However it is possible, but who ever has the time and skill to do it, will probably target someone other than a girl chatting with her friends at a school
+Most schools do have a policy against using personal accounts on school computers, and if you have your password saved (so you sign in automatically) they technically could, yes. I would advise not using Yahoo during school time, but maybe finding a forum you can post anonymously on without logging in just for you & your friends. 
+So...
+1. Possibly. It depends on settings you have saved on your account.
+2. Not very likely, but you shouldn't really be on IM at school anyway. Use your phone or something instead.
+3. The school can see what you have been searching for definite, and will probably be monitoring every pupil for anti-bullying reasons etc.
+4. If you have your password saved and the 'chat log' auto computer save on, yep.
+
+Just use the school internet for what it is meant for and keep personal stuff for at home, then you'll be fine.
+they cant. and they dont.
+even if they get to ur computer, they cant access chat conversations
+They can only see the URL of the websites you visited. They cannot monitor your screen unless you are wired into the system (ethernet). If it is a school issued laptop, then they most likely can monitor your screen. They are only allowed to access your personal files and archives if the police/FBI are involved and they feel the legal need to search them.

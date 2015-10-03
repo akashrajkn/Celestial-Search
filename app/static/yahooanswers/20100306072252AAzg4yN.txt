@@ -1,0 +1,24 @@
+How do I disable the "Congratulations - You have been chosen", etc. that come up on my screen many times a day?
+
+
+Scan for malware you are infected
+get a pop up blocker
+Go to "tools".
+Then Select "Options".
+Go to the "content tab".
+Tick the button which says "Block pop ups".
+Then click ok.
+These are good Freeware programs for your problem and help protect you in the future:
+
+Avast Antivirus: http://www.avast.com for viruses, trojans and such
+
+Spybot Search and Destroy: http://www.safer-networking.org/index2.h¡­ for browser hijackers and bots
+
+Malwarebytes: http://www.malwarebytes.org/ for malware and bots and dns hijackers
+
+Put all three on your computer and you will be protected well.
+Spybot and/or Malwarebytes will be the ones to take care of your problem.  Avast would be if you do not have antivirus.
+1. Scan your computer with a good antivirus
+2. Use firefox. download it from: http://www.mozilla.com/en-US/firefox/personal.html
+3. Get AddBlockPlus for firefox from here.. : http://adblockplus.org/en/installation
+Install it and you're ready to go..

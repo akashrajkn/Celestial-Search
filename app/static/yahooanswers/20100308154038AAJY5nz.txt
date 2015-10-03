@@ -1,0 +1,12 @@
+Wireless computer router question?
+I'm stealing my neighbors wireless internet connection, but it's not giving me enough signal to connect. I don't have my own internet and do not wish to puchase it. I was told I can buy a wireless router and get signal that way for my Wii and DS Lite. My question is i want to know if I need my own internet connection to use a wireless router? Will the router just pick up his signal and make the signal to me stronger? I need to know if it will work before I buy a router. thx
+
+Yes, you need internet service. No, the router won't make your neighbor's signal stronger.
+
+And you are committing a crime. It's called "theft of services", and you can go to jail for it.
+
+Get you own service.
+Go in their house and sit right next to the router, or go buy your own
+Yes you need your own internet connection.
+Nope! you can buy a router type thing to increase the signal that you are getting!
+The wireless router will not make your signal stronger because it won't pick up your neighbor's signal. The router comes with it's own IP address, but it needs to be connected to a modem (either DSL or cable) in order to work. Also, I have learned that with the DS lite, it's possible that your neighbor's wireless router needs the MAC address of your DS in order to gain any type of connection. But in order for you to get the best signal, you need to be closer to the router in your neighbor's house. Preferably within the same building. And if you live in an apartment building, then your neighbor's modem should be directly next door to you where there is only a wall separating the two of you, or right on top or below you.

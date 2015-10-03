@@ -1,0 +1,36 @@
+Morphthing.com Not loading help?
+I've been trying for days but http://www.morphthing.com/ wont load. I've disabled my firewalls & accepted all cookies on Internet Explorer and FireFox but no luck. I keep getting the message below;
+
+The connection has timed out
+
+      
+
+      
+      
+   
+        
+        
+
+          
+
+The server at www.morphthing.com is taking too long to respond.
+
+       
+        
+
+
+    *   The site could be temporarily unavailable or too busy. Try again in a few
+          moments.
+
+    *   If you are unable to load any pages, check your computer's network
+          connection.
+
+    *   If your computer or network is protected by a firewall or proxy, make sure
+          that Firefox is permitted to access the Web.
+
+
+Please help?
+
+You can check if the page its loading using these web proxies:
+http://www.homecomputer.ro
+http://www.findyourdating.com

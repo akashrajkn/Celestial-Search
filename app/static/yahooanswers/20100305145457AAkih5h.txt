@@ -1,0 +1,37 @@
+are you human pop up!?
+Wtf? whenever I go to a new page a pop up comes up and asks me "are you human." Apparently other people are having the same problem. Does anyone know how to fix this?
+
+There are never any guarantees in malware fighting, but try this:
+
+First, boot into Safe Mode With Networking.  That sometimes keeps malware from protecting itself.  Then download Ad-Aware Free and Spybot S&D (they¡¯re free), install them, update them and run full scans with them in Safe Mode With Networking. 
+
+Also, turn off System Restore to evict any copies of bad stuff that might be lurking there.  
+
+To get into Safe Mode with Networking:
+
+1.Log out and reboot your machine.
+2.When the machine starts the reboot sequence, press the F8 key repeatedly.
+3.Select Safe Mode with Networking from the resulting menu.
+4.Login.  If the malware has changed your password, try logging in as Administrator.  By default, Administrator has no password.
+5.The machine will continue booting, but the Windows desktop will look different.  
+6.When you're finished doing what you need to do, log out and reboot back into normal mode.
+
+Another trick that may enable anti-malware and/or its installer program to sneak past the malware is to change the name of the anti-malware program itself.  The names of the files and their locations differ between anti-malware programs, but the procedure is always the same:
+
+1.In Windows Explorer, find the folder with the anti-malware.
+2.Change the name of the program (it always ends with a .exe) to virtually anything else, but keep the ¡°.exe¡± part.
+3.Run that.
+
+Note that even if the anti-malware programs get rid of the malware, they may not be able to reverse the effects.  Search the Web for possible fixes.
+
+Good luck.
+I had the same problem... best solution I found was to do a system restore back to a point before the problem (Vista).  It worked for me
+I had that for two days couldn't browse. Very frustrating popup. Soon as I started a browser the popup would appear and I had to close browser with task manager. Adaware didn't help. Restore points were gone. Secure websites were redirected so I couldn't access. I removed McAfee Security Center and downloaded on different computer and installed AVG Free Anitivirus and problem solved.
+I'm having the same problem. How did you download it when your IE cannot be used?
+The 5 Best Ways to Block Popup Advertising
+http://popsup-blocker.com
+Choice 1) Switch to Using Firefox Browser with integrated popup blocking
+Choice 2) Install XP Service Pack 2, and use IE Popup Blocker
+Choice 3) Install a Google or Yahoo anti-popup toolbar, if you still use XP SP1
+Choice 4) Your ISP likely offers a free 3rd party popup blocker
+Choice 5) Purchase a 3rd-party popup blocker

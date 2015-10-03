@@ -1,0 +1,4 @@
+Can't click links after Google-ing them.?
+If, I google something and click on the links that come up, it only gives me a blank page and a strange URL address. The URL always begins with "http://www.goingonearth.com". I tried scanning with Spybot, but that didn't do anything. Anyone know what's wrong?
+
+You're infected with a virus (specifically, a browser hijacker).

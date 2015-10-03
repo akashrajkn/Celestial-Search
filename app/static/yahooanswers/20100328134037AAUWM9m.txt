@@ -1,0 +1,9 @@
+Setting up Homepages?
+I want to set up multiple pages on my firefox browser when I first open up the internet.  I want them all to be in different tabs.  Is there any way I can do this?
+
+Go into firefox and go to the place to change the homepage.  There, type multiple sites separated by the pipe (|) character.  For example if you set the homepage to
+
+http://nyt.com/|http://google.com
+
+then it will open both in different tabs.
+Open up all the tabs with the websites you want saved as your home pages. Go to Firefox in the menu bar, click on preferences, under "general" there is a box for your home page. You can click on the button that says "Use Current Pages" and it will automatically enter the pages for you.

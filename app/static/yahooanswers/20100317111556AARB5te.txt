@@ -1,0 +1,20 @@
+Wi-Fi Hotel Connection for a Game Console?
+My brother is going to move into a hotel for alittle while and they have Wi-Fi Internet Connection. He plays some online game for the Playstation 2 he uses a Wired Connection right now. His question is can he play his Playstation 2 Online with a Wi-Fi Connection from a Hotel? If so what exactly would he need to do that.
+
+http://www.amazon.com/WIRELESS-PS2-ADAPTER-PLAY-STATION/dp/B00126MMF2/ref=sr_1_1?ie=UTF8&s=miscellaneous&qid=1268849837&sr=8-1
+Yep. Your brother needs a device like this one:
+
+http://www.amazon.com/Belkin-F5D7330-802-11g-Wireless-Ethernet/dp/B00020H1TG
+
+or this one:
+
+http://www.buy.com/prod/zyxel-wap3205-wireless-n-access-point-ethernet-bridge/q/loc/101/211875912.html
+
+If you want to find your own, Google search 'Wireless Ethernet Bridge'
+
+They're pretty easy to set up. Basically plug it in, and go.
+
+Regards,
+
+Lucien Briscoe
+

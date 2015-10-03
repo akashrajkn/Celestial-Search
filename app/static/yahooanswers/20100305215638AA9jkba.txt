@@ -1,0 +1,4 @@
+How do i email an excel attachment to more than one email-id individually (like in mail-merge)?
+I need to send an important excel file to my business associates individually but as in mail-merge.
+
+Open yr excel file and click on File menu the select send to mail recipient or mail recipient as attatchment  before this u configure ur mail id with outlook or a wizard come to configure to outlook this option send ur excel file to one or many recipeint

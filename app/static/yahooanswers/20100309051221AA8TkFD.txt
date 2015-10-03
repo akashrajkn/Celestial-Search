@@ -1,0 +1,9 @@
+i formatted my system,and i m using a BSNL broadband internet connection,?
+my net speed was asusual like before,but when watching videos on the net the video streaming was ok but the motion of the video is not okay,i.e the video stops for one sec and again commences,can you help me to fix this problem,my net speed was ok
+
+This has to do with net speed, or the memory level of your PC is too low. Just allow the streaming status to complete and then replay it.
+watch after the complete of buffering the whole video
+Just pause the vedio for 10 minutes then watch it.
+Also install video accelerator.
+Use this site for high speed vedio streaming.
+http://www.movies4india.co.nr

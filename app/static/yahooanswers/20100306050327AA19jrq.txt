@@ -1,0 +1,8 @@
+Where are all those Internet and telephone cables?
+Where are Internet and telephone cables carrying intercity telecommunication traffic located? Are they under highways, under roads, under railway lines, on electric poles?
+
+And besides, has every ISP its own parallel nationwide network, or does it just lease the already installed Internet cables owned and by another company? Wouldn't it too expensive for a new company to lay down its own cables across the country when they are already there? Thanks.
+
+The phone & cable companies allow ISP's to use their existing lines. That's why people lose their internet connection when there's a cable outage.
+
+Of course, there are satellite-fed ISP's, like HughesNet, but severe weather can interrupt those signals, too.

@@ -1,0 +1,18 @@
+Can you give some ideas for creating a fun website?
+poems,jokes,love,video,music,etc
+
+
+how do i make it all in one???
+
+do u know basics of web design .
+you need to host a website develop it and upload via ftp server all that stuff?
+
+if u don't know then contact me any time as i am too a web designer trainee.
+web.prateekrana@gmail.com
+
+if u know all this then you can use css html combined or if u know advance languages like php and javascript or asp.net u can do that.
+
+create a menu bar at top after giving heading and image for header then use links in menu bar which may be pull down menu
+just do it about something you really love and you'll automatically be able to write good content and have the desire to expand it
+
+use a site builder such as stingesitebuilder.com which makes creating a website really easy

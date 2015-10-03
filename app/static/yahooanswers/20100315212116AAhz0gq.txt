@@ -1,0 +1,17 @@
+How do i get rid of AOL search?
+Okay, I know how to get rid of the toolbar and all, but it's the address bar that's annoying. I used to be able to type in, like, Facebook in the address bar and it's take me straight to the website. Now when I type in only 'Facebook' in AOL searches it. I updated Firefox and it still does it. Any ideas?
+
+if you already tried to delete the tool bar and it didn't work 
+
+try add or remove programs
+
+also you can try start program files then if the Aol file still there delete it then clean your disk top and restart the computer
+
+i hope it helps
+AOL is about as hard to remove as the worse virus.  Even after you uninstall it it leaves multiple files all over your computer.  Try this:
+
+First download and install Unlocker (it's free):
+
+http://ccollomb.free.fr/unlocker/
+
+then do a scan on you drives for this: *AOL*.*   it will return every occurrence of any file with AOL in the name.  Look them over to be sure that they are AOL files and delete them.  Have yet to run into a file with AOL in it that wasn't one of theirs.

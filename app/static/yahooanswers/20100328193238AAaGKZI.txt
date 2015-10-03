@@ -1,0 +1,6 @@
+I Have A Question About Downloading Torrents From Isohunt?
+My friend has been downloading torrents from Isohunt for about two weeks now just fine with no problem now until today when he got a message that the torrents are incompatible.  What exactly does that mean?  Thanks.
+
+torrent will be update for particular duration of time........if u take long time to download any content with torrent and in between if torrent is updated that torrent is useless to download, u have download same torrent from same URL freshly. Then the torrent work.
+
+ The torrent may become incompatible when torrent or removed or shifted to new location or URL of torrent is changed etc it has many reasons

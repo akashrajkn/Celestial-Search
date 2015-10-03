@@ -1,0 +1,12 @@
+What is a Proxy and how do I get rid of it?
+Okay..I go to this site all of the time, and just recently I clicked and it said "No proxies allowed." How can I get back onto that site? I just want step by step instructions...not a whole explanation about what those dang things are.
+
+Its not something you get rid of.
+
+In computer networks, a proxy server is a server (a computer system or an application program) that acts as an intermediary for requests from clients seeking resources from other servers. 
+
+Seems like you may be confused?
+http://bypassall.blogspot.com and http://cl0ak.info will do the trick
+proxy tips and info:
+http://merakit-komputer.com/proxies-anonymity-anonymous.html
+http://merakit-komputer.com/proxies-anonymity-anonymous.html

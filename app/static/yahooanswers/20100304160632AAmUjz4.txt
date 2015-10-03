@@ -1,0 +1,11 @@
+Is my router why my internet refuses to work? or is Time Warner Cable a bad wireless provider?
+I play online games, and I was trying to log in, but every time I try I get stuck at the loading screen with a "Not Responding" message and get "Disconnected from the world server"
+
+Now, before I had this problem and I thought it was because I was too far away from my wireless router, things worked for a few days on my laptop but now its horrible.
+
+It took me 45 minutes or so to log in yesterday, and it's almost been an hour today. Im using some sort of DLink router, do i need to get a better one? or is Time warner cable bad for wireless
+
+Now, the family desktop runs my game just fine and it's a few years older than my laptop. (that was extra info incase that helps)
+
+problem can be in your lap top's lan card or wireless card...if every thing is alright with deskto computer than the dlink is working fine...
+well if your playing games you should always be on LAN(Hooked to your router with a cable instead of wireless) because no matter what ISP(Internet service Provider) you have, an LAN connection increases speed.  I have Time Warner Internet and my computer is ok on wireless.  I think the problem is your router.  OR maybe you live in a bad area.(Like you get a bad connection to Time Warner)I would try replacing the router first.

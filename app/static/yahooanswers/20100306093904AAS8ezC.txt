@@ -1,0 +1,23 @@
+Which is better? Internet explorer, google chrome, or firefox?
+Which is fastest and the most reliable? I don't want it to slow my laptop down
+
+Google Chrome is the fastest and loads youtube videos faster and is the smallest of the 3
+Google Chrome is the fastest browser of the three you have listed, and will most certainly not slow your laptop down. :)
+For me the differences are too little to worry about.  My preference has been Firefox for years!  I have a Mac and a PC, I got used to Safari on the Mac and when Safari 4 came out I added it to my PC.  I like Safari.  They claim to be the fastest but I prefer FF for work and Safari for research and storing data. 
+http://www.apple.com/safari/download/
+
+
+Here are some links to some speed tests:
+http://www.howtocreate.co.uk/browserSpeed.html#winspeed
+http://www.legitreviews.com/article/929/1/
+
+I like IE least of all but it is much better today than 4 or 5 years ago!
+Chrome is probably fastest, but not everyone likes it.
+
+Firefox is the second most popular, quite quick and secure, with loads of useful plug-ins that enable you to customise it to you heart's content.
+
+IE might be the most used browser, but that's a majority that doesn't know that it is probably the least secure and standards compliant [1].
+
+It's also worth considering Opera [2]. One of the people on the tech mailing list I'm on that uses it describes it as Firefox with all the plug-in versatility as standard. I suspect I'm just being lazy still using Firefox because it's what comes as standard with my Ubuntu [3] install.
+
+PS. Most browsers are available for most operating systems, but you might get better answers if you specify.

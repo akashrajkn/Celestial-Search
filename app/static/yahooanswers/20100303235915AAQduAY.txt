@@ -1,0 +1,8 @@
+some sites can't open !!?
+some of the sites can't open (problem from the router) but other sites work normally because when i try those sites on my laptop on another router they open normally
+do u know why???
+
+SO, what was your question?
+Either these sites are blocked by the filter on the router or the nameserver that this router uses has blocked these sites.
+
+You may try opening the admin panel and see if any sites are blocked. If this is a router at work, there is a fair chance that this is indeed the case.

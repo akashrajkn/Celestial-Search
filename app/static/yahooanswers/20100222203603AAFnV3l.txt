@@ -1,0 +1,15 @@
+HELP!  FireFox, IE, Netscape will not let me access Mail2World.com!?
+Every time I try to go to mail2world.com, my browsers ask for authentication and when I try to close the little window, the page then says "You are not authorized to view this page...".  It asks for a  username and password but this sort of thing has never happened before in the past and I've been using mail2worldcom since 2005!  I've tried to get onto the site with two different computers and it does the exact same thing!  Can anyone help me?????????  I need to get to mail2world...it's where all my contacts are and everything!  I'm panicking!
+
+I'm installing Google Chrome right now to see if it does the same thing.
+
+HELP PLEASE!
+Google Chrome is doing it, too.  Any other mail2world.com users having this problem, too?  I'm thinking it's something with the site, now...
+
+It sounds like you might be hitting a proxy server trying to go to the website.  Try it from a computer at a different location (different Internet source)
+It's not you. It's the site. It does the same thing for me. Obviously, they've implemented some sort of security. You need to contact the webmaster or owner of the site.
+It seems that you may have to join, even though you've been a member since 2005.
+
+I just tried logging onto the webpage, and was immediately greeted with "Enter user name and password for http://mail2world.com".
+
+I clicked on the Cancel button twice, and was then shown the main page.

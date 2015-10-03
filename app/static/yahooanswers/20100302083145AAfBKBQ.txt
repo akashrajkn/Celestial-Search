@@ -1,0 +1,7 @@
+Help me move a picture.?
+I can cut & paste copy from one place to another, but i still haven't figured out
+how to move pictures from one web page and paste it to another.
+Anyone with a simple step-by-step.......Thanks......Pipa
+Using XP Home
+
+usually the picture will have to be posted on the web. like using a hosting site online (shutterfly) is just one of many. Right click picture, select properties and highlite url, copy, then go to where you want to post it.  I believe this is what your looking for.

@@ -1,0 +1,10 @@
+a buyer brought an item off me on ebay but now he is not paying, can i cancel without him leaving feedback?
+the buyer brought an item off me and then didnt pay, when i asked him about it he said he was waiting for other items to finish. its now been several days and still no payment. how can i cancel the transaction without giving him the option to leave feedback? cause if he gets annoyed i dont want him to ruin my profile.
+
+No option for this.  The usual practice is to leave negative feedback for him "non payer".
+Many sellers put a notice on their listing "Payment within __ days"  If you did not do this, you should give him a week
+The short answer is you can't. 
+
+The only way to prevent a non-paying buyer from leaving feedback is to go through the Unpaid Item Process and if they do not reply at all they will be blocked from leaving feedback. Otherwise, if they leave any comment at all in the dispute console while going through the Unpaid Item Process, they can leave you a negative.
+
+The only thing you can do is twiddle your thumbs until the 8th day after the auction ended. Then you can open an unpaid item dispute

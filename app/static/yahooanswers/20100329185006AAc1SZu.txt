@@ -1,0 +1,13 @@
+Internet problem....?
+I have at&t elite its 6.0 mbs. The problem is when there are people on both the desktops we have that are wireless and im trying to play my xbox 360 online. I get some lag and dropped from online matches only when someone is on the desktops. Currently just using the 2wire modem/router and my xbox 360 is direct connect. Would it help if i got just a modem to run my xbox and move the 2wire to the living room to run the desktops.
+
+It will only help if the modem is running through a separate account. The problem here is bandwidth. If all three units are processing maximum loads, then each is only using a third of the bandwidth allocated under your account (which explains the lag).
+
+You can purchase more bandwidth under your current account with AT&T, if they have it.
+
+or
+
+You can buy an additional account, and use those resources only for the xBox
+You could try it, but I don't know that it would really make that much of a difference. You would still be using the same amount of bandwidth. Since your xbox is already direct connected, adding a modem would not help you.
+That might help but if it doesn't then maybe you could ask a expert on computers.
+You are probably maxing out your bandwidth, so, no, an additional modem would be of no help at all. at&t would be who to ask about bandwidth.

@@ -1,0 +1,15 @@
+how do i get rid of this 'cookies' or enable cookies?
+this symbol has been on my browser for about a week and I don't know how to fix it...I've gone under options or whatever and enabled them, but it doesn't leave, how do I fix it?
+
+----screen cap----
+
+http://bit.ly/bTkHNL
+
+*I use Google Chrome...
+
+thanks
+
+1 Click the Tools tools menu menu.
+2 Select Options.
+3 Click the Under the Hood tab.
+4 Click Content settings in the "Privacy" section.

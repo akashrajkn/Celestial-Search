@@ -1,0 +1,10 @@
+How to copy web page content properly?
+I want to copy web page content with lot of images in it into a editor. But I am just not able select proper amount of content . More content then required is selected.Also when I paste this content into editor like fckeditor all images get scattered and it shows some HTML tags scattered after I save pasted data.Please answer as it is getting really frustrating.
+
+What you are copying is not from another web page, correct? If you copy content from Word or another program, it is not in the web format. You will need to reformat it in the fckeditor. Some editors allow you to important or past from a Word doc. Look at the icons in the editor to see if that is the case.
+
+If you are using images for your web content, make sure you upload them first. You can't just paste images from your computer into the editor. After it's uploaded, you'll need to insert the image into the editor using the appropriate icon. 
+
+Haven't used fck in awhile. It may be you can upload the image with insert image icon, not sure.
+
+If you are pasting content from a web page, you can copy the html source and paste it directly into fckeditor using the html view, rather than wysiwyg.

@@ -1,0 +1,12 @@
+Can my internet service provider track all the websites I visited?
+even if i deleted all the cookies
+Edit:
+so DS you said they can track the site i visit which means they can, right?
+
+no they do not so you can goo on what you want :D
+Cookies are irrelevant, those are on your computer, and they are ethically obligated to not inspect what is on your computer.
+
+They can however see the traffic that goes through their system, including P2P traffic, and the websites you visit.  Most ISPs keep this information confidential, and only reveal it when subpoenaed.
+
+EDIT:  Yes, but they don't really care or look at it unless you are using up a lot of bandwidth (ie downloading/uploading a lot through torrents).
+no and even if they can they is privecy laws in place

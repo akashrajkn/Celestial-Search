@@ -1,0 +1,13 @@
+Why can't I right-click in Firefox anymore?
+Every now and then, I lose the ability to right-click in Firefox. Usually restarting FF or my computer solves the problem, but now it's not working. It's definitely not a problem with my computer itself because right-click works fine in all my programs and Google Chrome. What should I do?
+Yes, I mean I can't right-click to open a new tab, save pictures, view properties, etc.
+
+I'll try the Yahoo toolbar thing, thanks.
+
+Do you mean right click to show all the options on the menu like Open, properties etc? If so try reinstalling firefox remember to make a backup of your favourites.
+do u have yahoo toolbar?
+
+go to tools add-ons and uninstall yahoo toolbar 
+
+its a bug on yahoo toolbar
+I concur with pelon. I fixed this on a friend's computer yesterday. He had Yahoo toolbar.

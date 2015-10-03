@@ -1,0 +1,9 @@
+Computer Virus! PLEASE HELP!?
+My boyfriend's little brother downloaded a "virus protection program" onto his computer that turned out to be a virus. I have an actually virus protection program on a disk that I'm trying to put onto his computer to get rid of it, but the virus protection program that is actually a virus keeps saying that autorun.exe is infected so it won't let me run it. Is there anything I can do to get around that?
+
+http://housecall.trendmicro.com/
+boot into safe mode and then run your virus program
+Restart PC in safe mode by tapping F-8 key choosing "Last Known Good Configuration" from menu. Next Restart PC back into safe mode and this time choosing"Safe Mode with Networking" from menu. Next download, update, run Malwarebytes. When done and back in normal mode download, update, run SuperAntiSpyware, Hitman Pro, ccleaner and Restart PC...Otherwise burn Avira Rescue System to CD/DVD on a clean PC and use the CD/DVD on the infected machine. Next run these other scanners or burn them to CD and use them...
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html

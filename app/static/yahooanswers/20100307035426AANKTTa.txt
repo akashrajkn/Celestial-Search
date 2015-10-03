@@ -1,0 +1,16 @@
+Internet explorer is always running?
+I was recently trying to install adobe fireworks and it said that i needed to close internet explorer to continue. I was confused because internet explorer was already closed. So i went into task manager and tried to force close internet explorer, it closed then instantly opened again, i have run spybot and AVG and neither pick up any viruses...
+
+If anyone else has experienced similar things and knows how to fix it please tell me, i really need these programs!
+
+P.S when i open task manager there are two internet explorers one running at 56,000 and the other at 6,000... neither will close.. thankyou to anyone who can help!
+By task manager i mean processes tab, have tried restarting... also closing programs that may be accessing internet explorer... eg windows live messenger... Thanks anyway.
+
+Don't know why it would reopen after closing it in task manager... could be there's another program trying to access the internet using IE.
+
+Have you tried closing it in the Processes tab rather than Applications?  I think it's called ieexplore.exe.
+
+There is a good program that gives you a much more detailed view of the processes running, you could see if any other program is running that doesn't need to be and closing that to see if it helps.
+Process Explorer: http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx
+
+If that still doesn't work try restarting your computer, that often fixes weird stuff like this for me :)

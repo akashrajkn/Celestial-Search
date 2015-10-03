@@ -1,0 +1,5 @@
+Wireless internet signal?
+Usually, the internet signal from my computer allows my laptop to get the internet. Its not doing that today. Other than waiting or contacting someone over the phone, how do I resolve this? I have a few people living here so Im not satisfied with just one computer..
+To the first answer, I have no idea what youre talking about. Please be more visual and descriptive.
+
+find the router, look at the back of it and you'll see a little reset button, most likely you'll have to use a pen or toothpick to push it. push the reset button and hold it in for about 10-20 seconds until the router lights change color, then give it about 2-3 minutes and try connecting through your laptop then.

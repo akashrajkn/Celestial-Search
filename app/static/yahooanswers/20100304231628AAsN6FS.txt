@@ -1,0 +1,22 @@
+PLZ HELP...! Cannot connect to the internet...!?
+Recently i took a new internet connection(TIKONA WI-BRO)...after installing the modem and stuff that guy connected the cable to my pc but he couldn't connect to the internet...
+
+so he tried doing the same on a laptop and it worked perfectly well...
+
+what could possibly be the problem...?
+
+i have firewall uninstalled still i cant do that....
+
+the problem he says is that the modem cannot fetch the IP address or the default gateway...
+
+what do i do to solve this issue...??
+
+Plz help....thank you
+the problem is the modem Tikona Nano modem cannot seek the IP address
+
+even though i select the automatic obtain option the IP address that i see is not valid
+
+but it does work well on the laptop
+
+internet options > advanced tab > reset
+reinstall the TCP/IP protocal and sett it automaticly obtained the IP

@@ -1,0 +1,4 @@
+how to know where is someone tweeting from?
+
+
+At the bottom of each tweet, it says whether they've tweeted on the web or phone or otherwise but locations aren't given.

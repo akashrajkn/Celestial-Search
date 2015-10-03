@@ -1,0 +1,8 @@
+no internet pages loading?
+my friend has a hp laptop connected to an aol wireless router and she can get on windows live messenger, but cant view web pages in any browsers. any suggestions?
+
+If she can get on live messenger she has a working IP connection. 
+
+Drop to dos and ping Yahoo.com.   If it says it can't resolve the address you have a DNS issue.  Make sure that your wireless adapter is set to accept DNS from the router.
+
+If DNS is ok and the web site answers then you have a browser issue.   Go to your explorer settings and make sure you are not set to use a proxy that doesn't exist.

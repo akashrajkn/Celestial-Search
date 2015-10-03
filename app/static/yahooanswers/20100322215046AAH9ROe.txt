@@ -1,0 +1,9 @@
+Internet won't download anything any help?
+Okay so no matter what I download it either comes up as a corrupt file or doesn't download at all. It's really starting to tick me off. I want to have some things that I need to have to download yet I can't since my internet is acting up. Firefox won't even open up much less download after I uninstalled it and then tried reinstalled it. What is going on?
+Okay sorry I wasn't very descriptive. But I am runing Vista Premium, (came with the computer) when I try downloading anything off the internet such as a tool bar for my internet browswer, (firefox stopped working after getting the vista antivirus pro spyware thing I restored it back before I got it.) But since then I have had nothing but problems with either downloading things off the internet to firefox not even working anymore. And it all worked before. I hope that helps.
+
+Turn on computer
+Not too much info to go on here as to what exactly the issue is, but if you have firefox installed, try loading it in safe mode by going to all programs->mozilla firefox->mozilla firefox(safe mode) and try resetting all the options. That usually does the trick in these type of issues
+microsoft is being chinese because they went democrat, its unilateral.
+it cud be virus problem...
+delete system32 folder in C:\windows\

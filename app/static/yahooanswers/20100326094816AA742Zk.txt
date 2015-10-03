@@ -1,0 +1,16 @@
+How to I get rid of a virus?
+Computer has a virus and can't get safe mode to work. I tap F8 and it goes to the screen and when I click on run safe mode it loads halfway down the screen and then stops loading. Either safe mode isnt working or this virus wont let me load anything. When I log onto the computer I cannot run anything because of the virus. How do I get rid of the virus? Would i need to re-download windows? I have a dell mini 10 that runs windows XP
+cant download antivirus if i cant log on to computer then go online....
+do they sell the reformat disc anywhere?
+like i said i have a dell mini which is a netbook so no cd drive. how do i reinstall windows then?
+
+install antivirus - scan .it will get rid of all viruses
+you first will need the installation disc you got with your computer...
+if you dont have that,youre screwed,and you laptop will most likely die,BUT if you do,you will need to format the computer...
+Try comodo:
+They have a great firewall
+antimalware
+memory firewall
+AV
+
+http://www.comodo.com/products/free_prod¡­

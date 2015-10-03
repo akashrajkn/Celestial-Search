@@ -1,0 +1,19 @@
+What is this really annoying virus on Windows 7?
+Since the first day I upgraded to Windows 7, I've had this damn virus on my computer. It's been going on and off for over a week now, and it's really pissing me off. I just assume it's Windows 7 that caused the virus, because I had no problems running Vista.
+
+I'm using an HP G71 laptop with a Core 2 Duo processor, 4GB of RAM and a 320GB HDD, just in case any of that affects it.
+
+So, here are the specifics. Every 5-15 minutes, a pop-up comes up, saying: "Attention!!!" Your personal computer needs to install antivirus software! Personal Security can perform fast and free scan of your computer." When I close it, a fake screen displaying virus-ridden documents comes up, which I can also close. This happens consistently, though, and it gets on my nerves.
+
+Yesterday, though, another new virus-related thing happens. A message from a site called http://shprotect.in/hitin.php?affid=0299бн (DO NOT GO TO THIS LINK, IT IS A PAGE WITH A VIRUS FROM INDIA, APPARENTLY) pops up randomly and demands that I download a file. It won't let me close the page unless I click "OK," at which time the taskbar comes up telling me I'm about to download a virus. Nice.
+
+I've tried deleting Internet Explorer itself, since I'm more of a Mozilla Firefox person, but these pop-ups still keep occurring. I've also tried going through some of my files, but nothing looks out of place. I have McAfee, and I've run diagnostic scans on my entire computer four times to no avail. This is really becoming a burden, and I'm just curious if anyone else has experienced or is experiencing this problem, or if anyone knows how to fix it.
+
+Windows 7 doesn't contain a virus. Anytime your computer goes online, whether your surfin the web, instant messaging, or anything you are at harm for a virus. deleting IE is not going to help. if McAfee doesn't work, try AVG. if that doesn't work try going to a past restore point. if that doesn't work, you need to back up all your important files onto another computer, shared folder, large flash drive, external hard drive, or online backup, etc. then access the command prompt, which you can go to start>run> type in "cmd". once your in command prompt, type in format.exe 
+this will wipe your computer clean. then you can install AVG free version, then restore all your important files back on to the computer via the external source you used.
+
+p.s. when you get a virus, deleting a program like IE will not work, you have to target all files that were effected by the virus. it can spread fast, or it can sit dormant for weeks or months before it shows any signs of having a virus at all when you get one. some are harmful, some are just annoying.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com
+

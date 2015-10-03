@@ -1,0 +1,12 @@
+How to receive real money from PayPal?
+I just started selling things on eBay, and I understand I get credit on my PayPal account from what I make.  I would like to instead get a check or something in the mail so I can actually spend that money. Is there any way I can get real money and not credit?
+
+Link it to a bank account and then request a funds transfer.  I do it all the time.  Word of caution:  set up a separate bank account just for this purpose so you don't have problems with your personal accounts.  It will make it easier at tax time, too.
+
+The instructions are on the Paypal website.
+if you have a bank or credit union account you can link paypal to it. i have a secondary account just for paypal (so if somebody hacks my password they can't empty my savings/checking.) what you do then is transfer/withdraw the money from paypal to your bank account. of course, paypal will take their fee from it, but then you'll have real dollars. mind you, paypal doesn't move money anywhere at anytime without skimming a bit of it off.
+You may have to update your Paypal account to get it, but Paypal does offer a debit card which draws directly off of your Paypal balance.  The instant money is available in your Paypal account, you can run to an ATM and withdraw up to $400 of it per day, or spend up to $3000 per day.  More details are available here --
+
+https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/account/DCIntro-outside
+
+As others here have mentioned, you can withdraw the funds to your checking account.  The turnaround time on funds transfer is usually three business days.  As you'll quickly learn, Paypal holds onto money for as long as it possibly can.  They're pretty shameless that way.

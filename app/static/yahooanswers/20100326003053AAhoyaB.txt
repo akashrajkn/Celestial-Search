@@ -1,0 +1,13 @@
+How to prevent video ads?
+I know there's software out there to do this, but I don't want to download it if I have another option. I'm using Firefox, 3.6.2 I think, and on a site, there's more than one, I use most every time I'm on the internet I ALWAYS get video ads. They start randomly and it becomes very annoying when I'm listening to music, and I don't like clicking on them to make them stop. I'm also on a laptop and I know ads like these eat at the time left on my battery. So if there's some option given to me by Firefox or you have a software/download you'd recommend (please don't give me a recommendation you or someone you know hasn't tried) please let me know. Thank you ^^
+
+~Totally unrelated, but has anyone been having problems with applying your custom personas? Mine won't work ever since the new Firefox two days ago. ;(
+
+There are two add-ons, Adblock Plus and Adblock Plus Element Hider. This two add-ons help speed up browsing by blocking not just the video(.swf file) ads but also texted and pictured ads.
+I am using both since Firefox 3.0
+You can find them by searching in firefox add-on site.
+
+And for your second question you have to reinstall firefox.
+ 
+??
+ADBlock + Flashblock

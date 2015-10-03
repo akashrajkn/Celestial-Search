@@ -1,0 +1,8 @@
+How to block audio on  commercial on a webpage ?
+For instance while watching a streaming online movie, there's this audio commercials that you can hear an it usually louder than the movie.
+
+If you're using Firefox download the Adblock Plus extension.
+Use Firefox and you can completely block the ads.
+It even removes them at the start of youtube videos etc.
+
+http://lmgtfy.com/?q=adblock+plus

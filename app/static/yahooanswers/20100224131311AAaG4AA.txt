@@ -1,0 +1,6 @@
+When i try to download a firefox add on i get a message saying i need firefox which i already have?
+When i try to download a firefox add on i get a message saying i need firefox which i already have. Please Help!
+
+Try uninstalling Firefox, use ccleaner, Restart PC and reinstall Firefox...
+That sounds about like something a stupid computer will tell you. Every morning when I sign on, my computer says, here's that idiot at my keyboard again. I wonder what he is going to have me screw up today. LOL  I don't know what version of firefox you have, I had 3.5 and a little while ago I upgraded to 3.6 that might solve your problem, if you don't already have that. I guess it would be worth a try. Whatever you think.
+You do know that some of those add on's are for older versions of firefox.  (Look on the right side.)

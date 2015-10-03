@@ -1,0 +1,4 @@
+what does 403 forbidden mean?
+What does 403 forbidden mean and why does it show up when I try to search using yahoo.com
+
+You can find it on wiki but its original jargon for when they were inventing the browser for the net, and has remained to this day.

@@ -1,0 +1,8 @@
+Is it illegal to use other peoples routers to connect to the internet for free?
+I have 2 of my own connection but when looking for my router i saw tons of other peoples routers. Is it illegal to connect to someones unprotected router? I heard it's legal if they're not protected. Also can someone fiddle with my routers settings if they tap off of it. I'm thinking about securing it i just hate the password thing.
+
+Yes it is, it is called theft of service!
+Yes, plus I heard you need a password and you need to know people settings to do this.
+Yes, but hardly anyones gonna go after you for it. Its like downloading music on limewire. It free, illegal, but who gives a shit.
+Yes, it is actually. They are in effect stealing your internet if they connect to yours.
+Get your router secured right away.  You have to remember that whatever you're considering for your neighbor's unsecured network, they are probably considering about you.  Also, it takes away one problem for anyone who is trying to mess with your settings.  You shouldn't have to worry about the password; for most devices, you only have to tell it the password once.  Another thing: don't use WEP encryption.  It only takes about 5 minutes for somebody to crack it (with free online tools, too).  Use WPA or WPA2.

@@ -1,0 +1,16 @@
+I'm only getting 1.5 mbps speed and im supposed to be getting 10 mbps?
+the isp is centurylink and they charged me 155 bucks for internet and phone the first month and they cant even give me the speed im supposed to get, they sent a technician over and on speedtest.net the speed is still 1.5 mbps and the tech said theirs nothing else i can do, what a sorry ISP
+and the 155 bill was supposed to be for 0.77 mbps internet, i just recently ''upgraded'' to 10mb but speedtest.net says its 1.5
+wrong, speedtest.net measures in bits not bytes from .5 to 50 it even says on the bottom of the scale, megabits
+do you think it would measure up to 50 megabytes, when isps offer a maximum of 50 megabits
+
+Usually when ISPs advertise speed, its in bits, like 10megabits. What you are looking at is bytes, which is the common speed downloads are displaying as.
+
+For the math, there are 8 bits in a byte, so 10 megabits = 1.25 megabytes. So yea you are getting what you paid for.
+
+If you are unsatisfied, then switch ISPs.
+What are you doing that requires 10 megs?  Most people don't realize than unless your doing something bandwidth intensive you won't know the difference between 1.5 megs and 50 megs.
+
+Anyway, this is something to have tech support continue to look at.  A few questions;  1)  Do you have an alarm system in the home?  2)  How old is your PC?  3)  How often does this problem occur?
+
+Just a few things that could impact the situation or help tech support find the issue.  That being said, if your only getting 1.5 megs then call customer service, request a credit and downgrade to 1.5 megs.

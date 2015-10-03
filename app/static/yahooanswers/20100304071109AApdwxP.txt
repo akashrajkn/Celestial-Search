@@ -1,0 +1,5 @@
+I have trouble hooking up my laptop to my Linksys G router.?
+Okay, I have a Toshiba laptob and a Linksys G wireless router. I can connect to the internet through a lan cable but when i connect to my router it says i have local connectivity only.
+
+Must not be to bad if you can post on yahoo answers.
+You should check to see if you are in public, home , or business mode. Sometimes if you are in public mode it wont allow you to access anything past the router You should set it to home mode if this is the case. You might want to go into the linksys router config  type http://192.168.0.1 into the address bar and then the default account/pass should be like admin/pass you can find generic router passwords on the internet or in your router technical documentation.

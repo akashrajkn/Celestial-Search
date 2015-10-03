@@ -1,0 +1,6 @@
+INTERNET CONNECTED, BUT BROWSING TROUGH EXPLORER WONT WORK. help plz!?
+My wireless internet connection is solid, but when i attempt to browse the internet trough internet explorer i get this messege. "Internet Explorer cannot display the webpage" i try the diagnostic help option, but it cant find a solution to the problem. I tried to access the web trough other programs, like REAL player, Chrome, and even safari, but same problem for all. But somehow Firefox was able to bypass the issue. i can access most of webpages, but i occasionally encounter the issue of not being able to connect to the website. i really dont know what to do, its been a week now, my antivirus cant connect to update database,msn says the service is temp. unavail. i just find it strange that all of a sudden a bunch of my apps are not working properly. the internet connection is excellent. I have vista, and IE 8
+
+Google Chrome is your friend.
+- Try uninstalling IE8 to IE 7 at control panel and thru hardware and programs- once uninstalling IE8 itll revert back to IE7- if this didnt work....
+- got to tools > Internet options> Advance > reset or restore defaults.

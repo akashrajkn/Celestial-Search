@@ -1,0 +1,4 @@
+How do you delete links from Mozilla Firefox's toolbar on a mac?
+Random sites I visit sometimes just end up on my toolbar. I tried dragging them to the trash, but it doesn't work.
+
+just drag them out of the toolbar or right click on them and click delete

@@ -1,0 +1,4 @@
+I was told to allow pop-ups so that I could click on the "chat" button, but it still won't work?
+I'm on some website, and there is a chat window when you press the "chat" button. the website said i needed to allow pop ups for that site. So i did, and it's still not working. the chat window still won't pop up.
+
+That should be some error occur on running javascript codes, perhaps you should try it on other browser.

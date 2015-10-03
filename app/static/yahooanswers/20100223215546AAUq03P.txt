@@ -1,0 +1,5 @@
+How do I create an imdb page?
+So my teacher wants me to create this stupid imdb.com page for a book we read for Spanish class as if it were a movie.  I think she's retarded because I can't seem to find where in the hell I can start making one.  Does anybody know if I'm allowed to just make a page for this book or what.  I signed up and everything but I don't know what the hell I'm doing.
+
+i think you gotta pay for it, but try clicking join ?
+if you want to create a page particularly a web page you need to learn html, css and server scripting,

@@ -1,0 +1,29 @@
+how come there never used to be advertisements on yahoo answers and now there is?
+when i first signed up for an account in late 2006  on yahoo answers, i dont remember ' ever ' seeing any intrusive, distracting advertisements  -  over the last year or so  it seems now they are a fixed , permanent feature.
+
+i find them distracting and annoying at best  .  i despise them.
+
+ive managed to block them on google chrome useing an ad block,  ive also blocked them on firefox  , but there are tons of ad ons on firefox  it keeps  freezing  and doesn't operate too well.
+
+but  i notice the ads  are still showing on internet explorer  ,  i thought  i blocked them with a host file,  blocker   -  but the ads are still managing to show through..
+
+
+is there any effective way i can block the ads through internet explorer ?
+
+i really dont like them,  i resent their presence  and they ruin my enjoyment of yahoo answers.
+
+Adverts generate revenue for yahoo.
+You can get rid of them if you have the firefox web browser and install the flash block pluggin.
+
+Firefox web browser download free here
+http://www.mozilla.com/en-US/?from=sfx&u¡­
+
+Flash block pluggin here
+https://addons.mozilla.org/en-US/firefox¡­
+
+How it looks when installed.
+http://i113.photobucket.com/albums/n238/¡­
+
+The good thing about this pluggin is that if you click the F where the ad should be you can see what it was. ( some sites use flash so its handy to be able to turn on or off.
+you can probably look in to the settings yah boy get them virses were gonna kick there but suckas yeah
+I'm using Firefox with AdBlock Plus and NoScript and it works a treat, if it wasn't for your question I wouldn't know there were any ads on Answers!

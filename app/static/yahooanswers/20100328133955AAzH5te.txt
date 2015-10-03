@@ -1,0 +1,38 @@
+My Computer has a virus but i can't get it off because it is blocking the internet. What do i do?
+My computer got a rogue anti-spyware about a week ago and i got help on how to fix it using a program. The problem with all the programs that i'm trying to use is that they need the internet connection to work or update first. Whatever is wrong with my computer is preventing me from the internet because my internet connection is fine, it says that the connection is excellent but when i click on the internet it says cannot get to the Web page for any Web page i try to go to. I am asking this from the computer which has the network. Plus this has not effected any other computer on our network. Any helpful advice would be greatly appreciated My computer is an E machine vista.
+
+open in safe mode, figure out where the files are, delete them
+
+(hold down f8 in startup more most computers)
+u can either restore ur computer to a previous date, or put in ur restore cds and wipe out ur hard drive. id suggest doing the system roll back instead so u dont lose anything important.
+
+http://www.howtogeek.com/howto/windows-vista/using-windows-vista-system-restore/
+
+
+read Using System Restore in Windows for information on how to do this.
+
+doing the system roll back deletes any harmful changes that have occured to ur computer. make sure u reset it to a pretty far back date. guestimate on when ur computer was infected. if u dont know set it back for a few weeks to a month.. see if it solved the problem.
+
+Hope this helps!
+Create a bootable anti-virus rescue CD on a friends PC then boot your system with it.
+It will clean the virus out for you.
+There is a guide to creating one from any of several popular anti-virus software providers in the link.
+
+http://www.techmixer.com/free-bootable-antivirus-rescue-cds-download-list/
+Sometime restore cannot done due to vulnarability of the virus. You can repair the system using bootable CD.
+go to start, all files,accesories,system tools,restore computer to eiarlier date
+do this to a time before u got the virus
+requires no internet
+Spybot and Malwarebytes are a good combo, running both regularly will remove most spyware, you can get theme here: http://www.safer-networking.org and http://www.malwarebytes.org/
+
+You can manually update spybot here: http://www.bdts.com.au/tips/52-security/81-spybot-manual-update-.html
+
+You can also manually update malwarebytes here: http://www.bdts.com.au/tips/52-security/70-malwarebytes-manual-update-.html
+I recommend Spyware Blockers Download.
+These well help remove adware and spyware from most computers.
+http://spywareblockersdownload.com
+You can use SpywareNoMore. 
+As we all know Computer hackers seeking financial gain rather than thrills or notoriety are increasingly flooding the Internet with malicious software code (spyware, adware, key loggers, trojans). They are infecting computers with highly sophisticated programs that record surfing habits, bank passwords and other key financial data and send them to crooks over the Internet. These programs can be hard to spot, disguised in downloads such as toolbars, search engines, browser accessories, screen savers and other seemingly helpful utilities.
+
+SpyNoMore anti-spyware safeguards your identity and restores system performance through fast, smart and powerful spyware protection.
+more: http://www.converter123.com/Other-Software/Other_Tools/SpyNoMore.html

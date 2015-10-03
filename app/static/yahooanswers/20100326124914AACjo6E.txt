@@ -1,0 +1,21 @@
+How to transfer firefox bookmarks from one laptop to another laptop?
+Just bought a new laptop, not sure whether there is a way to take firefox bookmarks from old laptop to new laptop.
+
+Thanks.
+
+Follow this to transfer bookmarks
+
+http://support.mozilla.com/tiki-view_forum_thread.php?forumId=1&comments_parentId=2046
+Copy the entire profile folder from the old machine to the new one. 
+
+Here's where it's located:
+
+*nix-like operating systems: ~/.mozilla/firefox/
+
+OS X: ~/Library/Application Support/Firefox/Profiles/
+
+Windows 2000/Windows XP: C:\Documents and Settings\<username>\Application Data\Mozilla\Firefox\Profiles\
+
+Windows Vista/Windows 7: C:\Users\<username>\AppData\Roaming\Mozilla\Firefox\Profiles\
+
+This will also copy your addons, browsing history and other profile-specific settings.

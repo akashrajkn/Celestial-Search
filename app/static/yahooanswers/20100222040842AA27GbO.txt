@@ -1,0 +1,7 @@
+Internet Explorer 8 Problem of search providers?
+i can't remove my default search engine 
+Pictures http://www.flickr.com/photos/37259870@N06/4378199119/
+i wan set my default search is yahoo but i can't add my default search to yahoo
+
+http://www.lytebyte.com/2009/06/01/how-to-make-bing-as-default-search-engine-in-ie-firefox-and-use-in-windows-7/
+I don't exactly understand what it is you're trying to remove. Why would you want to remove your default search engine?

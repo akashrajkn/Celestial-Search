@@ -1,0 +1,8 @@
+why can't I get into internet explorer?
+
+
+Need more information, like what is happening when you try to get into IE.
+
+Could be you need an eternet driver installed, or your router is not working, or you are trying to use 
+a wireless connection... 
+Without any infor, we can't help you.

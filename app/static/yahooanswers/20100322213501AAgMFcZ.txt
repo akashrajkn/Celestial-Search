@@ -1,0 +1,5 @@
+Why wont USPS Click-n-Ship print shipping label?
+Hi, I've been trying to print shipping label in USPS but my printer wont print after the dialog box shows up to confirm to print. I do have adobe reader installed yet it won't print it. I'm getting frustrated cause I have to keep on going in back to try and print it again. Only one time it did print but that was after I clicked on the button that said that it did not print so the label was canceled. I need your help, anything would be great. Thank you very much!!!
+I can of narrowed down the problem to the printer. It keeps saying that I'm out of paper when it does have paper   ???
+
+Do you have the latest Adobe Reader installed? If not install it, if you do is there an update available for it. If so install not, if not then update your printer drivers, or save the PDF then print it. Does it work with other printers?

@@ -1,0 +1,18 @@
+how do i add urls to my search engine?
+i made my own search engine with php.the problem is,i don't know how to add web pages to it(urls)if anyone knows,please help
+
+Not sure how exactly your search engine works, but your search engine should have a program that acts as a 'spider'. 
+
+A spider 'crawls' (i.e. downloads) a web page, indexes it, and adds any links it finds to a queue. When that web page has been indexed, the crawler takes the next url from the queue and indexes that one, again adding any links it finds to the queue. The spider continues indexing sites in this way indefinitely (web pages are constantly changing and need to be re-indexed, new sites are created everyday - crawling is a neverending process).
+
+The major search engines also allow website owners to manually add their website to the queue to be crawled.
+
+There are also files on many websites which help crawlers know what pages to index. The robots.txt file gives crawlers instructions on which folders it is allowed to index - your crawler should be programmed to respect the website owners requests in the robots.txt file. The robots.txt file can also give the crawler instructions on where to find a sitemap for the website. A sitemap is a file that contains XML code which lists all the pages on a website, which helps crawlers find all the site's pages and index them.
+
+I'm actually a little surprised that you have made a search engine, but don't seem to understand what a web crawler does. 
+
+Starting a search engine is actually a really big task, and will take a lot of resources and money. A crawler would need to run constantly to index as many pages as possible. your crawler would also need to be able to figure out when to go back and re-index a web page, as they are constantly updated. Search engines like Google have many, many servers running programs to crawl the internet, and they still can't index everything quick enough.
+
+If you do have some kind of crawler, I'd say a good place to start indexing would be dmoz.org, which is one of the oldest directories of sites on the internet. Dmoz would provide a huge number of urls to initially index, as well as thousands of urls to sites, which would all provide urls to more sites, which would provide you with more urls, etc etc. Other good places to start to crawl would be social bookmarking sites like digg, stumbleupon and technorati.
+
+Goodluck!

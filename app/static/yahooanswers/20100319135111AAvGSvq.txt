@@ -1,0 +1,10 @@
+Transfer Firefox bookmarks to another computer (possibly through Flash Drive...?)?
+How do i move firefox bookmarks to a different computer?
+i have a couple of flash drives that i can easily put IE bookmarks on to, but firefox?
+Step by Step instructions please!
+
+http://support.mozilla.com/tiki-view_forum_thread.php?forumId=1&comments_parentId=2046
+open Firefox and go to bookmarks file menu >> organize bookmarks >> import and backup 
+
+u can easily create backup for your bookmarks at any location on your disk.
+If you install the free tool here: http://www.xmarks.com/ then it will keep your bookmarks synchronized among all your computers, irregardless if you're running IE, Firefox, Chrome, or Safari, Mac or Windows.

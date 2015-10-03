@@ -1,0 +1,17 @@
+What is considered to be high speed internet?
+
+
+Broadband - high speed
+
+Dial up - Phukking sucks
+7 Mb/s  or faster.
+This depends on your government. 
+
+In United States, for example, a government agency called the Federal Communications Commission (FCC) decides the definition of `broadband`.
+
+Currently, the FCC defines `broadband` at 768Kbps downstream or better.
+
+In Malaysia though, the definition is different. The Malaysian Communications and Multimedia Commission (MCMC) defines broadband as anything faster than voice transmission on ISDN. In other words, faster than 64Kbps downstream.
+
+So for an answer to this question, you'll need to specify for which country you're asking about. Or you could just check with your own government.
+Fiber-Optics is the fastest affordable internet in my opinion. It uses light to send information through wires made with glass. The light carries varying amounts of information at varying speeds, depending on your internet company or plan. I've gotten 1.2 MB per seconds on large downloads before, which is considerable. I'd say that the fastest internet would be anything over 10 MB per second.

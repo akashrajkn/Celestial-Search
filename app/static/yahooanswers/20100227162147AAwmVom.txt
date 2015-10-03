@@ -1,0 +1,4 @@
+ip address of a mobile modem?
+i want to know if you connect to the internet through a mobile modem does your ip address show up from where you are or does it show up from where the mobile device connects to. the mobile device is a plug in o2 modem in ireland. thanks in advance.
+
+It shows up to where you connect to.  HOWEVER someone could find out where that signal is comming from and trace the router from the modem to you phone, and then use triangulation or GPS to find out where you are

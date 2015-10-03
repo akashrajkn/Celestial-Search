@@ -1,0 +1,9 @@
+Pictures Not Displaying on IE/Firefox?
+it has been happening alot recently(all i get is the good ole red X) in IE so i tried out firefox to see if IE was the issue and it wasn't it did the same thing in firefox, i have done everything microsoft has mentioned on their website and also tried what this person has said (http://forums.majorgeeks.com/showthread.php?t=30885) and ive check to see what format the picture is in it's jpg and sill nothing just a red x followed by some text that says "IPB picture"
+
+any ideas?
+
+thanks
+i have IE 8, Vista, and McAfee.
+
+I would check your firewall settings and internet options. Also, it could be that your browsers aren't updating. I've only ever had that happen if my images were purposely blocked by internet security.

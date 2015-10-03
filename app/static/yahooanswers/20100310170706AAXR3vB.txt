@@ -1,0 +1,31 @@
+Does anyone know of a website where i can find a bunch of symbols like hearts, music notes, etc?
+
+
+Unless you're looking for fancy graphics, you can create those symbols with your keyboard alone.
+1. Make sure your keyboard is in NumLock mode.
+2. Hold down the ALT key and enter the number on the numeric keypad. (Note that many laptops have a blue FN key that changes a set of keys, also with blue numbers on them and usually in the 7-8-9-U-I-O area, into a numeric keypad.) 
+3. If it doesn't work the first time try hitting space and then the character you want.
+? ? ? ? ? ? ?
+
+for ? 1
+for ? 2
+for ? 3 
+for ? 4
+for ? 5
+for ? 6
+for ? 7
+for ? 8
+for ¡ð 9
+for ? 10
+for ¡á 11
+for ¡â 12
+for ? 13
+for ? 14
+for ? 15
+Try http://en.wikipedia.org/wiki/List_of_Unicode_characters .
+
+All current Unicode characters are in the charts of charts at http://www.unicode.org/charts/ . The second chart at the bottom of the page covers symbols.
+
+Note that every Unicode character has a unique hexadecimal code assigned to it which can be used to create HTML entities that work in many web forums like this one. Looking at http://www.unicode.org/charts/PDF/U2600.pdf shows that the black heart has the hexadecimal code 2665. So if I enter the HTML entity in his post as & # x 2 6 6 5 ; without the spaces, I get ?.
+
+Note that I can only see a symbol on the web when it is in at least one of the Unicode fonts on the system.

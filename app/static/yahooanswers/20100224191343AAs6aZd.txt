@@ -1,0 +1,7 @@
+Need a quick answer: Internet Explorer refuses to close?
+I've already tried forcing it to close from the Task Manager, but it gives me a pop up that says, "The application is not responding. The program may respond again if you wait. Do you want to end this process?" It has two options: end process and cancel. I've tried both, but it's still open and it's been over an hour since I initially tried to close it.
+
+go into task manager and right click on iexpolre.exe  and select go to process and end the process it takes you to it will then close
+I've had that happen.  You'll need to restart your computer.
+
+-MM

@@ -1,0 +1,7 @@
+Will it slow internet connection down if i bought another modem and connected it to another phoneline?
+I want to hook up another modem in another room to try and speed up my internet connection on my Play Station 3, will be what it is for also.
+
+You need a router not another modem. Also adding a second modem at  the what ever location to be close to what ever you seek will not speed up the net.
+It sounds like you are using a DSL connection. DSL does not work the same way that dial-up worked... you can not have two modems in the same house unless you have a special business account with your service provider.
+
+And on that note.... the reason you have a slow connection is because you are on DSL - it was never made for gaming. Try upgrading your Internet service to cable or fiber.

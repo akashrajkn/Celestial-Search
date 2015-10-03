@@ -1,0 +1,14 @@
+No internet access on laptop?
+So i bought a laptop today and a wireless router. I installed the wireless router successfully but I still cannot connect to internet explorer. I have already read the directions and tried everything. Please help!
+
+make and model of your laptop and router will help.
+
+anyway lets make it generic:
+1. assuming you've configured you router properly then you router status should say you internet connection is active or you may see it from lights of your router (internet or WAN)
+
+2. On your laptop's wireless manager you must see your newly created SID or the name of your wifi.
+
+3. Connect to it and provide your security details if there is any.
+
+step one is very important. 
+good luck

@@ -1,0 +1,64 @@
+Websites telling me I need Firefox 3.0+...But I have 3.6?
+Numerous websites I go to keep giving me warnings like this:
+(remove spaces)
+http://i44.tiny   pic.com/2r7ad14.jpg
+http://i40.tiny   pic.com/fjnjns.jpg
+http://i39.tiny   pic.com/14dlm3m.jpg
+
+
+But I've downloaded Firefox 3.6 over and over again, and before 3.6 came out I still had the latest version, I always download when there's an update. But now it's saying I have an older version? I don't understand. Also, when I go to my Help-->About Mozilla Firefox I get:
+http ://i39.tiny   pic.com/ay8whg.jpg
+
+
+Saying that I have 3.6?
+I don't understand, what am I doing wrong?
+
+-I don't want to switch browsers, I really prefer firefox.
+-I've uninstalled and reinstalled - No help
+-I've gone to the site and tried to update manually, still no luck
+-Tried the alternate shortcut-Nothing
+-No Updates Available
+-Bitdefender- No Infections found
+:(
+-I've always downloaded it from the Mozilla site
+
+Thank you for the tips so far
+
+when Firefox is saying that you got latest , then it is latest one for sure )) *grins*
+
+or another possible thing could be that the shortcut link on desktop you have got is pointing to old version firefox's folder. the new version should have the shortcut here:
+
+C:\Program Files\Mozilla Firefox\firefox.exe
+
+also try to update it via : Firefox's Help menu >>Check for updates . 
+
+or might be you're infected by any botnet or virus.
+
+http://www.bitdefender.com/scanner/online/free.html
+
+Hope this help
+
+Edit:
+looking at this image i can see 
+http://i39.tin ypic.com/ay8whg.jpg
+this is a yahoo edition (although never heard of it)
+
+1.So uninstall any version of mozilla installed from control panel , also remove any yahoo toolbar.
+2.Now go to program files : C:\Program Files\
+and remove any firefox folder e.g : Mozilla Firefox , yahoo firefox , or look in any yahoo folder that has firefox folder inside or not
+3. Go to C:\Documents and Settings\[YOUR_USER_NAME]\Application Data\
+and
+C:\Documents and Settings\[YOUR_USER_NAME]\Local Settings\Application Data
+and delete the Mozilla folder.
+
+4.Download the firefox from the given links:
+http://hyperion.zih.tu-dresden.de/moz/firefox/releases/3.6.3/win32/en-US/Firefox%20Setup%203.6.3.exe 
+
+http://www.mozilla.com/products/download.html?product=firefox-3.6.3&os=win?=en-US
+
+P.S : please take any bookmarks backup before doing this , also you can do step 4th as 1st step , download it first.
+
+i hope this time it should help
+might have something to do with being a yahoo edition, try uninstalling again and download Firefox 3.6.2 from mozilla
+
+http://www.mozilla.com/en-US/firefox/personal.html

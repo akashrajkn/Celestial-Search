@@ -1,0 +1,10 @@
+How to download private torrents from multiple ips?
+Okay, so its like this, when we download .torrent files from a private tracker, the downloaded .torrent file has some kinda code in it, that allowes us to download it, so if i downloaded it (the .torrent file) at my home, it wont work/let me download (the .torrent file) at my office, right? So i was wondering if we could somehow make it work, perhaps by editing the .torrent file or something....
+
+the torrent file will work from all places.. i download torrent file from office and download the actual file from home
+The .torrent file has a list of trackers and the file you're wanting to download, so, technically it's just a link.
+
+You could download the .torrent file at home and then run them on your torrent program at work and it should work just fine.
+
+Make sure you're using a program like PeerBlock to reduce your chances of getting in trouble.
+http://www.peerblock.com/

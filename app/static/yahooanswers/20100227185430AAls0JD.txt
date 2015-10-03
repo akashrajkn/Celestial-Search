@@ -1,0 +1,9 @@
+What is Peerguardian and if i use it can my internet provider still see what i'm downloading?
+I've been trying to find a way to download files from web sites like the piratebay without my internet provider catching me (i know that i am on the watchlist so i have to be careful) and one solution that somebody has given me was Peerguardian. Can anybody explain how it works and how safe i will be if i use it?
+
+Peerguardian is capable of blocking incoming and outgoing connections based on IP blacklists. The system is also capable of blocking custom ranges, depending upon user preferences.
+
+lt basically prevents the government seeing what you're downloading, as well as your ISP.
+
+My friend said it's pretty safe, he has recommended me to use it but l'd rather prevent downloading things of Torrents altogether because my brother does it for me instead. :P
+When anyone downloads files, their Internet provider will see what they download. But it may not be seen by other organizations, I mean RIAA and MPAA.I prefer beethink ip blocker as an alternative of peerguardian, which is compatible with windows 7 64 bits, faster and more stable.

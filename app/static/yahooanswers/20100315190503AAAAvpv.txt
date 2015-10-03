@@ -1,0 +1,11 @@
+Why am I not signed in to certain websites after clicking 'remember me'?
+It's kind of hard to explain.. But, like I click 'remember me' or 'stay signed in' And every time I exit out, I have to keep reentering my user name/password etc..
+
+ALSO, why doesn't my computer save my previously typed in websites in my browser? [I use Mozilla Firefox and have Windows XP]
+
+Thanks again.
+
+You must allow cookies in your browser....and don't delete them.
+
+It is cookies that allow your computer to "'remember me' and 'stay signed in'.
+Sounds like you're using privacy browsing or something similar. The website aren't "remembering" you because your cookies aren't being saved. The history isn't tracking because your browser is set up for private browsing.

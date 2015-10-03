@@ -1,0 +1,5 @@
+Is there any way to tell if someone has been using InPrivate browsing?
+I don't need to know the content, just if it's been used.
+
+I don't think you can. As the name suggests, it is for private browsing so if someone could find out you used it, it would defeat the point.
+There is no way to trace if the InPrivate browsing feature has been used or what for, all history is immediately deleted.

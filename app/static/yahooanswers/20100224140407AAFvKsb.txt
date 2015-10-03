@@ -1,0 +1,6 @@
+How do you uninstall a tool bar?
+TO be specific, how do you uninstall the" gaiarch" tool bar?
+
+Try Settings->Control Panel->Add or Remove Programs
+Try to uninstall it from ur browser if it's installed in firefox. 
+But if not, you can have a try with Perfect Uninstaller,it is a better and easier way for you to completely uninstall any unwanted application that standard Windows Add/Remove Programs can't remove. Next time, u can directly use perfect uninstaller instead of control panel and u wont have registry problems.

@@ -1,0 +1,17 @@
+Receive Microsoft Outlook mail on two computers?
+Does anyone know of a way that I can receive ALL of my mail via Microsoft Outlook on two separate computers. As of right now, I know that I can have my email addresses forwarded to my outlook accounts, but I can only receive new emails on the computer that I opened them with first. In other words if I open outlook on my desktop I will get all of the new mail, but i wont have access to these newly received messages on my laptop. Any help?
+When i delete from one computer, will it delete from the other?
+
+Turn on "Leave a Copy on the Server" feature within the Tools/Account/More Settings/Advanced Settings.  This will leave it on the server and let both computers download all your messages.   You can specify how long you want them to stay there until deleted.
+There is a setting in Outlook Express, as well as in most email programs, to leave mail on the server (or the opposite - to delete downloaded mail from the server). If you set it up to leave your mail there, you will have the ability to download it to as many computers as you wish, but when you are done with it, you will have to login to your email provider's webmail page to delete it manually.
+Yes I know how to do this. Do the following steps for BOTH Outlook installations.
+
+-Click "Tools" on the Menu Bar
+-"Account Settings"
+-Select your Outlook account and press the "Change" button
+-Select the "More Settings" Button toward the bottom right of the window.
+-Select the "Advanced" tab
+-Check the box that says "Leave a copy of the messages on the server."
+-Click "Ok", "Next", Finish", and "Close"
+
+You are done, your messages will be downloaded to both clients.

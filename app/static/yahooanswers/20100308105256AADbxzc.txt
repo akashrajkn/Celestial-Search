@@ -1,0 +1,13 @@
+How to download videos on websites with firefox ad on ?
+How do i download videos using firefox ?
+
+Use Firefox browser and add "DOWNLOAD HELPER" to ur Add-ons.
+here's the way to get Add-ons:
+In firefox-Tools-Add-ons-Get Add-ons. In Get Add-ons tab u 'll see the search tab, there type DOWNLOAD HELPER. it'll get u thru there. add it.
+or
+type DOWNLOAD HELPER in google search. it'll get u to the website. u can add it from there also.
+then u'll see the tri-color baloons before or next to Home Page button(in browser).
+It can download thousands of websites videos include google videos and also pix.
+U'll see balloon rotating when the webpage have a videos or pictures to download. next to balloon-click dropdown arrow. click which video u want to download.
+or
+In youtube video right click the vid u'll see the "download video from youtube

@@ -1,0 +1,9 @@
+How can I find a pink themed firefox add-on that doesn't change the general appearance of firefox?
+I want a Pink Themed firefox but I want the buttons, tabs, address bar etc to remain the same. 
+Or a theme that you can upload your a photo as the top part, but still has the buttons, tab, address bar etc. unchanged.
+
+Yes, there is !
+
+I suggest you to use Personas addon ( http://www.getpersonas.com/en-US/). It can be used on all operating systems. It contains very nice themes which almost always dont make any change in the default shape and position of toolbars. I love it !
+
+Good Luck

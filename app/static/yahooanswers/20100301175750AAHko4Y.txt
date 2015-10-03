@@ -1,0 +1,39 @@
+how to boost an internet signal.  this one is not as simple as it sounds?
+Hi 
+I live above an internet cafe that had an unprotected internet signal.  they don't mind my using the internet, i pay them for rent.  but i don't have access to there wifi router.  i don't know the make or model of the router other then it is a wireless g and POSSIBLY the one they give u free with Verizon internet serves.  
+the problem is the connection is spotty at times due to the distance and the fact that is is through cement walls.  
+the question is is it possible to make my connection stronger using something like another router or booster with out actually having to touch the other one?  
+thanks for the help 
+Moose
+
+You could always get a Wireless N adapter, which is backwards compatible with Wireless G routers.  It will allow you to look 'further' for a signal.  Other than that, besides convincing the internet cafe to upgrade theirs to a Wireless N router, you may be out of luck.  Or sit as close as possible to the source of the signal.
+if they dont mind you using it and you pay the rent to the cafe and they are the landlord then you might just want to run a network cable
+horse2000 is wrong, you need BOTH ends to utilize the extra speed and distance of an "N" router. But if you are doing it with their permission, you can offer to upgrade their router for them. I have neighbors thought bought one of my other neighbors an "N" router in addition to $15 a month to use their wifi.
+
+I like aarons idea. Wired is faster and more secure than wifi.
+
+YOU can ask them to instal a firmware upgrade like ddwrt or tomato to their router. It's free will speed it up and give extra gain.
+
+They can install a secondary broadcast point (repeater) if you make it worth their while (about 100). There are LOTS of good brands. Linksys and netgrar are usually the favorites of techs.
+
+They can add accessory high gain antennas to the router for VERY cheap (like 20-30 bucks), or if you're on a desktop, you can use better antennas on your wifi adapter (again about 20 bucks). Laptop users can't upgrade their antenna but you can pull your old G card and instal an N card and convince them to upgrade their side to N also.
+
+Be cool with them. what goes around comes around. You're getting something for free. If you give them a little "sugar" they'll probably continue to be cool with you.
+
+EDIT: the cantennea the IT guy mentioned works good, but again, only if you are using a desktop. Using one of those is little different than the other high gain antennas I mentioned except that it is HIGHLY directional and must be positioned precisely. You can even MAKE your own cantenna from a pringles can! That's why they're called cantennas! Hey GREAT price on the repeater!
+yes ,,,You could always get a Wireless adapter,  Or sit as close as possible to the source of the signal.u could get an extra plug and be sure to place it on a spot that would allow u to get good signal
+I am assuming that you're using a laptop and has no access to the wifi card antenna. You could use what they call WiFi Repeater placed at the closest point  to the cafe (near a window?).
+
+Here's a link of the product for the refurb:
+http://www.amazon.com/gp/product/B002LPV6LY?ie=UTF8&tag=lifin0and10a-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B002LPV6LY
+
+Here's a link of the product brand new:
+http://www.amazon.com/gp/product/B00021XIJW?ie=UTF8&tag=lifin0and10a-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00021XIJW
+
+In cases where you have access to the antenna, or if the repeater is not strong enough you could use a DIY antenna using a can:
+http://www.turnpoint.net/wireless/cantennahowto.html
+
+You could use the can antenna on the repeater, or you can use it on any accessible antenna.
+
+Alternatively, you could also buy a pre-built wireless antenna booster from:
+http://www.cantenna.com/

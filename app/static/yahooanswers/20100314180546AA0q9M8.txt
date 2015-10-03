@@ -1,0 +1,14 @@
+Accidentally checked the "No" box on Limewire, now music won't download at all :(?
+My first time using Limewire Friday night I had selected about a hundred songs to download. But this box kept popping up asking if I wanted to download "unlicensed" songs or something like that. After hitting "No" over a dozen times I finally clicked the box making "No" the default answer. Well, I guess ALL the music on Limewire is unlicensed because now NOTHING will download. On top of that there is no option to be found to undo what I've done.
+
+HELP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Uninstall the program & then reinstall it.
+do a restore and it should bring it back 
+or if that don't work re-download !
+good luck !
+Limewire? Don't use that stuff! See the risks of file-sharing technology at http://www.us-cert.gov/cas/tips/ST05-007.html
+Instead, look at http://searchformusic.eu.pn/
+It searches more than 80 free, safe, legal downloading-music sites (for whole albums, add the word "rapidshare"). This way you can forget about viruses.
+
+Hope this helps. Regards!

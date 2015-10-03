@@ -1,0 +1,17 @@
+What can I do about my slow interwebs?
+I have 10mbps on Virgin Media and this is more than enough, when it works.
+Every so often at around 5pm and 8pm my internet goes incredible slow. I can't watch any videos on youtube and online gaming is out of the question.
+
+So, I basically want to know what I can do to stop this? I havent done anything about it yet because I thought that it would be something that they are trying to fix. However, this has been going on for months if not years now.
+
+Thanks for any help or guidance as to what I should do and why this happens.
+Thanks for your answer. I don't think it is excessive usage as the slow internet restores itself after an hour or so. Sometimes more.
+
+you might need to check your usage, if you go over a pre-specified limit then Virgin will reduce your speed during peak times,  see the fair usage policy (address below) to see more details.
+
+If you are a heavy user during daytime, try to set  your PC to download overnight as this does not affect the policy.
+
+On top of this ensure your router is as close to the phone socket as possible (dont attach it via an extension cable)
+
+try testing your bandwith at speedtest as this can give you an idea of what your average speeds are.
+The local network infrastructure is overloaded during peak usage periods. I personally would try and use anther completely different Internet Provider...A bit slow from other users on the local line is one thing, but what you are experiencing is Not OK, and I really doubt calling and complaining to them will fix this anytime soon...JMO

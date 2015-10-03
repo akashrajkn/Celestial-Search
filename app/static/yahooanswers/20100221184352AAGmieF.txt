@@ -1,0 +1,49 @@
+Browser freezes when contracting viruses [insert HELP!? here]?
+I've been getting virus lately (Sorry security techies, thats not the problem), and I've noticed something. When that happens, your browser freezes. Why is that?
+
+The most common cause of computer freezes is a corrupt registry. 
+Most likely your registry is bloated and overstuffed with an assortment of useless pieces of data. The operating system while running your computer has to pick its way through all this excess material. There will be bits of programs which were not completely uninstalled, parts of programs which were never completely installed, fragments of miscellaneous data, useless drivers, and a multitude of other bits and pieces.
+The answer is to clean your registry and remove all the material which is not needed.
+<--http://fix-computer-freezing.com/Clean_Up_Center.htm
+Get the best one, and completely clean your windows registry with a few clicks of the mouse.
+
+Often there is also spyware which is using your computer for nefarious purposes and slowing its operation.
+The answer is to scan your pc with a best anti-spyware to clean spyware/trojan/virus.
+http://fix-computer-freezing.com
+Computer slowdowns and freezes are the most nightmarish and frustrating things that could happen to PC users. In order to fix PC freezes one must be aware of the common 
+
+factors that cause these problems, which could be related to software, hardware or internet related issues. The immense exposure of PCs to the internet makes it inevitable for the 
+
+PC users to learn the basic steps to fix computer freezing and combat slowdowns. 
+
+Scan the PC for viral infections
+
+With online activities of PC users on the rise, it is easier for the viruses to attach themselves to the computers. While you surf different web pages and pop-up ads, these malicious 
+
+software enter your computer without your knowledge. The most effective way to get rid of these nasty viruses is to scan your hard disk and put these infections on quarantine or 
+
+delete it. If the virus stays on your system, it would keep on spreading the infection. 
+
+Scan the PC for spyware 
+
+Exposure of the internet poses serious risk of spyware and other malicious software sneaking into your PC. These malware may cause your computer to crash down. Remove all 
+
+spyware and malware to fix computer freezing fast. Using anti-spyware and other protective software helps to keep spyware and malware at bay.
+
+
+Examine RAM and hard disk 
+
+Sometimes it's the limited capacity of computer’s data storage rather than viruses or spyware that cause your PC to come crashing. Ideally your system RAM should have at least 
+
+20% free space. Check for the free space on your system’s RAM and hard disk. Defragging the hard disks from time to time is also crucial to maintain its quality.
+
+Check for newly installed programs
+
+Incompatibility with a recently installed software or program may also cause your PC to freeze. This is most visible if the problem cropped immediately after you installed a new 
+
+program into your PC. Uninstall the program and reboot your system to fix this problem. If you have introduced a new hardware to your system and it is the culprit behind the 
+
+freezing of the system, uninstall the erring driver and unplug the hardware wires from your CPU. Reboot the system and check if the system is performing better. The driver may not 
+
+be compatible with your operating system.
+http://bosd-checking.com/Keep_Freezing

@@ -1,0 +1,13 @@
+Why am I having such a hard time opening websites via my phone service 'high speed internet'?
+When I use my Dell laptop at places with wifi access, i have no problem opening websites and surfing...
+
+At home, to get net access, i plug in the line that connects to a modem operated by my phone company- it is so much slower, and some websites open with no problem, BUT others like MSNBC, Hotmail  and Facebook seldom if ever open at all- 
+
+I have to tale my laptop out where i pick up wifi to get those sites- What's causing this?
+
+What kind of connection do you have?  My first guess is that you have a slow internet connection at home vs the wifi spots you have been using.
+Several things could be causing this problem 1) have your ISP tech dept do a line check to make sure it's not their equipment 2) check your router settings 3) your internet speed could be a problem 4) your firewall/antivirus  might be blocking the connection at home check those settings 5) make sure of your router settings
+Are you talking about a dialup modem or a DSL modem? If dialup, those are pretty much obsolete with today's high graphics websites. The top dialup modem speed is 53 kbps (kilobits, not megabits!), and most connections don't do better than 45 kbps. That's at least 30 times slower than even the slowest DSL.
+Try buying a new router with the connection speed on the box that is 100mbps or over. Your problem might be you have an old or slow router, While the places you go for nwifi access will most likely have good routers.
+
+You can find plenty of routers in argos.

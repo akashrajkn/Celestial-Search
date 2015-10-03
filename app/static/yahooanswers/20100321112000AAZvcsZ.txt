@@ -1,0 +1,30 @@
+Why does my Skype work so badly? What can I do to improve the sound?
+Talking through Skype I can hear my partner extremely badly, the sound is very dull.
+The same is about songs on YouTube, the voice is hardly heard while the melody is rather loud.
+There should be problems with the Internet. Some people say that I need to install a newer browser than my Internet Explorer 7. 
+But how can the Internet browser influence Skype?
+Can there be another reason of all these sound problems?
+
+maybe you should download Mozilla Firefox. Internet explorer is so slow and old (and, I like to think, fat)
+If voice over Skype sounds bad, and voice in a video sounds bad, it sounds like it's your speakers. Replace them. They can fail such that a certain frequency range, like that of the human voice, is underpowered and sounds muffled or attenuated. There is no fix for this, just get a new set of speakers or some headphones.
+
+If it continues to happen with new speakers, it could possibly be a bad sound card. In this case, try installing the sound card drivers from your manufacturer's support website. If that doesn't improve things, your sound card is most likely faulty and must be replaced.
+Hi Vera,
+
+Regarding Skype, they usually ask you for a feedback after each of your call, so I would think that it should be possible to check directly on their website for some advice on how to improve the sound. 
+Also, it seems obvious, but investing in a very good pair of headphones when listening to some music or talk on the phone via your computer is vital.
+So, you might simply need to change your headphones/micro for the sound to be improved, I bought mine on the Skype website and never had a problem with it. 
+
+Regarding Internet Explorer, I personally don't use it anymore -since 2003 or so- I only use Mozilla Firefox as it's much reliable, safer and much quicker. I would suggest you do the same and try to listen to some YouTube videos on Mozilla to see if it helps. Also, on YouTube, for some videos, you will find that some voices are indeed hardly heard while the melody is rather loud. So, in some cases it has nothing to do with your headphones or your computer.
+
+The last thing you might want to check is the card sound of your computer, just in case. 
+
+Good luck!
+
+
+------------------------
+
+Learn how to set up a successful and passive source of income. Fast. 
+http://www.Club-MoneyMakers.com
+
+------------------------

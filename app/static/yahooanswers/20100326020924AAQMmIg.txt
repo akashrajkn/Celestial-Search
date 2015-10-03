@@ -1,0 +1,20 @@
+Can someone tell me a TV tuner is?
+Windows 7 has a Media Center that allows one to watch TV. Does it require a TV Tuner? And, what is a TV Tuner anyway?
+
+Yes it requires a TV Tuner. 
+
+A TV tuner card is a computer component that allows television signals to be received by a computer. Most TV tuners also function as video capture cards, allowing them to record television programs onto a hard disk.
+A TV Turner is a adapter that you can install on your computer that will allow you to watch TV. These can be internal (for Desktop) or a USB for laptops. You install them, connect your cable to it and you can watch and record TV right on your computer.
+
+On a laptop you can also connect a small Antenna to it to pick up Digital signals if you cannot connect to a cable.
+
+Make sure that if you buy one that you get a digital one not an analog, since they no longer broadcast in analog.
+
+Heres is an example of a USB Turner for a laptop. You can also use it on a Desktop.
+
+
+http://www.google.com/products/catalog?q=usb+tv+tuner&rls=com.microsoft:en-us:IE-SearchBox&oe=UTF-8&rlz=1I7TSHB_en&um=1&ie=UTF-8&cid=8099551832176063631&ei=eHysS--1MNOWtgfXjPnfDw&sa=X&oi=product_catalog_result&ct=image&resnum=5&ved=0CDEQ8gIwBA#
+
+Hope this answers your question
+
+The Old Computer Guy

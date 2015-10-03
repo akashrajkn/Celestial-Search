@@ -1,0 +1,10 @@
+how can one internet system like IE or firefox be faster than the other? surely it's how fast your connection?
+
+
+no its how many videos and ads that load
+The 'faster' browsers are often faster, but it is only by thousandths of a second. It is based on their caching protocols and things like that. But yes, it is not really faster, it's mainly your connection and how fast your computer is.
+it is the connection but also what a browsers tools has to do to download information.  internet explorer use all of its tool to bring up moveable images, and placing text in the write place etc
+Your internet connection does play an integral part. However good reliable Internet Browsers like Internet Explorer or Firefox display the web pages you  access on the internet, and do so in different manners, those different manners are what allows them to display a web page a few seconds faster or a a bit better or reliably. A good browser (I'm not going to show favoritism and say one or the other) can help maximize the speed of your internet connection by handling the data you take and give to a site in an efficient manner.
+Sure, the speed of your connection matters, also the upload speeds of the websites you access. But when those are high enough that the browser doesn't need to wait for the data to arrive, it is the way the browser handles that data that makes it faster or slower than its competitors.
+
+For more information, read this article: http://www.tomshardware.com/reviews/firefox-chrome-opera,2558.html

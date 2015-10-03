@@ -1,0 +1,10 @@
+can i save my router port  forwarding settings to a .txt file  so when it crashes i dont lose  it? (D-Link)?
+
+
+Your D-Link router actually has a place in its configuration GUI where you can make a complete backup of the system including your port forwarding information.
+
+You don't state which model of D-Link router you have, so I can't point you to the specific page on the router config site.  If you scout around on the D-Link's web configuration pages you should be able to find the Backup link which will create a file on your local desktop that contains all of your custom settings.
+
+If your D-Link should ever crash, you simply reset it to defaults (or buy a new D-Link router if the unit fails entirely) and then restore your settings from the backup file.
+
+Once restored, all your custom settings should be back in place and in effect.

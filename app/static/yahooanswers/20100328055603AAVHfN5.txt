@@ -1,0 +1,5 @@
+How do I delete my browsing history from the address bar?
+I have IE8.I tried going to the internet options and deleting the browsing history and my browsing history did get deleted from the history tab from the favorites button, but the websites that I've visited are still showing when I click on the drop down arrow on the address tab. I then tried restarting my computer, but they were still there. Can someone please tell me how to delete them??
+
+Go to tools>delete browsing history (or Ctrl+shift+delete) check ALL boxes EXCEPT the top one. That should do it. You may have to restart all internet explorers for it to take effect.
+press ctrl+shift+delete it works on mozilla and chrome i dont know about IE8 but try it out

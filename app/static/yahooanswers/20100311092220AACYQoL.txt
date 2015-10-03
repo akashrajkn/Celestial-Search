@@ -1,0 +1,20 @@
+What do blurbs at the bottom of emails...such as the following...mean?
+I've seen the following sort of nonsense tacked onto the end of some emails, this one is from a craigslist communication (the beginning of the email was a legitimate correspondence, but the following was not):
+
+"The turquoise blue swimming pool some distance behind the lawn was no longer the satyr but a very good-natured and foolish swiss cousin the gustave trapp i have mentioned that lolita always had an absolutely enchanting smile for strangers a tender furry slitting of the eyes a dreamy sweet radiance of all her movements had its auditory counterpart in the pure air of champion colorado on that admirable court at the foot of seep stone stairs leading up to champion hotel where we had spent the night i felt sure somebody was tapping on the door of the closet and plunged into a heap of crumpled things that had touched her.
+> In outdoor activities and desirous of finding suitable playgrounds in the open where i had arrived with a new bag more than five years before.
+> She wanted to know."
+
+Why are these put at the end of some emails? What's the purpose?
+
+To get more hits from search engines.
+It could be a few things:
+
+o1. The person/company's signature. It could be completely pointless to you as the receiver, but they set it as their sig.
+
+o2. It could be a spammer. Craigslist is known to have many of these, & the spammers have a few ways of showing themselves--weird endings to the email being one. Especially if it is a different one each time. They try to put on the face of being a legitimate person, but in reality, they've taken your email for their own purposes (sending you tons of unwanted mail).
+
+o3. Gmail. I believe you can enable in Gmail settings a random quote with every email you send out. Sadly, Gmail is known for being a haven for spammers.
+
+:[ I don't mean to sound horrible about it, because it could be harmless! But it could also be an annoying spammer trying to win their way in.
+

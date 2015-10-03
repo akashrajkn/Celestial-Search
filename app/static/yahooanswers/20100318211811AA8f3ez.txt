@@ -1,0 +1,13 @@
+i added a visitor counter to my ebay listing, and it tells me there is one, but i cannot see it! help please?
+i selected the option, but i cannot see a counter anywhere.... maybe im looking in the wrong place?
+croc's suggestion did not work, unfortunately =(
+thank you though
+any other ideas??
+
+Try clearing your cache/temporary internet files and cookies and log back into eBay.
+
+Edit:  Try eBay's answer center.  I think your question should probably be posted under 'Technical Issues'.
+
+
+http://pages.ebay.com/community/answercenter/index.html?ssPageName=comm:f:f:US
+

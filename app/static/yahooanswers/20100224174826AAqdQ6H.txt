@@ -1,0 +1,68 @@
+I blocked porn from my internet. Put a password on it and forgot it. Now I cant go on ANY websites. HELP!?
+even the help options, lead me to a website that i cant get on :( am i f***cked?
+
+Well the thing is you wouldn't ever have to block porn if somebody else who has access to your computer goes to see it. So now go to control panel, internet options,and switch everything back to the way it was. Which was probably medium. Maybe you have the Trojan horse virus. Who knows you might need to get it cleaned. 
+By the way how are you on Yahoo.com if it won't let you go on any websites?
+So you aren't FUCKED if you have access to another comp
+In a way no you are not. Internet Explorer has some other features that allow you to find the password but I would recommend you to use FireFox and get all the information you need. I would need to know the version of the IE and the Windows OS you are using to help more.
+Hope this helps...
+
+Internet Explorer 8
+To remove a stored password or other stored information in Internet Explorer 8:
+
+1.From the Tools menu, select Internet Options. 
+
+
+2.On the General tab, under "Browsing history", click Delete... . 
+
+
+3.Check the item(s) you want to delete: 
+
+
+?Temporary Internet files (copies of web pages, images, and media that are saved for faster viewing)
+?Cookies
+?History (the lists of web sites you have visited)
+?Form data (saved information you have typed into forms)
+?Passwords 
+?In-Privatee Filtering data (saved data used byIn-Privatee Filtering to detect where web sites may be automatically sharing details about your visit)
+To delete everything, uncheck Preserve Favorites website data and check all the other options.
+
+4.Click Delete. 
+Internet Explorer 7
+To remove a stored password or other stored information in Internet Explorer 7: 
+
+1.From the Tools menu, select Internet Options. 
+
+
+2.On the General tab, under Browsing history, click Delete... . You now have several options: 
+
+
+?To delete temporary Internet files (copies of web pages, images, and media that are saved for faster viewing), click Delete files... . 
+?To delete cookies, click Delete cookies... . 
+?To delete the history (the lists of web sites you have visited), click Delete history... . 
+?To delete form data (saved information that you have typed into forms), click Delete forms... . 
+?To delete passwords, click Delete passwords... . 
+?To delete all of the above, click Delete all... . 
+
+
+3.Click OK twice. 
+Internet Explorer 6
+To remove a stored password or stored form data in Internet Explorer 6:
+
+1.From the Tools menu, select Internet Options... . 
+
+
+2.Click the Content tab, and then click AutoComplete... . 
+
+
+3.To remove stored passwords, click Clear Passwords. 
+To clear stored data that you have entered into forms, click Clear Forms. 
+
+4.Click OK.
+You blocked porn and still got f**cked? oh the irony.
+
+What program are you using? Can you google how to recover lost passwords for it?
+HI,
+Are you using aobo porn filter?
+You may contact their support if you forgot the password
+Hi, have you forgot there is one thing called live support in the world? Turn to them to get back your password.

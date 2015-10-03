@@ -1,0 +1,9 @@
+why do pictures have a red x instead of the picture on windows 7?
+i have installed windows 7 on the computer with norton 360 and on some web pages i get a red x on some of the pictures. on some pages with, for example, 8 pictures, 5 might be with the red x and the rest ok. some pages with all the pictures (on the same site) and some without.??????????
+
+ i have tried looking in the internet options and doing the things that the "web" says but im having no luck. 
+i don't know alot about the settings but from what i read and do from the web i cant figure it out.
+please help me.
+Glacial, i would do all of those things but i dont know how. im a novice on this part of computers
+
+Okay this can be caused by many things , Maybe the norton firewall is blocking some pictures , and maybe also your windows 7 security is too high , so its blocking some pictures as well. make sure you check both , usually this is caused because of a firewall , either the windows itself , or the antivirus software or the router firewall. So check them and if they are too high , set them moderate and try again to view pictures.

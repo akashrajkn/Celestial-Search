@@ -1,0 +1,11 @@
+How reliable is Yahoo for a website host?
+My website is going offline a lot, and I am wondering if this might only be temporary or if this is going to happen every once in a while. 
+I was informed that Yahoo would be an excellent host, as they are a very large company, so there should be very little downtime. But in the last 24 hours my website has been going offline a lot. 
+http://gamingrant.com/
+
+So, how reliable is Yahoo, and how often will my site have downtime? 
+Does Yahoo have a lot of downtime?
+
+never heard much about yahoo being bad, but your site is still down/or very slow.. we have been using Justhost, you can find them on http://www.hosting-picks.com.
+In general I would avoid Yahoo as a website hosting company.  They are many cheaper website hosting companies that offer the same features and a ton of freedom to do what you want.  And they NEVER have downtime.  I refer to this website when I am about to purchase because they have a snapshot of the most reliable companies and its simple to read. http://thehostjudge.com/fullcomparison.html .
+

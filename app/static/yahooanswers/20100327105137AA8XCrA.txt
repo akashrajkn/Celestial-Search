@@ -1,0 +1,22 @@
+We're trying to set up our internet connection but we don't know the Linksys password. Help?
+We're trying to set up the wireless router and we did everything right but then they ask us for a password and when we try anything it'll load up and ask us again.
+
+Thing is we had this set up before on another computer in the house but we decided to move it to the computer it's on now. 
+
+How can we get or reset the password if it's possible?
+
+This means you are not putting in the correct information for either the password or ID name.
+
+In the back of the Linksys router is a very small hole that you can insert a paperclip.  This is the reset button that will reset the Linksys back to factory default.  Remove the Power cord and hold the reset button for 10 seconds.
+
+Replug the power and wait until the Linksys is finished resetting.  Follow the direction as if the Linksys was just purchased.  The password will now be the default password (usually admin).
+If you have forgotten your LinkSys router password, the easiest thing to do is to reset your router to the factory default settings.
+
+To restore the router configuration to factory defaults, hold the reset button on the unit for 30 seconds.
+
+Once your router is hard reset, you will need to login and configure it again.
+To reconfigure your LinkSys, connect a PC to one of it's Ethernet ports, load a web browser, and go to the URL http://192.168.1.1/. This will take you to a popup box which asks you to enter a username and password to login to your router.
+
+On older LinkSys routers, the default username is blank and the default password is "admin." On newer Linksys routers, both the default username and the default password are set to "admin."
+
+Once you go past the login screen, you should be able to reconfigure the LinkSys router.

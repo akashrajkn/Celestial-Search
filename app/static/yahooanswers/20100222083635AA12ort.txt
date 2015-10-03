@@ -1,0 +1,30 @@
+Com-cast Activation Screen keeps popping up when I open my internet browser.?
+Every time I try to connect to my wifi internet the com-cast activation screen keeps popping up. The funny thing is I do not have internet service with com-cast. Why is the activation screen popping up every time I try to get on the internet. Thanks In Advance!!!!!
+
+Use a pop up blocker to block it.
+http://popup-stoping.com/trojanhorsesremover/
+or 
+ you can block it manually under the steps.
+
+Step1
+Press the Esc key one time. If this does not help, press Ctrl, Alt, and
+Delete keys all at the same time. If a programs screen appears, select end task and left click your mouse one time. If another screen appears select end task and left click your mouse one more time. Hopefully your mission is accomplished with this five second procedure. 
+Step2
+If step one worked for you, you'll probably have to do it again each time you connect to the Internet, but only once per visit, until you go into your computer and delete this file that keeps popping up from your computer. 
+Step3
+If the above procedure is working for you, great. However, they may return again as invisible pop ups. When you're computer appears to be stalling for longer than normal, try the above procedure again, to see if the same program screen reappears. (Invisible pop ups are done away with in the same manner). 
+Step4
+If the procedure mentioned above did not help, disconnect from the Internet. Press Start, then control panel, then Internet preferences.
+Delete cookies and search history. 
+Step5
+If the above attempts were not enough, delete the user name and use
+another one. 
+Step6
+If the above attempts were not enough yet, 
+your computer is infected spyware.
+Scan your Spyware/Adaware
+http://popup-stoping.com/trojanhorsesremover/
+Step 7
+If IE pop up,you can manage your IE by using Cleaner tool.
+Remmend:
+http://popup-stoping.com/IEHospital/

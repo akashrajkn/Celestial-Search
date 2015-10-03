@@ -1,0 +1,5 @@
+is ihatenikki.com a virus?
+thnx and what is it? have you clicked it? what happened?
+
+looks like one.. haven't tried it tho..
+i'm pretty sure it is, this girl sent me it. it's a fake porn revenge site where you have to send a link to hella people to get to see more, perfect setup for a virus to spread and to generate traffic. so anyways my friends computer got a nasty virus yesterday, she has no virus protection & it popped up scam software, did let her open any files or do anything other than firefox. i do have virus protection, and it just kept popping up tons trojan viruses. did a full can with avira and it was removed. if you got this then go into safe mode & do system restore for a few days before you opened the site.

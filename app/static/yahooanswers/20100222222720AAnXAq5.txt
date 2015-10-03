@@ -1,0 +1,11 @@
+I can't visit entered URLs in Firefox?
+Here is the problem.  I suddenly can't go to a web site I've typed in myself.  I can type it in but when I hit enter nothing happens.  When I click the "go" arrow next to the URL box nothing happens.  I can visit my bookmarks without issues, I can click links on web sites without problems, I can click my "stumble" button without problems.  I just can't go to a URL that is in the URL box.
+
+And for those of you skimming this question and thinking of asking if my enter key is working I assure you that it is and that I am currently using it to type this question.
+
+The only change I've made is that I've installed Miro (a video player that was recommended by Firefox) and I have since uninstalled it and done a system restore with no change.  Any suggestions?
+The thing is I can visit all the sites through IE.  It's not sitting there and idling.  It's just not doing ANYTHING.  No status bar, no time outs.  It's just ignoring the enter key and go arrow.
+I do run AVG...I wonder if this caused the issue...I tried disabling all extensions (starting in safe mode) and it didn't help so I made a new profile and dragged over all my extensions and bookmarks and all is good with the new extension.  If it happens again maybe I'll remove the AVG tool bar.  Thanks for the information
+
+I'm having trouble getting to certain web sites and domains myself, right now. I don't know if this is a problem with the DNS server I use, or if there are web sites being attacked right now. Best thing is to wait a little bit and see what things look like in an hour, maybe 30 minutes.
+AVG can cause this issue. You can also try disabling extensions one at a time and restarting FF to see if an extension is causing the problem.

@@ -1,0 +1,10 @@
+Can you pay for something through Paypal sandbox?
+
+
+No not with real money...
+
+Paypal Sandbox is used for testing your websites checkout process, in the test environment you would set up a test (fake) buyer and seller account the funds in those accounts are (made up / fake). 
+
+It's just for testing nothing more.
+
+Hope this helps.

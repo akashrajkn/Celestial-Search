@@ -1,0 +1,37 @@
+Is a tracking number provided for Royal Mail small packet?
+I bought a shirt on ebay and I was told it would be sent standard small packet from the UK, but I didn't receive a tracking number for my item.
+
+Only if it was recorded delivery. Standard small packet would not have a tracking number.
+some mail services offer tracking service(you will get tracking#)
+Some do not offer tracking service(no #s are coming)
+Find out how it was sent and go to....
+
+http://www.royalmail.com/portal/rm
+
+To see whats up with the particular service.
+More information is required to answer this question.
+
+Small Packet is not a service - its a type of mail item, like letter, parcel, etc.
+
+We need to know which Royal Mail service was used to answer.
+Here's a list of the Royal Mail services that give you a tracking number -
+(International)
+Airsure
+International Signed For Airmail
+International Signed For Surface Mail
+(UK only)
+Special Delivery
+Recorded Signed For 1st Class
+Recorded Signed For 2nd Class
+
+
+The following do NOT have a tracking number:
+(International)
+Airmail
+Surface Mail
+(UK only)
+1st Class
+2nd Class
+
+
+You need to check with the seller which service they used. There is no "standard" service. This is usually a word that ebay sellers use to mean "whatever is cheapest".

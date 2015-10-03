@@ -1,0 +1,12 @@
+Why is my firefox browser getting all weird now?
+I am using Google Chrome right now, because I can't use firefox. I don't know if it's a virus or what.
+but well, it first started yesterday when if I exited firefox I wasn't able to open firefox again unless I logged out and logged back in to the computer.
+
+And like 30 minutes ago, I just noticed that the refresh, backword/foreward button do not work. They are there, but they are invisible and will not do anything when you put your mouse on it.
+
+and NOW the URL at the top of the page is missing for everything I click on.
+
+What does this all mean?
+
+You could delete it. Then go to www.mozilla.com and get the latest version.  That should fix it.
+try to uninstall and then again install it.

@@ -1,0 +1,41 @@
+Slow internet, what do I do?
+I'm in the UK. My internet speed has been between about 0.1 MB and 0.4 MB since last Tuesday. I know my ISP have done a bit of work to their servers last week but I dont understand why the internet is still so slow. Its doing my head in.
+
+All four computers in the house also have slow internet.
+
+NETGEAR wireless router
+
+I live in a rural area
+
+I know very little about computers and am likely to f**k up trying to repair anything complicated
+
+move house.
+possibly you have gone over your download allowance, and your connection speed has been slowed, right down (happens to us on occasion)
+
+try waiting until your billing cycle starts again (this depends on when you have to pay for your internet) and if nothing changes, call your ISP
+Any ADSL broadband is *up to 8 Mb because any provider including BT themselves cannot guarantee any speed at anytime because they are using an out of date telephone system that was designed and built for voice only in the 1930's.
+
+There are too many variables to take into consideration.
+
+1. Distance from Exchange.
+
+2. Condition of equipment, how up to date it is including the Exchange.
+
+3. Age and condition of wiring, joins, corrosion in the system.
+
+4. Line noise. Will affect it badly.
+
+5. How heavily the exchange is subscribed to.
+
+6. How many people are on at any one time.
+
+Any combination of those will drag your speed down. As much as BT or any broadband provider would like, even they can't change the laws of physics.
+
+There is nothing physically you can do about it except wait for it to improve.
+The problem may be in your home. Did you connect some new device that day? Have you got a filter on every phone socket? How do your machines connect to your router? If wireless, maybe you are on same channel as a neighbour? Did you move the router recently? If you are you using powerline (aka homeplug) to connect to your router - any new device plugged into the wall can interfere with that?
+
+Unplug everything. Plug your router into the test socket behind the faceplate of your master socket, connect one computer only to the router with a wired (ethernet cable) connection. Test your internet speed. If still bad, power your router off for an hour, then retry (this causes the exchange to resync with your router).
+
+After you've checked these things, complain to your ISP and ask for your BRAS profile to be reset, and a line test. That ought to reveal any underlying problems.
+
+You might also like to install RouterStats http://www.vwlowen.co.uk/internet/files.htm which will collect data from your router and give you graphs of your speed, error frequencies, noise margin, etc that you can use for arguing with your ISP. It supports various Netgear models.

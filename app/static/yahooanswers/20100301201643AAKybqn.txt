@@ -1,0 +1,6 @@
+Is there another way to turn on my wireless?
+I have an HP Pavilion dv6000 running Windows Vista Premium with the HP Wireless Assistant. I broke my wireless switch and I can't afford to fix it right now. Is there any other way to turn it on?
+
+not without a new switch
+No unless you want to try to rip it apart and maybe rig something up yourself and try to replace the old switch with something else for temporary =(
+i would try to find the manual first thing. but otherwise if there is a physical switch on the laptop, then that is what gives direct power to your wifi reciever. but like i said, if there is a software interface that can turn it on, i would look it up in the manual.

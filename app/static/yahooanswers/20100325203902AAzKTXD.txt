@@ -1,0 +1,10 @@
+Why aren't the images showing up on this website?
+When i go to this website:
+
+http://www.createblog.com/
+
+none of the images show up. There is just a little red X. 
+
+Do you have any ideas why nothing is showing?
+
+You should give proper path dont give absolute path for it.

@@ -1,0 +1,5 @@
+Why do the voices not go with their mouths?
+When I am watching a movie from a site. The voices will be behind what they are saying on that scene. How do I fix this and why is it happening?
+
+Pause the video and let it load, you might want to start it over, too.
+You could try using a different video player, but usually you can't do much when it's streaming.  I would recommend installing VLC (www.videolan.org/vlc/) and see if that helps.  If the option is there, download the file and play with VLC, that way you have the option of adjusting the video/sound position.

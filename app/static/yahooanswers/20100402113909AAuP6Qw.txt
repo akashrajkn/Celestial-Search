@@ -1,0 +1,6 @@
+Mozilla Firefox 3 bookmarks backup?
+IE has a folder that keep our Favorite site's address files.But does Mozilla have something like it?How can I make a backup of my bookmarks of Mozilla?
+
+Go to Bookmark -> Organize Bookmark  or press this (Ctrl+Shift+B)
+Then library will appear, go to Import and backup tab and choose backup..
+that bakcup file will name like this ( .JSON )

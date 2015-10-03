@@ -1,0 +1,6 @@
+How do I make a suggestion for improving the usability of Internet Explorer?
+
+
+Well mine would be to unmark it as the default browser and install firefox or chrome
+Don't. Internet Explorer is a horrible web browser with a lot of vulnerabilites and glitches. Switch to latest version of Firefox.
+Via Microsoft Connect at http://connect.microsoft.com and the Internet Explorer newsgroup at http://go.microsoft.com/fwlink/?LinkId=110585

@@ -1,0 +1,9 @@
+Firefox won't save my settings?
+The default address bar search engine for Firefox is Ask.com. I REALLY prefer Google, so I found out how to change my setting so that when ever I type something the address bar it'll search it on Google (Ever use Chrome? Just like that, I love that feature.) A few weeks ago I upgraded my Firefox version, and It reverted to Ask.com. I've changed it back several times, yet it ALWAYS reverts to Ask within a few minutes. I've tried rebooting, doesn't help.
+
+http://www.techzilo.com/search-google-address-bar-firefox-google-chrome/
+
+NOTE: I know FF has a search bar, but I like using the address bar for it. I feels more like chrome, while having the functionality of FF
+I do have the latest version.
+
+reinstall firefox and use latest version

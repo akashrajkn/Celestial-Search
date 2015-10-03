@@ -1,0 +1,10 @@
+Everytime I try to exit out of a tab a little thing pops up and says "Internet explorer has stopped working"?
+I seriously think I totally screwed up my laptop. I downloaded Firefox and like a bunch of crap came with it and now whenever I turn on my laptop a bunch of little things pop up, telling my about the weather and virus scans and stuff. I don't want that! I am not very expirenced with computers, I'm only 14 so someone please help!
+
+This could be an automatic virus scanner affecting your internet explorer (AVG Internet security does this). It will go away with time, but it could slow down the browser.
+Sometimes a program can just be corrupted leading to malfunctions like this.
+
+If this is the case your best bet is to uninstall internet explorer and then reinstall it.
+
+You should be able to get internet explorer from the microsoft website again after you install it, just like you did with firefox.
+Leave internet explorer and start using firefox or better google chrome

@@ -1,0 +1,14 @@
+Firefox wont open for me?
+Whenever I try to open Firefox it says "Firefox is already running, but is not responding. To open a new window, you must first close the existing Firefox process, or restart your system."
+Firefox isn't open, and I don't see why that matters anyway as you can have multiple windows open...
+I have tried doing what it says in the message - logging off and on, restarting my computer etc.
+I have tried going to Processes on Task Manager and trying to end any firefox related processes, but there wasn't anything there anyway.
+What can I do? I'm using SeaMonkey at the moment and it's awful (mainly because who likes change??)
+(I'm reposting this Q because last time I asked it everybody said "restart your computer" because I forgot to say I had already done it.   -   I'm looking for somebody who knows atleast a little bit about computers/web browsers to answer this, not teenage girls who want to know how to wear their hair and use :3 faces.)
+Thanks guys, some real answers.
+I have tried going to Processes in Task manager, but there was nothing with Mozilla or Firefox in the name
+
+It's not ready yet, give it some time.
+open task manager and look for firefox listed end that process then reopen fire fox it works somehow it closed but it didn't completely so you need to press ctrl alt delete task manager and find firefox and end process it happens to me all the time.
+Have you tried to uninstall it from control panel add/remove programs or program features in vista then reboot then download it again and install?
+Firefox has had some issues lately. What I had to do was use Google Chrome (or you could use IE) and download the latest version of Firefox. I haven't had any issues since. Hope this helps.

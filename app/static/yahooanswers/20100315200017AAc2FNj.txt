@@ -1,0 +1,18 @@
+What is www. and http:// for?
+You can still visit a website with or without it. Right?
+What is its use?
+
+world wide web and HyperText Transfer Protocol i think
+http = hyper text transfer protocol. It tells the server you are connecting to that you are requesting a document.
+
+www = world wide web.
+
+You need them. Although most browsers will automatically add them for you when you try to connect if you dont type it in.
+www-World Wide Web
+Http-hypertext transfer protocol
+www stands for world wide web.
+Its currently used to tell the web server to use its primary domain
+
+http stands for hypertext transfer protocol, it is the protocol used to send these web pages from the web server to your computer. 
+
+There are other protocols also such as https (encrypted version of http), ftp (transferring files), and much more.

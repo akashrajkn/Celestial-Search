@@ -1,0 +1,21 @@
+How do I get my internet explorer working again since its in "Working Offline" mode?
+I can't get on the internet because of this. P.S. I do not have a file button on my browser.
+
+In IE 8
+
+click on tools and work online
+Since you don't have file try tools and when you scroll down it has work offlline and it will either be checked or not. Uncheck it.
+Click on file <> uncheck work off line.
+Are you running Internet Explorer 8?
+
+If not, here is a link to get you started: 
+http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie8_sm_a
+
+In IE8 go to Tools then click Work Offline (so that there is an X over the globe)
+
+I hope this helps!
+
+Cheers,
+
+Bryn
+IE8 Outreach Team

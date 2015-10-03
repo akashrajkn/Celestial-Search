@@ -1,0 +1,5 @@
+ISP and Password needed to create new internet connection?
+how do you find ISP information or all of that kind of information to creat a new connection... itask me for a ISP and password, were do i find this?
+
+Just give your Internet Service provider's name and any password you like...This will be the setting for your local computer alone so that no outsider is able to access internet through your PC.
+You don't. You only need ISP information and password for a dialup or cable connection. DSL doesn't require it. You only need this information for setting up your router.

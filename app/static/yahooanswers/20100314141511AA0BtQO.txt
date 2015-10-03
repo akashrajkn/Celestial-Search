@@ -1,0 +1,5 @@
+my internet explore work but why wont anything else internet related work?
+so its been liike this for awhile and i just dont know what to do, my internet explorer works fine but the problem is everything else says im not connected to internet. all time i download something and try to open it it says the same thing. like when i try to get an update on java or adobe it wont let me and i cant get onn lime wire without it. pleeaasseee plleaassee help me
+
+Change your firewall settings to allow them.
+Check your settings of your firewall and your security certificate. Also, make sure you're on your page, if you're sharing the computer with someone else make sure you're not on their log in page.

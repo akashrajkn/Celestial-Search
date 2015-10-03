@@ -1,0 +1,10 @@
+How is Flock Browser?
+I want opinions from users of Flock, how is the security, style, how usable, etc
+
+I installed Flock 2.5.6 (the latest version) yesterday.  I uninstalled a few minutes later after discovering it was based on an old version of Firefox (3.0.1.6) which was released in December 2009.  There have been no updates (security or otherwise) to Flock since version 2.5.6 was released in January 2010.  That is ridiculous, they are leaving their users open to security exploits.
+
+The style was ok. I can't tell you about usability since I didn't use it for very long.
+
+There are many reported and unsolved problems with Flock's features.  I won't try Flock again until it's based on a current version of Firefox.  If a new version of Flock isn't released by the end of April at the latest, then I say Flock is dead.
+
+Check it out for yourself and decide.

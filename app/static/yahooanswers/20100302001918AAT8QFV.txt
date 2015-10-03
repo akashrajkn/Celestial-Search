@@ -1,0 +1,20 @@
+i lost internet explorer,how to get it back?
+
+
+How could you lose internet explorer? Did someone delete the shortcut? If so, you could check the Windows toolbar; it will probably still be there.
+GO TO WWW.GOOGLE.COM
+THEN LOOK UP  INTERNET EXPLORER FREE DOWNLOAD
+GOST EASY AS PIE
+download it from
+http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx
+What do you mean you lost it?
+
+If you mean you cant find it on the start menu then press the windows key and the R key at the same time on your keyboard then type iexplorer.exe or iexplore.exe.
+
+If that doesn't work then go to "My Computer" or "Computer" then double click on "Local Disk (C:)" Then double click "Program Files" and look for a folder named "Internet Explorer" then it should be in there.
+
+There is no point downloading again if you already have it on your pc!
+Hope This Helps!
+Try using restore to a date before you lost it or use recovery disc supplied with your computer.
+Did you check your program files for it? I doubt you actually lost it as IE is part of the windows program. However, boyoboy is correct if you need to d/l it. You can also get it from windows download section. But first go to my computer, click on drive c, open up program files and see if it is there. If so then just drag the icon to your desktop and you are in business.
+get it from control panel

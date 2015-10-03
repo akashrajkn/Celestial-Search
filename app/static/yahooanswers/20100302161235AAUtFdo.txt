@@ -1,0 +1,4 @@
+In the Cooliris add-on for Firefox, how do I set a channel as my default channel whenever I open Cooliris?
+
+
+You don't.

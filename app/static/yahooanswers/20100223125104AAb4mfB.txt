@@ -1,0 +1,8 @@
+I use yahoo as my homepage, I don't like internet explorer, but sometimes when I'm on yahoo internet explorer?
+sends pop-ups and they still come through even though I have pop-up blocker enabled. Then when it comes on the screen, it won't let me close it. Does anyone else have this problem? Is there anything I can do about it? Please make it simple, not very knowledgeable on computers. Thank you
+
+You could have Adware/Malware infecting your PC 
+
+Download Malwarebytes ( its free) and run scan 
+
+http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html?tag=contentMain;contentAux

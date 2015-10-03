@@ -1,0 +1,40 @@
+Which is better? Firefox or Internet explorer 8?
+I'm going to download a new internet browsers but i dont know which one is better. I think i'm curently use internet explorer 7 since I have Windows Vista. 
+
+Oh and I need someone's help. AV Antivirus was accidentally downloaded onto my computer. Is this a rouge(fake)? Becacuse everytime I try to get on to a website (Ex. Youtube.com) it says something like "This website may be harmful to your computer" and there is two options "Continue unportected" or "install antivirus" (something like that). Since my little brother was using the computer he accidentally downloaded AV Antivirus (Antivir.exe). And now that thing that blocks all the site keeps poping up on sites i've been to before and asking the same question with the same two options. Also when I go on google i can't search up anything at all! And the URL changes to www.google.ca/warning#  What does that mean?! Does my computer have a virus?! 
+
+Please help and thank you.
+Oh btw, I have Norton Antivirus as my real one. And one more question. Can the virus interfere with MSN (Ex.) if I signed onto it?
+
+Use IE 8.
+Yep. that sounds like a virus. And Firefox is much better. Run your computer in safe mode and scan it for viruses with a trial version of Norton 360. This always worked for me
+i personally prefer to use firefox over IE, google chrome isn't too bad either.
+
+as for the "virus" i have seen that before. try uninstalling it if you can, some will let you do that. if that doesn't work then you might have to simply find out where the .exe is located and delete it. try download avast or avg antivirus to help you, they are both free and work great.
+Interesting Question
+
+Security Wise IE8 doesn't seem to change much. It still continue the same trend as the previous versions. Based on security experts Secunia, IE8 has already two unpatched security leaks while firefox only have one gaping leak. 
+
+Firefox have thoughtfully reduce the security risk by having plugins for Flash, Quicktime, Adobe Reader and etc.. It will always inform user to update to the latest version of the plugins, while it is not expendable using IE8. Furthermore, IE8 is not able to block Java scripts
+ 
+Performance Wise
+
+According to my research, IE8 have the worst performance comparing to browser such as opera, firefox, safari and chrome. It doesn't score well in the benchmark testing.
+
+Functionality
+
+IE8 is well known for its compatibility with its previous versions and also functions such as web slices and quick info is available. Meanwhile, Firefox has HTML-5 support.  
+
+
+Conclusion
+
+In my opinion, Firefox is the most balance browser, a true all rounder. The functions which can be expanded anytime using add-ons. Even do IE8 does far well comparing to the previous version but its just not enough to overtake Firefox yet.
+
+================================================
+
+Yes, your computer have a virus
+
+http://www.myantispyware.com/2009/11/27/how-to-remove-antivir-uninstall-instructions/ 
+
+To remove AV antivirus follow this guide.
+FF has many add-ons for you to choose , if you just need some basic functions , choose IE8

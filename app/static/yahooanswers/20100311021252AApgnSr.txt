@@ -1,0 +1,6 @@
+My twitter buttons won't work?
+Okay so when i go on twitter , it wont let me use the buttons like the follow, tweet or any of the list buttons , it was all working fine until yesterday do you think i need to download anything for it to work again or whats wrong with it :S any ideas would be great ! Also none of like chat things work like msn and if you make a chat on a site i cant see the writing and it doesnt load !
+i have flash player , but it wont let me on the java script website , thats probably why its not working , it just says this request has been denied :S hmm
+
+Look up Adobe Flash Player and install it.
+If that does not work look up JavaScript

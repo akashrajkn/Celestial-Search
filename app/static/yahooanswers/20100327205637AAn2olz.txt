@@ -1,0 +1,10 @@
+Why does Internet Explorer keep having this problem? What to do?
+I will navigate to certain webpages and while I am scrolling down it will freeze and when i click on the page somewhere trying to scroll down, it says "NOT RESPONDING"..
+
+I have Windows Vista
+
+How do I fix this problem?
+
+What is wrong?
+
+Windows Vista is the first problem.  Secondly, try downloading Mozilla Firefox.  Use it instead of IE

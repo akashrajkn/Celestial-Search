@@ -1,0 +1,6 @@
+20mb Broadband :/ Really ? Help Please?
+Well i have a 20mb broadband but when i go onto speedtest it only gives me a 6.8 mb download speed ?
+Any Ideas Why/
+
+20Mbps is the maximum raw line rate. It doesn't mean you'll actually download at 20Mbps.
+6.8 was your average download speed. 20Mb mean it was the maximum but you will never get to that speed.

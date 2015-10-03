@@ -1,0 +1,23 @@
+How do I change my nameserver to my new dedicated hoster?
+I am finally moving my (usually) high-traffic site from its inadequate hosting to a dedicated server. 
+
+Having already replicated the site at the new server, I now guess it would be prudent to transfer domain management and nameserving over to Fasthosts too (they are renting me the dedicated server). My current hosting is with 123, and they hold the domain record too.
+
+I HAVE NO IDEA HOW ALL THIS WORKS !!!! :S
+
+C-NAMES, domain records, I am clueless. They are meaningless words to me. I have Plesk V9 on the new server but it comes with no instructions for the uninitiated regarding DNS records. I am no Linux/hosting nerd. 
+
+I have one successful site that I want to move to its own server, and that's it. I would rather not have a successful site offline for weeks while I buy/read books and so I want to get this right first time.
+
+Does anyone know of a web-guide for this process that is aimed at someone of my limited capabilities?
+
+Thanks in advance!
+
+Okay your host should give you 2 name servers.  You'll have to figure out or contact support to find your 2 name servers.  Once you have the name servers go to the place you registered your domains.  log into whatever account you have set up and search for a place to add your name servers to the domain you have registered.  If you can't find the spot to input the name servers contact support where you registered your domains.  They should be able to walk you through it, people do it all the time.  I actually prefer to have my site hosted separately from where i register my domains.
+I suggest you email the domain registrar and ask them to set the nameservers for you. 
+
+"If you need to re-set the nameservers for hosting with Fasthosts, set them to:
+
+    1st nameserver: ns1.livedns.co.uk
+    2nd nameserver: ns2.livedns.co.uk
+    3rd nameserver: ns3.livedns.co.uk"

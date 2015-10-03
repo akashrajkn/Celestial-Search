@@ -1,0 +1,5 @@
+Help with creating a feed for podcasting on iTunes?
+I am new to podcasting and I want to create a feed I can use to post a podcast on iTunes. My videos are on youtube. I used FeedBurner and tried to post my feed on iTunes but it said the feed has no episodes. I have four episodes currently on youtube. Can you tell me if something is wrong or if I need to use a different site??? Please help as much as possible!
+
+Try www.podbean.com 
+This website works 100%

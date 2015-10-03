@@ -1,0 +1,8 @@
+hidden video inside another video?
+I was downloading a video and decided to preview the incomplete file.  The preview showed portions of the file I intended to download as well as portions of other video files.  When the download was complete, the original video (and only the original video) played from the file.  Where did the other videos go? Are they hidden within the file? Is there a way to extract them and see what they are?
+
+You can never trust pre-viewing an incomplete file while it is downloading.  There is no video inside a video.  You sure you weren't seeing other portions of the video that you were downloading.
+
+Bottom line...wait till the file downloads complete.
+
+PS...Am I assuming that you are downloading a torrent and want to check the file to make sure you aren't being tricked with a bogus file with a wrong name?

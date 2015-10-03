@@ -1,0 +1,5 @@
+Does anyone know of a free web hosting service that lets me use python?
+I don't need Django (it might be nice, but it's not necessary) but I don't want the provider to put ads on my page. I'd like to be able to use Google Adsense and have my python scripts maintain the site (using mysql) but apart from that, I don't have any other requirements. Thanks for the help!
+EDIT:  Also, I own several top level domains that I would like to use. I've tried HelioHost, but it's terrible in terms of customer service and I don't plan on going back to them again. Thanks!
+
+i dont know that many site but you should look around like yahoo search i know is pain to search sometimes

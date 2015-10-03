@@ -1,0 +1,17 @@
+Hi friends..How can I browse  internet on my pc using my  iphone3G?pls give me a  detailed answer.?
+I had asked this question in Wiki Answers.com but I havn't got a good answer yet.I couldn't understand any one of them.Can you provide a step by step answer?I'm living in Kerala,India.I have no internet connection,wifi facility and not advanced in computer knowledge.
+
+Its a process called tethering.you can connect your iphone to the internet by connecting you iphone to your laptop or desktop and set up a new dial up connection.it will be fast wherever you are.The dial up # is *99#.The password and username is ISP@CINGULARGPRS.COM CINGULAR1 have fun surfing the internet!!!
+Iam not sure that the question is correct .
+Iam confused .
+
+But the right answer to your question is : 
+
+
+Well , To browse internet on your pc with your iphone 3 G . first you iphone should have GPRS enabled and you should be able to connect to the internet on your mobile phone .
+
+If you are able to browse internet on your mobile phone . Then connect your iphone to your pc via usb cable ,(before that install the iphone software on your pc ) and connect internet on your iphone . you can browse internet on your pc as well .
+But its very very slow ... its around 10 or 12 kbps 
+
+All the best 
+But better to connect your pc with wired or wireless network

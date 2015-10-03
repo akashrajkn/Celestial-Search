@@ -1,0 +1,16 @@
+How do I unhide the Menu etc. bars in Firefox after I've hidden them all?
+I have the latest version of Firefox and I hid all of the bars above tabs thinking I could reverse it easily, but now I realize I can't.
+
+I right-clicked everywhere on the tabs bar and the window including the bottom, but the right-click menu only has options about tabs...
+
+I want to avoid having to reinstall Firefox, so do any of you know what I should do?
+Thanks, that was quick! +1
+
+Press ALT + V ( both keys together) 
+
+When the menu bar comes up , select View >.Toolbars>. and double click on Menu Bar until the tick appears next to it
+
+Or are you in Full Screen Mode ?..If so press F11 to return to normal
+^ Thank you, that was a life saver. =)
+
+(I did the same thing lol).

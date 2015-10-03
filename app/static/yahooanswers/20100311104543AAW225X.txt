@@ -1,0 +1,25 @@
+Windows IE provided by Yahoo (not responding)?
+So tired of this message when i try to play a game.What causes this? Ty.
+
+First, are you running Internet Explorer 8?
+
+If you are and find that your IE is not responding frequently in Windows, here are some trouble-shooting steps you may try:
+
+1. Run your anti-virus and an anti-spyware, to check for malware infections. Microsoft Security Essentials is a good freeware AV from Microsoft.  
+2. Clear Cache. Or else run your Junk Cleaner or CCleaner. In IE 7 or 8, click Tools > Internet options > Security > Reset all Zones to Default level 
+3. If still you find your IE giving problems, close it and run IE (No Add-ons). This opens up the browser without loading any add-ons, toolbars or plug-ins.
+ 4. Run sfc /scannow and at the end reboot if asked for. This will replace corrupted system files if any.  
+If you find it running OK, then the problem is most probably caused by an addon. In that case you have two options :
+- Use the manage Add-ons tool, and disable each one after the other to find out which one is causing the problem.
+- In Internet Options, go to Advanced Tab and click on Reset tab. Restart IE. This step deletes all temp files, disables any add-ons, plug-ins, toolbars and also resets all changed settings to default. Although this is a quick-fix, you will have to re-install the add-ons.
+
+If you feel the need to Repair Internet Explorer, then this article will guide you http://windows.microsoft.com/en-US/windows-vista/Tips-for-solving-problems-with-Internet-Explorer
+
+I hope this helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team
+go to this page and follow the guide as you will probably need to uninstall it then re-install 
+http://support.microsoft.com/kb/957700
+after you uninstall then go here http://www.microsoft.com/uk/ie

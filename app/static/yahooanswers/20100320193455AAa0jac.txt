@@ -1,0 +1,9 @@
+Whats going on here!!!!!?
+Me n my friend were on chatroulette.com and everything was working fine, then it froze so we hit the reload button and it brang us back to the main page but the webcams on the left wouldnt show up and the "new game" button wouldnt load. Did somebody report us? whats going on?
+
+Possibly a website error. If you want to know if the problem is with the site, or is it an error with your connection or if they blocked you, try this website:
+bypassthat.com
+If the page loads normally after entering the address, then the website is working and the problem can be in your connections or your IP adress has been blocked.
+
+You can also try this website in order to know if the page is down just for you:
+downorjustforme.com

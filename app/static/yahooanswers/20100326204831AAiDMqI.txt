@@ -1,0 +1,9 @@
+why does my web browser keep scrolling to the bottom of the page and wont let me up?
+for some reason my web browser automatically jumps to the bottom of the page and when i try to go to the top, it just jumps back down and its very difficult to go back up would someone please help me.
+
+and also how can i get my keys on my keyboard unsticky?
+oops sorry its a laptop, and its done this before when i got it new, and resolved itself,
+
+My first thought is that you may be having javascript issues, but try unplugging the keyboard and using only the mouse.
+Reinstall browser, update driver for mouse, clean the keyboard up,, using with power off of it, cotton swabs , slightly damp with alcohol  ~
+Something wrong with the End Key on your keyboard ?

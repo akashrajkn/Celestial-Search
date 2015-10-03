@@ -1,0 +1,18 @@
+My internet hasn't been working even though there's wifi...?
+Every time I try to connect to the internet using Internet Explorer, it pops up and then doesn't load past saying "Connecting" and then eventually it closes by itself. Also, when I attempt to log onto yahoo messenger or itunes music store it doesn't work, so it's not just the Internet Explorer that's the problem. And it's not that I don't have wifi, all the green bars are there. I have a laptop and it's a few years old, but still. I don't understand how it just stopped working, maybe a virus? Let me know :) Is it fixable?
+
+well thats odd. if you have no internet, I can understand itunes would not work. and yahoo as well.  you may have a bad internet connection, even if it is full bars.  so here is what I would do.   
+
+CLICK START, [windows button on the far bottom left]  
+than click CONTROL PANEL
+than find the  NETWORK AND INTERNET subject
+dont click it, but look at the bottom links. and click
+VIEW NETWORK STATUS AND TASKS
+than click view status. 
+
+this is all I can help you with. but if you have further questions, email me.   PS. this was for vista, and windows 7
+
+----------------------------------------------
+Max - age 14
+it's probably because on your laptop there is a fixed ip address. go to Network setting choose your WiFi adapter and turn static ip to dynamic ip. If you have got dynamioc ip in you laptop, then go to WiFi Router Web interface and check if DHCP server is Enabler (this service distribute ip addresse for computer in your home network), if it's not enable it. If everithiong is ok with IPs. then try to download Kaspersky Removal Tool or Norton Removal Tool from inet and check your laptop for troyans and viruses or Go to DrWeb.com and check it throgh site for viruses. May be it will help you.
+go to WiFi Router Web interface and check if DHCP server is Enabler (this service distribute ip addresse for computer in your home network), if it's not enable it. If everithiong is ok with IPs. then try to download Kaspersky Removal Tool or Norton Removal Tool from inet and check your laptop for troyans and viruses or Go to DrWeb.com and check it throgh site for viruses..............

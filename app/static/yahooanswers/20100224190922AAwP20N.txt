@@ -1,0 +1,38 @@
+I'm a longstanding Firefox user. How do I stop IE interfering?
+While I cannot remove IE form my computer, how can I 'tame' it as it seems to compete with Firefox which I prefer as my browser.
+
+Any suggestions?
+
+Thanks
+Gemhak
+
+You can set Firefox as your default program to open all internet/web page related files and such.
+
+To do this go to Start/Default Programs
+
+Click the link that says Set your Default Programs
+
+Then select Firefox, and click where it says Set this program as default
+
+NOTE: That's how to do it on Windows 7. To find that menu on XP or Vista you might have to go into the Control Panel and look around a bit.
+Not sure what you mean by "interfering," but if you mean IE gets invoked when you double-click a link in, say, an email, you should be able to fix that by setting FF as your default browser.  Here's how:
+
+In XP:
+
+1. Click the Start->Control Panel menu item.
+2. Click Add or Remove Programs (trust me!).
+3. In the left pane, click the Set Program Access and Defaults item.
+4. Click the listbox arrow on the Custom row.
+5. Under Web Browser, select Mozilla Firefox.
+6. Click OK.
+
+In Vista:
+
+1. Click the Start->Default Programs menu item.
+2. Click the "Set your default programs link".
+3. Click Firefox.
+4. Click "Set this program as default".
+5. Click OK.
+
+Hope that helps.
+Check the link...

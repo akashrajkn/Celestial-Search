@@ -1,0 +1,5 @@
+I seem to have a problem with the website Lockerz?
+I wanna watch the videos but when I click on it, its black. Nothing shows up. I watched a video like 2 days ago and it was working fine but today I dont know what happened.
+
+The site uses Macromedia to stream video. Port 1935. Make sure your firewall allows that port open.
+I watched the intro video with no lag or problems. Maybe the site's server was just busy when you tried it.

@@ -1,0 +1,4 @@
+IN opera browser, i tried to change colour to Blue but it is still grey bars?
+
+
+sounds like you have windows themes turned off?

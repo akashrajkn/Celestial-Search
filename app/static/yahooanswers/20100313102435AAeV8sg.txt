@@ -1,0 +1,32 @@
+Wireless Internet Question?
+Okay so I hooked up my wireless router thing(LinkSys Wireless-G) to my internet modem (DSL), I have a wireless USB flash drive along with the router, so I plug the USB into another computer that has no internet connection (no ethernet no phone line), and look for my connection. Once I find it, I have excellent signal strength, but once I connect even though it's still at excellent signal strength, it tells me Limited or No Connectivity. So I try to reset my router, modem, the program, and my computers. None of which helped.. I've tried to select the repair option, but it tells me it can't repair something but still doesn't work. 
+How could I fix the "Limited or No Connectivity" status to get it working to "Excellent" signal strength? Thanks In Advance.
+Same thing on laptops.
+
+well, try connecting to the wireless internet connection without the usb. if you have a somewhat newer computer, you should be able to go to internet options on your computer and connect to your wireless internet connection from your router without the need for a usb, maybe eliminating the signal strength error. if this doesn't help let me know.
+To me it sounds like your router isn't getting an internet signal from your modem.
+The modem connects to the internet, and the router shares that signal for your home computers.
+
+Reset the modem first by unpluging it and/or pressing the reset button.
+Next the router, unplug it and/or press reset.
+
+Next, check the settings on the router.
+Do this by "getting into" the router's interface.
+The router has a web site inside it which you can use to check the internet status.
+
+First you need to know the routers IP address.
+Usually its 192.168.1.1 or 192.168.100.1
+
+Open the Command Prompt (click start, accessories, command prompt or click start run and type "cmd")
+A black window will open
+Type ipconfig
+You will see some information.
+where it says Default Gateway is the IP address of the router.
+
+
+Open internet explorer and type the IP address in the bar at the top.
+This should open up the routers interface.
+From here you should be able to see if the router can connect to the internet.
+If it can't call the DSL company.
+
+From there you should be able to tell whats wrong.

@@ -1,0 +1,5 @@
+My internet page font and format is ridiculouly huge how do i get it back to regular sized?
+
+
+Hold Ctrl and scroll out.
+Look in the lower right hand corner of the window.  There is a small black downward-pointing triangle next to a number and percent sign.  If the percent is something other than 100% (say, 200% or 400%), that's your problem.  Click on the triangle, choose 100%, and it should go back to normal.

@@ -1,0 +1,8 @@
+New to twitter...Question about replying to someone else?
+I sent an @reply on twitter, but it's not showing up on the person's stream.  Why isn't it showing up? Does this mean that the reply wasn't sent?
+
+Sending an @reply doesn't send the tweet directly to that person, it just directs the tweet towards them (useful if you follow a lot of people, and you need to keep track of a conversation in the timeline.)
+
+They can only see you if they are following you.  If they're following you, they should have gotten it.  Did you click "Reply" at the bottom of their tweet, or just type in @twittername.  Actually clicking the Reply button is what makes a direct tweet in response to the other person's tweet.  Just typing in @twittername just inserts a link to their page into the tweet.
+
+Just a little insight about twitter, if you know the person is following you, then I can't see a reason, other than a glitch, that she didn't get the reply, in which case just retweet, no harm done.

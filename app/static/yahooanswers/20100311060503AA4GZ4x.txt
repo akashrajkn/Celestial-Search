@@ -1,0 +1,4 @@
+How do you post a picture post on Wordpress?
+
+
+Press "Add new Post" then look above the buttons list, you will see a small button that when you rollover you will see: "Add an Image", then click Select file and browse your computer for the image you want.

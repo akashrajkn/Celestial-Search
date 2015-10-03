@@ -1,0 +1,20 @@
+Go back to Firefox 3.5?
+I just got Firefox 3.5 but I cannot use my awesome Mario theme. I realize that 3.5 isn't much different from 3.6. so how can I go back?
+
+use google Chrome
+lightweight and faster browser.
+sorry i can't help 
+D:
+3.6 fixes some memory leaks found in 3.5
+Try uninstalling 3.6. It may revert back to 3.5 after the uninstall.
+
+Here is a link to 3.5.8 as well as 3.7 alpha:
+http://www.softpedia.com/progDownload/Mozilla-Firefox-Final-Download-5787.html
+
+OR take your pick (below); No need to go to oldapps.com, Mozilla has every version they ever released on their FTP site:
+Here you go. Have fun.
+That's easy. Uninstall Firefox and download any older version from here:
+
+http://www.oldapps.com/firefox.php
+You could try uninstalling the browser via Control Panel > Add or Remove Programs (or the like), then attempt to reinstall the version you want.
+get rid of that memory hog . if you just can not then go to http://www.oldversion.com/ they have lots of old versions of stuff. I used to use their firefox 3,0

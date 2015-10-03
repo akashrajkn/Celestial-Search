@@ -1,0 +1,6 @@
+How to fix this Internet Explorer issue?
+Okay, so I downloaded Safari, when I used Internet Explorer. I didn't like Safari so I deleted it. When I reopened Internet Explorer, I had no add ons.There is still an annoying notice every time I open the internet telling me this. I just went on Youtube and I need something I had already installed a long time ago...well, I tried to but something is blocking the pop up to install it..so I can't download it. I also had tons of add ons that I really need...what to do :(
+
+Firefox is loads better.  Free to download as well.
+hold down the ctrl key when clicking on the download, this will unblock the popup
+If you can restore back to a day before you installed safari, it might solve your problem. It depends on how long ago you installed safari.

@@ -1,0 +1,16 @@
+How do is stop Firefox from closing all tabs at the same time?
+Im new to Firefox. I finialy changed over from IE witch was a BIG PLUS!!  How can I stop Firefox from closing all tabs with out my permission? In other words I have 3 tabs open at the same time and sometimes i make a mistake and click the red X at the far upper right hand corner and it automaticly closes ALL 3 tabs at the same time. Of course i loose all my stuff. How can i stop this from happening? Seroius answers only please!!
+
+Thanks
+
+Open FF, Menu > Tools > Options.
+Then, click on the TABS tab.
+Check the appropriate checkbox.
+There happens to be a Firefox option for this:
+
+1. Click the Tools->Options menu item.
+2. Click the Tabs page.
+3. Check the "Warn me when closing multiple tabs" checkbox.
+4. Click OK.
+
+Hope that helps.

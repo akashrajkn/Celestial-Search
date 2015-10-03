@@ -1,0 +1,33 @@
+Does where i live in Sydney have an effect on my download speed?
+because me friend and i are both using the same ISP (TPG), and he can get speed much faster than me on speedtest.net, so i was wondering if it had anything to do with where i live?
+
+It depends on your neighbors and the people who use the same service beside your house..
+
+if they use fast internet some of the bandwidth also Transfers to you
+Clean your Registry can make your computer faster
+ 
+Is your computer slower than ever? Does it feel like your computer just can't open up programs? In this how to, it will teach you ways to make your computer faster.
+
+The one way you can really boost your PC performance is by buying more ram to install in your computer. If you can go to a store and ask them to install more ram, that will help the computer run faster than before. 
+Step2
+Scan your computer for viruses and spyware. Make sure and get rid of any nasty viruses or spyware that are located in your computer. 
+
+
+Step3
+Get rid of unnecessary start up programs. The start up programs will load on your PC automatically and slow down your system. Click run and type in msconfig. Click on startup items and uncheck any useless start up programs. 
+Or use the tool to manage your startup:
+
+
+
+Step4
+Run disk de-fragment and disk clean up. Both programs will be found in your accessory folder and both clean up the system. 
+
+Step5
+Clean your Registry
+Clean registry make pc faster.
+http://clean-computer-registry.com
+If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily,.
+
+Recommended website:
+ http://slowpc-checking.com/Slow_PC

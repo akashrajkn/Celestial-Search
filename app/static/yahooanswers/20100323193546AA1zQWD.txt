@@ -1,0 +1,40 @@
+Punishment for copyright infringement?
+1. What they percentage of people who get caught pirating? 5%, 10%?
+2. What's the punishment for getting caught pirating, but not uploading games and pdf's
+3. How would you get caught, do they know you dl'd it, or do you have to upload/publicly say you pirated?
+
+I'm not planning to pirate, I'm just wondering
+
+Considering the numbers, and news flashes, less than 1% of the pirating community is caught, and a handful of those people are on the news.
+
+Estimations.
+
+Anything copyrighted can be sued over.
+
+I would be caught by sharing on a public network, such as a college campus. Easy to detect.
+At the moment 99% of piracy goes unpunished. Here in the UK the government are planning on introducing new laws that mean downloading illegal unlicensed content from the internet can result in your internet connection being taken away from you.
+I would estimate on the % caught as 0.001% as copyright infringement is as simple as scanning a copy of your high school photo. or making a personal backup of a program that says not to.
+
+Now then there are levels of copyright infringement
+1) is it for your own personal use
+2) do you trade with friends
+3) do you sell or make any kind of compensation with it.
+
+How do you get caught?
+
+1st off if your doing it on the internet you have a IP address and a connection time, even thought your dial up, dsl or cable modem may give you different IP addresses then TIME of use can all be traced back to your original connection. So if your using your connection or a friends or work or school they will be able to narrow it down to YOU.
+
+2ndly every computer has a MAC address that is machine readable by the internet and by software installed in your computer, kinda like a fingerprint... This information can spread out to the net from software installed on your computer. to personally identify you.
+
+Internet identifies people and mac identifies computers... even some CD/DVD duplicating programs are now tagging your IP address and time into copies of DVD's made. 
+So on the net there are allot of ways to catch someone even if you use a virgin laptop paid for in cash and never put online in any location other than free WiFi locations sooner or later youll get popped if your doing it for commercial gain.
+
+so best bet is dont do it...
+
+A good WiFi sniffer program that is free is inSSIDer
+http://www.metageek.net/products/inssider
+And a MAC address spoofer
+http://www.klcconsulting.net/smac/
+
+Please do not forget to vote for the best answer, I hope Ive helped
+Life in prison!

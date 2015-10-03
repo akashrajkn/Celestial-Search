@@ -1,0 +1,40 @@
+internet explorer not responding problem?
+Hi
+in the security section it is telling me that the problem is with the add ons ''but they cannot tell which one/ones are causing the problem' any ideas how to sort it out? also what exactly are adds for? and are they necessary?
+
+internet explorer in general all around sucks, I suggest eaither using Google Chrome as your browser download it or Firefox download that also u can google both thoes names they are both FREE Browsers Chrome is faster and does not freeze!!
+Solution=Mozilla Firefox
+Are you using a wireless router?
+If so,just unplug the power wire for ten second at least.Go to your computer,right click on the  icon that shows that you are connected to the internet.double click on diagnose and repair.Wait for the answer.
+Let me know if it works.
+Good luck
+Add-on's are programs for your browser. See links below for more info.
+
+Try disabling each one until the problem stops to find out which one is causing it.
+
+Using the Manage Add-ons feature
+To change the status of an add-on or to update an add-on, follow these steps: 
+Start Internet Explorer. 
+On the Tools menu, click Manage Add-ons. 
+Click the name of the add-on. 
+Use one of the following methods: 
+Click Update ActiveX to replace the add-on with the current version. This option is not available for all add-ons. 
+To enable an add-on, click Enable, and then click OK. 
+To disable an add-on, click Disable, and then click OK. 
+You may have to restart Internet Explorer for the changes to take effect after you enable or disable an add-on.
+Go through these Cleaning steps:
+1..First, try to clean up your caches, Internet files and delete cookies
+by doing this:
+2.Click Start >> Control Panel 
+3. Double click Network and Internet Connections 
+4. Double click Internet Options.....read more here:http://forums.techarena.in/windows-xp-support/948240.htm
+You could install the new Windows Internet Explorer 8 its free and is easy to download and doesn't take long. This will take the place of your current browser and all the faults. 
+
+You can always re-install the add-ons you want, with no trouble, and be back up and running again. 
+
+Probably what the browser said about it being an add-on at fault could mean a virus attack.
+Just get the new current browser and everything will be fine. 
+
+givemestrength 
+
+PS  Add-ons are only extra features of software for doing special enhancements, of giving you more options.

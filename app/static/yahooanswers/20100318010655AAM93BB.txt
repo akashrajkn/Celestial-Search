@@ -1,0 +1,15 @@
+How can I stop flashing adverts - they aggravate my tendency to get migraines?
+Sending emails can be a pain - literally - when half the screen it taken up by an advert for something I'll never need - in glorious psychedelic technicolour with flashing images. Has anyone managed to switch these off?
+
+If you have the firefox browser you can block flash ads by using the flash block pluggin.
+
+Firefox web browser download free here
+http://www.mozilla.com/en-US/?from=sfx&uid=303087&t=564
+
+Flash block pluggin here
+https://addons.mozilla.org/en-US/firefox/addon/433
+
+How it looks when installed.
+http://i113.photobucket.com/albums/n238/resev40/no-ads.png
+
+The good thing about this pluggin is that if you click the F where the ad should be you can see what it was. ( some sites use flash so its handy to be able to turn on or off.

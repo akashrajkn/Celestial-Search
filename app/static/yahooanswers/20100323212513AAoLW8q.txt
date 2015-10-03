@@ -1,0 +1,17 @@
+How can I get internet explorer to work again?
+I have vista, and I wanted to try something new so I downloaded Opera internet browser, however, once I did that, it somehow stopped Internet explorer from working. I have re-downloaded it and it still wont work. It just says "Internet explorer cannot display the webpage" and this is for every webpage, it is not something wrong with my connection, it works fine with opera, just not IE
+I have already tried making IE my default again, and that did not work, and also, I am afraid that if I delete opera as my browser, then I will have no browser at all lol
+
+No offense but IE sucks anyway, Opera is a good browser, but you should try out Firefox and Google Chrome just to see what works best for you. If you decide that IE is still best, perhaps all you have to do is set it as your default browser again or un-install Opera. I'm not entirely sure why that is happening though.
+This may work for you
+
+Methods to follow for Internet Explorer 7 or Internet Explorer 8
+Method 1: Reset the Internet Explorer settings
+If you have Internet Explorer 7 or Internet Explorer 8 installed, you can repair damaged files or missing registration information in Internet Explorer 7 or in Internet Explorer 8. To do this, follow these steps:
+Start Internet Explorer.
+On the Tools menu, click Internet Options.
+On the Advanced tab, click Reset.
+In the Reset Internet Explorer Settings dialog box, click Reset to confirm
+Open your IE. Click on Tools > Internet Options > Connections > LAN Settings. Make sure that there is nothing on the Proxy Server.
+
+See if it works now.

@@ -1,0 +1,13 @@
+How do you block porn sites?
+
+
+You could use something like  Netnanny along with microsoft steadystate to prevent people from turning it off, 
+
+if you have a server you can do it that way
+
+if you have a good enough router you can do it through the admin interface there.
+
+There are a few ways .. none perfect but all better than nothing.
+
+Hope that helps.
+i hope your routers a linksys because im telling you how to do for a linksys go to routers setup page which should be 192.168.1.1 user name should be admin ur password should be admin once your on go to access restrictions then were it says website blocking by key words put porn, sex and any think else you want blocked

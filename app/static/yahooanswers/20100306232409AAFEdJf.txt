@@ -1,0 +1,118 @@
+How do I block "Requested" pop ups in Firefox? The ones that pop up when you click a link?
+Any positive help would be greatly appreciated..Thanks!
+:)
+
+For Firefox browser:-
+1. Click on Tools
+2. Click the Options
+3. Click on Content
+4. Tick mark the "Block pop-up windows"
+5. Click the "OK" Button.
+6. Now Relax :)
+Use a pop up blocker to block it.
+http://popsup-blocker.com
+or 
+ you can block it manually under the steps.
+
+Step1
+Press the Esc key one time. If this does not help, press Ctrl, Alt, and
+Delete keys all at the same time. If a programs screen appears, select end task and left click your mouse one time. If another screen appears select end task and left click your mouse one more time. Hopefully your mission is accomplished with this five second procedure. 
+Step2
+If step one worked for you, you'll probably have to do it again each time you connect to the Internet, but only once per visit, until you go into your computer and delete this file that keeps popping up from your computer. 
+Step3
+If the above procedure is working for you, great. However, they may return again as invisible pop ups. When you're computer appears to be stalling for longer than normal, try the above procedure again, to see if the same program screen reappears. (Invisible pop ups are done away with in the same manner). 
+Step4
+If the procedure mentioned above did not help, disconnect from the Internet. Press Start, then control panel, then Internet preferences.
+Delete cookies and search history. 
+Step5
+If the above attempts were not enough, delete the user name and use
+another one. 
+Step6
+If the above attempts were not enough yet, 
+your computer is infected spyware.
+Scan your Spyware/Adaware
+http://popsup-blocker.com
+Step 7
+If IE pop up,you can manage your IE by using Cleaner tool.
+Remmend:
+http://popsup-blocker.com/IEHospital/
+Using Pop-up Blocker
+When you install SP2, Pop-up Blocker is turned on in Internet Explorer and set to the medium setting, which means it will block most automatic pop-ups. The default settings for 
+
+the pop-up blocker allow you to see pop-ups that are opened when you click a link or button on a Web site. Pop-up Blocker will also play a sound and show the Information Bar 
+
+when a pop-up is blocked. You can adjust these settings so that Pop-up Blocker works the way you want it to. 
+To change Pop-up Blocker settings
+1.Open Internet Explorer. 
+2.On the Tools menu, point to Pop-up Blocker, and then click Pop-up Blocker Settings. 
+
+Internet Explorer Tools menu
+If you want to see pop-up windows from a specific Web site, type the address (or URL) of the site in the Address of Web site to allow box, and then click Add. 
+http://slowpc-checking.com/Pop_UP
+Pop-up Blocker Settings window
+Tip To temporarily allow a site to display pop-ups, click the Information Bar when it notifies you that a pop-up has been blocked. Then click Temporarily Allow Pop-ups. 
+To block pop-ups even if they are launched when you click a link or button on a Web site
+1.Open Internet Explorer. 
+2.On the Tools menu, point to Pop-up Blocker, and then click Pop-up Blocker Settings. 
+3.Select the High setting in the box near the bottom of the dialog box. 
+Note If you want to see pop-ups that are blocked when you have this setting turned on, hold down the CTRL key while the window opens.
+Using Pop-up Blocker
+When you install SP2, Pop-up Blocker is turned on in Internet Explorer and set to the medium setting, which means it will block most automatic pop-ups. The default settings for 
+
+the pop-up blocker allow you to see pop-ups that are opened when you click a link or button on a Web site. Pop-up Blocker will also play a sound and show the Information Bar 
+
+when a pop-up is blocked. You can adjust these settings so that Pop-up Blocker works the way you want it to. 
+To change Pop-up Blocker settings
+1.Open Internet Explorer. 
+2.On the Tools menu, point to Pop-up Blocker, and then click Pop-up Blocker Settings. 
+
+Internet Explorer Tools menu
+If you want to see pop-up windows from a specific Web site, type the address (or URL) of the site in the Address of Web site to allow box, and then click Add. 
+http://slowpc-checking.com/Pop_UP
+Pop-up Blocker Settings window
+Tip To temporarily allow a site to display pop-ups, click the Information Bar when it notifies you that a pop-up has been blocked. Then click Temporarily Allow Pop-ups. 
+To block pop-ups even if they are launched when you click a link or button on a Web site
+1.Open Internet Explorer. 
+2.On the Tools menu, point to Pop-up Blocker, and then click Pop-up Blocker Settings. 
+3.Select the High setting in the box near the bottom of the dialog box. 
+Note If you want to see pop-ups that are blocked when you have this setting turned on, hold down the CTRL key while the window opens.
+Using Pop-up Blocker
+When you install SP2, Pop-up Blocker is turned on in Internet Explorer and set to the medium setting, which means it will block most automatic pop-ups. The default settings for 
+
+the pop-up blocker allow you to see pop-ups that are opened when you click a link or button on a Web site. Pop-up Blocker will also play a sound and show the Information Bar 
+
+when a pop-up is blocked. You can adjust these settings so that Pop-up Blocker works the way you want it to. 
+To change Pop-up Blocker settings
+1.Open Internet Explorer. 
+2.On the Tools menu, point to Pop-up Blocker, and then click Pop-up Blocker Settings. 
+
+Internet Explorer Tools menu
+If you want to see pop-up windows from a specific Web site, type the address (or URL) of the site in the Address of Web site to allow box, and then click Add. 
+http://registry.tpdownload.com/Pop_UP
+Pop-up Blocker Settings window
+Tip To temporarily allow a site to display pop-ups, click the Information Bar when it notifies you that a pop-up has been blocked. Then click Temporarily Allow Pop-ups. 
+To block pop-ups even if they are launched when you click a link or button on a Web site
+1.Open Internet Explorer. 
+2.On the Tools menu, point to Pop-up Blocker, and then click Pop-up Blocker Settings. 
+3.Select the High setting in the box near the bottom of the dialog box. 
+Note If you want to see pop-ups that are blocked when you have this setting turned on, hold down the CTRL key while the window opens.
+Using Pop-up Blocker
+When you install SP2, Pop-up Blocker is turned on in Internet Explorer and set to the medium setting, which means it will block most automatic pop-ups. The default settings for 
+
+the pop-up blocker allow you to see pop-ups that are opened when you click a link or button on a Web site. Pop-up Blocker will also play a sound and show the Information Bar 
+
+when a pop-up is blocked. You can adjust these settings so that Pop-up Blocker works the way you want it to. 
+To change Pop-up Blocker settings
+1.Open Internet Explorer. 
+2.On the Tools menu, point to Pop-up Blocker, and then click Pop-up Blocker Settings. 
+
+Internet Explorer Tools menu
+If you want to see pop-up windows from a specific Web site, type the address (or URL) of the site in the Address of Web site to allow box, and then click Add. 
+http://registry.tpdownload.com/Pop_UP
+Pop-up Blocker Settings window
+Tip To temporarily allow a site to display pop-ups, click the Information Bar when it notifies you that a pop-up has been blocked. Then click Temporarily Allow Pop-ups. 
+To block pop-ups even if they are launched when you click a link or button on a Web site
+1.Open Internet Explorer. 
+2.On the Tools menu, point to Pop-up Blocker, and then click Pop-up Blocker Settings. 
+3.Select the High setting in the box near the bottom of the dialog box. 
+Note If you want to see pop-ups that are blocked when you have this setting turned on, hold down the CTRL key while the window opens.

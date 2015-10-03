@@ -1,0 +1,14 @@
+Is it safe to order from the Hot Topic website?
+Is Hot Topic a very secure website? There's a couple t-shirts on their website I wanted to order, but I'm worried about the security of the website. 
+Has anyone had good/bad experiences with it?
+
+I've never ordered from Hot Topic's website (bought tons of stuff locally, though). After checking around their website, they have all of the proper precautions in place.
+
+They use a secured (Https:/) connection for the checkout process. Any information you send out is encrypted before it is sent to Hot Topic. If anyone were monitoring your internet connection, they would have no real way of decoding this.
+
+ The website is VeriSign secured. VeriSign is a service that a website pays for. In return, VeriSign does the research to make sure a website is who they say they are, and that they take the proper steps to protect your information. If you get scammed by a VeriSign Secured website, they will cover the loss.
+
+To view the certificate for yourself, just add any random item to your shopping basket. Click checkout.
+In the checkout window, there will be a logo that says 'VeriSign Secured'. Click on that and it will pull up the certificate.
+
+So, (very) long story short, I would go ahead and order from Hot Topic's website with confidence.

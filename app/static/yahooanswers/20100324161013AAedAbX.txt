@@ -1,0 +1,4 @@
+Accidentally deleted URL bar from Safari?
+I right clicked on the bar and accidentally unchecked one of the options and it deleted it. Please help me get it back.
+
+Right click on the top of the window, and a menu should pop up. Go into toolbars and  bring it back.

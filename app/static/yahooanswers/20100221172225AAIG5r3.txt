@@ -1,0 +1,17 @@
+Every time I try to print a card on Yahoo American greetings while I'm using Firefox, explorer pops but nocard?
+I don't understand why explorer takes over and then doesn't show the card to personalize and print.
+
+you have explorer still set as the default to open .htm and .html files ( not default browser) so every time a .htm file or link pops up it opens explorer instead of firefox, look in folder options to reset the default or right click on an htm file and click open with then choose firefox and make it the default, mozilla should make this automatic but they are not actually very good at what they do
+Do you mean a popup window will open when you select an ecard, but nothing shows in the popup?
+
+If so, it may be due to lack of  Adobe Flash Player extension in your firefox. You can download the latest version of this product from :
+
+ http://get.adobe.com/shockwave/ 
+
+and 
+
+http://www.adobe.com/products/flashplayer/
+
+Download and install them. Then restart your computer and reopen your firefox.
+
+Good Luck

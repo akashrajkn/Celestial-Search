@@ -1,0 +1,8 @@
+how to change home page in opera 10?
+
+
+go to TOOLS>Preference or ctrl+F12
+there will a box named home page. wright there what u want.
+will change ur hame page.
+(Indian)
+To change the default homepage in your Opera, first click on the Tools tab at the top of the Opera browser. Then navigate to and click on the 'Preferences' link from.....read more at: http://forums.techarena.in/technology-internet/1171851.htm

@@ -1,0 +1,14 @@
+how to find similar websites?
+What is the best way to find similar websites?
+
+1. go to Google Advanced Search:
+    http://www.google.com/advanced_search
+
+2. click on "Date, usage rights, numeric range, and more"
+
+3. use "Find pages similar to the page"
+
+If you have Firefox there is a nice add-on called SimilarWeb:
+https://addons.mozilla.org/en-US/firefox/addon/10548
+
+:)

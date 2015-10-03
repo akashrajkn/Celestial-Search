@@ -1,0 +1,12 @@
+how do you make an informative/forum website for free with word?
+Or from another website.  BUT IT MUST BE FREE!!!!!
+
+Your ISP (Internet Service Provider) might offer free web space to its customers.
+Best place to look for building free websites is www.TheSiteWizard.com, there are links and tutorials for free WYSIWYG (what you see is what you get) HTML editors that will make building the website a lot easier (no need to learn any HTML). The sister site www.TheFreeCountry.com has free downloadable code with full, easy-to-follow instructions that you can put on your site to set up blogs, forums, contact forms etc.
+You can get a hosted one for free at a wide range of sites.
+
+This way, no coding knowledge is required and it is very easy to manage.
+
+I would recommend: http://www.forumotion.com
+If you want to make your site in word, you need a free host that will allow you to upload your own html pages, eg http://www.freewebhosting.comxa.com/
+If you are after a forum, you are probably best to use one of the free scripts they allow you to install, check out the options at the bottom of the cpanel page.

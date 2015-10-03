@@ -1,0 +1,8 @@
+How do i post a link ???????/?
+I've seen links where you click on a link and it takes you to another site ... How can i do that ? i know it seems a bit juvenile but i just don't know :) Thanks in advance for answers
+
+copy and paste or something like that
+If you're writing HTML, use an anchor: <a href="http://www.example.com/">Go to example.com</a>
+go to adress bar at top and highlight it then click copy and go to wherever u wanna put link then click apste it well be clickable by someone
+right click on the link then left click on copy on the drop down box then go to where you want to post the link left click and paste job done.
+You mark the link (CTRL + left mouse key), then you copy it (CTRL + C) and then you paste it (CTRL + V).

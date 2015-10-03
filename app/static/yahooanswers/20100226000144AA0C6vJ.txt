@@ -1,0 +1,7 @@
+please help with ebay timezones? 10 POINTS!!?
+the thing im going to bid on has exactly 1 day left(24 hours) left but it's in PST timezone and my timezone is central. so what does this mean exactly??
+i was outbid by proxy yesterday and when the time turned to 1 hour, it started counting down on its own(i didnt have to keep refreshing the page, the numbers just automatically counted down on ebay) so i dont know if the person was in a different timezone than me but if they were, would we be seeing the same countdown? 
+please help me!!! this is all sooo confusing!
+i did a pst to central conversion online. so when the auction ends, pst time will be about 12:00 a.m and central time will be about 2:00 a.m....so does this mean the auction will end at the same 'time' but when the auction is ending, it will be 12:00 there and 2:00 here?
+
+change your clock time to PST time (or a clock) and then have something else in your time and calculate the ending time

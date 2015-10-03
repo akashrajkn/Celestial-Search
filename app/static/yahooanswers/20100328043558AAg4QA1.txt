@@ -1,0 +1,12 @@
+Weird some of my internet browsers wont work?
+There is nothing wrong with the internet its  the laptop I am using I don't know whats wrong the only internet broweser that wokrs is the Internet Exprol.
+
+Firefox doesnt work neither does google chrome and also my Itunes store doesnt work.
+
+I really don't know whats happened please help.
+The link works but it keeps saying error
+
+go here
+Check your proxy settings. In Internet Explorer click on the Tools menu then select Internet Options (Options). Then the Internet Options box should pop up. I forget which tab it is under, but it should have something about your proxy settings. Once there click on advanced and select the radio button next to where it says Use default proxy settings, something along those lines... Then click apply and OK to apply the changes and close out of the Internet Options box.
+
+I am so sorry I was not specific, I am on my Mac right now and cannot really remember exactly where to go, hopefully this was at least a new lead for you.

@@ -1,0 +1,10 @@
+Oversees ebay shipping and payment method?
+I live in Iceland and I'm interested in using the UK based ebay service.  Lets say for example the payment method is PayPal and the possible buyer lives in the UK.
+If ebay merely handles the item auctioning and not its shipping, how would I ship the item to the buyer with him convinced I won't just take his money and not ship anything or without him ripping me off by not paying for the item? What usually guarantees a safe transaction most of the time?
+
+If you've had any experience with of this, please answer (in layman's terms of course!), thanks.
+
+Lets say you sell someone someting on ebay and he pays you through Paypal. But you are a crook and never send the product. Then the buyer contacts Paypal and gets his money back and it gets deducted from your Paypal account.
+You would send the item using a trackable/signature method of delivery (so they sign for it when the parcel arrives) This will protect you the seller in cases of Item not received disputes but it also gives the buyer piece of mind when you give them the tracking number.
+You wont last long on ebay if you just take the money & run.
+If someone doesnt pay you would open a non paying bidder dispute & if they dont pay up in meantime, you will give them a strike, 3 strikes & ebay will cancel their account.

@@ -1,0 +1,5 @@
+How do I add more than one contact to outgoing email in Mozilla Thunderbird?
+I can't figure out how to add more than one contact to an outgoing email. I have tried using the cc button. I can add one person but no more. I have tried putting a semi colon and typing another name but autocomplete won't finish it. Help Please!
+I tried the comma and the drop down menu. The drop down didn't open a new line.  It didn't work.  Thanks for trying though.......anybody else have any ideas?
+
+just separate email addresses by a coma. Also you can go to the column below the first one, select "To" from the drop-down menu, type the address, then add another column, etc. But separating addresses by "," is your best bet.

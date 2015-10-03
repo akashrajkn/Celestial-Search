@@ -1,0 +1,8 @@
+Is there a firefox add on that temporary disables selected websites to stop me from procrastinating?
+Like i press a button and it turns into 'study mode' where it can only display certain websites that i elect to stop me from surfing other sites.
+
+LeechBlock will block sites you specify during a specified time.
+https://addons.mozilla.org/en-US/firefox/addon/4476
+i dont know of one, BUT I use this cool ADHD feature on Compiz (linux) that lets you black out all the windows but the current one you're working on, which is really helpful when you've got firefox, your email, a word processor and a bunch of other stuff open. It helps me do one thing at a time. Also, I have an app for my android phone called astrid which is a todo list app but its reaaaaally full featured. I can set it to "poke" me at any interval of time, so lets say i've gotta do hw, my phone will buzz, vibrate and gimme a message like "hey, are you doing that essay?" every 10 minutes. sick!
+
+hey but if you find what you're looking for, lemme know too! XP!

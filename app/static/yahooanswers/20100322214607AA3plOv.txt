@@ -1,0 +1,36 @@
+How do I delete my browsing history on Firefox on a mac?
+I've looked at other answers to this question and honestly, they're too vague. Maybe I'm just dumb, but I need step by step instructions, and a lot of explaining apparently. I'm terrible with computers. Some people told me to go to tools: First of all I don't know what they're talking about, and I don't have it at the top on the bar. Other told me to just go to history and clear it: tried that, and it didn't work either. Any help would be appreciated!
+
+Delete Your Web History in Firefox
+
+
+
+Step 1
+
+Re-open the Options (Windows) or Preferences (Mac) box and click on the Privacy icon.
+
+Step 2
+
+Hit the 'Clear Now' button located in the Private Data section. A new box will open with multiple options for clearing your history.
+
+Step 3
+
+Check any or all of the boxes that will delete your Web history. You can choose to delete cookies, cache and browsing history.
+
+Step 4
+
+Press the 'Clear Private Data Now' button to delete all of your Web history.
+Whatcha been lookin' at? ;)
+
+lol I was gonna answer this question quickly and simply, but then I got to the  end of the question. "On a Mac". Umm..., Idk. Haven't used one in years, personally prefer PCs. It's probably not that hard. Firefox should have it on the bar up top, but if you say it's not there... did you try looking under all the tabs at the options? It's bound to say something about history somewhere.
+Step 1
+
+Open your browser and click "Tools" at the top of the screen.
+
+Step 2
+
+From the sub-menu, choose "Clear Private Data." Put a check mark next to "Browsing History" in the pop-up menu. Select any other items that you'd like to clear, such as your download history or saved form history.
+
+Step 3
+
+Deselect any check marks next to any items that you do not wish to clear. Click "Clear."

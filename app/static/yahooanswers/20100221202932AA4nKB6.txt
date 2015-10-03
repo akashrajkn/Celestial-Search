@@ -1,0 +1,34 @@
+there is a website, shoo.com, which i want to use, how do i contact the site owner and get it from them?
+shoo.com, it's one of those weird websites, that i never know what are there for and what they do? i want that domain name! how do i get it?
+
+http://whois.domaintools.com/shoo.com
+
+
+Name:                        Admin - 
+
+Organization:                OS Portfolio Holdings, LLC
+
+Email:               (to see their email goto the link above, wont let me copy it...)
+Address:                     c/o Oversee Domain Management, LLC
+
+                             515 S. Flower Street, Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2132653191
+
+Creation Date:               06/21/98
+Expiration Date:             06/20/10
+Domain Status:               ACTIVE
+
+Domain Servers
+
+  ns1.dsredirection.com
+  
+  ns2.dsredirection.com
+  
+Registration Provided By:    NAMEKING INC.
+
+
+
+You could just wait until june 20th 2010 and hope they dont reregister it, and snatch it up?

@@ -1,0 +1,24 @@
+What Hughes Net satellite package will I need to use Skype?
+I plan on moving into a cabin completely off the grid in the middle of the woods for about a year.  I would like to stay in contact with my friends and family while there, my cell phone quits working about an hour or two before I even get there so that is no good.  I also want to have internet.  My father told me about Hughes Net Satellite services and Skype.  I have never used either one so I know nothing about either. I don't know how many Mbps I need to run Skype.  What I am wondering is which Hughes Net package I will need to use Skype and do the video chats?  If anybody can point me in the right direction I would greatly appreciate it, thanks! :-) 
+
+Here are the monthly packages:
+
+Home-   1.0 Mbps Download  128 Kbps Upload   $69.99
+Pro-   1.2 Mbps Download  200 Kbps Upload   $79.99
+Pro Plus-   1.6 Mbps Download  250 Kbps Upload   $89.99
+Elite-   2.0 Mbps Download  300 Kbps Upload   $129.99
+Elite Plus-   3.0 Mbps Download  300 Kbps Upload  $199.99
+
+Pro- 1.2 Mbps Download 200 Kbps Upload $79.99 that will do.. am using the same connection.. 
+for better experience go ahead with "Pro Plus- 1.6 Mbps Download 250 Kbps Upload $89.99 "
+
+Thanks..
+.
+Skype will work with any Internet package except Dial-Up
+If you mean $199.99 per month, it would seem Americans are grossly overcharged for their Internet packages.
+A 20MB package here in UK is just ?25 per month (US$40)
+Skype's connection usage may vary.
+
+There may be connection problems due to the delay. This may cause skype not to work or not function good using VoIP (at worst) or cause a delay when you speak and they would hear it (at best)
+
+However I can not say for certain what package will do it.

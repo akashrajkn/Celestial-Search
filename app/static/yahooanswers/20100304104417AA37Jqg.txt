@@ -1,0 +1,8 @@
+How to recover outlook express e-mails?
+I had an Inbox with 2 gb worth of space and they said I should compact it. After it, all my e-mails got rearreanged in new folders and some dissappeared entirely (especially the latest ones). How can I get them back (There was an error during the last portion of the compacting)
+
+You can try to find and recover your emails with Easy Mail Recovery software:
+
+http://www.munsoft.com/EasyMailRecovery/
+
+The program uses original algorithms that assist in the recovery of a maximum number of messages even if the mail client cannot open the message database.

@@ -1,0 +1,37 @@
+How do I convince my parents ?
+Ho do I convince them that online shopping is safe ? I wanna buy some stuff real bad and they don't wanna cuz they saw about one hacker a long time ago in a news paper !!!
+
+Only shop from safe sites.
+
+Amazon, Apple, and Newegg are safe, as are the websites of every major store you can visit.
+say that u will be very careful and if anything happens it is your fault
+You can get a paypal account, then you wont have to worry about your parents.
+Tell them how PAYPAL and google checkout are safe? And you have to know how the product worth your life and Also the shopping company
+always make sure you never go to unkown webistes, like eg: www.buystuffhereordie.com
+                                                                                           (buy stuff here or die, made up webiste)
+
+never type in more information than you need.
+Show them the SSL certificate on the website, the lock icon you will find. Tell them it means, the transaction is very secure and it's impossible for a hacker to hack it.
+Explain to them that all online transactions are heavily encrypted. It's just as secure, if not more, than in-store shopping because of that (in-store credit transactions go out over the Internet now too). If they're using a credit card for the transaction, they can contest any unwanted charges if there is a problem (which there won't be). You can use the argument that there are over $200 billion in online sales in the U.S. alone.
+
+Also, they might be willing to be shown that in-store sales are *more* likely to be stolen than online sales, but probably not. You can point out that the biggest dangers now are card skimmers on ATMs and gas pumps and that some of the biggest catches for identity thieves have been TJ Maxx's data getting stolen and someone hacking into Heartland Payment systems, which handled millions of Visa transactions.
+Convincing parents is annoying because sometimes they can be so ignorant. But here are a few facts and a bit of advice!
+
+1: When you ask make sure your parents are not in an annoyed mood
+2: Tell them the reasons WHY they should trust the site
+3: I know for a fact that online shopping is safe and that its not the site but the sellers! I have never had a problem with online shopping
+4: If you really want to be safe don't buy from a site where its been used before like Ebay. Ebay is safe but sometimes people lie and it comes in a bad state. Also don't buy electronics from Hong Kong!! They edit things and it comes out all messed up!
+5: Always trust your security. If it says the site is dodgy: LEAVE!
+
+Good luck with convincing your parents!
+Have them read through this:
+http://en.wikipedia.org/wiki/HTTPS
+
+Internet Explorer 8 Security Guide:
+http://www.microsoft.com/downloads/details.aspx?FamilyID=44405777-51B4-4376-9CEF-F0341B13FCDE&displaylang=en&displaylang=en
+
+Mozilla Firefox Security:
+http://www.mozilla.com/en-US/firefox/features/#security
+http://www.mozilla.com/en-US/firefox/video/?video=security
+use paypal because it is very secure.. also when you are checking out, make sure the web address starts with https://   this is just showing that you are on a secure server. like https://walmart.com (i dont know if this is a real site but im just making a point)
+The best way to influence your parents with this issue is through Social Proof.  Get your friends, your parent's friends, and your friend's parents to start shopping online.  Somehow make this evident that all these other people that your parents know are doing it.  Don't say, "But Tommy's mom does it all the time" You need them to physically see these people doing it and these people talking about doing it.  The best person to show them would be somebody that used to be scared of the internet and now shops online.

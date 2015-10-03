@@ -1,0 +1,17 @@
+Internet keeps cutting out?
+I got a new modem from Optus (I'm in Australia).
+It works fine until the computer goes onto standby i.e. when you don't use it for a while and the screen goes black.
+When I go back to computer, I have to restart to re-establish internet connection.
+Any ideas?
+
+If you have Windows Vista/7 You should do an internet diagnostic test next time it happens that should help you solve the problem. If you don't have Windows Vista/7. Call Optus and tell them to send IT out to help you. Hope this helps
+Hi Luditess,
+
+If you are using Windows 7 you may want to try check the network card properties in Device Manager. Navigate to power management and make sure any fields relating to "allow the computer to turn off this device to save power" are unchecked. 
+
+If this is still happening after you have tried the above, send through your details via http://bit.ly/OPTUS and we can look into it for you.
+
+Cheers,
+
+David Cacchione
+Optus Social Media Response Team

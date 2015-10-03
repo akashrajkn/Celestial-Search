@@ -1,0 +1,4 @@
+What is JQSIEStartDetectorImpl Class?
+The ads that slide down a news page I'm trying to read are really starting to annoy me, so I'm trying to find out just what ActiveX control runs them so that I can disable it (I assume they are run by an ActiveX control; I certainly could be wrong). The Properties box in the ad is no help at all, and there is no "View Source" option. So I'm going through all my browser add-ons to see if any look like they could be the culprit, especially those that run without requiring permission. Can anyone help me before I completely crash my PC?
+
+you dont need it but sometimes you do and the best thign to do is downlaod it and forget about it

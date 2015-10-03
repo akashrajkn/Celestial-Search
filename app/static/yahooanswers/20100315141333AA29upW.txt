@@ -1,0 +1,10 @@
+My Firefox history won't delete!?
+I've tried to delete a site off my address bar, and it won't remove. It lets me delete other sites off the address bar but not this one. I've tried deleting EVERYTHING and that doesn't work! I usually just hit the arrow button down on the address bar and hit 'delete' but it keeps popping up. I also tried going to  "Tools" then "Clear recent history" and delete it all, but it keeps coming back! Help!
+
+Try running the free, downloadable tool CCleaner: http://download.cnet.com/ccleaner/?tag=mncol
+It removes temporary files put in place by browsers like Firefox, Internet Explorer, Safari and Chrome. It also cleans unwanted files that Windows leaves behind.
+If it is in the Address Bar then it is your Home page and cannot be deleted until you change it.
+Run CCleaner and all History will be gone from all browsers.
+
+http://www.filehippo.com/download_ccleaner/
+Might be a virus? If you still can't delete it / it deletes and regenerates try a) launching Firefox in safe mode and deleting b) boot WINDOWS into safe mode and delete c) run Avast and AVG, restart, try again. And I think the other post said CCleaner, thats a really good app.

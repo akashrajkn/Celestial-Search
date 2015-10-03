@@ -1,0 +1,28 @@
+Windows 7 and IE Problems!!!?
+Somebody that has a working internet PLEASE HELP. I've tried going to microsoft to a Windows 7 forum, but there is so much junk when loading that my borwser has a tough time loading it. My browser wont load pages properly like its not getting the full html codes. Sometims links will be on the opposite side of the page, and instead of being a fancy button it will just have the text. Sometime the page wont load at all and act ike it is not connected to the internet. This is my 2nd day with Windows 7 and I'm ready to TAKE IT BACK. Its not my LAN line because my Vista laptop was working on it yesterday.
+Tried doing updates and it said it was unable to search for updates..thanks though
+It is a new laptop...bought it from store with Windows 7 OS already on it
+
+Try using windows update to get a new version of IE, or you can just switch browsers to Firefox, chrome, or one of the thousands of different internet browsers out there.
+1. Try downloading and re-installing ie here: http://www.microsoft.com/nz/windows/internet-explorer/default.aspx
+
+2. Make sure java, flash, and all that other crap is installed.
+
+3. Try firefox: firefox.com
+
+4. Give up and return it.
+
+Good luck.
+Download Firefox here:
+http://www.mozilla.com/en-US/firefox/personal.html
+
+Great free alternative for IE. ;)
+Did you try reseting internet explorer back to default settings? Also you can try using ccleaner (ccleaner.com download it) It might help If none of them work you can try emailing me and i might try to control your pc and see what i can do (it is 100% safe so don't worry i will be using team viewer for more information on the program visit teamviewer.com) Also check this site out http://support.microsoft.com/kb/923737.
+I'm not quite sure if this is a new computer, or if you loaded Windows 7 on your laptop.  
+
+If this is a new computer, there remains the possibility that you have a hardware problem such as a bad network card.
+
+If this is a PC that was working previously and was updated to Windows 7, then you might just need to update your network card drivers.  These can be found on your manufacturer's website.
+
+If you have installed any 3rd party software, check for compatibility with Windows 7.  Try disabling antivirus/anti-spyware temporarily to see if that alleviates the problem.  If so, you may want to try reinstalling it or going with another product.
+google "firefox" or "Chrome" (free web browser) , download it, install it, use it.. after that, dont use IE...

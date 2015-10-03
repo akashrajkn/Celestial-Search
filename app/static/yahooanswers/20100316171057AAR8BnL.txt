@@ -1,0 +1,4 @@
+Does anyone know how to contacts ebay Help Center?
+I have been overcharged for a sale according to the webpages, but I can find a way to contact them to fix the problem. I used the help center in the past an it worked, but it doesn't seem to anymore. I ask a question, it gives me a bad answer, and askes for another question. It doesn't give a contact number or eail like it use to. Does anyone know a contact number to contact ebay before the block me  for not paying the fee?
+
+http://contact.ebay.com/ws/eBayISAPI.dll?ContactUsNextGen

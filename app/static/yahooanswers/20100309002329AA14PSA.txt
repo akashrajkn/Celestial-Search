@@ -1,0 +1,7 @@
+on firefox, I accidently got rid of menu bar, address bar, navigation bar  and my favourite sites bar I have?
+Any chance to get them back on firefox?
+
+I tried to click right on the mouse but there is nothing!
+
+If you are using PC, try pressing F11
+I think you have pressed F11 key accidentally, so they got rid off. Press F11 again. It will come back...

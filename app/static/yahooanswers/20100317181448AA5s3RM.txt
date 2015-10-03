@@ -1,0 +1,7 @@
+When one computer connects... Another cannot browse internet?
+I'm at a friends house on my laptop, and when I got it hooked and connected to the internet (Which is Orange UK service) she was able to browse the internet for a while but now her browser has stopped working. She tried to delete history, cookies anything.. she is still able to go on MSN Messenger, but her Google chrome, mozzila or I.E (All latest addition) say they cannot connect, Her google chrome just says "This webpage is currently down" yet, it says that for every, single, webpage. She said when she got her laptop connected to the internet, her family computer started doing the same. She's pretty much tried everything she and I can think of, Please help?
+MSN still works.. all things like that will work but her browser wont. thats all. It simply says that the websites are null and temporarily down. Also, its the most recent hub, I cant remember the name.. its Orange (Uk) The hub is meant to allow as many connections as there are in the house but with 8 being the limit before connections faulter. So far there is 4. Her xBox, downstairs computer, her laptop and my laptop.
+
+Well your not giving much detail other than it's Orange.
+
+The only thing I can think of reading that, is her connection. Either it's too slow to support two computers or she has used all her capped allowance and her connection is being throttled.

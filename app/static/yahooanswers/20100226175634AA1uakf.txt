@@ -1,0 +1,7 @@
+Youtube won't load on safari OR firefox!?
+Anyone got any tips on how to make youtube load?
+Please be detailed.
+how can you check the operating system & if the thing is installed?
+
+What is your operating system 32/86 bit or 64 bit? If 64 bit that's the problem . Also make sure you have flash player installed.
+What won't load? If you get to a video, and it says "Hello, either you don't have javascript enabled, or you need the flash player, then you need to click the link and download the latest version of the flash player.

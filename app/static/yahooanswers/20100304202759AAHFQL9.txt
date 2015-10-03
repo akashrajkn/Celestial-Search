@@ -1,0 +1,32 @@
+is desihunt.com site is down i m not able to acess it on my network but when checked thru proxy site it worked?
+is desihunt.com site is down i m not able to acess it on my network but when checked thru proxy sites it worked  Pls help
+
+If it works from the proxy then it's not down. 
+
+There is considerable risk in using free proxies from unknown sources. Many of these free proxies are what are called hacker pots. They are there waiting for you to fall into their trap so they can steal your information and plant bots on your computer. Once a bot is planted the hacker has control of your machine and can steal credit cards, attack web sites and send out tons of spam all from your IP address.
+
+Some of the free proxies/vpn's are run by people out to make money. There is nothing wrong with that in principle. However the best case here is that you will get a proxy loaded with advertisements with no real speed to it. The amount of money the owner can make with advertising clicks is really only pennies. Many of these owners supplement their income by key logging everything you do and selling your personal information to advertising companies. Since you have no way to know what the owner is actually doing you need to assume the worst case is true.
+
+Read some more about free proxy servers below:
+
+http://www.personalvpn.org/danger_proxy_servers.htm
+no, maybe they changed the server and need around 24 hours to get propagated all over internet.
+you can use this proxy such as :
+
+www.freemyschool.com
+www.search4house.info
+www.gitudoang.com
+www.gitudoang.net
+www.adminsucks.com
+www.helpmylink.com
+www.october2009.tk
+www.september2009.tk
+www.greenunblock.tk
+Sounds to me like perhaps your ISP is blocking it, since if it's working through proxies then the site is definitely up.
+
+Maybe consider asking your ISP about this.
+Here is a list of fresh fast proxy list I have just find today:
+
+http://hhss.co.cc/
+
+Remember to tell your friends about this proxies

@@ -1,0 +1,7 @@
+why don't my tweets show up on the public timeline?
+On Twitter, when I post things, I can't ever see them on the public timeline. For example, if I use a tag like #iloveyou then search that tag, my tweet is never there. And I don't think my @replies go on there either. My twitter isn't locked so only people I follow can see, so I don't understand why it wouldn't show up. Any ideas?
+#iloveyou was just an example. I make up my own hash tags, and then they're not in the timeline.
+
+The most probable reason is you are looking for your tweets in a busy hashtag (like #iloveyou) where several messages may have been posted while you posted a message and looked for it.
+
+Try to search for #hashtag and your nickname and see if Twitter can locate the tweet for you.

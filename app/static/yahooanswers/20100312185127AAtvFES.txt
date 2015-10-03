@@ -1,0 +1,10 @@
+My firefox browser isnt working properly and I"m not sure what to do?
+When I log on to the web, my browser only allows certain pages to load such as facebook. However If I try to log on to myspace or person or youtube my browser takes forever and then it never loads the page. What could be the problem?
+Oh I also just  updated my firefox about an hour ago. And I have to parental restrictions on my computer, also it was working fine this afternoon.
+
+your internet connection or there is a pop op or like a virus problem maybe you should run some tests an just refresh the page. It cud also be possible those sites on your computer are blocked or wait also you need to have the LATEST firefox software the new one just came out
+did you or someone block certain sites are the parental restrictions in use?  If so you need to ask the person who installs things.
+
+maybe you need to uninstall the old version. use a clean up utility like COMODO  
+then install a new version
+i would remove it through add/remove, run a malware scan, then reboot, get latest firefox and save it to your desk top, install it from there.  but sounds like you may have a bug.

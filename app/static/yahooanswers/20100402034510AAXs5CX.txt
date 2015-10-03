@@ -1,0 +1,7 @@
+Problems with my internet connection....? [details inside]?
+I think I have a virus that is affecting my internet connection on the other computer. I open the Internet Explorer but it only shows a blank page, the status bar shows 'Done' and nothing shows up. I cant understand why this is happening, I checked the settings from the Control Panel and everything seems fine.
+
+
+What should I do?
+
+it only means that your homepage is set to blank (blank page). you can change it in Tools menu, click Internet Options.

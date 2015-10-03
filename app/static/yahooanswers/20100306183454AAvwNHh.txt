@@ -1,0 +1,42 @@
+how do you make a website?
+i dont want a link to a website that makes websites i want to know how the very first website was put up.i know not all websites were made from webs.com.how do people make them?and also if you want please answer my other question http://answers.yahoo.com/question/index;_ylt=AmVp1MIoMvT0PzrDkpUtz3Lsy6IX;_ylv=3?qid=20100306181343AA37Z3Z
+
+There are programs for creating web sites.
+http://webs.com
+There are two ways of making a Website. You can use (W)hat (Y)ou (S)ee (I)s (W)hat (Y)ou (G)et. Freewebs is a example of that.
+
+Or you can code it. Coding gives you much more control over how your website looks.
+
+Everything you need is already on your computer. A Web Browser. A text editor. And some time.
+
+Here are some beginner links to learn how to make websites:
+
+http://www.w3schools.com/html/ (To learn HTML)
+
+http://w3schools.com/css/default.asp (To learn CSS)
+
+
+A useful useful site to learn about how to put your website on the Internet is:
+
+http://www.2createawebsite.com/
+
+
+Also, If you don't want to learn to code. But want more then just Freewebs. Try one of these:
+
+http://kompozer.net/download.php
+
+http://www.w3.org/Amaya/
+
+
+
+Hope this helps.
+its easy to make a website.
+
+You can either use:
+>>Adobe Flash
+or
+>>Macromedia Dream Weaver
+
+I use Dreamweaver to make my websites. 
+
+To make a website is easy. To publish the website is hard. You need to also get sponsers to sponser your website if its worldwide, and even domestically.

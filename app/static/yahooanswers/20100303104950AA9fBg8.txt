@@ -1,0 +1,23 @@
+Whats causing this problem?
+ok when i try to run a java chat it just shows a white area where the chat is supposed to be and it has a lil red x in the top left corner.also i'm trying to take some online class's for my job but when i click to launch the test it says object doesn't support this property or method.i know its not the website cuz it all works fine on my brothers laptop.if you can help i'd really appreciate it.thanks to you all
+already reinstalled java.didn't help
+i tryed everything you guys suggested but nothing worked :(
+
+Reinstall Java.
+
+www.java.com
+sorry i can't think of anything to contribute here
+Do you have Java installed not just the one that comes with your computer? If not click no the "Free Java Download" button on this site: http://www.java.com/en/
+Your Browser Could be Blocking the Application From running but more than likely you need to install and update your Java and Flash Player Applications. You can get Java and Flash at there websites below. 
+
+http://www.java.com/en/download/
+
+Click the red button that says Free java Download.
+
+http://get.adobe.com/flashplayer/
+
+uncheck install google toolbar and agree to the terms and install.
+
+Lastly this could be a shockwave problem. You can get it here.
+
+http://get.adobe.com/shockwave/

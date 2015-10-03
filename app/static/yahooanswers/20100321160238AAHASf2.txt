@@ -1,0 +1,12 @@
+I have the XP Internet Security 2010 virus.. how can I get rid of it?
+I've searched this on google and most websites tell me to download Malwarebytes and it'll get rid of it. I already have that installed on my computer, but I can't get that to open!
+
+I have had viruses like this before and I just had to restart my computer and open Malwarebytes before anything else, but I can't get it to open this time. And I've tried many times, even on safe mode. Doesn't work :(
+
+Help please!
+
+go here http://4everythingyouneed.webs.com/  them click in fake virus , and follow step by step how remove it
+Restart PC in safe mode by tapping F-8 key, choosing "Safe Mode with Networking" from menu. Next download, update, run Malwarebytes and click Remove. In normal mode download, update, run SuperAntiSpyware, Hitman Pro, ccleaner and restart PC...
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

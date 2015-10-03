@@ -1,0 +1,8 @@
+How to sent Mail to friend with out sending own mail id ?
+i want to send mail to my friend from any  other mail id with out logging that mail id ...............
+
+You can send like that. But you need to create your own mail server for that. There you can send emails without sending your name. This is not possible in yahoo or gmail.
+you can search at www.hackingmobilephones.com
+It is site of Ankit Fadia
+http://www.viprasys.org/vb/f75/send-mail-your-friends-using-any-mail-id-their-own-mail-id-272477/
+Dear, you can usu the annonymizer for doing this, you can search it on google

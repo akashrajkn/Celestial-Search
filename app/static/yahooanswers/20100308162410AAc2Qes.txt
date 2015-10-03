@@ -1,0 +1,11 @@
+Internet connection drops when phone in use..Please help!?
+My internet connection drops when i use the house phone or someone calls...It really gets annoying because im online most of the time. I have DSL Connection and using At&t Modem...I also have a Net Gear Router...My friend says if you connect them to a Y-Cord..I have no clue what that is or how to connect..Please if someone has a solution for my connection to be Okay when someone calls Just please! Answer! Thankyou!
+
+For DSL each phone plug needs to have a filter, even if no phone is there. These can also be damaged by voltage spikes. You may have to replace all of them just to be sure.
+As for the router. You run one "ethernet" wire between the modem and the WAN or internet port on the router. Then you run a second wire from one of the four LAN router ports to your several computers. The instructions are in the user guide. If you don't have that download it for your model (they are all different even from the same maker) from the NetGear website.
+Is your phone dock anywhere near the wireless router?
+Phones with the same frequency as the router can cause disruptions and internet drops that you described.
+
+I believe Netgear routers run at around 2.4 ghz, so a phone running at near that frequency (and also stationed close to it) can cause your problem.
+
+If you have the problem described above, just put your phone or router further apart.

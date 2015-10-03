@@ -1,0 +1,8 @@
+i have just got rid of a virus using spyware doctor and now cannot get back onto the internet by the shortcut?
+i try to click on the internet explorer shortcut and a message pops up saying, "windows cannot open this file" then there are two options at the bottom of the message saying," use the web to find the correct program" or " select a program from the list of installed programs." Nither of these options have worked for me and i could really use some help. Also i cannot get onto any of the programs on my computer where the internet is required, for example, spotify. I am currently on my fathers laptop and i would really appreciate getting back onto my own. If someone can help i would be extremely grateful. Thanks
+
+Delete all the shortcuts you have for Microsoft IE and recreate new ones from c:\windows\IE7\iexplore.exe.  Some of the new spyware software is taking over your current IE shortcuts.
+
+This really stinks when they hijack your IE.
+
+I know...I know...some users will tell you to install Firefox.

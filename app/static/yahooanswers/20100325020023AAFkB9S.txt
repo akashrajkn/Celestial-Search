@@ -1,0 +1,15 @@
+Removing picture from SPOKEO site?
+Ok so I did a search on myself on my email address and I was shocked.  It actually shows a picture of me thats about 4 years old. I want to know how to remove this because I already went to they're privacy settings and it says it can't remove email info because most of it is from public sites like myspace, facebook, etc....ok well I haven't had any of these for at least 2 years now so what gives.
+
+If you didn't remove all of your information from those sites before you stopped using them the data still exists online. Probably the best thing to do is to try and remember your log in details and then remove the stuff that you don't want people to see if they search for you or your email addresss. If you can't access those sites you will have to find out how to contact them but it may not be easy to get your data removed.
+
+To prevent the same thing happening again I suggest keeping one email for personal use and a couple of others which do not contain your name for sites requiring a point of contact like Facebook or any other site!
+
+Also be aware that if you post your email address on any site it may well become searchable so use a different ending like @dotcom or atYahoo.com or .co.ukay and then it won't be harvested by spam bots either.
+At the bottom of each Spokeo page there is a link for "privacy".  Click on that link and enter the URL where they show your info.  The URL should look something like:
+
+"http://www.spokeo.com/name/search?n=joe.smith#District of Columbia:1234"
+
+Except it will be your name rather than "Joe Smith."
+
+If that doesn't work, there are commercial services like ReputationDefender.com/MyPrivacy that automatically remove data from Spokeo for you.

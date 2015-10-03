@@ -1,0 +1,7 @@
+How do I add a voice and video chat room to my website?
+I'd like to know the steps to add a chat room to my web site that integrates voice and possibly video chatting. What software do I need? Do I need a host? ETC....
+
+What you are going to need is, a lot of money to pay for the bandwidth that type of system is going to use!
+The Best way is to buy  Php Live Support  @
+
+http://www.phplivesupport.com  It starts @49.95

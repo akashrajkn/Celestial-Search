@@ -1,0 +1,8 @@
+Is there anything similar to top sites that safari has, for internet explorer?
+You know how Apple's Safari has the top sites feature? Is there anything similar to that for PC, internet explorer? I know you have your favorites bar but I want something big and visual that I can just click on when i open the internet.
+
+Should have. You should check out firefox plugin and check
+The easiest way to do this in IE8 is just press Ctrl+Shift+H, (to bring up history), and they you can select to view your History by "Most Visited".  Hope that helps!
+
+Kyler
+IE8 Outreach Team

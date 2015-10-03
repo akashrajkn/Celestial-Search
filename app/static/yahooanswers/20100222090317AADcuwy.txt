@@ -1,0 +1,4 @@
+how to make a live video feed?
+how do i make a live video feed? i am trying to do a live feed of my basketball games from a laptop to our website. how can i do this?
+
+try ustream.tv or justin tv should work.

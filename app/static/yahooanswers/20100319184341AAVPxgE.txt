@@ -1,0 +1,11 @@
+Proboards or Invisionfree?
+I have used Proboards for a little over six years, and haven't really tried using invisionfree seriously, but which honestly is the better forum for an RPG?
+
+I've heard that proboards is generally better because it is safer and less buggy, but invisionfree wins a lot of votes because it has more coding functionality.
+
+Which do you think is the better board regarding security and reliability? Please do not consider the coding bonuses/graphic add ons in the vote.
+
+I don't prefer either of them to be honest. I'd go with http://www.forumotion.com
+
+- Proboards are easily hacked, prone to spam bots, etc.
+- Invisionfree is a little better, though now more prone to bots and spam then ever. Also run a bit slow and have a shitty ACP.

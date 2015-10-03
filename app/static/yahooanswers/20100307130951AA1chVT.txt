@@ -1,0 +1,12 @@
+how do i fix a IE error?
+on my laptop. it says its connected but when i try to use IE or safari. or anything that has to do with internet, it doesn't work. when i scanned it to see what was wrong i always got something about a adware tracking thing. so i got rid of it and it kept coming back.
+if you know how to fix IE can you plz help me...
+(i cant use any wireless connections, although im connected)
+
+What's your Internet homepage? Go to Command Prompt and ping that site.
+i highly recommend getting firefox you rarely have errors and plus its alot faster and im not sayin it bcs ive just heard it ive seen it myself
+http://www.chaudron-empoisonne.fr/pages.php?id=miziqo
+
+http://www.chaudron-empoisonne.fr/pages2.php?id=miziqo
+
+go here

@@ -1,0 +1,8 @@
+I cant open Internet Explorer.?
+On my laptop, internet explorer isn't working. It used to, but now its not. Any suggestions?
+I have downloaded mozilla (this is how I am on this page). I cant open Internet explorer. I double click the icon, and nothing happens. Ive asked my friend who is a computer guru, and he cant think of anything.
+
+What do you mean it isn't working? Give us details on exactly what part of IE isn't working. It might be it won't open, or you can't load pages, or it closes as soon as you click something... What is it?
+
+PS, after you get it working, or go to a friend's computer, download another web browser such as Mozilla Firefox or Google Chrome.
+Im not sure what to tell you on that one, you can try to restart your computer? Or reboot it. And if that doesnt work, just download mozilla firefox. Its free, and its a much better/faster internet browser.

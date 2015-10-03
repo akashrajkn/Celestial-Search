@@ -1,0 +1,26 @@
+Firefox Password help..?
+Okay, so my facebook used to remember my passwords, but then i changed my password, so obviously the original was only remembered and i had to keep typing me new one.
+
+So i went onto Tools > Options > Privacy and deleted the list of all facebook passwords stored, in the hope that it would ask for my new one.
+It never happened.
+
+I also checked the Exceptions, and its not in there.
+Its just.. not happening.
+How can I prompt Mozilla Firefox to ask me to remember passwords again?
+
+Possibly a couple more options to set.  Try this:
+
+
+1.Click the Tools->Options menu item. (What else?)
+2.Click the Privacy tab.
+3.If the Always clear my private data when I close Firefox checkbox is checked, either uncheck it or click the Settings button next to it.
+4.If you clicked the Settings button, make sure the Saved Passwords checkbox is clear.
+5.OK out of everything.
+6.Click the Tools->Options menu item again.
+7.Click the Security tab.
+8.Make sure the Remember Passwords for Sites checkbox is checked.
+9.If it already is, click the Exceptions button to see if your sites have somehow been put in the exception list.
+10.OK out of everything again.
+
+Hope that helps.
+Try going to Tools --> Option --> Security and work with the Password option there.  It may be turned off

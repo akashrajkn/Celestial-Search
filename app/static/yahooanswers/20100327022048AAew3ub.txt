@@ -1,0 +1,8 @@
+how to connect my e63 to my laptop to access internet via wireless LAN?
+my e63 has wifi and my laptop also has it. i am a new user. i don't know how to connect it. plz guide me.....
+is there any need to create a profile in the intelPROset/wireless??  i don't know how to create it either...plz help
+
+you could try this: go to network and sharing center and click on set up a new connection or network and pick set up a wireless ad hoc (computer to computer) network.
+in ur laptop, goto connection properties, from there goto sharing & security. share ur connection & click on allow other users to connect through connection... 
+
+do same with ur Wi Fi connection..ur problem will be solved.

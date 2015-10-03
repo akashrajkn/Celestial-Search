@@ -1,0 +1,35 @@
+Is there a way of deleting only certain sites from your internet history?
+is there a way of deleting specific sites from your history COMPLETELY, without deleting absolutely everything, which will look suspicious?
+if so, how?
+if not, is there a way of deleting your history so there is NO trace whatsoever of the websites you've visited? cause although i'm technically an adult my dad still checks my history, has an account on my computer, and knows a LOT about computers so would know ways of finding out my history.
+
+i'm not sure which version of internet explorer i have, so please give details for IE and mozilla firefox.
+
+thank you
+thank you for your answer Lauren, i do that already but i don't think that gets rid of all traces? i think the history can still be found somehow?
+Mr S - is there any way i could know if he's logging whether i delete my history?
+
+would it be safer to just set it up to delete my history every time i close down the internet?
+
+I have the latest Internet Explorer on my Vista..
+
+You can delete certai sites from history, as well as deleting the whole thing at once..
+To do it seperately, go to the favourites tab - its on the left hand side with a star icon on my computer..
+Open it and it should come up with three tabs- Favourites, Feeds and History.
+
+
+Go into the History tab then open up which ever day it was that you visited a site and want to remove it..
+Find the site and right click and it should say delete. 
+
+
+If you have a different version of IE, it should be similar anyway x
+You can do it in Firefox. Just bring up the history sidebar (Ctrl + B) and right click on a site then click "Delete".
+
+I'm sure IE would do a similar thing but I don't use it so I don't know how. 
+
+If your dad knows a lot about computers then there are other ways he could be monitoring your internet activity that don't involve your computer at all. i.e. he could potentially have logs whether you delete your history or not.
+You can do it in Firefox browser. Bring up the history sidebar and right click on a site then click "Delete".
+SIMPLE
+if you are using a windows based pc then click on your favourites then history then click on (the day that u visited the site) all the sites will come up right click it then select delete.
+
+hope this helps

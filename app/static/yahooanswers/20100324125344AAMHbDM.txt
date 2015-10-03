@@ -1,0 +1,8 @@
+What could block connectivity for certain apps at work?
+When I¡¯m at home on my work laptop, everything works fine but when connected in the office certain programs won¡¯t work. AOL instant messenger, AVG anti virus cant connect for updates, any torrent or downloader software won¡¯t connect. I¡¯m not trying to use torrents at work but im wondering what could be blocking these programs from the internet.
+
+The company proxy server / firewall.
+they do it on purpose... just don't do it at work.
+Firewall. Usually system administrators block downloading and uploading of certain files or even access to certain websites through a firewall. 
+
+The reason why you're having those problems is that your computer in the office is behind a firewall.

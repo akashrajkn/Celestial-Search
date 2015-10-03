@@ -1,0 +1,4 @@
+Can ISPs follow bittorrent downloads?
+This is a case of privacy.  Can my internet service provider see what files I have torrented if I'm no longer uploading or downloading them?  Do they track it?  Also, how do they limit the bandwidth available for bittorrent?
+
+Of course they can and do in order to comply with copyrights.  It's not a privacy invasion.  You gave them the right when you signed up.  Remeber those terms and conditions things you click on when you install something new that you never read?  Well, it says so in there.  So don't b!tch.  To limit bandwidth they simply monitor for torrent related packets and count them, only allowing a certain amount through...

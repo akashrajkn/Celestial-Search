@@ -1,0 +1,8 @@
+Yahoo homepage is eating CPU?
+I have Yahoo has my homepage.  Whenever I go to it, the CPU utilization jumps up to about 40 to 50 percent.  (iexplorer).   If I click on any link, or go to any other page, after that page loads, the CPU goes down to low single digits.  If I go back to the home page, it goes back up to 40 or 50 percent and stays there.  Running lastest version of MS Explorer on Windows 7.  RIght now I have multiple explorer windows open and non at the Yahoo home page.  If I open another window or go home to Yahoo home page, CPU goes back up.  Seems there must be some script / flash / java or something on that Home page that is eating CPU?    No viruses, etc. present per several malware / virus / etc. programs.  Is there something going on at the Yahoo Home Page !!!!
+
+This Happens To me Also. It is the Yahoo Page Just Ignore it. the cause might be the Flash Animations but I'm not sure. you should just change your home page...
+Use light browsers like Opera. It synchronizes the page so it won't have to load the items that has been previously loaded. You can adjust your internet settings. Images won't load and it'll be faster. The way is to expand RAM.
+My housemate experienced the same problem, in this case with Win XP Pro Sp 3 and IE 8, and the iexplore.exe process associated with the Yahoo home page would go consume all available cycles and drive the CPU Utilization to 100%.  I suspect that you have a dual processor  system (e.g. Core Duo) and IE process is consuming 100% of one of the processors. 
+
+I saw post elsewhere on the web that switching to FireFox resolved this problem.  We tried that, and sure enough we could view the Yahoo home page with FireFox without the high CPU Utilization that occurs every time with IE 8.

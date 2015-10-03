@@ -1,0 +1,7 @@
+How do I get Internet Explorer 8 new tab to look like Chrome?
+How can I get IE8 to open a new tab showing 8 webpages I've been to in the past like Chrome does? It makes a quick "go to" so much easier.  Thanks!
+How can I get IE8 to open a new tab showing 8 webpages I've been to in the past like Chrome does? It makes a quick "go to" so much easier. Thanks!
+See, apparently Chrome uses GoogleUpdater which hogs memory and I can't delete it.  I thought I saw IE copying the same ability but can't wade thru the instructions to find out how.
+
+Why don't you just use Chrome?
+

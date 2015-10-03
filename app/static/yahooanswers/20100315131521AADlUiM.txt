@@ -1,0 +1,11 @@
+Will the Ipod Touch connect to the internet through a mobile broadband dongle?
+We are looking to get a mobile broadband dongle, both have ipod Touch, when it is plugged into our laptop will the Ipod connect wireless to the dongle therefore giving us an internet connection?
+
+Not exactly.
+
+Does your laptop have a wireless network card? 
+Most newer laptops do have one built in. If your's does, then you need to set up that wireless card (using windows or the software that came with your network card) to operate an Adhoc wireless network. The settings, terminology and process to do this can be slightly different depending on what operating system you are running, and what brand your wireless card is. Make sure you use a password when you create the wireless network or all your neighbours will be able to connect as well. Once you set this wireless network up you can connect your IPod to the laptop via the wireless network. Now, when you plug your mobile broadband dongle into the laptop, you will need to enable that wireless connection to be shared. Once that is done, when you try to access the internet from your IPod, your laptop will redirect the request through the dongle.
+
+If your laptop doesn't have a wireless card then you are out of luck. In that case, you might be best to get a modem that has a built in wireless router. I've never seen a dongle that had a built in wireless router, so you'd need to get a standalone unit - they're not expensive. Over here in Australia you can pick a reasonable one up for about $60-$70.
+
+In any case, it doesn't seem like you have a huge knowledge of computers and networking. I'd suggest that before you spend any money, speak to someone who knows what they are doing and can have a look at your laptop to set it up or figure out what you need.

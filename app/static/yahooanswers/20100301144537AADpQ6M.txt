@@ -1,0 +1,6 @@
+My picture won't download onto twitter?
+For the past hour, I've been trying to download a new picture. I deleted my old image, and tried three different pictures, but none will download. It loads, but then comes back to the page for me to download again. I go to the homepage to see if it loaded, but it didn't.
+
+Have you tried uploading from a different computer or using a different browser? There could be some sort of compatibility issue between your browser version/browser add-ons or plugins and the script(s) that're used on Twitter. Or Twitter is just being buggy. Best advice I can give is try another computer/internet browser and/or try again later! Good luck!
+
+~ Alicia

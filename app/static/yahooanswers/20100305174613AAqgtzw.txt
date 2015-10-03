@@ -1,0 +1,16 @@
+How do you set a page to come up when you open the internet?
+I have a mac, and i want to no, how can i set a certain page to comeup when i open safari
+
+Select General from the Preferences menu, which is now overlaying your browser window. Once General is selected, you will notice a section labeled Home Page in the main window of the Preferences dialog.
+
+Directly to the right of the "Home Page" label is an edit field containing your current home page URL. In the example below, Safari's current home page is http://www.apple.com. To modify this address, simply erase the contents of the edit field and replace it with the desired web address.
+
+Directly below this edit field you will see a button labeled Set to Current Page. Clicking this button will change your home page setting to whatever page you are currently viewing within the Safari browser.
+
+Once you have completed your changes, close the Safari Preferences dialog by clicking the red circle/x located in the top left hand corner of the box.
+Simple, if you're using Safari, you either set a page as your homepage, or add it to show up WITH the current homepage, plus that page.
+
+Safari: http://browsers.about.com/od/safar1/ss/safarihomepage_3.htm
+IE: http://browsers.about.com/od/internetexplorertutorials/ss/ie7homepage_4.htm
+Chrome: http://malektips.com/google-chrome-home-button-toolbar.html
+Firefox: http://lifehacker.com/104939/how-to-set-up-multiple-homepages-in-firefox

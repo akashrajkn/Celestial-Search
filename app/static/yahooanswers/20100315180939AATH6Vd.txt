@@ -1,0 +1,9 @@
+How do I clear Proxy Configurations on Firefox?
+I am using proxyway and I no longer want it, so how can I get rid of the configurations it has on firefox? And no, uninstalling dosen't work.
+
+click in tools --> options-->advanced-->network--->settings --> no proxy  
+
+ rate you friend A+++
+See the link below. It gives detailed steps.
+
+http://www.surfbouncer.com/personal_vpn_proxy.htm

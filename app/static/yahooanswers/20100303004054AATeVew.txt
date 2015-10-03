@@ -1,0 +1,19 @@
+how can you block the ads on yahoo answers useing google chrome?
+ive only just noticed them in the last day or to , before then i managed to have them blocked with a host file   .  i find them unwanted, intrusive and annoying and i dont want to see them  .
+
+anyone any  ideas what i can do  other than use firefox   ?
+
+are there any decent ad blockers for : internet explorer and or  google chrome ?
+
+Try AdBlock for Google Chrome:
+
+https://chrome.google.com/extensions/detail/gighmmpiobklfepjocnamgkkbiglidom
+it sounds like your infected with adware, run malwarebytes.
+why do u care ?
+You can't. It's part of the Yahoo page make up.
+
+Also Google is a very basic browser.
+
+The only way you will stop them is to go to Internet Options ? Advanced ? Scroll down to Multi Media ? Take the ticks out of "Show Animations" and Pictures" ? Apply & OK
+
+But then that defeats the whole object because that will affect every web site you go on!

@@ -1,0 +1,15 @@
+Is there a fast virus scanner? Just completed my virus scan(3 HDDs, together about 1.6 TB). My "ESET NOD32 Ant?
+Is there a fast virus scanner?
+Just completed my virus scan(3 HDDs, together about 1.6 TB). My "ESET NOD32 Antivirus" needed 10 hours and 37 minutes for the scan. Do all virus scanner need that long or are there faster ones?
+
+Thanks for recommendations.
+
+hm..well i have avg free and i got about 1 TB total filled up and it only takes about 2 hours, but also alot of my hd space is filled with movies and music, so are much quicker to scan than programs or anything like that...so i guess it depends what is filling up that space
+I have Webroot on mine and a full sweep and scan takes about 90 minutes.I have renewed this product for the last three years and have not had any problems.
+I think you already have one of the best virus scanner, NOD32. You have 1.6 TB hard drive in total, but most important is how many files you have. More files mean longer time to scan. It doesn't matter what antivirus you are using. Try to scan a hard drive with only a few files, and you would see how fast scan completes. But you will see how slow it would be if the same hard drive if filled with so many files. 
+
+If you are still not satisfied, uninstall NOD32 and install AntiVir personal edition (free) and see if it works for you. This is the second best antivirus.
+try avast
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html

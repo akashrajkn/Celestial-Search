@@ -1,0 +1,44 @@
+help me to download an email?
+can someone tell me how to download an email on my PC without using outlook express...
+
+open your e-mail id then go inbox after which message you need open and double click on that message it gives download option you can easily download.............
+Without having ant client, i don't think there is any way to download an email on PC. U have to use either outlook express of Microsoft office outlook to download an email.
+ 
+
+If u want to know how to set up an email client ie outlook...u can feel free to contact me on rahuldependableguy@yahoo.co.in
+You don't say why you want to do this so it's hard to know what is the correct answer.  Here are some possibilities:
+
+Are you using someone else's computer?  If you want to be able to take your email with you, you can use Thunderbird.  Thunderbird is free, from Mozilla, can be installed on a flash drive, and can be used on any computer with no further installing on the computer.
+
+Printing is an option in most email programs, if that will do the job.  If you want it for evidence and will be printing it, you should be getting the header information as well.  How you do that depends on your email company.
+
+If you are having trouble getting an email to come into your computer and normally use Outlook Express, then someone may have sent you an oversize email.  To fix this, you can go to your email provider's page and deal with the email there and then return to Outlook Express and download the rest of the emails.
+
+
+THUNDERBIRD:
+Get it from here: http://portableapps.com/apps/internet/thunderbird_portable/localization#3
+That page will also tell you how to get it into a language of your choice.
+
+
+PRINTING:
+Look for a printer icon or the word PRINT in your email page.  Usually you will get a copy of just the email, not everything that is on the webpage.
+
+If you can't find a print option, then use File --> Print.  You might have to press the Alt key to make File appear.
+
+
+OVERSIZE EMAIL:
+Using Firefox, Internet Explorer or whatever browser you normally use, go to your email company's web page.  You can work out the address by using the last part of your email address.
+E.g. if your email address is iamaperson@emailcompany.com then you would type emailcompany.com into the address bar.
+
+Look for a link to email which might be called Webmail.
+
+Click the link and enter your email address and then the password for your email address.  If this results in an error, then only type in your email name UP TO THE @ symbol.
+E.g. using our previous example, you would only type in iamaperson and your password.
+
+Look through the emails and you'll possibly find one that has been downloaded to your computer already and a big one straight after it.  It may have pictures in it.
+
+Copy the text from the email to NotePad or something similar and download the pictures.  How you do this depends on the email company.
+
+When you have saved all the parts of the email that you want, delete it.
+
+Now you can sign out of the webmail and continue downloading your emails into Outlook Express.

@@ -1,0 +1,15 @@
+How to get firefox to restore previous tabs?
+I've never had this problem before, but ever since I upgraded to the newest version of Firefox, it won't open my tabs that I was using the last time I closed it.
+
+When I close multiple tabs, it asks me to "save & quit" or to just close them. I hit "save & quit," and then my window closes. When I go back to open Firefox, it gives me the AOL homepage. I've gone to options >> main >> and requested that Firefox should "show windows and tabs from last time". However, underneath, it still says that my homepage is AOL.
+
+What should I do? Thanks!
+
+OK. First change your homepage address . Go to Tools |Options | Main and type your favorite address in the home page section and save your settings. So you will never see AOL again as the default page.
+
+Then go to Tools | Addons :  in the Get Addons , search "session Manager" . When you find it, install this addon and restart your firefox. 
+
+
+From then on, you can handle your sessions ( including all of the open and closed tabs) and even save your sessions for ever. For this purpose, Click on Tools | Session Manager ) when you install this addon.
+
+Good Luck

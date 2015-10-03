@@ -1,0 +1,7 @@
+Internet Explorer/Firefox " not responding".. why ?
+It happened lately when I go to websites to view videos or listen to music (youtube for example)
+I have mcaphee installed..
+I just bought this HP dv4-2040 US and it's so annoying...
+
+I hate when that happens....
+make sure you have all current versions of directX and flash installed.  sites like that have alot of advertisements that can bog down your comp if you dont.

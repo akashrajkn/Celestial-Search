@@ -1,0 +1,6 @@
+Why won't my camera work in chat roulette?
+Does anyone know why a camera might not be working for chat roulette?
+
+Whilst on chatroulette right click and go into "settings" and click on the camera tab and then click something along the lines of "allow chatroulette access to my webcam" This should sort out your problem. If it doesnt try updating your webcam drivers.
+You can use a virtual web-cam software with an image or video instead of a real web cam
+http://stream-recorder.com/forum/webcam-alternative-virtual-web-cam-do-webcamming-t964.html

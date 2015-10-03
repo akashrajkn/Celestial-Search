@@ -1,0 +1,19 @@
+Why do I have problems with new tabs opening uncontrollably, Firefox downloads, IE...?
+I had a PC that kept getting the blue screen of death. Then, it completely stopped working and would freeze as soon as it started up to all the icons and such. 
+
+Now, we're using our laptop as a home computer until further notice. It has Internet Explorer, and we just installed McAfee Anti-Virus 2010 on it. Now, a Firefox 3.6 is out, and I'd like to install it. However, it'll just about halfway install, then say "File Corrupt". I'm now wondering if putting Firefox on here will cause any future BSODss or viruses. Is it a good idea to install it (or version 3.5.8), or should I just stick with IE? 
+
+Also, two Web sites (imdb.com and myspace.com) will open up at least 40 new tabs everytime I click a link on them. Is this a virus, or something else?
+
+Please help! Thank you!
+
+This does appear to be virus-like behaviour (my computer did something similar when I got the virus that killed it), but if McAfee can't find anything...
+
+On the other hand, the virus that killed my machine was designed to kill the antivirus first, so maybe yours has.  Check it with McAfee's online thingy.
+Looks like to me that you are downloading it from a corrupt source 
+which can happen if you are using a mirror site.
+
+Tried downloading it from Mozilla themselves?
+
+http://www.mozilla-europe.org/en/firefox/
+In most cases, the build up of junk files in your registry is the main culprit of this trouble; this is due to the fact that area in your computer is very crucial because it is the central database of important files where most vital information and programs are stored. The accumulation of redundant items can significantly affect vital data because the build up can dislodge some of them from its proper location and cause others to be corrupted. The moment this scenario takes place, problems start to emerge and the dreaded blue screen of death appear which you need to immediately repair to prevent worsening the case.Consequently, one of the best solutions in managing the situation is to use registry cleaning tools  http://make-computer-run-smoothly.com                  with great power and capacity to completely flush out all junk files and fix all errors found. By effectively keeping this area clean from all trashes, you can also effectively solve the problem and even optimize your computer's performance.

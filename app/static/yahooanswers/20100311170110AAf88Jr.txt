@@ -1,0 +1,47 @@
+Ok so today i was on 4chan and saw this post:?
+www {dot} chan-exposed {dot} ph {dot} tc
+i went to the site and it did some java stuff then said all of this
+
+Java Plug-in 1.6.0_18
+Using JRE version 1.6.0_18-b07 Java HotSpot(TM) Client VM
+User home directory = C:\Users\jibbarousseau
+----------------------------------------------------
+c:   clear console window
+f:   finalize objects on finalization queue
+g:   garbage collect
+h:   display this help message
+l:   dump classloader list
+m:   print memory usage
+o:   trigger logging
+q:   hide console
+r:   reload policy configuration
+s:   dump system and deployment properties
+t:   dump thread list
+v:   dump thread stack
+x:   clear classloader cache
+0-5: set trace level to <n>
+----------------------------------------------------
+
+
+java.security.AccessControlException: access denied (java.io.FilePermission <<ALL FILES>> execute)
+at java.security.AccessControlContext.checkPermission(Unknown Source)
+at java.security.AccessController.checkPermission(Unknown Source)
+at java.lang.SecurityManager.checkPermission(Unknown Source)
+at java.lang.SecurityManager.checkExec(Unknown Source)
+at java.lang.ProcessBuilder.start(Unknown Source)
+at java.lang.Runtime.exec(Unknown Source)
+at java.lang.Runtime.exec(Unknown Source)
+at java.lang.Runtime.exec(Unknown Source)
+at Client.init(Client.java:26)
+at sun.plugin2.applet.Plugin2Manager$AppletExecutionRunnable.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+Exception: java.security.AccessControlException: access denied (java.io.FilePermission <<ALL FILES>> execute)
+
+
+now i have no idea what might have happened but can someone please tell me if I have a virus on my comp or not?
+
+If you were stupid enough to actually go to a link on 4Chan, you deserve any virus you may have received.
+No. It's not a virus.
+
+Don't click random links.
+it's from anontalk, it contains CP and sends your IP address to the authorities. the owner of anontalk is trying to be 1337H4Xx0r and get anonymous V& left and right. i seriously suggest you get it out of your system, as this isn't the first time this has been poasted and there are rumors of it doing it's job quite well in the past. ask around on the boards where you first saw it and hope someone can help

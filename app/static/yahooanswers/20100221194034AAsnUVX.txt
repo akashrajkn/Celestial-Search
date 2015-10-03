@@ -1,0 +1,7 @@
+Can't sign into lockerz.?
+every time i try to sign into lockerz it says, "you have been logged out please sign in".  What is wrong.
+
+ive had that prob...close internet and try again it works for me
+typing in the password incorrectly?
+Might be server problems, but try erasing all history from your browser, and logging in again.
+If this does not work, the only solution is to wait, or ask info@lockerz.com

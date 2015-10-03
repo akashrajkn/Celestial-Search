@@ -29,7 +29,7 @@ def search(dictionary_file, postings_file, queries_file, output_file):
     query_file = queries_file;
     out_file = open(output_file, 'w')
 
-    print ('yippie')
+    #print ('yippie')
 
     # load dictionary to memory
     loaded_dict = load_dictionary(dict_file)
@@ -42,14 +42,18 @@ def search(dictionary_file, postings_file, queries_file, output_file):
 
     query = queries_list
     result = process_query(query, dictionary, post_file, indexed_docIDs)
+    '''
+    print '&&&&&&&&&&&&&'
     print (result)
-
-    outputString = ''
+    print '&&&&&&&&&&&&&'
+    '''
+    output = []
 
     # write each result to output
     for j in range(len(result)):
-        docID = str(result[j])
-        outputString += (docID + ' ')
+        docID = str(result[j])[0]
+        count = str(result[j])[1]
+        output.append(docID)
         if (j != len(result) - 1):
             docID += ' '
 
@@ -61,7 +65,7 @@ def search(dictionary_file, postings_file, queries_file, output_file):
     post_file.close()
     out_file.close()
 
-    return outputString
+    return result
 
 """
 returns 2-tuple of loaded dictionary and total df
@@ -161,7 +165,11 @@ def load_posting_list(post_file, length, offset):
     for i in range(length):
         posting = post_file.read(BYTE_SIZE)
         docID = struct.unpack('I', posting)[0]
-        posting_list.append(docID)
+
+        posting = post_file.read(BYTE_SIZE)
+        count = struct.unpack('I', posting)[0]
+        
+        posting_list.append((docID, count))
     return posting_list
 
 """

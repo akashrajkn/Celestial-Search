@@ -1,0 +1,8 @@
+I am using an internet connection at a hotel. Which port is the default port for internet explorer?
+I am trying to use uTorrent to download something but non of the ports seem to be forwarded correctly. which one should i use?
+(illegal activities..."SUCK IT") I'm not forcing you to help me, thank you!!!
+
+Can't help you with illegal activities!
+dont EVER torrent on a public network, or a corporately owned network, unless the torrent contains all original content by the original uploader
+http://answers.yahoo.com/question/index?qid=20070114230408AArNnzZ
+lol u wouldnt be able to. they block it so they arent liable for anything that happens on their network. ud have to use common ports which possibly is monitored so 21 and 80 are ur 2 options that are probably open.

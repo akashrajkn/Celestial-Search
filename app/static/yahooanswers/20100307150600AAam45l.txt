@@ -1,0 +1,7 @@
+My netbook browser says its needs to be updated, I have internet explorer?
+btw I know for a fact I have interet explorer, I needed to know a link where I can download IE 8 for windows CE version 6
+
+I guess Microsoft skimped on the UI on CE and didn't automatically provide a link to update your software.
+
+Why do people use that crap???
+hello you can download from this site here

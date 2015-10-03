@@ -1,0 +1,25 @@
+I need a good media player for website!?
+Okay so I recently bought a domain and am hosting it this week. It is a website used for a home filming company called Konnection Films and what I am looking for is a nice media player that I can use for my videos. I don't want Youtube crap I am looking for something like Hulu, or Crackle. I want a darker skin with user friendly settings. Preferably if I can get the source of hulu's media player to play on my website that would be the best. Hopefully you get the right idea of what I want. Hope for responds! Thanks!
+
+Konnection Films, Facebook us!
+
+Good media players are:
+
+jwplayer
+proplayer
+
+the above store the video files on the server, and need to be installed on the server.
+
+a google search will give you more options
+
+if you aren't interested in using up the bandwidth of your server you can use an external host like megavideo, veoh, google video, etc.
+
+if your patient you can wait for html 5 to be implemented and then you won't need a player.
+Personally, I use Moyea Web Player to stream video on my website. 
+Moyea Web Player ( http://www.playerdiy.com/ ) is a quick solution to add flash video ( FLV ) to website and an easy-to-use Web FLV player creator, with which, creating custom FLV player (flash video player) with scrollable thumbnail playlist for website only needs a few mouse-clicks. And the skin of the generated web player can be easily customized.
+
+This is an example for easily customizing the flash video player - 
+http://www.playerdiy.com/support/tutorial/customize-flash-video-player.html
+
+Customize the skin and playback options of web FLV player:
+http://www.playerdiy.com/configuration/

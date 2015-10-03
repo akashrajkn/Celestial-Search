@@ -1,0 +1,15 @@
+What is the best internet browser?
+I would like something that is not slow you can get around on like Internet Explorer has.Also can block websites easily.
+
+Opera is the fastest web browser I know, have been using it for ages.
+Firefox is nice too, but loads slower.
+Google Chrome.
+Firefox is the fastest I've ever used, but it really depends on your computer speed, too.
+you all need to read her requirements!  with the requirement: block websites
+
+IE can block web sites.
+not safari, not opera, not chrome, not firefox.
+only IE can do that.
+If that were not your requirement, safari and firefox would be my best recommendations as far as ability to render documents.
+
+however, firefox doesn't always print well.  there is an overflow:hidden thing which people are using to display text on IE for printing (why?) and it's causing cross-browser problems.  it's their own fault.

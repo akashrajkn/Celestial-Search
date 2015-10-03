@@ -1,0 +1,7 @@
+Anyone else experiencing this IT problem recently?
+Two days ago tried to download a PDF file with the basketball brackets stopped the download and something took over my computer. On dial-up so getting 113 downloads in a few seconds was odd. Using Alt Ctri and Del keys was able to stop it. Yesterday was downloading PDF file on health care legislation from from e that said it was from CNN on health care legislation, and started to get hundreds on downloads in a second again. Using Alt Ctir Del keys was not as effective, but was able to shutdown. Run Norton and clean up disk. Did this happen to others? Might someone offer advice were PDF files might be found so I can delete them.
+
+No this didnt happened to me.But If you used a download manager then in that you can find the location where those files are stored.If you dont use any download manager then you have to manually have to check folders.
+
+
+One advice:Use Orbit downloader.It is the fastest download manager and very clean surface.So its pretty easy to use.It is the best in download managers.Its Free.!!!

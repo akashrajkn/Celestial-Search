@@ -1,0 +1,18 @@
+Why can't I right click on anything in firefox?
+Okay, so I can right click just fine on my desktop, (like to open the internet of change my settings) but i can't on fire fox. I've already downloaded the new version of it and checked everything I know to check to figure out my problem but nothing works. It's not just pictures but text too! When I try to right click the little menu that shows copy, paste, save, etc. doesn't even appear. Absolutely nothing happens. I've tried just about every combination of keys I know to bypass this, even tried to copy the whole page. but still nothing happens. It's not just one web page either, It's every single page... is anyone out there able to help? please?
+
+Firefox is a stuck-up bitch, don't worry though, Google Chrome is a great guy and loves to party, so ditch Firefox, Chrome is your new best friend!
+Try clearing your history and cookies. Also with the new version of firefox it has been reported that yahoo toolbar may cause this so if you have it i would try uninstalling yahoo toolbar. After doing this restart firefox and see if it worked. If it doesn't im not sure.
+1) Chrome isn't that great.
+2) Close firefox (don't save your tabs) and make sure that it's not in your processes (ALT+CTRL+DELETE) 
+3) Reopen firefox and if the problem is still there then you must reinstall firefox. 
+4) Start - Control Panel - Add/Remove Programs - Mozilla Firefox - Remove
+5) Using IE reinstall it and if that STILL doesn't fix your problem then....
+6) Use crappy ol' IE or lame ol' Goggle Chrome 
+
+If you enjoy all the features Firefox gives you then Chrome will not make you a happy customer. Just contact mozilla about your problem. You also may be able to find a someone that had this problem and fixed it in Mozilla's forums... Check that out too.
+i was getting the "not responding" message...
+the browser would open and that's all...
+
+i un-installed, then reinstalled and still had the problem... 
+i just opened it again 10 minutes ago and everything is back to normal... ;-p

@@ -1,0 +1,13 @@
+internet explorer isn't working but mozilla firefox is?
+It's been like this for a while, I'm guessing, I don't usually use internet explorer but I decided to randomly and it's not working.  And other symptoms include, itunes not being able to connect to the itunes store and firefox is crashing really easily/all the time.  I'm guessing these are all related.  I tried to "diagnose connection problems" on explorer but what they're telling me is "probably" the issue, is not the issue because I checked.  (which is firewall settings)
+I'm upset.  I want to get my free songs from the itunes store (gift card yo) and I'm sick of all this crashing.  Please please help.
+Wow, next time I ask a question on yahoo answers I feel I should probably say "I've already tried everything you're about to suggest so don't even bother."  Because this is the millionth time I asked this question here and no matter what I say, people only suggest things I've tried that haven't worked.
+UPSET.
+
+How did you check the firewall?
+and what kind of firewall is it (Windows, ZoneAlarm, Symantec)?
+
+Also, try reinstalling both iTunes and IE.
+
+And, if it's a recent problem, try restoring your system to an earlier time with a restoration point.
+If your computer is that unstable, you might be infected with a virus or something of the like. Make sure you have an up-to-date antivirus program installed on your computer (Avast works well and is free, www.avast.com). Also, make sure you have some sort of antispyware installed (Spybot works great and is free, www.safer-networking.org). Make sure you have the latest Windows updates installed.

@@ -1,0 +1,6 @@
+How do you make your wireless internet secure?
+I know how to add passwords and stuff like that but I want mine to be more advanced. I want mine to be a server with no passwords at the first but if you use Safari, it will automatically reload the page to a log-in site so that only members can use the internet.
+Oh and FYI, i have the wireless from the apple.
+
+In the configuration of your Wi-Fi router, you must have a table of MAC address filtering. You come back in this table, the MAC address of the Wi Fi laptop, so your mobile will only access the wireless network............................
+For more information check this link: http://forums.techarena.in/networking-security/1221745.htm

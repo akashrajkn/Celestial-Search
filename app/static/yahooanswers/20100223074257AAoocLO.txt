@@ -1,0 +1,8 @@
+On Gmail, how can I get emails I receive to go into a specific folder?
+I am trying to get it so that all my emails I receive from Freegle go into my Freegle Label however I have no idea how to, does anyone know?
+
+
+ Thank you.
+
+Look for the "Move to" tab at the top of the page.  It will give you a drop down list of whatever folders you have created.
+"Move to" tab at the top of the page. It will give you a drop down list of whatever folders you have created.......

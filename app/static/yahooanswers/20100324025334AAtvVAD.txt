@@ -1,0 +1,16 @@
+Temporary internet files?
+Is there any benefit in deleting temporary internet files and cookies every day.
+
+yes, but not necessarily every day. It frees space on your hard disk.
+Yes, There are some benefits for deleting temporary internet files.
+1.) As the name suggest they were used for temporary so no need to keep that files after use. deleting temporary files will help you to free up some of ur memory. And it will make your pc bit faster. 
+2) Sometimes cookies are harmful to ur pc. so it is advisable to delete cookies, 
+3) Temporary Internet file can contain viruses from websites you visited, so it's better to delete them.
+Yes I usually clean out my Temp files because I can get up to 8,000 items a day because I trundle around quite a bit, but I don't bother with cookies or anything else.
+
+Mainly because they contain the details to activate your auto log in details on sites. If you delete them you have to start all over again and I'm lazy because I like an easy life. Anyway seeing I'm the only one who uses this computer it doesn't matter that much to me.
+
+The average one is about 200 bytes and they automatically update every time you visit the site.
+
+I haven't cleaned mine out in over 18 months and I've just checked and I have only got 3.654 taking up the grand total of 2.15 MB on a 160 GB drive!
+Yes, iT frees up Hard Disk Space - Do not do it Daily (weekly or Monthly is fine)

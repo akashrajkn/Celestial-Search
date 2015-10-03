@@ -1,0 +1,15 @@
+improving online watching?
+i have an acer aspire 5332 and just recently everythingg i watch is very jumpy and stop start, anyone any ideas why this has started or how to fix it
+
+nope not 1 idea just thought the 2points would help me a little
+Yes - your internet connection is running slow .. visit http://www.speedtest.net/ (or any of the other speed test sites) to check what you are getting ...
+
+From what you say, it WAS working OK, so the question is WHAT HAVE YOU CHANGED ?
+(things like adding another extension phone or moving the Router or moving where you use your laptop  (assuming you are on wireless) etc.) ... whatever you changed, put it back ..
+
+If the answer is 'nothing', then is it possible your neighbors have just got WiFi ???? (most WiFi routers default to frequency band 6 - if your neighbors just turned theirs on it could be interference .. .. try changing yours Router wifi band to 1 or 11)
+
+Having checked everything else, all that's left is a hardware fault .. I suggest you try replacing the 'ADSL Filter' ... and then the router power block before replacing the Router itself (unless you can borrow a friends to do some testing)
+
+
+NB. If the problem is a duff Filter, your will need to power cycle your Router to get it to 'see' the new one .. and even then it can take a day or two before BT recognizes you have fixed it ...

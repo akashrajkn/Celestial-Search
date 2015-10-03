@@ -1,0 +1,16 @@
+problem signing into ebay can any give me some advice?
+I'm trying to list an item on ebay. It's telling me to sign in so i put in my username and password but the sign in page just keeps coming up. can anyone tell me whats going on
+
+Clear your cache and cookies via the tools tab on your browser.
+
+Internet explorer = Tools > internet options > clear cookies.
+
+Firefox = Tools > clear recent history > select everything.
+
+You can do this regularly by using a tool like Ccleaner, a free clean out tool 
+http://www.filehippo.com/download_ccleaner/
+You are typing something wrong, did you misspell something or put a _ when it should be a -  for example?  If you forgot your password just click on the link underneath. 
+
+Try clearing your bookmarks and log onto the Ebay page from the start. See if that helps? Other than that you will have to just contact them and ask for a reset of you log in details.
+you need to have ebay in your 'safe' list in tools/ internet options/security tab/click on trusted sites then click sites and add ebay to the allowed list
+Just click on the forgot my password and it will ask your email address and email you a temp password then log in to activate it and then change your password.

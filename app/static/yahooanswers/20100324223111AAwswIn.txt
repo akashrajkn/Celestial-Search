@@ -1,0 +1,4 @@
+I need help with DIV layouts?
+I usually go to this website createblog.com to get all my DIV layouts. i've recently gone to the site and none of the layouts show up. is there something wrong with my computer or the site? I figured if the site was messed up i could find another div layout website but to be honest, they're all crap. can someone either direct to me to a div layouts website or tell me if its just my computer not loading the site's layouts?
+
+You probably want to check the layouts to see if they reference any external CSS files. If those links break (as in, the files become unavailable for any reason at all), you're gonna get funny display misunderstandings between your website and browser. The best div layouts are the ones you make yourself, of course, since you know that there aren't any url triggers such as the ones used by http://whattheinternetknowsaboutyou.com , or any creepy scripts or cookie tracker gifs.

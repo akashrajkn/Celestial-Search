@@ -1,0 +1,13 @@
+my firefox browser does not play videos?
+my java script is enabled and i have adobe flash player installed but firefox does not install it .pls help me
+
+Hi 
+
+Try by installing the flash player manual  it will works....
+i think mozilla corrupt,sp just download and install latest mozilla firefox,software
+Ur anti-virus is blocking it.Try changing ur settings it will work or else change ur anti-virus.
+hi
+
+not only a browser is enough to play a video.u need to play a video are 1. flash player, 2. plug in(suitable for that video)3. shock way installer, 4. java runtime ( some videos run under java environment) etc 
+so just download the above and install then try.
+mostly if a video wants to play just download the require plugin that shows by the browsers in the page.

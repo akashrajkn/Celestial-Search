@@ -1,0 +1,16 @@
+Why does Paypal deduct four extra dollars for each payment you make?
+
+
+It's not always $4. They take a percentage of your total as a "service fee"
+I think, they dont. They only charge sellers NOT the buyers. or may be the card you have connected with paypal charges you the $4 for every transaction so paypal is charging this amount on the card company's behalf.
+Paypal takes a percentage of whatever you pay because they are charging you to use thier technology.
+
+Read this article for more details!
+
+http://www.ehow.com/how-does_4913093_how-paypal-works.html
+I thought it was for Fees or Converting in to USD fees, It's maybe fees for using the service.
+"Paying" things with Paypal should be free.  They want to encourage people to use it to Buy stuff.
+
+They only take the service fee only when you "Sell" something - ie: recieve a payment.  So if you are selling on eBay, it might be wise to know their fees so you can account for that in the price of the item you are selling.
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_display-fees-outside

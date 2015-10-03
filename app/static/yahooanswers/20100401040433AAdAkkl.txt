@@ -1,0 +1,6 @@
+How do i use a proxy server?
+Sometimes i use JTV and whenever a channel has more that a thousand viewers i get booted. Someone suggested i use a proxy server but i don't know how..
+
+proxy tips website:
+http://merakit-komputer.com/proxies-anonymity-anonymous.html
+http://merakit-komputer.com/proxies-anonymity-anonymous.html

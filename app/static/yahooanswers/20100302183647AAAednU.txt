@@ -1,0 +1,15 @@
+Why is my internet connection very slow periodically?
+Recently for the past month, I've been getting weird internet connections. Everything will be fine for a few hours, then it would slow down, and appear to have over a second of latency for everything (eg. Firefox, IE, downloads, gaming). And about 40mins~1 hour or so after, it goes back to normal, then the cycle repeats. This happens to both of my wired and wireless connections.
+
+When this happens, restarting my router or modem brings the speed back up, but it doesn't seem like there's anything wrong on my end since the latency goes away after a period of time. I've also not found any viruses that could potentially use up all my bandwidth.
+
+I tried calling my internet provider, and they have failed to find the root of the problem. Their suggestions were 1) Restarting the router/modem, 2) Someone might be using my internet, and 3) A virus might be causing this. But since this happens so often, simply restarting my router or modem everytime it happens is not an efficient solution. I have also double checked, my internet is secure with a difficult password, and nobody seems to be using judging it from the list of active+inactive MAC addresses.
+
+Could someone please help me out? Thanks!
+Edit:
+
+Like I said, it doesn't seem to be a problem with my router or modem, since the latency goes away and my internet connections go back to normal after a while even without having to restart the router+modem. ><
+
+Get either a new modem or wifi adapter
+Have check you pc make sure why is your pc is slow.
+ http://registry.tp5pro.com/Slow_PC

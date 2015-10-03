@@ -1,0 +1,5 @@
+why when I go to one of the sites, it says unable to connect?
+it will keep loading and then at the end, it will say unable to connect.. need help. I really need to login to this site but right now it's not letting me, is there a way to fix it?
+
+hi john, depends on the site you are trying to access, there server may be down, if you are getting the message "unable to connect to this site" this is probably the cause and there is nothing that you can do to fix this. other wise you may need to lower your security settings But this I do not encourage as this is bad for your computer. just keep trying.
+Hope this helps.

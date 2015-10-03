@@ -1,0 +1,16 @@
+internet explorer problems?
+When ever I want to stream a video on ANY website, it shows but there is no sound. I checked the sounds settings on my laptop and it seemed fine. I thought it was a laptop problem but I played some songs using iTunes and even played some movies that were on my external hard drive and it worked perfectly. Any idea what the problem could be?
+
+Switch to Firefox. Seriously.
+ugh. firefox. so much safer and easier. takes 4.2 minutes.
+Make sure you have ALL of your Windows updates done.
+the icon for windows updates should be under your Start menu.
+you may have to reboot and do more but keep going back to make sure you have them all installed.
+Providing your problem is related to your internet browser I would suggest changing from internet explorer to Mozilla Firefox, Safari or Google Chrome. I have used all of these are they are, in my opinion, better than explorer.
+upgrade IE and intall adobe flash palyer and for better performance adn download of streming videos install realplayer
+Check your IE settings under Tools, Internet Options, Advanced and scroll down to the Multimedia section. Make sure that "Play sounds in webpages" is tickmarked then click Apply, then click OK. 
+
+Close all your open browser windows and reopen one to try to see if you can then hear online content.
+Hey Freakie!
+
+Try this link and download the latest Adobe Flash Player.  Hope it works for you!

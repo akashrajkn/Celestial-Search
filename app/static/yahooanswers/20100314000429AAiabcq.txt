@@ -1,0 +1,8 @@
+i have a problem with my internet browser,?
+i cant go to any sites and my yahoo messenger doesnt work too, how can i fix this, pls help. it says that i have possible http connection problem.
+and also, my internet connection is working fine.
+
+It may not be a IE problem. check out whether you got your connections right. Check out IP and DNS addresses. If this still continues call you Internet Service Provider.
+If you cannot get to sites, how did you post this question? 
+
+Use a different computer and try to create the problem again to test.

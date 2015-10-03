@@ -1,0 +1,12 @@
+Internet search opening wrong pages?
+I think it only happens late at night, but when I go to Google and type, for example, Antigone, I find websites that are green checked by my virus software and have legit names (like wikipedia) but they actually open other sites, like things for sale! Often I can't even go back to Google with the back button, I have to type Google into the address bar again. Any ideas? I must be able to search! I have homework. :)
+Hmm... it DOES sound like spyware, but I have paid virus/spyware/malware, etc. protection that says I'm covered. ??
+
+Sounds more like you have spyware.
+It's because Google knows white chicks look at porn.
+Your machine is infected with a search hi-jacker.
+
+Perform a full system scan with both your anti-virus and anti-spyware programs.
+
+Quarantine what they find.
+A virus I think.

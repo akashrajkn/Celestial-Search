@@ -1,0 +1,7 @@
+When I press F11 in Internet Explorer,the address bar doesn't go up.?
+I am using a vista laptop(Pavilion dv4). I recently played this game called Keyboard Smash on Face book,and after I played,the address bar doesn't go up.Anyone knows what is happening?
+
+there is only two things I can think off...
+use Firefox (but dont think this is appropiate)
+Windows>All Programs>Assesories>System Tools>System Restore
+dont worry you will not lose any documents or anything, it will just change some of your settings back to the date you choose... so in this case, if that happened yesterday, you may want to restore it to the day before, that should do the trick - I aint no technician, but that is all I can think off - See what others say, good luck =]

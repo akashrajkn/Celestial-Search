@@ -1,0 +1,10 @@
+Firefox addon for saving an image with a click?
+I'm looking for a firefox addon that will let me save an image I click on with some form of modified click (like shift+click, or middle click, or something like that). It should then save to some pre-specified image directory automatically.
+
+Is there an addon that does anything like this? I really hope I don't have to make this addon myself... but it sure would save me time.
+
+Also, addons I'm NOT interested in is ripping all the images from a site. I'm looking to save only specific images just much much faster than rightclick->save image as...
+
+This is the closest I could find, you still have to right click and save image as, but this way you can put it directly in the folder you want.
+
+https://addons.mozilla.org/en-US/firefox/addon/614

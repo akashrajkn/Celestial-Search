@@ -1,0 +1,22 @@
+how do you fix your internet explorer when you have an internet connection?
+i have internet connection. im on mozilla firefox right now but my internet explorer wont work for some reason and i dont know why. HELP!
+
+redownload it
+Reset IE-8 to Default, in Options, Advanced...
+If your pc has error, you can check your pc health online:
+<--http://pc-check-tools.com/PC_Error
+Computer errors:
+Infect spyware
+Registry problem
+
+You are infected with spyware if:
+
+* You see too much pop-up advertisements.
+* Your browser has toolbars that you haven't installed.
+* Your homepage has changed (and you can't change it back).
+* Other settings have changed without your permission.
+* Your computer is slow.
+
+To get rid of spyware and keep your computer clean you can use an antispyware or even more. 
+You can download a antispyware software.
+ http://top5antispywarereviews.com/reviews.htm

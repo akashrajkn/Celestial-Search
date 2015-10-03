@@ -1,0 +1,5 @@
+How do i get roboform to work on the new version of firefox?
+
+i dont understand?
+
+If you mean 3.6, no. But it works perfect with ff 3.5. You only need to check the option for firefox.

@@ -1,0 +1,8 @@
+Will a proxy server keep me from getting caught downloading torrents?
+I'm trying to find a way to download bitorrent's without getting caught by my internet provider (i've already gotten a pre-lawsuit notice, so i know they are watching me extra close.) will a proxy server hide me completely? or can my internet provider still see what i'm downloading?
+
+idk but telling everyone on yahoo will lol jkjkjk
+Download peer guardian.
+Everything you do goes through your ISP, and that is where you are being tracked from.  It seems to me you don't give a damn about the law, so go right ahead and steal! We'll see you when you  get out of prison!
+Sorta, but no... It will redirect your outside ip address, but if someone was looking for you, and they did what is called a traceroute it would show your actual outside ip address as one of the hops it takes... so no not really :(
+Proxy servers leak everything. They are not secure. You would be a fool to do this and risk some multi million dollar lawsuit.

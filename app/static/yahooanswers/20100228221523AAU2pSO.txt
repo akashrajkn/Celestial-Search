@@ -1,0 +1,24 @@
+Problems with latest Firefox eating memory or Yahoo Answers?
+Okay I have been out here the last couple of days on the net and I have noticed that my computer is bogging down especially on my input devices. So today I pulled up Task Manager and Firefox is eating memory BIG time. When I first signed on it was about 500MB total usage but after awhile I was up to 1.5 gigs total usage and most was being used by Firefox. Now I only have two windows open so is it Firefox or Yahoo answers that is swallow my memory wholesale?
+
+It is the browser. I switched to Google Chrome after I became frustrated with the slowdown of Firefox
+yeah Firefox tends to do that. Kinda annoying, I'm really considering going Chrome.
+
+As long as I can keep my StumbleUpon.
+Looks like you might have fasterfox enabled.
+Disabling it will ensure that you're not trying to download pages ahead of time.
+Piping your connection can slow it down for most machines that don't have a
+lot of RAM to work with. If you don't have FasterFox installed then install it.
+Set it to Turbo and it won't use as much memory with the "Turbo" setting.
+
+
+Hope that helps. o_O
+
+ - Hex
+give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine "experts" say is impossible
+stop using Firefox
+Install Apple Safari,it rules!! It's much faster than Firefox.
+P.S don't use Chrome,its all hype and it lacks security!!
+I'm a browser expert,so you can count on me :)
+Use Safari
+Depends on how much ram you have installed. FireFox has been using 1,000K. Even though I have 4GB ram. You might try and run a registry cleaner? Or up your ram?

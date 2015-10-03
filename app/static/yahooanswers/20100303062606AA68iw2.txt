@@ -1,0 +1,12 @@
+Is this colleges internet connection fast/good enough?
+I'm trying to pick a college to go to, and the internet connection will be a big part to me seeing as how I play online games  a whole lot (WoW, tf2, Battlefield Bad Company 2 etc, but mainly WoW).
+
+Anyways, I know very little about connection and bandwidth and how they relate. Heres the direct quote from the schools website about their bandwidth
+
+"At the present time, **** University maintains two DS3 connections to the Internet. One DS3 connection is through Network Virginia and the other is through COVANET. This provides a maximum Internet Connection capacity of 90 megabits per second.
+
+Of the 55 megabits of bandwidth **** University has available, the residence halls are guaranteed 20 megabits of burstable bandwidth. (This means that if other campus users are not using the remaining 35 megabits that the residence hall users can take up to the full 55 megabits.) Within that 20 megabit guarantee, there is a 10 megabit hard limit that keeps incoming P2P traffic from exceeding 10 megabits of our total bandwidth. There is also 5 megabit limit on outgoing P2P traffic. The outgoing P2P traffic is primarily composed of off campus users connecting to student computers and downloading files from residence hall computers"
+
+So yea, should this be good enough?
+
+How sad...picking a college based on its internet connection for gaming! LOL

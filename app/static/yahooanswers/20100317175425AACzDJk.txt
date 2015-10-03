@@ -1,0 +1,6 @@
+How do I get rid of the fbssearchproviderie8.exe error that keeps popping up everytime I log onto Windows?
+I've disabled a toolbar associated with Facebook thinking this would fix it, but I still keep getting the pop up. There are 3 users on the computer and it only shows up on 2 of the users when they log on. PLEASE HELP! Thanks!!
+
+Follow these directions from microsoft
+
+http://social.technet.microsoft.com/Forums/en-US/itprovistaie/thread/c33c6ac0-7f29-4f57-8dee-98725aea9609

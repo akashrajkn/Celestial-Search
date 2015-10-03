@@ -1,0 +1,5 @@
+What Is A 'Timeline' On Twitter?
+
+
+Twitter timeline is a twitter visualization tool that allows you to view your twitter feed in a timeline format.
+it's your home page on twitter where you see the people you are followings' tweets

@@ -1,0 +1,22 @@
+How can I switch back to Internet Explorer 7?
+My computer automatically upgraded my "Internet Explorer 7" to 8. I hate it! There's so many problems on my computer now. How can I change back to my good Ole Internet Explorer 7 for free? Please Help! Thanks in advance!
+
+Start, Control Panel, Add or Remove and if not there check Show Updates, on top of page...
+i think the best way to do it would be to just search "download internet 7 free" on google and download it. i do not know how to delete internet explorer 8 but if you just delete the shortcut on your desktop and then just have the internet 7 on your desktop then you could just use it.
+If you have an IE shortcut on your desktop right click... go to properties.... from there it should have a category at the top that says "Previous Versions"... select IE 7 and that should work.
+I would make a suggestion in this regard. I stopped using Internet Explorer a couple of years ago; and if you follow my advice, i bet you are going to assert the same.
+
+Internet Explorer is no longer a good web browser. Everyone is using Mozilla Firefox. Its free, open source, and best of all Light weight (That means it does not slow down your computer) and Fast (Websites load faster).
+
+Take a look at the difference in loading times: (This is the only one i could find online at the moment)
+
+http://www.youtube.com/watch?v=5-V60B5hvSg
+
+
+Give it a look by downloading it from: 
+
+http://www.mozilla.com/en-US/firefox/personal.html
+
+And you will see the difference for yourself.
+
+Cheers!

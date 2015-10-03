@@ -1,0 +1,4 @@
+Is 7chan down I can't access the site?
+When I Diagnose Connection Problems all I get "www.7chan.org" is not set up to establish a connection on port "https" with this computer the site was working fine on Saturday so can someone please help.
+
+Yes, they have been for days.

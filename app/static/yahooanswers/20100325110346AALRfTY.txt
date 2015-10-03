@@ -1,0 +1,8 @@
+What internet browser allows you NOT to delete history?
+I had Google Chrome, but I noticed you could still delete or be "secret" about the history with the 'incognito" tool. So, I want that gone. 
+What internet browser won't let you delete the history?
+Or what is a good tool to make sure you can 100% see what a person is looking at.
+thank you :)
+
+no browser stops that. however you can write scrips that stop users from having the option. you could write a script to back up all the history to another location for your review and i do believe checking logs in your router and DNS server will also do the trick
+http://www.netnanny.com/ will log all internet activity, regardless of what browser you use, whether you delete the history, or even with "incognito" mode.

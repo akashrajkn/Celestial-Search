@@ -1,0 +1,13 @@
+Toolbar help on internet explorer?
+I don't know how, but the address bar on the toolbar when I open up windows has dissappeared. Its been like this for a while, and when I right click and re-add the address bar, it only comes up as a grey letters 'Address' on the right side of the toolbar. Also, idk if this is linked to it, but if someone gives me a link to a website I can't access it. How can i fix this?
+
+You must be using the very old Internet Explorer 6 ?
+
+First you must unlock the Toolbars then you must right-click, grab and drag the dotted "Move Bar" that is to the left of 'Address'. Then extend it as desired.
+
+It is tricky and takes some practice.
+
+The full procedure is here...just click it:
+ http://www.microsoft.com/windows/ie/ie6/using/howto/customizing/custombrowser.mspx
+
+When done, just be sure and "Lock the Toolbars" again.

@@ -1,0 +1,24 @@
+Does Comcast throttle me down because I use bittorrent client?
+I had a really good cable connection through Comcast, until yesterday I started using bittorrent to download some old movies.
+
+All the time I have bittorrent client on I get dropped internet connections, websites become unavailable, DNS requests fail, "INTERNET" light on my router gets yellow, which means that it loses or resets the connection to the cable modem. I never saw this light going yellow before.
+
+Now I stopped the bittorrent client and connections seems to be good again.
+I tried to bypass the router and connect my PC directly to the modem, but I still had the same problem with connections as long as bittorrent client is running.
+
+Bittorrent by it's nature causes many incoming connections from other clients and they may download chunks of data from me, as well as many outgoing connections.
+
+I don't think Comcast is supposed to look at the contents of the traffic, also it shouldn't matter for internet provider how many TCP connections there are.
+
+But that's what I observe: quality of my cable connection correlates to if I have bittorrent running or not.
+
+So is this possible that Comcast tries to hamper my connection in some ways based on the torrent client? Should I just change TCP port to something different so that middlemen can't guess what is that? Or maybe Comcast penalizes me based on the number of incoming connections?
+
+Any guesses or insights insights into this problem?
+I am not stealing. I am downloading files without copyright.
+To Ben: I never use more than 300kB/sec out of allotted 12Mbps. it looks like it's more than moving me to the end of the queue. My connections are dropped.
+
+They certainly might.  They have the right to control all traffic on their servers, including blocking you from stealing!
+Comcast doesn't have a right to block torrenting. But they do have a right to manage their networks. When you open a ton of TCP connections, whether it's because you're torrenting or because you're hosting a server, you slow down the Internet for everyone else in your neighborhood.
+
+Comcast's current policy is that anyone using more than 75% of their allotted bandwidth for an extended period of time gets pushed to the end of the line. They don't block your packets, but they'll give them a lower priority. So if you're trying to torrent a movie and someone else wants to check their email, Comcast's servers will let that other person's request go through first. You'll have to wait at the back of the queue.

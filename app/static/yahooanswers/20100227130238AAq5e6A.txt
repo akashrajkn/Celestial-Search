@@ -1,0 +1,6 @@
+How does twitter work?
+I was just wondering about sending messages to people. I don't have a twitter myself but when you look at someones twitter and a tweet has someone else's name at the start is that from that person or to the person who's twitter you're on?
+So who is sending the message to who?
+
+It means the person is sending an ' at reply ' to them, so it's like a message.
+The @ is from the person sending the message. The @name is included as part of the message length and twitter only allows 140 characters, so the longer the name, the less room left for a message.

@@ -1,0 +1,8 @@
+I am using internet explorer 8 with vista and I need to downgrade to 7...?
+I am attending school and part of my class is online.  The blackboard doesn't work with 8, but it says it is compatible with 7.  Do I have to purchase hardware.  How do I downgrade?
+Also how do I uninstall 8.  I am not that great with computers.
+
+No, just stop using Internet Explorer altogether and use a real browser. Such as Safari, Chrome, or Firefox.
+IE 8 has something called Compatibility View.  Click on the little icon that looks like a gear and choose Compatibility View Settings.  Add the address of the site that doesn't work and Internet Explorer will run the site as if it is IE7.
+Un-install 8, then download 7 and install it.
+You may also try another browsers.

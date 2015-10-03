@@ -1,0 +1,7 @@
+Why doesn't my Webcam connect to Chatroulette?
+I click on "Allow" when it asks but it still only shows a black box under where it says "You". My webcam works though.
+It doesn't have a troubleshooter.
+
+Maybe see the Chatroulette troubleshooter.
+
+Editted: Maybe your webcam just doesn't work on particular websites. Not everything on the internet is perfect xDD

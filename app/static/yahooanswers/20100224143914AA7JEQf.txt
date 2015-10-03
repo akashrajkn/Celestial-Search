@@ -1,0 +1,4 @@
+Slow Internet connection????
+Well when im downloading on utorrent its been hanging in the 10 kb/s range when like a month before was higher than 300 kb/s any tips on maximizing my connection to get a higher download rate?
+
+My guess is, that your Internet Provider is slowing it down a bit intentionally...You can Restart PC in safe mode by tapping F-8 key, choosing "Last Known Good Configuration" from menu. Next use Malwarebytes, SuperAntiSpyware, Hitman Pro, ccleaner and Restart PC...

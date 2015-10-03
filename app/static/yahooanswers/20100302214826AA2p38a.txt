@@ -1,0 +1,33 @@
+How do I reenable Internet Explorer?
+I got a virus a while back that required me to disable the internet explorer proxy server so that the virus couldn't actually access the internet. Now I need to turn the internet explorer proxy server back on so I can access the internet again. How do I do this?
+
+I know to go to tools
+click internet options
+click connections
+and click LAN settings
+
+but then it asks for me to type the address of the proxy server - I don't know what to type here
+and then, I don't know what to type for the port number
+
+you don't have to use a proxy server to access the internet but if you wish to just google proxy servers and it should come up with thousands of results, here is a website as an example http://www.hidemyass.com/proxy-list/
+If you can connect to the internet without a proxy server then you don't need anything in there.
+
+You only need to have a proxy set if your local network requires you to go through a specific machine before being able to get out to the internet.
+
+Proxies can also used to disguise your ip address when you want to do something less than legal online and want to make it harder for authorities to track you down. But finding a proxy for this is a little more complicated and will severely slow down your browsing.
+
+If you DO have to go through a proxy to get out of your local network and onto the internet then you will have to find out what ip address the proxy machine is and what port it's setup on. No one on the internet will know this information, ask someone who is more familiar with your local network such as your network admin (if you're at work) or dad (if you're a kid and at home) or whoever setup your local network for you.
+
+Also stop using Internet Explorer if you're worried about things like viruses, Firefox or Google Chrome are much more secure browsers.
+most internet connections don't use a proxy server.  call up your ISP and find out what your proxy server setting are (if any).
+
+also, if you are not using PPOE or dialup and you have some connections listed, remove them.  that alone may be blocking you from using the internet.
+
+If all else fails, you might try:
+start, control panel, add/remove programs, add/remove windows components
+uncheck Internet Explorer, click next, etc. until it uninstalls IE.
+recheck Internet Explorer, click next, etc. until it installs IE again.  
+you will lose any plugins that were added on and it will reset to default settings.
+Network connections>Enable. dun.
+
+Did you forget to plug it in?

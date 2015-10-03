@@ -1,0 +1,4 @@
+watch videos at NDTV.com?
+Why am I not able to watch videos at NDTV.com? I am able to navigate the site well, without any problems but the video does not play.
+
+Is it the problem with only this site?... can you watch video on youtube?... if yes.. then the problem is most probably on that particular site... Else.. you need to upgrade the codecs/drivers required to watch videos online...like direct x, flash etc..

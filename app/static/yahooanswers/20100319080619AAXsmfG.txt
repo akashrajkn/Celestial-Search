@@ -1,0 +1,9 @@
+Is it possible to search by a photo?
+Is there any way i can upload a picture to somthing and the web will search for the same picture?
+Thanks
+
+If you get a picture up on the web and you select Images at the top in Google, you can select to find similar pictures. It might find what you are looking for.
+Searches Images with right click.
+
+
+http://www.tineye.com/plugin

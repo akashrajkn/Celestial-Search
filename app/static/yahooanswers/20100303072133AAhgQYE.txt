@@ -1,0 +1,7 @@
+i cant connect to the internet and my local area connection is missing.?
+before it happend i use system restore and viola.. i have no internet. every time i open my browser it says offline..ive tried so many things using the help of windows but i cant fix my probem
+
+try restoring back before the restore.might have to reinstall your drivers again.not sure what your using however so cant really say.you should explain what your using for internet and the computer your using
+Possibly it's just the profile disappeared. Look in your control panel and click on Network Connections.  Have you tried to create a new connection? When you do it will pop up a Wizard that will take you through the steps. Also make sure the driver for your LAN card is still there. You may need to reinstall the driver.
+
+Hope this helps!

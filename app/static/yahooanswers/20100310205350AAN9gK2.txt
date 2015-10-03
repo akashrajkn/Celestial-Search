@@ -1,0 +1,17 @@
+What are some good (not sure what they're called) parent locks for firefox?
+I'm looking for something where you can chose what you want it to filter.
+Most ones that I've found are mostly for blocking out porn.
+I'm looking for something where you decide what you want it to filter.
+Do you know any?
+
+I downloaded something called leech block for firefox that lets you set which websites are blocked for certain times of day or after a certain amount of time....it's for my own good....yay procrastination
+I personally dont use blockers, however i have heard good things about;
+
+1. Suricate
+2. FoxFilter
+
+I think in FoxFilter, you can choose to block keywords as well;  so they cant search it up in google. I installed them on several peoples computers, and they're happy with it so i dont know...
+
+good luck! ;)
+Try Aobo Blocker. http://www.aobo-porn-filter.com
+It is easy.You can add the websites and programs you don't want to blacklist. And it works in stealth mode, and won't show in the task manager. With password protection so that no one can change your settings without password.

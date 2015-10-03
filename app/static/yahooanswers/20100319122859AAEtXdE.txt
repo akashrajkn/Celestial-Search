@@ -1,0 +1,12 @@
+Question about a problem I am having with Firefox and formatting text.?
+So, I am having this little problem with firefox. Everytime I am on Gaia online, and I have a long post typed up, I try and format it and it skips to the start of the post. For example, if I have a huge paragraph typed up, and I want something to be in bold, I will highlight it, put it in bold, and it will bring me to the start of what I wrote. This is a massive pain, because I often times decorate my posts for my roleplays.
+
+I know it is not Gaia because it does not do this on any other browser, nor does it do this on my friend's firefox browser.
+
+Please help!
+yes, it is up to date
+
+Is your version of Firefox up-to-date (3.6.1)? If it isn't, please update it. That's the easiest way to fix problems.
+Hmm I tried it and it happens to me too. But I didn't notice 'cuase I type in all my BBCode or I paste it in. 
+
+Try asking in site feedback or the Q&A forum, those people know everything. Or, you can just type in the coding.

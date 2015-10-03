@@ -1,0 +1,14 @@
+how to watch french tv online when some channel detect the IP address?
+so they detect the IP address and they telling me that it is not available from my country!
+even when i hide my IP address and change it for a french one through a software they still telling me it is not available from my country... nightmare!
+even their replay is the same they can detect where we are!
+the channel is M6 and TF1 really i need some help here
+i am living in england!
+is there any solution?
+
+The Slingbox would solve this problem for you.
+
+You would need to buy and install the Slingbox somewhere in France such as a relatives. It would require a connection to the internet.
+
+You then download the software to you computer and can watch anything from the unit.
+You can watch live here http://www.cricb4u.info/

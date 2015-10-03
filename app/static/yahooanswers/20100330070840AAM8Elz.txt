@@ -1,0 +1,10 @@
+Computer problem? My computer keeps opening lots of IE pages! Why is this?
+It keeps opening page after page and sounds like a hair dryer. What is happening?
+I have anti virus programmes telling me I have no virus, what can I do?
+
+You might have a spy-ware. Is there ads on the pages you see?
+You most likely have a virus.
+in that case, it should be a virus or malware
+system restore
+Oh, sweetie, that happens to me sometimes. By pages you mean tabs, right? You have malware and/or spyware. Norton Anti-virus won't pick this up. I'm not sure how to fix it (my father usually does, haha), but call tech support or Geek Squad or something. Next time, do Windows Update (start>>Windows update) every once in a while to get the newest anti-spy/malware protection.
+Good luck!!

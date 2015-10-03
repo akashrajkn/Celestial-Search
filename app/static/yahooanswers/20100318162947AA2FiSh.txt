@@ -1,0 +1,19 @@
+Is AVG a good virus protection? I have AVG 9.0 Free. Dose it provide good protection? Thanks!?
+Is AVG a good virus protection?
+I have AVG 9.0 Free. Dose it provide good protection? Thanks!
+
+AVG is fine, just make sure to have a spyware protection program installed as well, such as malwarebytes.
+Depends upon your browsing habits I suppose!
+Get Microsoft Security Essentials. Its good and free.
+Everyone is going to have a different opinion about this, but personally I always rely on AVG Free for my virus protection. I've never had any problems with it, neither have I ever had any significant infections on any of my machines (except for one time when an idiot user decided to download some "adult pictures" in an *.exe format........ but don't get me started on that....) 
+
+Just be aware that AVG Free is just an antivirus - it doesn't come with a firewall.
+It is reliable, and ive actually used it for a year. (avg)
+But to save you time and get less programs get microsoft security essentials.
+It also removes viruses already installed in computer and it is a antispyware.
+Link
+http://www.microsoft.com/security_essentials/
+It's like anything you get free. You get what you pay for.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

@@ -1,0 +1,30 @@
+Streaming live video windows bases flash or other?
+I'm trying to stream live video of an event to a network device for digital signage, i've tried windows media encoder and it works fine but is limited to 4 connections and I have 13. We don't have a flash server so can't try that. I was just wondering if anybody knows any other software or way to stream live video to an ip address as I have to point it at a network address in order for it to work.
+Thank in advance for your suggestions
+
+have you looked at justin tv.
+Veetle.com
+vshare.com
+
+they all let you stream.
+
+if you have a free programme like manycam you can also add adverts or a watermark to your streams
+
+I use them for streaming live sports and events and they work very well.
+
+heres an example of the live tennis on now.
+http://www.atdhe.net/7635/watch-atp-dubai-tennis-championships
+Try the VLC player
+
+http://www.videolan.org/vlc/
+
+http://blog.tmcnet.com/blog/tom-keating/voip/streaming-live-tv.asp
+To stream live video on website, you can check this tutorial with the RTMP Stream Plugin of Moyea Web Player - http://www.playerdiy.com/blog/play-live-streaming-video-in-your-customized-rtmp-flv-player-on-site/
+
+Moyea Web Player ( http://www.playerdiy.com/ ) is a quick solution to add flash video ( FLV ) to website and an easy-to-use Web FLV player creator, with which, creating custom FLV player (flash video player) with scrollable thumbnail playlist for website only needs a few mouse-clicks. And the skin of the generated web player can be easily customized.
+
+This is an example for easily customizing the flash video player - 
+http://www.playerdiy.com/support/tutorial/customize-flash-video-player.html
+
+Customize the skin and playback options of web FLV player:
+http://www.playerdiy.com/configuration/

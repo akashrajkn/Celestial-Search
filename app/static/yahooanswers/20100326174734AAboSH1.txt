@@ -1,0 +1,13 @@
+What Web Hosting services offer video streaming on your website?
+I have a website hosted by godaddy.com but unless I buy the big dedicated server hosting plans, I can do live video streaming.
+
+I have a camera setup at my church and I want to stream our services LIVE.  With godaddy I cant unless I purchase a dedicated server hosting plan which start at like $60/month. Is there anything cheaper  out there?  Thanks!
+
+I suggest you this website http://www.tenhostingreviews.com/ffmpeg-hosting.htm
+You can Be the Reseller in the site http://www.goresellers.com/ and Transfer,register the Domain,Bulk Transfer,Hosting etc...I hosted my site by getting the reseller plan in that site.
+http://www.threehosts.com/multimedia
+
+Top 3 best web hosts supporting audio/video streaming.
+
+Hope this helps.
+Host monster supports audio/video streaming with normal hosting plan.

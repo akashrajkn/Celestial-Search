@@ -1,0 +1,10 @@
+Fusion Fall nano's with only one mouse Button?
+I am trying to play Cartoon Network Fusion Fall, but when the game is telling me to click the right mouse button to use a nano person thing, I have a problem. My mouse only has one button! I have one of those one button Mac mouses. How do I play the game when I only have one button. Is there another way to play?
+
+if you press the ctrl button and click it results in the same as a right click.
+You can use the Z and X buttons on your keyboard for the mouse commands.
+
+Z = left click.
+X = Right click.
+
+You can also change these keys to something else if your not comfortable using those by going to Settings and Controls.

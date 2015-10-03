@@ -1,0 +1,6 @@
+My broadband connection keeps failing......?
+At what are obviously busy times on the net.  I use Firefox via Orange.  Anybody else had a problem please?
+
+Hi,
+
+At busy peak times you may notice your connection lags and then drops completely, if you already have a high connection signal the only other thing you could really do is make sure you are running the lastest software provided by Orange.

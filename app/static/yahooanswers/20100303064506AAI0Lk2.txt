@@ -1,0 +1,51 @@
+Internet connection keeps cutting out?
+For the last 3 or 4 weeks my internet connection has been cutting out a lot and the signal says it is poor pretty much 24/7. My computer is new, I got it just after christmas and the connection has been strong and never used to cut out until about 4 weeks ago. It's starting to get really annoying! Whenever it goes off, I trouble shoot it and it says to turn off or unplug the router and leave for 10 seconds etc, so I do this and when I put it back on it the internet still disconnects the same as before. Sometimes it says something about a DNS problem or something? 
+
+I'm not very good with computers, so I have no idea what is causing the problem or how to fix it. Does anyone have any ideas? I am wondering whether to contact my provider, sky, but I'd rather be able to fix it myself. I am also using Windows 7.
+
+Contact your provider. It sounds as if there is signal strength issues.
+A DNS error means that you are unable to view web pages. 
+
+If you have gotten a DNS error, follow these steps :
+
+1. Check to see if you are connected. (if you aren't that's the problem, if you are then follow these steps): 
+
+2. Double click the My Computer icon. 
+
+3. Double click the Dial-up Networking icon. 
+
+4. Use the right mouse button and click Online Gateway icon. Left mouse click properties from the list. 
+
+5. Click the Server Types tab and make sure that TCP/IP is the only allowed network protocol checked. 
+
+6. Click the TCP/IP Settings button. 
+
+7. Make sure that Server assigned IP Address is dotted. 
+
+8. Make sure that Server Assigned Name Server Address is dotted. 
+
+9. Press OK to the next two windows. 
+
+If that doesn't fix the problem, follow these steps. (Please note you may need your Windows CD to make these changes): 
+
+1. Double Click the My Computer icon. 
+
+2. Double Click the Control Panel icon. 
+
+3. Double Click the Network icon. 
+
+4. Click on the TCP/IP protocol then press properties. 
+
+5. Make sure that obtain an IP address is dotted, then click the WINS Configuration tab. Click Disable WINS Resolution. 
+
+6. Click the DNS Configuration tab. Make sure that DNS is enabled. 
+
+7. You will have to enter some information now: 
+
+Host: olg 
+Domain: olg.com 
+Primary DNS: 205.177.168.14 
+(note you must press add after you enter each number) 
+Secondary DNS: 205.177.168.189 
+
+8. You will now press OK and then OK to the next window. The computer will then say you need to restart the computer to make these changes, press OK.

@@ -1,0 +1,12 @@
+Why my status bar most of the time say " Done, but with errors on page"?
+the status bar that is in my internet explorer page down under thats say's " done but with errors" and there is yellow sign with it. How can I fix it because sometimes I cant for example click back botton and it responds, so what should I do?
+
+
+Thank u very very much
+ P.S I always delete my history and cookies when I see it but it doesnt work
+
+that is due to website server errors or your internet speed...
+Either your internet connection is so slow that it's timing out before the page fully loads, or it's a problem with the page itself.  If it's not your connection, there's really nothing you can do about it, because it's on their end, not yours.
+Usually that is due to a problem with the script on the webpage you are visiting. Microsoft has an extensive trouble shooting page on the subject manner including changing the script error settings.
+
+http://support.microsoft.com/kb/308260

@@ -1,0 +1,16 @@
+Why cant i delete the virus in my computer with kasprisky?
+It said i have a virus but no where to delete it? all it said is delete FROM list quritene (sorry for poor spelling) and a few other things but NOT remove or delete virus
+
+I guess you men Kapersky.
+
+If it has put in quarantine then that is safe. You need to restart your computer before you can delete it.
+If it tells you what the virus is exactly you might want to do a google search like this: "insert virus name here" removal. Then find a page where it shows you how to delete the virus, if it is too tricky for you to do go to majorgeeks.com or some other computer forum and ask a professional for help on the forums. Also you might want to run the kaspersky scan in safe mode, you can get into safe mode by rebooting and tapping F8 repeatedly at the boot screen. Then go to safe mode and run your anti virus program and delete it, similarly you can also do a system restore. Hope that helps!
+None of the anti-virus programs are 100% they are best used to catch them before they get onto your computer. 
+
+It is not worth the time and you can never be sure to have a virus completely off of your computer. Most services will tell you to backup what you want on your computer and redo the operating system. 
+
+Good luck during this frustrating time.
+Sometimes you can't delete certain files. Check out this guide: http://www.maximumpc.com/article/howtos/ultimate_malware_removal_guide_purge_your_pc_junk_files
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

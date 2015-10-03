@@ -1,0 +1,13 @@
+MY INTERNET EXPLORER AND FIREFOX WON'T WORK?
+my internet explorer and firefox wont work on my computer after had a virus attack, luckily antivirus removed from my pc,( windows vista.TOSHIBA) 
+when i double click on internet explorer & firefox , showing a message that : Windows cannot access the specific devise, path or file you may not have appopriate permission to access the item "
+but when i right click on internet explorer firefox  i can open inernet if i click run as administrator 
+hep me
+
+Ah, Windows Vista and it's ownership issues... Unfortunately, it would take too long to explain here, but simply google your error message, and you should be greeted with user-friendly guides.
+Okay. I'll 'hep' you.
+Redownload the umm browser
+I lost my Internet after the Antivirus Soft malware attack. Follow this guide for getting it back:
+http://www.2-spyware.com/remove-antivirus-soft.html
+try to uninstall firfox and redownload !
+first try to do a restore ! good luck !

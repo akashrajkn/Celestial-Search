@@ -1,0 +1,5 @@
+computer issues/verizon or not sure help please?
+I'm thinking cookies or something like that need cleaned out of the browser or whatever, because the connection is slow and sometimes does not connect at all. I am not sure if this is a problem with Verizon's modem or what but I need some assistance. The operating system on this laptop is Windows 7 and I do not know how to mess with the browser in Google Chrome. Firefox has stopped working for us. Can someone help me out with my computer issues?
+
+The Windows Registry is the master control center for your operating system and applications it runs.  Corruption or overload registry issues can cause all sorts of pc performance problems, including poor application startup times, slow Windows start-up, extremely slow shut down, slow internet surfing,inability to resume from computer sleep and more.Cleaning,compacting, and optimizing your Windows registry can go a long way to dramatically speeding up your computer¡¯s performance, start-up and shutdown speed.
+Recommended:  Run a  Registry Scan http://make-a-computer-run-better.com         Now to Detect Errors and Improve your PC¡¯s speed instantly!

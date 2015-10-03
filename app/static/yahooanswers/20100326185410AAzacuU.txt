@@ -1,0 +1,4 @@
+Does anyone know how a regular Internet works?
+So i pressed something, i dont know what, but the top and bottom of my screan go away when i move my mouse. like they slide up and go away...help...how do i get them back :/
+
+It's in full screen mode... try pressing F11 or clicking on "View" in the menu bar and selecting "Full Screen"

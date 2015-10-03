@@ -1,0 +1,5 @@
+*NEED SPEEDY ANSWER* What is the color in Funnyjunk that is around the picture?
+I need the color code number (six digit with letters and/or numbers)
+
+okay . there is a lot of pics on funny junk . 
+but here is what you can do . if it is just a pic and not a whole web page . just open it up in an editor it should tell you. If it is part of a web page open it up in html editor like front page . it will be in the html code but most likely take some looking to find it .

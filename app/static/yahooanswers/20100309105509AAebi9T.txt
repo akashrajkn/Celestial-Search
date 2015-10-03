@@ -1,0 +1,40 @@
+how to change from firefox back to internet explorer?
+how do I change back to internet explorer after using Mozilla Firefox for a couple months. I had to go to "system restore", and internet explorer was lost.
+
+delete firefox, it sucks
+
+? . . . .. . . . . . . . . . . ,.-¡®¡±. . . . . . . . . .``~.,
+. . . . . . . .. . . . . .,.-¡±. . . . . . . . . . . . . . . . . .¡°-.,
+. . . . .. . . . . . ..,/. . . . . . . . . . . . . . . . . . . . . . . ¡±:,
+. . . . . . . .. .,?. . . . . . . . . . . . . . . . . . . . . . . . . . .\,
+. . . . . . . . . /. . . . . . . . . . . . . . . . . . . . . . . . . . . . ,}
+. . . . . . . . ./. . . . . . . . . . . . . . . . . . . . . . . . . . ,:`^`.}
+. . . . . . . ./. . . . . . . . . . . . . . . . . . . . . . . . . ,:¡±. . . ./
+. . . . . . .?. . . __. . . . . . . . . . . . . . . . . . . . :`. . . ./
+. . . . . . . /__.(. . .¡°~-,_. . . . . . . . . . . . . . ,:`. . . .. ./
+. . . . . . /(_. . ¡±~,_. . . ..¡°~,_. . . . . . . . . .,:`. . . . _/
+. . . .. .{.._$;_. . .¡±=,_. . . .¡°-,_. . . ,.-~-,}, .~¡±; /. .. .}
+. . .. . .((. . .*~_. . . .¡±=-._. . .¡°;,,./`. . /¡± . . . ./. .. ../
+. . . .. . .\`~,. . ..¡°~.,. . . . . . . . . ..`. . .}. . . . . . ../
+. . . . . .(. ..`=-,,. . . .`. . . . . . . . . . . ..(. . . ;_,,-¡±
+. . . . . ../.`~,. . ..`-.. . . . . . . . . . . . . . ..\. . /\
+. . . . . . \`~.*-,. . . . . . . . . . . . . . . . . ..|,./.....\,__
+,,_. . . . . }.>-._\. . . . . . . . . . . . . . . . . .|. . . . . . ..`=~-,
+. .. `=~-,_\_. . . `\,. . . . . . . . . . . . . . . . .\
+. . . . . . . . . .`=~-,,.\,. . . . . . . . . . . . . . . .\
+. . . . . . . . . . . . . . . . `:,, . . . . . . . . . . . . . `\. . . . . . ..__
+. . . . . . . . . . . . . . . . . . .`=-,. . . . . . . . . .,%`>--==``
+. . . . . . . . . . . . . . . . . . . . _\. . . . . ._,-%. . . ..
+delete firefox from your add/remove program file.
+Go to this website: http://www.microsoft.com/windows/internet-explorer/default.aspx?WT.srch=1 and follow the instructions.
+Download Internet Explorer 8, install it, and run it.  :-)  Link in Source(s).
+If Internet Explorer is completely lost from your computer, then it's available as a free download from the Microsoft website. But it might have just been lost from the desktop/start bar, in which case it'll be in Program Files on your main drive under an Internet Explorer folder.
+You can install the latest version of Internet Explorer from the Microsoft site (link below) if it is no longer installed on your system. Once you do install it and use it for the first time, it should ask if you want to make it your default browser.
+
+If it is installed on your system, and you want to make it your default browser, check out the WinXPTutor link that shows you where to go to set program access and defaults.  In Windows 7 (and possibly Vista), the same option is under the Control Panel > Default Programs.
+My advice, 
+
+
+USE FIREFOX..
+
+internet explorer keeps spyware and bad cookies in your temp folder...

@@ -1,0 +1,9 @@
+Can someone convert a Firefox theme for me to work with 3.6 and up?
+you can email me the files
+
+Here's more than 250 themes for FF 3.6: 
+https://addons.mozilla.org/en-US/firefox/search?q=&appid=1&cat=2,0&tag=&atype=-1&pid=5&lup=&sort=&lver=3.6&pp=20
+
+Next time, click Tools > Add-ons, click Browse All Add-ons, it will take you to 1000's of them
+
+...

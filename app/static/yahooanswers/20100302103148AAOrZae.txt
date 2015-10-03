@@ -1,0 +1,5 @@
+What is a Navigation Button?
+What is its purpose?
+
+Those are the buttons you see usually along the left hand side or along the top of a web page that link to related pages on the site. These help you find your way around, or "navigate" through the site to find what you want.
+A set of buttons or graphic images typically in a row or column used as a central point to link the user to major topic sections on a Web site. The navigation bar may be a single graphic image with multiple selections.

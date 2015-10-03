@@ -1,0 +1,15 @@
+I cant log on to the internet with firefox anymore but I can with internet Explorer?
+I had to use internet explorer to ask this question. I try to log on to Mozilla Firefox and I get a message that says " The operation has been cancelled due to restrictions in effect on this computer. Contact your system administrator ". This problem just started. I have to re download Firefox every time I want to use it. THanks
+
+Maybe there is a firewall not allowing Mozilla Firefox to work. And if there is no firewall, then your internet connection got problems. Try to call the computer technician.
+Well if you are at a shared computer its possible that the owner of the computer could've setted restrictions on that particular computer in that case you are going to have to talk to the adminstrator
+Try 
+Start > Default Programs > Set Your Default Programs
+and make sure Firefox is set as your default browser.
+
+EDIT
+
+Bit of reading for you if the above doesn't work.
+
+http://www.google.co.uk/search?q=The+operation+has+been+cancelled+due+to+restrictions+in+effect+on+this+computer.+Contact+your+system+administrator&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-GB:official&client=firefox-a
+Check the firewall settings

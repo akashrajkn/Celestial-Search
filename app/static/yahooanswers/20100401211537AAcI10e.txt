@@ -1,0 +1,7 @@
+Why doesn't my flashplayer work?!?
+I have a Windows 7 laptop, and it has overall been very fast, convenient, and functional.  However, a couple weeks ago, my I noticed that the internet browser would freeze up on any web page which used a flashplayer or had a video.  It has gotten really frustrating -- to the point where I have to close the browser EVERY TIME I try to watch a video or stumble across a page with one, and I have no idea what is wrong with it.  I especially just miss Youtube and watching movies (and porn; I'll be honest) downloaded from the internet.  Any suggestions?
+
+First of all, try updating Flash (if you can).  I also suggest trying a different browser (Internet Explorer is far from the best).  I recommend Google Chrome.  It's fast, stable, and has some very useful features.
+You could try VDownloader. It's 100% free and has more features than any other YouTube downloader out there. It lets you save and convert videos from YouTube or other websites with only a single click to any possible format including MP3 and MP4. 
+
+If you download the videos in a format compatible with your mobile device, such as your iPod, iPhone, PSP, Nokia or whatever you might use, then you can simply drag them or use a third-party app like iTunes or Floola to take your new videos or music anywhere you go.

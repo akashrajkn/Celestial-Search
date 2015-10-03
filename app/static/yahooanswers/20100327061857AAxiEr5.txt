@@ -1,0 +1,4 @@
+how do i delete a wordpress blog?
+where abouts in wordpress.com can i delete a account ?
+
+Settings / Delete Blog, pretty far down on the vertical toolbar on the left.  I've had to do this. It works well.

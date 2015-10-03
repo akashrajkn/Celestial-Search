@@ -1,0 +1,27 @@
+Slooooooooowwwwwww internet :(?
+OK usually the internet is very high speed and you can stream videos on it no problem.
+Four days ago it slowed right down, then two days ago it died completely.  It was recommended that I get a new modem, so I did and the internet works again but only at about 70% capacity.
+
+I can't stream videos online at all, even short youtube vids.
+
+The ISP says they're not having any problems in this area.
+
+Any help with how to fix this?
+
+Run Malwarebytes, Hitman Pro, Ccleaner, Reset IE8 to Default in Options, Advanced and restart PC...You might need to also reset Router or unplug it for 10 sec and plug it back in and restart PC...
+You can also try OpenDNS...You can uninstall your anti virus or suite, enabling Win firewall and see if that makes a difference and if so use another product...
+Even if there's no problem on the ISP's end, there could still be a problem in how your internet signal is coming in. You should ask them to send someone to check out your connection.
+
+Other possibilities are:
+
+1. Someone who is permitted to access your internet connection might just be using up way too much of your bandwidth.
+
+2. If you are using a wireless card, there might be something that's blocking or interfering your wireless signal.
+
+3. It's possible a computer accessing your net connection is compromised and it's using some of your internet connection for some hackers purposes. Running an Antivirus scan like AVG should tell you if this is the case. http://free.avg.com/us-en/homepage
+
+4. If your wireless connection is unprotected, or using WEP security/encryption someone can use your internet connection without your permission. In this case changing your wireless security to WPA or WPA2, or just disabling it should do the trick.
+
+5. The hardware you use to access the internet (could be either the LAN card, or your wireless card) is damaged.
+
+And of course it's possible it's some or all of the above (but not all that likely).

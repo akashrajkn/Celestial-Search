@@ -1,0 +1,5 @@
+is speedtest.net provide accurate results for internet sped?
+
+
+Depends on the server you are connecting to, it gives you a good ballpark in most cases.
+speedtest.net cannot really give accurate results. they can only give you an idea how fast your internet connection is. your speed also depends on where's the location of the server you're connecting with.

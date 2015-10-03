@@ -1,0 +1,12 @@
+Where can i get older versions of Firefox?
+Mozilla is being as usual, extremely evasive in their so-called support, and every time I try the painstaking search for an answer, they just give me the runaround, which always leads back to downloading the latest version. Is there anywhere safe, where I can get a reliable older version, and possible "honest" support for Mozilla Freezefox??
+
+Firefox at 3.5/6 seems okay ... but you can always go to oldversion.com to get any old stuff ...
+ftp://ftp.mozilla.org/pub/mozilla.org/firefox/releases/
+This site contains all older versions of Firefox.  I wouldn't expect any good support from Mozilla.
+Really good site that has posted all the "Old System Apps"
+
+http://www.oldapps.com/
+
+What a concept holding on to the old apps they even help you when you choose what OS and what update that is available to you to download.
+http://www.oldversion.com/Mozilla-Firefox.html.

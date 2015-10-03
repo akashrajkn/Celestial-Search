@@ -1,0 +1,12 @@
+What is the difference between Internet Explorer and Firefox? Also, which is better?
+If I switch from Internet Explorer to Firefox will I still get Google and Yahoo search engines and  outlook express E-Mail?
+
+Firefox is my favorite browser. Yes you can still use Yahoo and Google, in fact you can have a Yahoo and or Google toolbar on Firefox.
+
+It will work with any web based email and I beleive it is compatible with outlook.
+
+It's a free download so you can try it to see if you like it.
+
+http://www.mozilla.com/en-US/firefox/upgrade.html?utm_id=Q110&utm_source=yahoo&utm_medium=ppc&utm_campaign=firefox36
+Outlook express should be installed on your computer so your browser doesn't matter.
+But if you're looking to move from IE then go to Chrome, not to failurefox. Firefox is a slow browser. Even IE8 is faster.

@@ -1,0 +1,7 @@
+How do I save web pages so that I can read them when I'm not on the internet?
+I want to be able to view pages from the web when I am not online, without having to copy and paste the information into a word program. Is there any way to save pages (lots) to my computer to read later?
+
+File> Save As
+Using CaptureSaver.
+With CaptureSaver you can permanently save selected text, images, and complete Web pages, then edit, mark, organize, and search for information in your offline personal and portable knowledge base.
+For more detail see: http://www.capturesaver.com/

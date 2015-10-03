@@ -1,0 +1,12 @@
+Frostwire has disappeared!!?
+I have downloaded frostwire but can not locate the programme anywhere on my computer! I downloaded it yesterday and the icon was down on the task bar at the bottom right of the screen, but today its disappeared....
+Anybody know whats going on?
+Please help!!
+
+Cheers :)
+
+i would get limewire the same thing happened to me.
+
+http://www.limewire.com/
+Check on Control Panel -> Add Remove Programs
+You downloaded Frostwire.  That would indicate you have a Mac?  Go to the magnifying glass at the top right of the computer monitor.  Click on it, type in Frostwire.  It should locate it for you.

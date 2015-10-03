@@ -1,0 +1,8 @@
+How do I get rid of a drop down from a company called Stub Hub?
+It appears when I am composing an e=mail and blocks my ability to click send when I am finished composing.  There is no "x" or "close" visible for me to get rid of it.  My pop-up blocker is on...but this is a drop down that comes down from the tab area?  It is very annoying and disrupts my e-mail for several minutes while I close the page and start the e-mail agian.
+
+go to your control panel, and look for "add/remove programs/software". Look on the list for the invasive spyware, and click to remove it.
+
+It's likely you unknowingly had it downloaded when you followed a link or ad on the internet. Be careful of clicking on links, and if anything looks suspicious, immediately close the webpage. A lot of links are set up so software can be downloaded on your computer without your consent.
+
+P.S. if you need more help like where your control panel is, email me from my profile.

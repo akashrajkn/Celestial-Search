@@ -1,0 +1,6 @@
+does having a browser open all day use up more internet memory?
+so as most of you know, rogers has cutback pretty much everyone's internet usage basically to peanuts and so i was wondering if leaving an internet browser open to let say facebook all day would increase the internet memory used? or does it just use up memory to open to that page and like as long as you keep it open it doesnt matter? i usually dont close my email and facebook windows so that i can just come back to it any time
+
+It uses a tiny amount of bandwidth, yes.  Which means fractionally less bandwidth for everyone else.
+
+It's a tiny little pebble in a bucket compared to the bandwidth downloading a movie or music uses up, so it is not going to really affect anyone.

@@ -1,0 +1,21 @@
+Internet explorer cannot display webpage//http error message: 403 (forbidden) How do I fix this?
+I cannot access any web pages at all. But I am connected to the internet because I can go on my instant messenger and skype its only using internet explorer or firefox that does not work. 
+
+The 403 error pops up and says if this problem is constantly preventing Windows from connecting to several different sites on the Internet, contact your network administrator or ISP.
+
+What do I do to fix this?
+Also I have norton anti-virus but everytime I try to double click to open it, it does nothing. so I cannot scan for viruses and etc. 
+Why wouldn't my antivirus program work?
+
+Sounds like you either have a virus or a busted DLL somewhere on your system. I'd recommend doing an indepth virus scan (which could take hours, depending on the size of your hard drive) to start with. If you're then still having problems, it's time to look at the possibility that something you've installed recently has trashed that part of your system.
+
+I'm tempted to tell you to install a half decent browser ;) but I somehow don't think that will solve this particular problem. I reckon it's fairly likely the virus scan (catching malware/trojan etc) will be the answer here.
+
+Good Luck
+
+Scots
+Clue, you said IE. Open tools, options, choose connection tab and open. Find LAN and open it. Check automatically detect the network connection. Click apply. Close the browser. Open the browser and see it those errors are resolved.
+IE hospital tool can fix your computer IE Browser
+http://clean-computer-registry.com/IEHospital/
+Fix web browser:
+<--http://slowpc-checking.com/WebBrowser

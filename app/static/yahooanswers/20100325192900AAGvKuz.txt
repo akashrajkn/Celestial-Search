@@ -1,0 +1,7 @@
+Hotspot shield cannot connect help pls?
+I just installed hotspot shield and when I click connect then it says connecting and then it IS connected for a second but then says " reconnecting" or "TCP connect wait" and it stays like that forever. What is the problem help pls!!
+And there is an error message which says: "Windows cannot find
+...:895/config/?action=connect&lang=eng&afd=1167298554&afc=24668DBFE79FC2157DF3... 
+Make sure you typed the name correctly and the try again." What??????
+
+You are better off this way. All they care about is scanning your traffic so they can make money by selling advertising at your personal expense. At least your personal information is safe this way.

@@ -1,0 +1,16 @@
+Who?supplies my i.p.address?
+whilst trying a broadband speed test,i can't find my supplier,but keeps coming up with another i'm not cotracted to,how can i find out who does infact supply my ip address
+
+There's a database called WHOIS which saves everyone's IP addresses, and it may be that your IP address has a wrong entry. It is your company you pay, but they might get their IP's from someone else.
+In almost ALL cases the IP is supplied by your Internet Service Supplier.  The one you write the monthly check to for your Internet Service.  The IP address is assigned automatically by their computer.
+
+For a broadband speed test without needing your ISP's name use
+
+http://www.speakeasy.net/speedtest/
+Your ISP, through whom you connect to the Internet supplies you an IP (generally temporary one) while you are connected. If you want to knwo what IP you are having at a certain time, you can visit www.whatismyip.com and you will see the IP as well as the name of the provider.
+
+You can also visit whois.domaintools.com/ip (example - whois.domaintools.com/122.122.122.122)
+
+Arun
+I got to know about my internet speed here http://www.ip-details.com/internet-speed-test/ . 
+Its as easy as I entered my IP address that I got to know the speed of my connection.

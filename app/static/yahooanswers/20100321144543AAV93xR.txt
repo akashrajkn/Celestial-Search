@@ -1,0 +1,4 @@
+How can I add links to my firefox toolbar?
+I did it on a previous computer but cant on this one. all i had to do was drag and drop. how can i set up a toolbar that allows me to add my own links to it? i blame vista :(
+
+Drag and drop has always worked for me. I'm on Windows 7 and FF 3.6.

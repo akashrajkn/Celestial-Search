@@ -1,0 +1,4 @@
+How do I use a picture on webcam?
+I want to use a picture in place of video from my webcam. How would I go about doing this? I don't actually have a webcam, if that makes a difference.
+
+You cannot do it, that is not permissible.

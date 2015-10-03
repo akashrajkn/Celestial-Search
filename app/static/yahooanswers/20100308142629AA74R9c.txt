@@ -1,0 +1,9 @@
+have reset router allll the time WHY?
+About every hour I have to reset my belkin router and when I reset I loose all my security settings so I have to set those several times a day. We have a Modem and my wirless router is connected to that any suggestions? I am so sick of this
+Its a Belkin Wireless N router Model # f5d8230-4 router
+
+Make and model number of the router would have helped...
+
+Go to the manufacturer's web site and see if there is a firmware update for your router.
+
+Instead of resetting it, next time try just pulling the power plug for a moment and then plugging it back in.

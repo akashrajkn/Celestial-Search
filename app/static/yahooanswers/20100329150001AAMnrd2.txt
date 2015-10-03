@@ -1,0 +1,15 @@
+A Primitive problem: how to show a picture without sending an email?
+I know some people might think I'm very dark - maybe they are right, but I need to show a photo on a web-site. The picture is on my computer. Some people in Y!A do it, but I've never done it before and I don't know where and how to begin.
+
+Thank you in advance
+I has a photo on my computer I would like others to see but on that forum I can't make a link to my own computer, it has to be some public browser.
+
+Easy. Go here:
+
+http://photobucket.com/
+I'm a bit confused by what you're asking, but if you're actually asking how to display a picture on your website, just upload the file to your webserver and display it on some page with <img src="url">
+
+But the bit about email makes me think that maybe I misunderstood you...did I?
+you need a host to do that, like flickr, photobucket, iimmgg these are hosts i use. The one i like most is flickr. It is free to use, just: sign up (for flickr with your yahoo account) to make an free account, upload your photo or slide show or movie choose the settings for private or public or friends. Grab the link and post that link. Like this one is a link to some photos and a slide show i host on flickr:
+http://www.flickr.com/photos/gidogido46/ 
+note: photos you uploaded on flickr can be seen on your portable phone and by that way stored on your phones photogallery.

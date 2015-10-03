@@ -1,0 +1,11 @@
+I caught Generic!Artemis virus! I need help fixing my system.?
+I removed the virus within minutes of it hitting my Windows Vista, but it somehow took stopped the connection of my applications (.EXE) from getting to my shortcuts, and i keep getting the "Open With" window every time i try to open anything, or it just says that it can't find the application. I know the applications are there because I found them and they work in a really roundabout fashion, but mostly its just pissing me off that i have to spend so much time opening any files, and I cannot alter anything on my hardrive and it is very annoying. And also, the lottle button on taskbar that moniters my battery life has disappeared and the scroll lines on the mouse pad are not working either.
+
+I have already tried malware bytes and it does not work since i did actually remove the virus and all the files it downloaded.
+
+Please help, I'm going crazy trying to fix this!!
+
+http://search.yahoo.com/search?ei=utf-8&fr=ytff1-yff35&p=malwarebytes&ei=UTF-8&type=
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

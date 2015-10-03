@@ -1,0 +1,22 @@
+Is it possible to uninstall internet explorer? How?
+I went to control panel and then to the list of programs installed but internet explorer wasn't there. I recently downloaded mozilla firefox and i love it. My internet explorer had been having issues. I don't see the point of having internet explorer installed anymore. It just takes up space. Does anyone know how to uninstall it? Is it located in some other place or something? If I want it again I can just download it from download.com so there is no point of having it installed right now.
+
+You're supposed to go to Control Panel and then "Add or Remove Programs". I have XP so it might be different.
+Maybe you can search for it.
+IE is tightly integrated into your Windows. It would be very hard, if not impossible to remove all components.
+In addition, some programs you may have might use the IE infrastructure to connect to the web internally, and if you were to remove it, other programs may stop functioning.
+
+Just let it be and don't use it.
+Internet Explorer is part of Windows.
+You can not remove it.
+
+Don't even try.
+You will only end up with a non-working Windows.
+
+Simply set Firefox as your default browser.
+No, you can't. I just went to check in the Internet Explorer folder. There's no uninstall option. So, I guess you just can't uninstall it.
+Don't delete it. Some parts of windows are actually dependent upon it.  Use your firefox, just delete the shortcuts on your desktop, quicklaunch, and the start menu shortcut. Just make sure it is set as your default browser and to check that it is the defualt browser (under Options>Advanced at the bottom) and you'll be just fine.
+
+Personal IE hater here too :)
+no, cause if u have uninstalled IE, you cannot use the internet anymore even use firefox, chrome
+It is not possible.

@@ -1,0 +1,8 @@
+How do you put a picture onto a website through the comments?
+I would like to make a comment using a picture in a certain site. how do you do that?
+
+Ok well You have to find the piture's HTML code and you paste that in the comment box and then once you hit publish or whatever, the image should show up as a comment.
+If the site allows HTML the code is:
+<img src="http://www.insertimageurl.jpg"> 
+
+You would have to have the picture online and then would need the address of that picture.

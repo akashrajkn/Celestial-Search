@@ -1,0 +1,18 @@
+How to delete browsing history in internet explorer?
+Ok, so I my friend decided to look up porn on my computer and I don't want my wife to freak out. I deleted all the history, changed the settings, etc etc. However, when I click the down arrow in the address bar, some porn sites show up and won't go away. i've also clicked the X next to them and they disappear only to reappear the next time i start IE. What's up with that and how do i get rid of it?
+
+Also, it doesn't show up anywhere in my history or anything, just right there in that 'auto-complete' box. For now I have auto complete turned off, so it won't show up, but that only temporarily covers up the problem. Some help please? And don't direct me to a site to buy/download software.
+The thing is, I deleted everything. Ctrl+Shift+delete and deleted temps, cookies, etc...deleted auto-complete files, cleared all history and everything. I know my way around most of this stuff, but I'm stumped as to why this will not go away. Any clue as to why?
+I even reset ie settings to default because it was supposed to restore all original crap, and guess what? it's still there. this is too weird. help
+
+Go to tools see the drop down menu click it  then  check delete browsing history.
+That's it at least on i.e. 7.0
+
+Otherwise there is a way to go into control panel and there is a spot to delete history delete cookies .
+Depends on your operating system.
+Here is a link that has a couple of tricks you might not have tried:
+http://www.deletehistory.com/internet-explorer-8-delete-history
+
+Good luck!
+Kyler
+IE8 Outreach Team

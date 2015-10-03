@@ -1,0 +1,4 @@
+How do I open my pop ups?
+I want to enter a contest but my pop ups are blocked.  How do I put them on?
+
+If you're using IE, click alt+T,go to  pop-up blocker, choose pop-up blocker settings. type the site you want IE not to block. If you want pop-up blocker not block any pop-up, turn of pop-up blocker at tools menu

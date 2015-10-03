@@ -1,0 +1,6 @@
+How do you set a homepage on Firefox?
+I do not know how to on the latest version of Mozzilla Firefox.
+
+Open Firefox. At the top go to tools > options. Click the general button. The 2nd white box from the top is what you want.
+go to "tool" "options" "main" and you will see what is your homepage there, just change it to what you want.
+Go on the site you want to homepage, then, the icon next to the URL, take it, and drag it to the home looking icon. It'll ask you "Do you want this document to be your new home page?". Say yes, and there you go.

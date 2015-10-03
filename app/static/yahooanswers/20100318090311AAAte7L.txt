@@ -1,0 +1,16 @@
+How do I make a new tab in Firefox NOT open as my last tab?
+I want the new tab to open to the right of my current tab.  Can this be done?
+Thanks all.  I know how to open a new tab with Ctrl-T or other means.  I am asking about WHERE that new tab opens. I want it to be to the right of the current tab, not as the last tab.
+
+I see no option for this under Tools>>Options>>Tabs.
+Thanks miq. That works if I click on a link and the tab DOES open right next to the current tab.  Is there a way to do that for opening a brand new blank tab??
+
+Press Ctrl + T
+Press Ctrl+t .A new tab will open
+Go to tools, internet options, tabs and change your settings. You may have to restart for it to take effect.
+From the pull-down menu:
+
+Edit -> Preferences -> Tabs -> Click "new tab"
+ctrl + T  or  just click that  + sign next to your currently opened tab.
+The only way i'm aware of (if you're you're using a mouse) is to click links (of which you want to open in a new tab) with the scroll click on your mouse (push down on the scroll wheel), this will open the link in a new tab right next to your current tab. If you're using a laptop, you can click both the right click and left click at the same time (instead of just left clicking a link) and this should give you the same result. If you need any additional help, feel free to email me: miqtmail@gmail.com
+If you are trying to "group" your tabs together based on which page you opened it from, then you should try the Tree Style Tab addon, which is available on the Mozilla website. There are several other tab-related add-ons, like Tab Kit Plus. Try them one by one, and keep whichever suits you best.

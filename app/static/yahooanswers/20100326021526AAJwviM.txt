@@ -1,0 +1,13 @@
+ACCOUNT BLOCKED please contact your internet service provider?
+Has anyone ever seen that message before.
+It showed up last night at work. Have they just stopped me using their web? Or has something gone wrong with there service? That is the only thing it said on the whole page, and that was for every site.
+Thanks for answers in advance!
+Well, I work nights and am the only person I know who has the WEP key apart from the office staff, so I have no Idea if it is happening to anyone else. Also I'm surfing from my phone, so while I can do a lot of things, run test and diagnostics are not some of them.
+I can't imagine anyone in the office doing any of the things you shouldn't, they are not especially computer literate and it's pretty much used for ordering supplies. 
+The owner of the place if he has somehow seen the net traffic of a night time, would be likely to block sites from being able to be accessed, is that a likely cause?
+
+This can happen for many reasons. Is it just you are your co-workers too?
+This happened to someone I know when he ran port scans against remote computers that he shouldn't have. It was reported by the victim(s) and his ISP was notified. Your service can be stopped for doing anything you shouldn't be doing (sending tons of spam, harassing/stalking someone, amateur hacking, etc). It could also be something alot less malicious.....technical problems, human error at the ISP, etc.
+
+update:
+Perhaps the system administrator saw that someone had been accessing the network and decided to block it at night. I can't think of any other reasons, sorry. Hope you figure it out.

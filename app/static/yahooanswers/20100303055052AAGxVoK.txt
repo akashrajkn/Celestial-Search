@@ -1,0 +1,11 @@
+Why would someone need a download manager such as DownThemAll or FlashGot as a Firefox add on?
+Why would someone need to download a ton of information from a webpage?  What are they doing with it?  Same with FlashGot... why would someone need to download all the links and video ect from a particular webpage?  It sounds really neat, but I can't imagine what I would need to do that for?  Please explain what I might use that for... :)
+
+IDM or internet download manager.
+
+Its what i use and ive never had any problems with it. 
+
+Its a seperate app but it has a firefox plugin.
+Oh for example: You are part of a group which posts event pictures on their site and for some reason you want to download them to view them offline. FlashGot is way faster than [r-click -> save picture] repeat. Same applies with any other kind of files - maybe you are into modding games and want to download a load of texture files.
+
+Simple answer: It saves time.

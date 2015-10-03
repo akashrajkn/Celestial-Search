@@ -1,0 +1,11 @@
+current status of the internet: connection between continents?
+hi people,
+please can someone help me with information about current status of the internet: connection between continents. And also a website or websites that i can get more information about my topic.
+thankz
+
+Seems to be working ok.
+The intercontinental Internet connections are known as the first tier of the internet. ISPs are part of the second and third tier.
+
+For more information, wikipedia is always a great place to go. If you're not allowed to cite wikipedia just cite the articles it links to.
+
+http://en.wikipedia.org/wiki/Tier_1_network

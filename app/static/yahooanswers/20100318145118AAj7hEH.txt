@@ -1,0 +1,6 @@
+How do you get past website ad blockers?
+I took a screen-shot of what I'm talking about. I didn't plan on asking any questions on Yahoo but this pissed me off too much to not ask. Here's the link to the screen-shot: http://i621.photobucket.com/albums/tt293/zachm1995/ADBLOCKER.jpg
+
+You can't.
+Actually it is possible. Save the file to your hard drive, remove the JavaScript code for the blocker thing,change everything to an absolute URL and open the file.
+Hm

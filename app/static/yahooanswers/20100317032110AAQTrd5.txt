@@ -1,0 +1,12 @@
+I have read messages in my email inbox that I never opened before?
+I'm getting paranoid...the other emails are unread, except for the amazon ones. I use this email to go online shopping too. Should I make a new email account?
+
+I guess you should make a new e-mail address and try and not apply for all sites that send a lot of spam, either that or choose a mail service with a really good spam filter
+Perhaps change the password and make sure that you never leave yourself logged in to any account and clear browsing history when using a shared or public computer and don't ever log in to any sites requiring login or password details if using a proxy. Don't have an easy to guess password and don't write it down on a piece of paper left near your computer. If it keeps happening create a new email account for test purposes. If it continues to happen using the new email account run a scan with some security software that can detect key loggers.
+
+If you would like to ensure that your email account remains secure you could always try key scrambler once you have changed the password:
+
+http://billmullins.wordpress.com/2009/07/01/dont-sign-in-on-the-internet-without-keyscrambler/
+
+http://download.cnet.com/KeyScrambler-Personal/3000-2144_4-10571274.html
+it can be virus problem.....

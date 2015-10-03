@@ -1,0 +1,7 @@
+Trouble connecting to my two most frequented websites?
+I used to go to notdoppler.com and kickasstorrents.com ALL the time. But as of recently when i try to go there it says that a connection to there servers can not be made?? I thought the sites might be down at first but I've been to BOTH on other computers since then. I can not find anywhere where anything has block either of them. I have no clue what happened... Any idea what to do??
+
+Clear the cache of the browser your in and see if that helps. It always does for me whenever my sites feel slow.
+
+You could also try opening command prompt and typing in "ipconfig /flushdns" without quotes. Worth a shot.
+I have no idea dude. But notdoppler.com is a cool web site. I went to it to see if it would work on my comp. to make sure it wasn't a downed server, and it wasn't. It works fine on my comp, and I like it, so I think I'll get back to it.

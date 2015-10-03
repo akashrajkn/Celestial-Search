@@ -1,0 +1,6 @@
+What the hell is Mysearchbox?
+When i click a link, it always opens a site called mysearchbox. What is wrong? it changes the URL. What is this site? www.mysearchbox.com
+
+You have malware / spyware / adware infection. Update & run full scans with your anti-virus & anti-spyware programs to remove the nasties from your system
+
+...

@@ -4,6 +4,9 @@ from search import search,load_dictionary,process_query,load_posting_list,shunti
 from index import index,is_number
 app = Flask(__name__)
 app.secret_key = 'bits-hyderabad'
+
+docs = {}
+
 @app.route('/')
 def hello_world():
     return 'Hello World!'
@@ -11,16 +14,28 @@ def hello_world():
 @app.route('/query',methods=['GET','POST'])
 def query():
 	form=QueryForm()
-
-	index('nltk_data/corpora/aaaaa', 'dictionary-list', 'postings-list')
+	global docs
+	
+	if not docs:
+		docs = index('static/yahooanswers', 'dictionary-list', 'postings-list')
 
 	if request.method=='GET':
-		eovn('nltk_data/corpora/aaaaa', 'alpha', 'beta')
+		eovn('static/wikipedia', 'alpha', 'beta')
 		return render_template('querytext.html',form=form)
 	elif request.method=='POST':
 
 		qstring = 'queried string: ' + form.querytext.data
 		ans = search('dictionary-list', 'postings-list', form.querytext.data, 'output')
-		return qstring+'<br/><br/>Search Results: ' +ans
+
+		ans = sorted(ans, key=lambda x: x[1], reverse=True)
+
+		output = ''
+		for docID, count in ans:
+			output += 'DocID: ' + str(docID) + ' Count: ' + str(count) + ' Link: ' + '<a href="./static/yahooanswers/' + docs[int(docID)] + '">' + docs[int(docID)] + '</a>' + '</br>'
+		'''
+		print '~~~~~~~~'
+		print output
+		'''
+		return qstring+'<br/><br/>Search Results: ' + output
 if __name__ == '__main__':
-    app.run(debug = True)
+	app.run(debug = True)

@@ -1,0 +1,7 @@
+I Bought an Item on Ebay from an Unregistered Seller?
+I bought an item on ebay and paid for the item and then noticed that the seller was unregistered after the payment was confirmed and completed through paypal. The unregistered part scares me a bit making me think i might have been scammed? The item says it was shipped the following day and has a tracking number and all that, im a little confused and worried i have been scammed. Can someone help clear things up for me? I would really appreciate that :)
+
+Track it, and if it doesn't arrive contact who needs to be contacted
+Go to Paypal and start an item not received complaint, then escalate it indicating that the seller is no longer registered. Give it about a week to see if your item comes! Not just because he is a unregistered seller he is out to scam you..
+wait for the item first, if you wont get it in the given time then contact the seller, and if he wont respond then dispute the transaction on you paypal account 
+https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/securitycenter/buy/Protection-outside

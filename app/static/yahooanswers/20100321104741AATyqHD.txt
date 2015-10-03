@@ -1,0 +1,10 @@
+Problem with having two browser windows open at once (with IE 8)?
+Before I updated, I could log into my Facebook in one browser window, minimize it, then my daughter could log into HER Facebook in a new window. Now, if I open a new window for her, my FB account is already there and if I log out and sign her in, my original window also signs me out. This is going to be a HUGE problem when Fantasy Football season gets going because my husband and I need to both be logged on to our own Yahoo accounts to draft our teams.
+
+I cannot figure out WHERE to go to change this setting back to how it was before I updated from 7 to 8.
+
+Any help, in simple English please, is greatly appreciated. Thank you
+**No idea what "delete system 32 means". Isn't there a place in the control panel or internet options that I can adjust this?
+
+The obvious answer is you have a virus. Delete system 32.
+You cannot make such a change unless you are using two different browsers at the same time. For instances, if you have IE8 open, you should be able to log into Facebook and stay logged in. If you go and download Firefox or Chrome, you can open that browser up and have your daughter sign into that one with her account without causing you to log out of your own.

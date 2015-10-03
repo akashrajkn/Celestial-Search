@@ -1,0 +1,8 @@
+How do i get Internet Explorer back?
+I was trying to clean up my desktop a little bit, and i accidentally deleted my internet explorer icon, but that icon wasnt on the desktop it was on the start menu thing on the bottom, so it wasnt in my recycle bin, and its not in my programs, how do i get it back ? I know i didnt delete the whole program cause its still in my programs list, but when i try to drag it to my desktop it doesnt work.
+HELPPPP!
+its not in there when i go to change/remove programs, buts its in the list for setting program defaults but it wont let me drag and drop it. this is so irritating!
+
+I have internet explorer on the bottom of my screen too do you? I have it in like 4 different places just click on the icon and drag it on your desk top!
+Go to add remove programs in control panel and then add IE from there.
+Right click the icon in your program list --> highlight "Send To" --> click "Desktop (create shortcut)

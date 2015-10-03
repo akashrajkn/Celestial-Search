@@ -1,0 +1,14 @@
+My internet won't download anything. Half way through the verification IE stops working.?
+I've tried downloading numerous things including mozilla firefox and itunes.
+
+have You Checked To See If Your Computer Is Overloaded? It May Also Be Your Virus Protection Or IE Settings
+really need more info to help with this. could be several different things are you getting any type of error message? is your hard drive full? would like to help but need more info
+You can try a "reset" but that will put your settings back to the way it originally was.
+
+Tools >Internet Options> Advanced> Reset
+
+You might try to clean the Cache file, (temporary files) to see if there might be to many Temp files which can slow down your system.
+
+Tools>Internet Options>General> delete browser history.  You can try this first, before trying Reset and see it will help.  Sometimes, you just get too many Temp files and it clogs things up.
+
+To keep those files cleaned up, In Advanced, >Security, look for  Empty Temporary Internet files when closing... and check that box.

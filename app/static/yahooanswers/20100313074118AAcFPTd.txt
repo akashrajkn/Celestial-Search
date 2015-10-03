@@ -1,0 +1,11 @@
+having sum net connection probs?
+the net was working fine this morning say 11.30am to 2.30.then turned it on at say 7.30 was not getting connected .what i mean is it was but none of the pgs were opening .only google tried to search sum random stuff and then open still not opening was does this mean not its working fine .why did this happen ?.can this happen again ?
+
+At the First a Virus could be found on your computer, but before it,
+Need to check this options, then go for the antivirus program to install nd clean the virus, if problem remain on your compputer,
+
+Please Click on Internet Explorer Icon PROPERTIES on your desktop without running it
+then click on Connections see if any kind of seting are there before removing these check all these setting match with your internet Service provider setting, of IP Protocols and etc...
+if all these settings are properly, then Delete History and Click the POPUP Blocker uncheck or OFF it.
+
+If problem is there then contact with me.

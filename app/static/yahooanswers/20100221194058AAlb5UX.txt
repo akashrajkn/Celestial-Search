@@ -1,0 +1,6 @@
+PLEASE Help me with my wireless internet! It's frustrating me so much! (details)?
+I have wireless internet set up in my house, and I entered the password and everything, and I have an "Excellent" connection 98%, but when I click connect it loads for a bit then says "Connection to WLAN failed" What do I do?! It's an Acer lap top if that makes a difference.
+
+Thanks x.
+
+Connect the laptop back up to the router, and re-configure it. then check it . if works,, un-plug and see if it work wireless  ~

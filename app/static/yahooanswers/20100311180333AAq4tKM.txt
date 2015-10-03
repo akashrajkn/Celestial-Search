@@ -1,0 +1,6 @@
+Is it possible to have two seperate internet connections?
+I want to have two separate ISPs. I have two phone lines, and willing to pay two separate internet bills. Is this possible? Also, what ISP is the best for under $40
+
+It is possible, but you'll need a Firewall/Router with Dual WAN capabilities.  Usually this works as a "Fail over" or for "Load Balancing."  So if one connection goes down or is bogged down, it switches to the other.
+
+Also, to find good internet service try dslreports.com

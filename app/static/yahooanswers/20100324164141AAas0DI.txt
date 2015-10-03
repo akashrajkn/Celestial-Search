@@ -1,0 +1,7 @@
+How do I get my Dailybooth photos and tweets onto my blog?
+So I did this before, a while back.  I had a gadget on my blog on Blogger where my most recent Dailybooth photo would show up.  I had a separate gadget where my most recent tweets would show up.  I redesigned my blog and now I can't figure out what I did before!  And help is greatly appreciated.  I feel like there is a really obvious solution I'm missing. :-/
+Thanks much, Tanner!  I now know where the widgets are for Twitter (under Goodies at the bottom of the homepage).  
+
+I still want to know about Dailybooth, though!
+
+If you go to twitter and gadgets section, I believe it has an html code on how to put tweets on your blog.

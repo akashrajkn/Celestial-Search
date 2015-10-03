@@ -1,0 +1,9 @@
+What is that bar on internet Explore on the bottom called?
+it is the bar on the bottom that tells you Done, when a webpage is loaded etc.
+
+It's the status bar.
+Status bar
+the task bar
+Status bar.
+The Task Bar. If you right click on it you will see the answer.
+The status bar is where you see a page loading and when it's done, it is part of IE.  The task bar is not part of IE and is where the clock is.  You won't see a status bar if you don't have IE window open and you may not see the task bar if you have it set to auto hide.

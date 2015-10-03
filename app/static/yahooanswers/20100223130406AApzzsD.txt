@@ -1,0 +1,7 @@
+Where is the best place to make a Group Blog?
+Me and my friends want to create a blog together, with a bunch of pages (so no blogger). We want something where we can design together, and pick colors and stuff, put in our own pictures, not like weebly.
+Does anyone have any good ideas?
+
+I would suggest using wordpress as the blogging platform and creating multiple author accounts.  You can add pages to a wordpress blog and all authors will be able to post.  I would suggest using just one admin account so there is just one person with the ability to change things but all the authors would get input into the look and feel of the blog.
+
+For some more great tips on blogging be sure to check out http://www.get-pnb.com

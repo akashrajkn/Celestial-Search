@@ -1,0 +1,51 @@
+Which Web Browser to use?
+I installed Mozilla Firefox yesterday and it slowed/messed my machine up so much I have just had to uninstall it. 
+
+I need a more up to date browser, but don't know which one might be best and doesn't interfere with the machine's functioning too much. 
+
+Can anybody recommend one?
+
+My machine isn't in the first flush of youth, but it's that old either.
+I'm currently using internet explorer, but not a very up to date version.
+
+try google chrome....
+The google Chrome
+check it out:
+http://www.google.com/chrome
+use google chrome or opera.both are take low memory usage.
+I recommend Google Chrome for users who need a lightweight browser with good functionality. It's very secure, includes add ons and themes, and takes up fewer system resources than Firefox and Internet Explorer.
+GOOGLE CHROME
+I recommend google chrome (beta). http://www.google.com/landing/chrome/beta/ You can have various extensions and sync google bookmarks across computers. I find it a breeze to use on my computer that is 6 years old. :)
+use opera. 
+don't use google chrome. it would update everytime which would clutter your toolbar and eventually would turn your browser into a speeding turtle. it's sick.
+
+here's opera.
+http://www.opera.com/
+If you are not using the latest version of IE then go to Microsoft's Update site and upgrade to IE 8. It will install it and configure your computer properly and also install the latest updates for it.
+
+However having said that, you can have as many browsers as you like. I have had as many as six trying them all out at various times.
+
+The secret to avoid any conflicts, is when you download and install them make none of them the default browser. That way you can choose which one you want to use.
+
+Also go into Internet Options ? Programs ? Remove the tick out of "Tell me if IE is not the default browser" ? Apply and OK
+
+That way you wont get any nagging screens when you use another browser!
+Hi You are getting problem with Mojilla fire fox. Is it right?
+k  Mojills fire fox  gives very good features than Internet Explorer. it stops Virus. And works well. 
+If your not getting well, then it might be some other problem like virus attacking to your system etc. 
+ok if your clean the system it should work well. Still if you dont like to use Mojilla fire fox 
+Just uninstall and Download GoogleChrome. it works very well. It is very faster than Mojilla firefox.
+i would of reccommened firefox but u have already mentioned that.  go for opera.   avant browser.  is a lot cheaper and very quick.  its based on internet explorer but its thined down and its a lot safer.
+
+www.avantbrowser.com
+
+if you want to look at it.
+Apple Safari ;)
+Google Chrome ain't that great.
+I heard that they track what you do on the internet.
+
+http://www.apple.com/safari/
+Google Chrome 
+
+"Google Chrome runs websites and applications with lightning speed"
+http://www.filehippo.com/download_firefox/

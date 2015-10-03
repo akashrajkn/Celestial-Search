@@ -1,0 +1,8 @@
+Hulu not working as of February 20/21st?
+Is anyone else finding it impossible to even get to any hulu page today? It seems to me this has been happening since at least last night. Anyone know what's going on with that?
+
+Mine is working great -I do have WIN 7
+I'm able to navigate around and select a movie. It wants me to load Adobe Flash Player 10 at that point, but I don't see any problems with the website. FWIW, I have Windows XP.
+
+Try clearing out your cookies and temporary Internet files cache, then try Hulu again.
+Mine is working good. I just checked it out. I have Windows7 I also have another desktop on my work bench with windowsXP, and it is working fine on it too.

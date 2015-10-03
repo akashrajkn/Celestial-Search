@@ -1,0 +1,6 @@
+How do I get my emails to not get sorted into peoples' junk mail?
+Emails that I send out from my small business email gets sorted into people's junk email. I have never sent a bulk email or sent a unsolicited email out. How can I make this stop?
+
+You can't control what happens in other people's email clients.  What they (or their software) consider junk is not up to you.  You can however offer helpful hints in your outgoing emails that describe ways the users can ensure your emails don't go to their junk folder.  This will vary however, depending on what client they use to check email.
+
+In some newsletters I receive, I've seen wording similar to the following:  "To ensure you receive our emails, please add ouraddress@ourdomain.com to your safe senders list." or something similar.

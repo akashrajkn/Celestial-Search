@@ -1,0 +1,15 @@
+How to connect to voip calls?
+I am using 2 different  voip providers to call 2 different free destinations. Now is there any way to connect these 2 calls to make a conference call. any software that can help.
+
+If yes pl. attach the url.
+
+By using a telephone system or skype has that option.
+Yes, Skype offers conference calls, but if you call to landlines or mobile phones, their service is not free (that is how they make their money)
+
+To take advantage of the free service of your two VoIP providers and be able to have conference calls, you first need to make sure that you can use both providers from a SIP client. If that is the case, you can try any free SIP PBX, or you might qualify for Skype for SIP (there are different advantages to both appoaches)
+
+I have written a brief article that can throw some light and be useful as a lead for further investigation (link shown below)
+
+Regards,
+
+Marc

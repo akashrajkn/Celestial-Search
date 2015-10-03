@@ -1,0 +1,12 @@
+I'm using TBB broadband meter which is good, however is there a meter which also shows you addresses?
+I see a lot of stuff is being downloaded but I want to know where it's all coming from?
+
+You only have the URL from where you are downloading from which is the source site.
+
+As regards addresses it depends on how it is routed through the various nodes on the internet.
+
+Even a mirror site can route differently from another.
+
+If there is a problem with a node you are immediately rerouted through another system.
+
+You need to get yourself a ping or trace program if you are really that keen to know.

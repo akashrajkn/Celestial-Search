@@ -1,0 +1,9 @@
+When signing up for stuff or uploading pictures, why is there a code?
+I was trying to upload a picture for my Y! A avatar and it has a code like; errZ5 or JbnHl56. Why does Yahoo (and other websites) have those?
+
+these are not codes!!!
+these are captcha!!!!
+and the reason that there are there is to avoid bots( automatically machines that try to get access )
+Keeps spam bots away.
+It's the best way to tell that you are human.
+The codes can be typed in the required box by human beings. Any automated software cannot do this anonymously.

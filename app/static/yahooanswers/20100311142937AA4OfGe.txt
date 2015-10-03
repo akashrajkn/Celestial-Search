@@ -1,0 +1,25 @@
+I had been using IE for years & switched to Firefox after being advised by a friend?
+With IE the problem was after a few minutes of use it would want to shut down by giving the error message "IE has encountered a problem and needs to shut down"
+But with Firefox I have recently found that it is incompatible on certain sites. Even after entering the password correctly it wouldn't allow me in. But was able to do so through IE. What must I do?
+
+Could anyone help me with this please?
+
+I have used firefox almost exclusively for a number of years, and gradually over time most sites became compatible to the point that I haven't found an incompatible site for about a year and a half. Because you have browsers behaving erratically, I think you may have some malware that is affecting your computer.
+There are one or two browsers that can 'pretend' to be IE, as in the information websites get about what browser you're using can be masked so that the website thinks you're using IE.  This does not mean that IE-only websites will work in them, but some websites can be tricked into working if they just want you to be using IE and nothing else.
+
+Frankly I think it's appalling design to code functional areas of a website for just one browser, and I would do my best to avoid such websites where ever possible.  As I never use IE at home (I use Firefox 3.6) it's not a problem for me, and I never have any malware as the Mac is virtually immune.
+
+IE is a malware magnet, as is Windows and every other piece of Microsoft software.
+I use two addons for Firefox to get around sites that won't play with non-IE browsers...
+either User Agent Switcher:
+https://addons.mozilla.org/en-US/firefox/addon/59
+(Tricks the site into thinking the browser is IE, works a lot of the time, but isn't totally foolproof)
+or
+IE View:
+https://addons.mozilla.org/en-US/firefox/addon/35
+which will allow you to call the IE browser for pages that don't work, or set Firefox to automatically call IE for those pages next (and every time after) that you visit.
+
+That said, if IE is playing up, you can either reset it's settings through the internet options, or disable any addons you;ve recently installed (toolbars and so on) and test it again.
+Use Safari
+A whole lot faster than Firefox.And Better.
+http://www.apple.com/safari/

@@ -1,0 +1,30 @@
+whats internet explorer 9 going to have?
+how is it going to be improved
+
+look on microsofts web page or google it
+It will probably be a lighter shade of blue& make a wee noise like a fanfare when it opens --It will probably take even longer to load ,,,,crash & burn & spy on you even more.... I suppose we are used to it by now anyway,..
+Another huge failure like the rest of the Internet explorer versions.
+
+Firefox Rules.
+more stability and faster loading like ferifox I hope. even add-ons are the simplest of all on ff. and why do you have such a cheesy nickname? fighter - that just so cheesy and typical. have something original such as lemur. but not tiger.
+Thanks to the tremendous feedback from developers with IE8, we¡¯ve been able to take their input and invest in key areas with Internet Explorer 9. Nearly 90 % of the top Web sites from around the world are compatible with Internet Explorer 8 without using the Compatibility View list, which puts us on par with other shipping versions of popular browsers.  The addition of the CV list means more sites can be viewed as the site creator intended in Internet Explorer 8 than any other shipping browser. In addition, Internet Explorer 9 has blocked 560 million attempted malware downloads, making it #1 in malware protection according to NSS Labs. We expect Internet Explorer 9 to build on this progress. In addition, Internet Explorer 9 includes significant advances in interoperability, performance and hardware accelerated browsing.  
+
+Other changes are Internet Explorer adds new support from the HTML5 specification, including:
+?HTML parsing improvements, including parsing of generic elements and overlapping tags
+?Support for parsing XHTML
+?Text Selection APIs to enable programmatic selection of text
+?SVG Support including:
+oDocument Structure, including metadata and extensibility functionality
+oBasic Shapes, including rectangles, circles, ellipses, lines, polylines, and polygons
+oCoordinate System, Transforms and Units
+oPaths, including full capabilities of the path element and d attribute
+Internet Explorer adds new support from the CSS3 specification, including:
+?Rounded corners via the border-radius property
+Support for the CSS Opacity property and RBGA color model, allowing developers to specify the transparency or opacity of an element
+
+IE9 Platform Preview is intended for developers and you can check it out here:
+http://ie.microsoft.com/testdrive/
+
+Cheers,
+Bryn
+IE Outreach Team

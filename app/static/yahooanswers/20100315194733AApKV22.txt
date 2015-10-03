@@ -1,0 +1,15 @@
+What do I do about this Internet Explorer error?
+So when I am online in Internet Exploer (not IE 8) I have not updated. 
+I get this error messege saying: Close programs to prevent information loss. Your computer is low on memory. Save your files and close programs: Internet Explorer.
+
+I also get this low memory messege also and my IE shuts down and sometimes recovers it but not all the time. I have reset the Internet Explorer still does not fix the problem also done Delete temp files, cookies etc.
+
+http://windows.microsoft.com/en-CA/windows-vista/Preventing-low-memory-problems
+Wrong type of memory, there is primarty memory and secondary memory. You seen to confuse the two ( quite common actually from some people)
+
+primary memory refers to the RAM memory, not hard drive memory. RAM memory is used for programs that are currently running, while the memory on the hard drive means programs that are not in use.
+
+In otherwords, see what happen you close a few programs and some background processes. (icons on the bottom right)
+Recover deleted files, Recover deleted files directories,recover deleted files hard drive,recover deleted directories
+
+http://www.diskgetor.com/recover-deleted-files-directories.htm

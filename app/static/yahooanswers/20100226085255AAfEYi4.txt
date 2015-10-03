@@ -1,0 +1,14 @@
+internet connection help plz?
+hi i have a linksys wag200g and i wanted to increase my download load speed i heard of some thing called tcp optimizer i used deleted all the back ups and decreased my download speed  but if i get a new router will i still have tcp optimizer settings or will it be be with out tcp optimizer setting basically im saying does tcp opimizer setting apply to new routers or are the setting save on the broadband or if i get a new router will i have tcp optimizer settings
+
+Your download speed is limited by your ISP (or the phone line between your house and BT exchange) .. a new Router is not going to make any difference UNLESS your ISP is offering ADSL+ and yopur old router is unable to cope ...
+
+TYPICALLY you get 2mbs from your ISP (some Virgin cable accounts claim 20mbs) to your Router
+
+From Router to PC you use either WiFi  (at 54mbs) or cable Ethernet (at 100mbs) .. in other words the link to your PC is NEVER the bottleneck .. and running 'tcp optimiser' on your PC is generally a waste of time ... 
+
+Utilities do exist that instruct the web servers you visit to 'compress' data before sending it .. this only really makes a difference if you are on 'dial up' (often the web Server takes longer doing the compression than it would have done just doing the download)
+
+Better, of course, is to prevent your PC from downloading all the 'multi-media' crap (video clip adverts, background music) that clogs up your connection .. so getting Firefox with Adblock Plus, Flashblock and NoScript can really make a difference .... and it's worth installing a "download manager" (eg FlashGot for Firefox) if you right click and 'save as' large files such as full length movies ...
+
+During 'peak' hours it's likely that your ISP is limiting your speed simply due to the number of people on line .. and you will, no doubt, be aware that your ISP may well be limiting your speed if you are doing lots of large downloads ..

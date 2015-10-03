@@ -1,0 +1,10 @@
+Is this real from Microsoft?
+I saw a video on youtube on how to get a custom email address and they gave this link - https://accountservices.passport.net/reg.srf?fid=RegCredOnlyEASI&ru=https://accountservices.passport.net/ppnetworkhome.srf%3Fvv%3D550%26lc%3D1033&cru=https://accountservices.passport.net/ppnetworkhome.srf%3fvv%3d550%26lc%3d1033&sl=1&lc=1033
+
+The link is to a page on Microsoft Windows Live but it is not the home page that you would go to to sign up for a regular hotmail or live mail account. is this a site that Microsoft provides to sign up for a custom email address?
+
+I don't want to do this is it is not meant to be done by Microsoft.
+
+Thanks Guys! :)
+
+Hey.I've tried this, by getting silentarts@hacker.com and so on, but loading the account takes forever when you login and you don't get in. The only good thing I found was you could use MSN Messenger with the account, so don't bother with doing it. Cool?

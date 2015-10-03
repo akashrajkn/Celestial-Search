@@ -1,0 +1,19 @@
+What are the pros and cons of Internet Explorer 8?
+I accidently upgraded from Internet Explorer 7 to Internet Explorer 8.
+
+It says its faster, but I am more worried about brower security. Should I go back to IE 7? I also have Mozilla Firefox and Safari installed, but I don't use them as much because I am just more used to Windows Internet Explorer.
+
+Get Opera
+internet explorer 8 is very prone to the problem { internet explorer cannot display this webpage} it used to happen so much that i changed to firefox until i found out how fast and reliable google chrome is and have stuck to it since..
+I suggest you stick with IE8. IE8 is faster and safer than IE 7. It is also compatible with more sites than any other browser. If you are concerned with the way IE 8 will interact with sites you are visiting, you should check out Compatibility Mode which allows you to view sites as they would appear in IE 6 or IE 7, with the added security and speed of IE 8. Here's some more information: http://blogs.msdn.com/ie/archive/2009/02/16/just-the-facts-recap-of-compatibility-view.aspx
+
+Other cool new features are web-slices and accelerators.
+
+Learn more about the new features here: http://www.microsoft.com/windows/internet-explorer/features/faster.aspx
+
+Cheers,
+
+Bryn
+IE8 Outreach Team
+Stick with IE8 but use Safari,It doesn't allow any malware on your computer,and its FAST!
+The Cons of IE8 is speed and It's not compatitble with latest technology! Safari supports HTML 5! THE latest technology,So i recommend you use Safari

@@ -1,0 +1,5 @@
+if you are transferring money to paypal then you order something will it come off the money being transferred?
+I was looking around on the internet and i found something i wanted to buy. After i had started to transfer money into my paypal account. I was wondering and hoping that it would come off the money i am recently transferring. thank you!
+
+If you have money in the account when you make the order, it will come out of that, otherwise it will use your backup funding source!
+If you actually transferred money into your paypal account, the money will come from that first...if there's not enough the rest would come from whatever external account is designated.

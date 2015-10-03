@@ -1,0 +1,7 @@
+Why won't Hulu work on my laptop?
+When I try to watch videos, the page loads, but all that pops up is a black box(where the video should be playing).
+
+Do you have the latest version of Flash Player installed?
+Maybe you don't have Adobe Flash or your version is too old.  Get the latest version for your computer here:
+http://get.adobe.com/flashplayer
+install flash player and its only for USA so it wont work for other countries

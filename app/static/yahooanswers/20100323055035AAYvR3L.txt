@@ -1,0 +1,4 @@
+safari crashes on me but it is the only browser i want to use and is there a way you can restore it?
+i have a whole bunch of tabs up when it crashes and its a pain in the ass to try and get them all up again through the history so i was wondering if there was a plugin that would restore the tabs opened after a crash?
+
+try system restore?may be turn your computer completely off,and back-on again,whole lot of times it helps solves the problem?

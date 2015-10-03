@@ -1,0 +1,16 @@
+how long does it takes for cookies to expire?
+if i logged on to yahoo answer from someone else computer and forget to log off , how long would it take to autimatically log off
+is there anything i can do now
+
+well for yahoo if have that check mark on the that mean i will stay on for two weeks
+well, if you have ticked in setting that cookie is valid for 2 weeks, then it will expire after that.
+You can put it for 1 day, and then it expires.
+
+my advise, clear your privacy every time you use someone's PC.
+
+easiest is to use keyboard shortcuts.
+
+in IE8, and Firefox use CTRL + SHIFT + DELETE and select all and you're done.
+in Opera, goto Tools/Delete Privacy data, tick all things you want to delete and press OK.
+
+Grivier

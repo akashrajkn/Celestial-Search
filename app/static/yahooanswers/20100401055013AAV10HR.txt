@@ -1,0 +1,9 @@
+Why is this pesky ask.com site keep coming up?
+I don't know why but there's a pesky site called ask.com that will take over my home page from time to time.
+
+I thought I eliminated all trace of it from my computer using Revo Uninstaller.
+
+What's the deal with this site???
+
+You're homepage has been hijacked. Get anti-spyware and run it. http://www.techsupportalert.com/best-free-adware-spyware-scumware-remover.htm#Quick_Selection_Guide
+ask.com has a lot of programs they partner with to auto install their toolbars etc. when you download freeware/shareware. You can uninstall it usually through windows, but I would recommend running Malwarebytes anti malware (free AV program) just to be sure.

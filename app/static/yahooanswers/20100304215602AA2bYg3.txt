@@ -1,0 +1,4 @@
+How do I set up paypal for a debit card? (10p)?
+I'm at the point of sign up where it says do you want to pay for purchases with your bank account or credit card? Which one do I select if I want to use my debit card? Thanks
+
+The debit card should work equally well in place of a credit card in such a situation. However some sites cannot accept the different number of digits in a debit card. So if your debit card has 16 digits, you are better off.

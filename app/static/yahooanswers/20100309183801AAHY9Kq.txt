@@ -1,0 +1,14 @@
+Mega Video Download, know it won't play?
+I downloaded a video from mega video and it downloaded completely but know it won't play, it says it's in a MKV file if that matters, but I downloaded it twice both times I can't play it on anything?
+Anyone know what's the matter/how I can fix it?
+Thanks!
+
+First, which media player do u use? Maybe your player cant support mkv format.
+Try VCL or Gom player which can both play mkv files.
+what's your video player?
+you can try to convert MKV to other formats that your player support by using a program.
+i recently found a strong power hd video converter--its WinX HD Video Converter Deluxe,it can support Multi-track HD video, such as BDAV, M2TS, MKV, AVCHD, HDTV and MPEG-TS video movies.and of course portable and console players.
+free download here: http://www.winxdvd.com/hd-video-converte¡­
+
+btw,its given away until March 15.
+hope it helps you.^-^

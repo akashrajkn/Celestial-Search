@@ -1,0 +1,4 @@
+How do I get rid of firefox personas?
+So, since I put a skin or whatever for my internet page, I want to know how I can get it taken off.... like a blank skin... no decore!!! thanks ~GOD BLESS!~
+
+On the top of your screen, click Tools, then Add-ons. Find The one labeled Personas, then just click uninstall, and restart Firefox when it asks to.

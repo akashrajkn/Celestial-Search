@@ -1,0 +1,7 @@
+How do I remove Firefox theme?
+i installed a theme fore Firefox but i don't like it anymore, but i don't know how to take it off, anyone can help thx :)
+
+Go to Tools->Addons and click on the themes tab. You'll see your list of installed themes there. There is a button to uninstall the theme.
+tools-addons-themes, then select the 'default' theme, it will ask you to restart firefox, click it and y0ou will be back to normal. btw i suggest using lavafox v1 blue :) very cool and interactive. also, you could just install another theme and it would immediately go to that one.
+Go to "Tools" and click on "Add-Ons".  Find the tab that says "Themes" (with a color palette and paintbrush icon on it).  From here there should be a list of all the themes you currently have installed.  You can either "Disable" a theme, which means your browser will no longer use the theme, but it will still be there if you want it again, or you can "Uninstall" it, which removes it from your browser completely.  If you uninstall and want it again, you can always reinstall it from the Firefox website :)
+either choose a new 1 or go to tools add ons then remove personas or just disable :D hope i helped

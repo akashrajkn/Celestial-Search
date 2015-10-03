@@ -1,0 +1,17 @@
+Where are my tabs and address bar for Internet Explorer?
+Recently, my address bar and tabs have gone missing.  There is just a  see through line that shows my desktop background.  Where did it go and how can i get it back?
+
+Click ALT
+on the Internet Explorer Page
+Then something should pop up on the top
+Next Click VIEW
+and then Click Toolbars
+
+And from there, you can add back your items onto I.E.
+IE is horrible, try switching to Firefox, or even try Opera.
+You should be able to right click where the toolbar used to be, and then check the boxes that appear.  If that is not the issue, it could be a malware problem.  If that does not fix the problem let me know and we can work from there.
+
+Thanks,
+Kyler
+IE8 Outreach Team
+

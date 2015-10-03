@@ -1,0 +1,14 @@
+Royal Mail customs fee?
+ive ordered a package off of ebay and for it to be delivered there is a customs charge, and i can do it online. i apparently have to go to www.royalmail.com/fee2pay in order to pay but each time i do it just directs me to the homepage and i cant find the right place to pay my customs charge. Can anyone direct me to it please?
+
+Sounds like a blip in the website or on your internet browser. Its working fine for me now. Check your settings?
+
+Just in case:
+www.royalmail.com/fee2pay
+should automatically redirect to:
+http://www.royalmail.com/portal/rm/content2?catId=400046&mediaId=37000674&campaignid=fee2pay_redirect
+and then there's the "pay your fee now" button.
+
+
+By the way, if its an option, and online payment is proving hard, you can go down to the local sorting office, pay there and pick up the item, if you have the card and ID.
+Also, you can stick stamps that match the value of the customs charge onto the card, and then put that in a postbox for them to redeliver.

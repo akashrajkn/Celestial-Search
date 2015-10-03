@@ -1,0 +1,30 @@
+I just tested the speed of my internet and the results were 0.37mbs for download and upload was 0.31mbs. My..?
+... status when i click on the connection is 54.0 mbps. What does this mean? I rcently got a letter for my provider (sky) sating that they were increasing the speed as we were using it alot, and i was like ok, thats fine, but after posting another question a monute ago and people saying that they were not getting the speed they had paid for, im starting to get suspicious.
+
+depends on what your ISP is. cable/broadband is shared bandwidth so you pay for say 50 megabits a second but because everyone in your node is torrenting 24/7 and watching streaming video you might only get a few megabits a second.
+
+it also helps if you change your DNS servers and browse when everyone else is off line.
+This all depends on where the internet test is coming from. If you were to ping a server in hong kong it would be slower than pinging a local friends computer through the same provider. This all has to do with the distance between you and the server and the servers connection. I would also check the measurements. I have seen people measure in megabits and megabytes when it comes to internet speeds. This can make things seem better or worse than what it may actually be.
+Are you connected to the Internet via a router of some sort (wired or wireless)?
+
+If so, the 54 mbps may represent your bandwidth across the router.  The actual Internet connection between the modem and outside world can be slower than your local network bandwidth.
+
+What speed does your ISP advertise? 54?
+There is a difference between your network connection and your internet connection. Your network connect is 54 Mbps, which refers to the connection between your computer and your router for example, your own home network. Your internet speed is a whole different thing. You can verify your internet speed at http://www.speedtest.net for example. Compare the results to what your Internet Service Provider should provide you with and what you pay for.
+You have 54 megabits per second.  Some of those speed testers do megabytes per second.  8 bits to a byte.  Do the math on that.  Also, when you are downloading a torrent, it could be from someone's computer on the other side of the world.  It could be someone that has a 56k internet connection.  It could be twenty other users trying to download the same torrent from the same computer.  Sky is going to have peak times which will bog down their systems.  You should be suspicious.  Plenty of internet service provider oversell their product.  There is also an increase in users downloading stuff 24/7.  It used to be that once you had no activity that the internet provider would disconnect you.  Now torrents keep the connection busy all the time.  Some countries are passing laws where the internet service provider will cancel your account if you are downloading illegal copies of stuff.
+http://www.cnn.com/2009/TECH/05/15/france.internet.downloading/index.html?iref=newssearch
+And some people are getting caught.
+http://www.cnn.com/2009/CRIME/06/18/minnesota.music.download.fine/index.html
+That is seriously slow - too slow to be down to traffic levels or slow servers.  When I got that sort of speed for a long period, I did some on-line searching and found it can be caused by the telephone wiring inside your house.  It picks up electrical interference which messes with your broadband signal.  The broadband card at the exchange sees the result as transmission errors and slows down your connection until it stops getting so many error reports.  Sometimes it will not try to increase its speed again for a day or two but, if the problem is still there, it will just slow down again.
+
+There are long and complicated ways of eliminating this problem (which I did) but there is now an easy way.  You fit a thing called an 'i-plate' to your incoming master phone socket.  You take off the front cover, insert the i-plate and put the front cover back.  You are allowed to do this.  It filters out all the interference from inside your property.  Even if that is not your main problem, it nearly always helps and it only costs a few ? so it is well worth it.  Allow a couple of days for the broadband card at the exchange to reset itself.  My speed went from slower than dial-up to 5 mbs.
+
+If possible, try a different router to see whether you have a router fault.
+
+Also, check every phone socket has a filter on it and check you have no faulty filters.
+
+If you get BT to diagnose the fault and they find it is due to your internal wiring or a faulty filter, they will charge about ?150, as my neighbour recently found out.
+
+Hardly anyone gets the speed that pay for.  According to Broadband Expert, most of us get about 40% of what we pay for.  Partly that is because the ISPs sell the same capacity 50 times so, some of the time, you might be competing with 49 other people for the same bandwidth.
+
+Good luck.

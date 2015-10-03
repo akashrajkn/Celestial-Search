@@ -1,0 +1,4 @@
+Why does it read "add ons disabled" In Explorer 8?
+Every time I click on Explorer... instead of my home page coming up, a white screen comes up that says "Add ons Disabled". I cant find a place to enable them! If I click on the button to "manage" them, it says that most of them are enabled! Are they all suppose to be enabled for the message to go away? There is also a task bar the pops up on top telling me that they are disabled as well. How do I make this go away? Thanks much!
+
+Maybe you should re-install explorer?

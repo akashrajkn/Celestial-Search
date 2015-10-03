@@ -1,0 +1,6 @@
+How do I keep two windows open, but be able to click on one without the other closing?
+Im trying to be able to keep Skype open, but still be able to be on the internet, without having to keep clicking it when it minimizes, after I click on something. Make Sense? No ahah sorry
+
+Just size both windows to fit on half the screen and move one to the left and the other to the right and they shouldn't close.
+Shrink the browser Window so that it doesn't overlap your skype window.
+I've never used skype before, but if it is what I think it is, then press the button next to the x button that closes the window, and put them both side by side (not overlapping)

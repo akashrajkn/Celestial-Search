@@ -1,0 +1,14 @@
+what does refresh button on Internet Explorer do?
+What exactly does it do? Does it refresh a cached version of site or live website?
+
+it refreshes the page
+it makes the page new again. like youve just opened it up brand new.
+Its just to re-do the page just like if Yahoo edited the page right now it wouldnt pop up until i refresh it
+Say if you were looking at a page of yahoo answers and you wanted to see if anyone had posted again you would just press refresh (F5) and it would reload the page and download all the elements again.
+it reloads the website
+it renews the page, like if something says 5 mins ago when u refresh it it may say 30 mins or something, it renews it
+Your internet browser temporarily saves the web pages, and the images on those pages, in order to load those same pages faster when you go to them again. By pressing the refresh button, it will force your browser to load the website from the source, rather than the saved files on your computer. It's great for sites like forums/twitter pages where new info is constantly be loaded to the page, although there are lots of sites that automatically 'refresh' the page for you. 
+ Hope that makes sense!
+
+Kyler
+IE8 Outreach Team

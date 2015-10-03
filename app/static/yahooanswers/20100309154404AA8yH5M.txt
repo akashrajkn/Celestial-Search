@@ -1,0 +1,10 @@
+When would one use a database to answer a query on the internet?
+
+
+Not very clear.. but will answer any way..
+
+When you posted yur question 10 mins ago... you used a database that was connected to one of Yahoo's many servers. Just like that, when i will answer, my answer will get stord in one of the many databases of yahoo.. 
+
+Its everywhere and ppl use it everytym... every command that you give, everything that you search in your google, is checked for records that are stored in the database.. They are checked through the index of every database, and the indexes are in the form of trees..[I mean the data structure - tree[not the conventional one]]
+
+Really not sure if that's what you asked.

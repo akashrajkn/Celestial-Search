@@ -1,0 +1,14 @@
+What does insufficient system resourses mean?
+I have a pc that is not connecting to the internet and the answer I get is the above
+
+LOW ON RAM. Try clearing out your taskbar exit some programs. Or upgrade the ram.
+It means time to buy a new PC. Your old PC most likely has no more virtual memory and/or hard drive space to cache. Its also possible that the mother board is so old it cannot run or handle newer software.
+Right click on the taskbar and select "Task manager" > processes.
+Check to see the resources being used at an idle. You may find something is using an unusually large amount.
+
+This may or may not be part of a "memory leak".
+
+I've lited a site 
+Hope it helps
+
+http://www.softwaretipsandtricks.com/forum/windows-xp/12846-insufficient-system-resources-exist.html

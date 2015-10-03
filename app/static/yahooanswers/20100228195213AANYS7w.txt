@@ -1,0 +1,5 @@
+I just installed Avast 5.0 to my computer and now Internet explorer will only say cannot display webpage. Help?
+I turn off the web shield and it works, but not sure if leaving it off is a good idea
+
+I use avast 5.0.. my shields are on,, and my IE works fine,, try re-installing the IE ,, yours may be corrupted.. ~
+Put the Web Shield back on, go to Add or Remove and click Avast 5, click Change/Remove and choose Repair and close out and restart PC. If that don't fix it, Reset IE8 to Default in Options, Advanced and restart PC...

@@ -1,0 +1,50 @@
+help with internet explorer 8?
+if i uninstall internet explorer 8 will i lose my favourites bar  in the browser and everything saved in it ?
+
+
+i downloaded some not very good programs recently and when i uninstalled them,    i noticed changes to my internet explorer 8 browser  -  the go buttons  , the arrows for back and forward have disappeared .
+
+the address bar has disappeared   ,  and the google toolbar has disappeared and it won't let me reinstall it.
+
+
+i dont know what else to do  to get my browser back to how it was,  so i thought if i uninstall internet explorer 8  , that might work ?
+
+but i was wondering would i lose all my favourites in the favourites bar   or the favourites bar itself ?
+
+
+anyone know or have any idea ?
+
+
+please try your best to answer this question and not talk or answer with a different subject  but just answer the question.   
+
+thanks
+Lost In Space
+
+ive tried that   and it doesn't work.
+
+I hated internet explorer 8. I recommend getting Safari, which is free.
+First you can't uninstall internet explorer. But you don't have to do that. Right click on the gray area for option of what you want to have in it visible, the bar , buttons and anything else
+These not so good programs are the culprits here. They could be alien, and have malware in their makeup. Internet Explorer 8 is not at fault here, so do not un-install it. 
+Unless it has been corrupted by these programs you've downloaded. 
+
+What you do is un-install these not so good programs, and fast. 
+Then you do a System Restore to a point before you put these programs on your system.
+
+You should be more careful in what you download in the future, and if you're not sure about a program do not download it. That's my advice to you. You're restore will usually get your system back to where it were, and get your computer working properly again.
+
+On re-reading your question, I noticed you had uninstalled these programs. I apologise. So that leaves you to do the System Restore to before the time you put the doggy programs on. 
+
+You should get all the icons back, if not then you have to try something else. 
+
+If your Internet Explorer has become infected, then you can uninstall it, and then reinstall it from where it is advertised for the recent version of it. It's totally free to do so. I hope you succeed in this.
+
+givemestrength
+
+PS Anything that you do, you have to switch off your computer in order for the changes to take   place.
+Before you do anything, if you want to save your Favourites do this.
+
+Right click on Start ? Select Explore All Users ? Documents & Settings ? Your Name or User ? Favourites ? Copy them all onto Disc or Floppy.
+
+Then Control Panel ? Advanced ? At the bottom of the page It has a "Reset" button ? Click on that and it will reload and repair IE 8.
+
+When you have done that copy your Favourites back on as above.

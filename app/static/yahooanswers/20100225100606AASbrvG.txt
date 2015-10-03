@@ -1,0 +1,14 @@
+Help on firefox web browser.?
+I have managed to somehow remove the toolbar along the top of my firefox internet bowser. It's the toolbar which has the file, edit, view, ect. I would know how to view all my toolbars but the view button is gone. Thank you.
+
+setting top right corner
+Hold  ALT key and press V ...once it appears click on View , select Toolbar and make sure Menu Bar is ticked
+Try hitting F11 and see if that solves your problem. That made my FF go full screen and I lost that as well. F11 toggles the view.
+have a look at these..
+
+>>https://addons.mozilla.org/en-US/firefox/addon/3895
+
+>>https://addons.mozilla.org/en-US/firefox/addon/710
+
+
+these will work

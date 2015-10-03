@@ -1,0 +1,14 @@
+How do I add CNN Money RSS to Internet Explorer 8?
+I am able to add some other feeds, and i have no problem with firefox, but it doesn't seem obvious on how to add rss feeds in Internet Explorer 8.
+
+Thank you.
+
+Here is a guide of how to add an RSS feed: http://www.microsoft.com/windows/IE/ie7/tour/rss/
+
+You should also check out the CNN Toolbar: http://www.ieaddons.com/en/details/news/CNN_Toolbar/
+
+I hope this helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team

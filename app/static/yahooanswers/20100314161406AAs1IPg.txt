@@ -1,0 +1,5 @@
+How can i get Apple to stop sending me automatic receipts?
+Every single time I download a new app (always free, never a cost) from the store on my iphone, it sends an automatic receipt eventually to my e-mail. It is so annoying. I don't remember ever confirming it to do this. How can I stop this! Please
+
+Set up a new email account, log into your iTunes account and change the email address. You wont get any more notifications on your regular email.
+there must be an unsubscribe button somewhere, or if an animated service, it won't know any better so just grin and bare it and delete the unopened mail?

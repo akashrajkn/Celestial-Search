@@ -1,0 +1,14 @@
+How do I completely clear/delete my list of favorites in Internet Explorer?
+I want to delete the whole list and start over. How do I do that? (Thank you for your help.)
+Added:
+You missed my point. (thanks anyway) I am aware of how to delete one at a time. I want to delete hundreds at once. (I have years worth of them) I know there is some way of deleting them all at once.
+
+I need the REAL answer to my question.
+
+You click on them and press the delete key to delete them. Or right click on them and go to delete
+Although I don't know...that's an excellent question. (I gave you a star) I do happen to know you are correct that there IS a way. (I heard it before, but forgot how to do it.) 
+
+Added : OK...I did some searching for you and here is your answer.
+
+All of your Favorites are stored in a folder under your user profile. If you look in C:\Documents and Settings\ (your user name) \ Favorites in Windows XP you will see them all listed as individual files. Delete all or any you want from here and they won't appear in the list on line.
+

@@ -1,0 +1,17 @@
+Internet explorer freezes when...?
+...try to watch any video online (eg youtube).  Extremely annoyed after following instructions to Uninstal/reinstall the flash player, resetting internet options etc.  Details on what happens below. Just wanting to know if anyone else has had this same problem and what you did to fix it.  thanks a ton!
+
+1st open internet explorer then go to youtube. Select a random video from there home page. While waiting for  the video to begin its upload process a large black window appears (the player) a small cluster of circles appear in the middle and rotate for about 20 seconds. then a complete freeze.  When trying to exit the page or reset, the page turns a cloudy white and im forced to shut down.  again, thanks for your help.
+ok guys.. ive downloaded and used FireFox w/ no luck. Also uninstaled/reinstaled adobe flash player and again, no luck.
+
+download and install firefox
+much better then IE
+Please copy the links and paste them in your web browser. I think your flash player is not properly installed or not working properly. To watch videos on youtube you also need Java Runtime so you should try both the links.
+
+http://get.adobe.com/flashplayer/
+http://www.java.com/getjava/
+
+If your problem is still not fixed then visit the website below follow the steps for resettig Internet Explorer if that did not work download Microsoft Fixit for Internet Explorer, You will find the link in the same website.
+http://support.microsoft.com/kb/923737
+The Windows operating system constantly refers to the registry to get information about all of the components such as hardware and software which are installed on the computer. The registry tells Windows what to do and how to access the various programs, files, and processes.However, the registry can contain bad information which sends Windows off doing useless tasks or running unneeded routines. Sometimes errors occur including the freezeing. Other times the system slows down. Because of the sheer number of factors that can affect the registry, there¡¯s no one size fits all approach. You can¡¯t just go into the registry and remove the bad information because it¡¯s nearly impossible to decipher which information is good and which information is bad. That¡¯s a job better suited for software. I should like to commend Registry Easy http://computer-e-book-money.com            to you ! You can try ! Good luck!
+If your computer is still freezing, then you should clean out the registry. This is a database which stores information and settings about your computer and is also where a lot of errors occur inside the Windows system. You should download and use a 'registry cleaner' program to scan through the registry and remove any of the damaged settings that are inside it. These tools are widely available online and are able to fix your PC and make it run like it did when it was new.You can stop computer freezes by following the tutorial above. We've found that using a 'registry cleaner' to fix any errors inside your computer is actually one of the best ways to stop your PC from crashing all the time.I should like to commend Registry Easy http://best-way-to-improve-pc-performance.com      to you ! You can scan your pc for free! Good luck!

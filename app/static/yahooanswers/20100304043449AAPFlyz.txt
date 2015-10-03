@@ -1,0 +1,4 @@
+Trying to add Feedburner or other widget to my WordPress blog so people can sign up for update notifications?
+A friend of mine has a WordPress blog and I get updates from it via Feedburner whenever he posts new content, but I'm having trouble figuring out how to add a widget or other function to my blog to allow Feedburner to send out notifications to people who want to know when I post new content. Could someone help me figure out the best way to go about this? Thanks!
+
+http://www.killerstartups.com/killersearch/wordpress-rss-widget/

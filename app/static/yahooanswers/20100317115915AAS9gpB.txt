@@ -1,0 +1,4 @@
+How do you block users not on your friends list on AIM?
+I only want people on my friend's list to see that I'm online. Such as if I were to delete someone, I'd want their screenname blocked. Is there a way I can do this?
+
+Get the latest version of aim ( the toolbar one) then when you look someone's Buddy info up search the sn of of the unwanted.Then click on it and block works for me and I could not be more happier!

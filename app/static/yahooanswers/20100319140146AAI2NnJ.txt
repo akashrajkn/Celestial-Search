@@ -1,0 +1,11 @@
+will quicktime work if i uninstall itunes?
+i tunes runs in processes and its a program i dont use. 
+need quicktime though. suggestions?
+
+of course it'll work, they are two different programs, not related at all.
+When installing itunes, it will ask if you want to remove all programs associated with itunes, select NO or select custom to choose what you want and don't want. If it still removes quicktime, you could easily download it from apple's website:
+
+http://www.apple.com/quicktime/download/
+
+
+Hope that helps.

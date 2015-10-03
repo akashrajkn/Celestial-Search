@@ -1,0 +1,8 @@
+How do we connect them together through the phone line?
+How do we connect 2 PCs directly together using modems and over the phone line? Can it be done? I think we need to use the dial up modem for this one.
+
+Get a wireless router (this plugs straight in to the phone line)... Equip each PC with a wire less adaptor/dongle etc....that's it, you have a wireless network. Set the share/shared Docs for each PC.
+Or you can use a switch type hub, the modem and both PC's plug straight in and your on.
+
+Google "home networking diagrams"+"modem"or"router" for more info
+You need a router, to connect 2 PCs together. If you are using dial-up you might want to look into Broadband DSL or cable for a faster connection.

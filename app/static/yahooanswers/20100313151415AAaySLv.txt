@@ -1,0 +1,19 @@
+Slow Internet problems. Solutions?
+HI i have Optimum cable service for Internet.
+When i first got it it was lightning fast. After a month or too it got pretty slow. Especially at night and on weekends. Does anyone know why? Is this happening to anyone else?
+
+
+Or does anyone have any tips on how to increase internet speed in general?
+
+You could just download firefox internet browser, instead of using internet explorer. Its free and has a much faster internet browser and a smooth interface. Good luck :)
+There could be many reason.  I'll list some of the usual ones.  Since it at night and weekends the first two reason is most likely.  Or a combination of reasons.  
+
+1) Many people who live near your general area also uses the same cable company therefore when people are home using internet, the company does not have the bandwidth to keep every at top speeds.  
+
+2)If you have wireless you may have someone leeching your internet.  Be sure to have password protection up and regularly change your password.  
+
+3)Spy-ware/Mal-ware could be a additional cause of slow downs including or not the first two reasons.
+
+4) Try www.speedtest.net to see how you rank with other peers of the same company. Also if the speed is somewhat close to what you paid for in the first place.  Though most of the time you never really reach what cable companies advertise.  
+
+5) Possible problem with the line/router.  Call your cable company, to see what they say.  Could be a problem on their side but highly unlikely they be able to do something, but it doesn't hurt to try.

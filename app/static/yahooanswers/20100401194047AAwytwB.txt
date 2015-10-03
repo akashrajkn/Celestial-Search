@@ -1,0 +1,4 @@
+i delete a windows update for internet explorer, as i changed my browser to opera, but now i am being reminded?
+to install internet explorer 8 update which i no longer use. I don't want to disable updates altogether but will it keep asking?
+
+Just hide the update in Windows Update

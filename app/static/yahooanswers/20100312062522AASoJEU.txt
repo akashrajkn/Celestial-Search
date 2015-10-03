@@ -1,0 +1,8 @@
+Is this possible to get a single internet broadband connection for our 60 offices in India?
+Hi,
+Our company is having 60 offices all over India. All offices having internet broadband connection separately. Is this possible to get a single connection for all offices? So that we can pay a single bill monthly or yearly once. Also we can reduce our cost. Any suggestion plz
+
+Contact your broadband provider.
+=
+They can design a WAN.
+to do this,you have to contact with your ISP(Internet service provider).Also you have to spent some extra money to setup your own server.

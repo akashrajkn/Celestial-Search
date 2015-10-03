@@ -1,0 +1,9 @@
+the original firefox speed tweaks?
+two years ago there were websites that posted firefox settings that you can alter in about:config to make it run faster (for example; having it load a website before all pictures are finished as opposed to waiting for everything to be loaded to display). Now when I run a search for these tweaks I find websites with about 30+ tweaks that include the old tweaks. Problem is, I do not specifically remember all of the old ones to spot them out, I can only recognize a few. I do not want all of these new tweaks that these websites have, I just want the basic few that worked great back then. The first ones had to do with "network.http" and I believe there were a couple more that followed that where you had to make a value yourself. Anyone know? (I also remember the website I went to for the old tweaks was black and green; so if you know what website I am talking about you can just show me that website instead)
+
+Here is good link that will help you,
+
+http://www.dagorret.net/2009/03/25/a-handful-of-firefox-tweaks-that-will-double-your-browser-speed/
+
+Good Luck
+The Old Computer Guy

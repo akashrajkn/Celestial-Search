@@ -1,0 +1,9 @@
+How can I make a link out of just words?
+You see them all the time. The ones that say click here, and the "here" is a link. How can I do that?
+Sort of. But what I want to do is have the link to http://www.justinmorneau.com show up as Justin Morneau. So that when you click on the name, the page comes up. That help?
+
+If you're thinking HTML wise, then it's like this:
+<a href='http://google.com'>Clicking here will make you go to 'http://google.com'</a>
+
+Hope this helped!
+//Relex.

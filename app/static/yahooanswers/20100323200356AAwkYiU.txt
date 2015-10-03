@@ -1,0 +1,4 @@
+Why am I getting referrers on wordpress from random facebook links?
+Wordpress offers referrers in your stats, meaning it shows where people clicked your link to get there. I am finding that links from random pages on facebook, friends pages or fan pages, where my link is not posted are appearing quite frequently. Anyone know why?
+
+The search engines are picking your blog up now and that is why you are getting these. You can change this in your dashboard under Privacy Settings and check the circle>I would like to block search engines, but allow normal visitors

@@ -1,0 +1,18 @@
+how do i move favorites in internet explorer 8?
+i just got a new laptop and would like to move my favorites from my old computer to my new laptop, without having to write them all down. is it even possible??
+
+No problem, open your favorites folder (C:\Users\YOUNAME\Favorites) and copy its contents. Create another folder on your desktop and copy the favorites inside. Right click thos folder and choose send to.. compressed (zipped) file - email this to a Gmail or email account you have on your laptop, open it and copy it's contents to the same location of the favorites filder. Restart Explorer and that it
+It is!
+Go to File > Import and Export.
+Click Export to a file then next,
+Tick favourites or anything else you want exported
+Then choose the correct location of where it's going (like in a usb)
+Then click export and it should be all done
+yes it is possible.you can do it through pendrive.go to the drive where ur windows is installed then go to (Documents and Settings) then go ur user and copy my favorite and paste to ur pendrive and transfer it to your new laptop user.at go to the drive where ur windows is installed then go to (Documents and Settings) then go ur user and and paste my favorite.thanks
+Yes, open up your IE 8, go to Favorites, click "Add to Favorites". You will then see the option to Export or import Favorites. Choose export and send to a USB Flash Drive.It will copy all your favorites. Then use the USB to import from the USB to your new laptop.
+
+The steps are the same, just use import to copy from your USB.
+
+If you do not have a USB Flash Drive, then just make a note to where you copied the Bookmarks to and then email it to yourself.
+
+Good Luck and Happy and Safe Computing

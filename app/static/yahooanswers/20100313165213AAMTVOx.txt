@@ -1,0 +1,38 @@
+Why isn't the dulce cosmetics site working?
+I just saw the makeup on juicystars07's youtube and I want it sooo bad! I get to where it says proceed with payment and I click it and it says "secure connection failed" or something. Help? 
+
+
+I have firefox.
+this is exactly what it is.
+
+Secure Connection Failed
+
+      
+
+      
+      
+      
+
+      
+        
+        
+
+          
+
+An error occurred during a connection to www.dulcecosmetics.com.
+
+SSL received a record that exceeded the maximum permissible length.
+
+(Error code: ssl_error_rx_record_too_long)
+
+      
+         *   The page you are trying to view can not be shown because the authenticity of the received data could not be verified.
+
+    *   Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.
+
+The "or something" makes your question hard to answer.  You need to be specific when asking a question in order to get an accurate answer
+The site is under maintenance.
+The site probably wasn't equipped to handle all of the traffic.
+I want to buy stuff from there too!
+Love Juicystar07!
+Just be patient, hopefully it'll be up soon!

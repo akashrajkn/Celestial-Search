@@ -1,0 +1,6 @@
+Use Computers Internet on Mobile?
+I have a NOKIA 2700. Anybody please tell me how to get internet on mobile via my pc which have a broadband connection..
+I mean is there any way to share it with my mobile.. There is a software GNU box for s 60but i have a java phone...
+
+you have to go through your carrier for internet!
+Internet access on your phone is provided by the phone's carrier and not the broadband connection of your pc.  They are not related.

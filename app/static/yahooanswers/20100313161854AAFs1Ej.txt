@@ -1,0 +1,18 @@
+Upgrading to Firefox 3.6 from 3.5.8 and keeping the Settings & Bookmarks. Do I need to uninstall first ?
+hi.
+
+I wanted to keep my bookmarks & settings etc.
+Are they gonna be automatically stored ?
+I think they are gonna be stored in firefox setting folder... right ? then be used/updated by the new firefox ..?
+
+And Do I need to uninstall my firefox 3.5.8 first before installing the update ???
+or is it automatic
+
+I ran Vista 64
+
+thanks
+
+Just do the upgrade, everything will be kept intact.
+The new version will automatically get the configurations and setting from the older one, so no worries go ahead.
+
+Regards

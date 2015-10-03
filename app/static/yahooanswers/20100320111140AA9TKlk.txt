@@ -1,0 +1,15 @@
+Where do emails go after you permanently delete them?
+Been wondering this for a while. Do they still exist somewhere? When you delete them, where do they go? They don't get stored in your computer; they have to go to some place online don't they? Thanks ;)
+
+Email heaven?
+yes some1 i know said they can last 4 like 5 years
+E-mail hell
+Yes. When you delete them off of your computer, they are only removed from the filesystem index. This means that through an undeleter application, any and all emails/files can be restored. Over time though, these deleted files are overwritten with new files.
+
+Online though, deleted emails could be stored on some server, somewhere... basically forever. They are only deleted from your inbox. Remember, on the internet, nothing is truly safe.
+They get deleted.  However, if the email provider you use does caching (server wide copy just incase of a catastrophic server failure where they need to restore it to a previous point), it's possible for them to exist until their cache expires.  I don't think any email provider reveals how long the cache is kept.  But don't worry, no-one can see them unless they have access to the server itself.
+the government stores them in a file they keep on you . 
+
+really , by default they are sent to the trash folder in your email client . Unless you check in the options for them not to be sent there. You can also have them deleted from the trash folder when you shut down the email client . you can also right click on the trash folder and click Empty Trash . They are gone .
+ They are like any other data on your hard drive . they just get written over when you delete them permanently . If your email client is set to leave a copy on the server than there will be on there. 
+this all assumes that you are downloading your email to your pc . If you are using web based email like yahoo then it is on their server and the same all applies except it is not on your drive.

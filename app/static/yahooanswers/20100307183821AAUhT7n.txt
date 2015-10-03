@@ -1,0 +1,18 @@
+Can the person paying the internet (computer) and mobile (for internet too) for me, see what I do on it?
+He doesn't have a list with everything I do? Just wondering...
+
+if you allowed them to install a keylogger. it tracks what the user does.
+no they can't. except for what numbers you call. not incoming calls. if you need to do something secretive on the web you can go into private browsing. you can usually find the option in the "file" section, but if not just look around. if you have a mac it's under "safari" hope i helped!!
+No. When you get the internet bill it just says what you are paying for and the same with the mobile internet. The bill just list the features that you pay for, not what you do with those features.
+Yes he can.  But only if he has your computer's name, your computer's IP address, your password, and the necessary know how!
+The person above you is paranoid. Sure. Run super-antispyware. Make sure there is nothing there.
+
+It is technically possible.
+
+However, generally only on hacked (ie. modded) or small business routers. And never on a cell phone. (too many towers)
+
+I consider it highly unlikely.
+
+However, no connection over the Internet is secure unless it is encrypted. (like https -- think your bank).
+
+--Sam

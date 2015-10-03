@@ -1,0 +1,22 @@
+What are internet cookies? Like..what do they really do?
+I know a little bit about cookies but not anything technical. What happens when a website is allowed to store cookies? What do the cookies do? Can websites view cookies? I am just confused because with my college site and other sites in order to access the site we have to select the option to always allow cookies for the site. What does that mean? I am just curious.
+I am just wondering because sometimes I use wolfram alpha which gives me answers to math problems and I want to make sure that my proffessor doesn't know that I use it.
+
+feed your computer you fu*CKING ChILD RAPIST
+Cookies keep track of you activity !
+it just allows it to remember who you are and stuff like that. say you are applying for something online and it goes to the next page it passes on the information. as far as i know cookies are preety safe just delete them every once in a while not when you're in the middle of something
+cookie take notes of all the sites youve been on so they can pound you with adware later on
+A cookie (also tracking cookie, browser cookie, and HTTP cookie) is a small piece of text stored on a user's computer by a web browser. A cookie consists of one or more name-value pairs containing bits of information.
+
+The cookie is sent as an HTTP header by a web server to a web browser and then sent back unchanged by the browser each time it accesses that server. A cookie can be used for authentication, session tracking (state maintenance), storing site preferences, shopping cart contents, the identifier for a server-based session, or anything else that can be accomplished through storing textual data.
+
+As text, cookies are not executable. Because they are not executed, they cannot replicate themselves and are not viruses. Due to the browser mechanism to set and read cookies, they can be used as spyware. Anti-spyware products may warn users about some cookies because cookies can be used to track people or violate privacy concerns
+______________________________________________________________________________
+
+I am the COOKIE MONSTER.
+Cookies are bits of textual information that a website can save to your computer.  They commonly used to keep track of users that are logged into websites.  For example, go to a website where you have to login, delete your cookies, and reload the page.  Odds are you will no longer be logged in.  Cookies can also save information inbetween sessions.  So you can go to a website, and come back a few days later, and then the website can look at what information is saved as a cookie on your computer so it can pick up where it left off.  Some people are extra paranoid about cookies and disable them because they don't like the idea of websites being able to save anything to their computer.  The thing is that cookies are only textual data and there isn't really much of a security risk of having them on your computer.
+Ever type something in and have a scroll down screen appear showing other things you've typed before that start with those numbers or letters? 
+Cookies= rememberance for your computer to correlate with the web site and share what you've already done on that site. Kinda how bookmarking remembers a specific page for you, so you don't have to remember it yourself and you can click a button and go back to where you were, a cookie does the same thing only with information put into sites. 
+Also helps if you apply for stuff online, cookies help save your progress so you don't have to manually re-enter information you've already sent to that web address. 
+
+^_^

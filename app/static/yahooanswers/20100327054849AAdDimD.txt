@@ -1,0 +1,8 @@
+is firefox down today?
+
+
+no
+No, not for me at least. I'm using Firefox to answer this right now.
+Firefox is a program on your computer it is not a website on someone else's server. Thus it can never be 'down'.
+If your Firefox isn't working the fault is on your computer. If you run Windows then use Internet Explorer to browse to the Mozilla site and download Firefox again. Then re-install it.
+No.It is working for me.

@@ -1,0 +1,9 @@
+how do you remove a website you have made from the internet?
+I maintain the website at my school, and recently the school got a new website. The problem is that now the school has two websites with the same address. What I want to do is remove the old one so that it stops showing up when people look for the school website.
+I know that I shouldn't be able to have two different sites with the same address, but I do. That's my problem. When I type in the address on different computers or at different times, sometimes the old website appears and sometimes the new one appears. I want to know how to disable or delete the old website from the host computer.
+
+You can't have 2 websites with the same address. 
+
+Sitename.com only points to one location. If the problem is that you have an old site and want to point that old site to the new one then place a redirect code into the old sites index.html  file to redirect the person to the new site name.
+
+If you have 2 index files in the site one called index.php and the other index.html then erase the old one and the new one will take over.

@@ -1,0 +1,41 @@
+What size cache should I use for Internet Explorer?
+Windows XP Professional. Service Pack 3. 80 GB hard disk. Intel Pentium III, Clock Speed 500 MHz 512 MB of RAM with no room for more without replacing the motherboard. Microsoft Internet Explorer 6.0 at the moment.
+At the moment it is set to cache 1000 MB on the hard disk. I think that this is too big for optimum speed.
+
+load IE 8 and set the browsing history to 350mByte
+
+
+IE8
+If you haven¡¯t got IE8, download it from filehippo.com.  Select the correct one to suit XP or Vista/win7. Its as fast and as presentable as Firefox..  When you install IE8 it will automatically uninstall the existing IE, so if you having problems you can try re-installing it, but first try this.
+
+Set up IE/8 so it runs efficiently. (2 minutes)
+
+1. In IE, Click Tools >Internet Options >Advance Tab. Click Restore advance settings defaults button. Then scroll the listings down to near the bottom and select >Tick empty temp files when browser closes (this empties the cache, which if not empty, will stop you from going online and hassles msn)
+2. Ensure only one phishing filter program, and only one firewall program is used on the computer.  Disable others that may be in other software, or disable the browser phishing filter.
+Ie8  - to disable the phishing filter click Tools > scroll down to SmartScreen filter and disable it.  (leave it on is preferred) SmartScreen filter will stop malicious code from being installed to your computer, specially through activex, however it may be doubling up with your internet security program so causing your browser to be a little slower.  So either disable it in the browser or disable it in your internet security program.
+3. Then in IE8 click the blue drop arrow near the search icon (top RHS corner) >manage search providers >make the one you want default >then remove all the others listed.  These really slow IE8 so remove them.
+4  Click Tools >manage add ons > accelerators and disable all of them.
+5  Get rid of any toolbars on the menu line.  Place the curser near the top under the address bar and right click.  Tick Menu bar, Status Bar, and Command bar. Untick any other listed.
+6  Then Click Tools >Delete Browser History, cookies, add ons,  the whole lot. Do this regularly. Close the browser to set the settings. 
+
+Reboot and then do a windows express updates until no more updates.  This seems to help IE8.
+
+After you have used IE8 and happy with it, then you can experiment with the accelerators in manage add ons, and also experiment with the selections on the menu bar (5 above)
+
+IE8 has nice coloured tabs and if you see some text you like swipe it and a blue arrow shows, click it and you can select a function. These functions will change as you add accelerators. eg you may add Wiki or a medical site etc.
+You in actual fact should be using IE 8 now. If you are still using 6 it's full of Security holes.
+
+Go to the Microsoft Update site and upgrade to IE 8. Your computer/laptop will be properly configured for it and you will also get the latest security updates for it as well.
+
+Don't download it from anywhere else or you could end up having problems with it. Also you wont get the latest security updates either.
+
+As regards the Cache as I said earlier this will be automatically done when your machine is configured during the upgrade.
+
+Afterwards if you want to check go to Internet Options ? On the first page you will see Browsing History ? Click on Settings ? It will show you two setting parameters ? One will be what the system has allocated and recommended and the other you can set yourself.
+Recent test in the link below for browser memory usage (check the Updates June 2009 as he revisits the test with more up-to-date browsers) shows Firefox gives best memory usage.  I run Mozilla Firefox 3.6 on on an Intel P4 512mb RAM, XP Home - I switched from lastest I.E. - & am very pleased with memory usage & speed
+Chezzrob's walkthrough is a good one, here is a direct link to download IE8, I also strongly recommend it over IE6.
+
+http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx
+
+Kyler
+IE8 Outreach Team

@@ -1,0 +1,5 @@
+how can i connect ym through firefox , coz  by default ym use IE?
+
+
+Open Firefox, open its preferences, and on the Advanced tab set Firefox as the default web browser.
+

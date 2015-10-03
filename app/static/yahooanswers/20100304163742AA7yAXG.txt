@@ -1,0 +1,11 @@
+Fastest web browser for macbook pro?
+I have safari, google chrome, opera, camino, firefox, and flock on my mac. Are there any other REALLY fast web browsers? 
+And dont say safari. it sucks!
+
+Those are the best of the best, you might try upgrading your internet, at a certain point the browser is only going to make the internet go so fast.
+i have WOWD which is good for me! or mabey its just the reception you have.
+andr0x is right; your browser will only go so fast, and thus far I'd have to say I like Chrome when it comes to loading things quickly.
+It's your internet connection, not the browsers. 
+I'm on a MacBook pro too and Safari is really fast on mine.
+
+Go to Speedtest.net to check your connection speed then if it's not at the speed you want, call your internet provider.

@@ -1,0 +1,15 @@
+Google Chrome, Firefox, IE won't open; IE w/ no plugins opens?
+I am currently using IE with no plugins to ask this question. Two days ago I accidentally downloaded a file that had a malware attached to it. Immediately I used Thinkvantage's system restore and restored my computer to its previous setting (before I got the malware)
+
+Now, however, Chrome, firefox, and IE won't open. When IE opens it immediately shuts down - IE w/o plugins is the only thing that can access the internet right now.
+
+What do I do?
+
+You have a virus. Do a virus scan.
+Nuke it with the system restore disk.
+Next time, before you get on the web, use a sandbox application such as Sandboxie or Comodo.
+
+Sandboxie runs your programs in an isolated space which prevents them from making permanent changes to other programs and data in your computer.
+go to control panel uninstall a program  and repair every one of them.
+get avast 5.0 http://www.avast.com/free-antivirus-download do a full virus scan
+get SB S&D http://www.safer-networking.org/en/spybotsd/index.html update and imunize and check for problems

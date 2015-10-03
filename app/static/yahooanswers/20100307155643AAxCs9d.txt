@@ -1,0 +1,4 @@
+Help me please really fast?
+what does  TypeError:el.parent Node is Null mean   Im trying to get on this website and a box keeps popping up and i close it and it pops back up
+
+maybe theres something wrong with the site or ur computer

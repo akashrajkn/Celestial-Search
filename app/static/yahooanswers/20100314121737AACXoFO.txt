@@ -1,0 +1,6 @@
+Do you lose all your mail in internet explorer after synchronizing to outlook?
+I¡¯ve recently set up my outlook 2007 using my yahoo account to which after it have been synchronize to outlook account and all the mails are now showing up in outlook ¡­there don¡¯t seem to be any mail left in my yahoo account¡­how is this?
+
+Thats not true.  It just syncs up, it doesn't remove them.
+Because outlook automatically downloads the mail and yahoo then deletes it. Its rather foolish to use outlook to begin with considering every drop of mail, spam, infected mails, etc are now stored on your pc. You will find that out in no time when your outlook becomes infected to the hilt with malware.
+You don't technically lose it. It just gets erased from the Yahoo mail server after you retrieve it from outlook. Check and see if there is an option in your account settings on Yahoo Mail, that disables mail deletion after pop retrieval. If that is possible,  your problems would be solved.

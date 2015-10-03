@@ -1,0 +1,20 @@
+Who hosts our website now?
+Ok, years ago the small company I worked for used earthlink for mail and our small website.
+About 7 years ago we switched to yahoo because they had a good webmail service.  Then my boss wanted to have email for the 3 offices to have our company name as a domain, to look more professional. (DC@ourbusiness.com, NYC@ourbusiness.com etc.)  So we set this up.
+
+Then we wanted to update and redo our old website.  
+Now, I think that we created a webmaster account on yahoo--that controls all the mail, and also the website.  We used the yahoo tool to make a website.  Then last year we hired someone to redo it again on dreamweaver and he uploaded it via yahoo.
+
+SO---I decided to check up on stuff, and I realized that our earthlink mail account is still up and running.  I told my boss that since we haven't used it in over 5 years (we did keep it overlapping for about 3 years in case any older clients tried to contact us.) we should stop paying for it!  She told me that when she called earthlink, they told her that the website is connected to them, and our website will go down if we stop their service!
+
+I told her that is not possible,since we have yahoo now!  Everything is through yahoo!  I think that earthlink may just have some old info on our account and just uses it to scare companies.  I can imagine that in bigger companies, the accounting department doesnt know who is hosting the website, and doesn't want to be responsible if the website goes down.
+
+Any thoughts?  Am I right about yahoo being our website host?
+Thanks.
+
+Your domain name (i.e. yourbusiness.com), your email, and your web hosting can be 3 different companies. You need to check with the domain's registrar is to see what nameservers the domain is using. This will indicate to you which company is hosting your current site. It's possible you're still paying earthlink for website hosting when www.yourbusiness.com actually points to a different web host - earthlink wouldn't necessarily have any way of knowing, all they can see is that you're paying them for hosting.
+http://www.threehosts.com/business/1st
+
+Hope this helps.
+If you're not sure just type your website's domain into http://www.whoishostingthis.com and you'll see who is your current hosting provider.
+Look onDNS records

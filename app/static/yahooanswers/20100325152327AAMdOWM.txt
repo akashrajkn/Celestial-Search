@@ -1,0 +1,88 @@
+HOw do i get these virus's off my computer?
+I ahve a windows HP laptop and my spyware came up saying i have the following virus's but it is not capable of deleting and i have to buy a more expensive version, but it is very expensive, is there a free program to get rid of virus's
+
+these are the viru's i have
+
+Email-WOM.JS.Giggernx
+IM-Worm.Win32.Kelvir.k
+BWME.Twelve.1378
+DEvices.2000
+IRC-Worm.DOS.Septic
+IRC-Worm.DOS.Lao
+P2P-Worm.Win32.Duload.a
+Happy_11.506
+Joke.1068
+P2P-Worm.Win32.Franvir
+Lemena.3544
+Kot.b
+EICAR-Test-File
+Virus.Boot-DOS.V.1526
+Macro.Visio.Radiant
+Virus.BAT.8Fish
+Trojan-Clicker.Win32.Small.kj
+Trojan-spy.HTML.Bankfraud.jk
+DOS.Win32.DieWar
+Exploit.CodeBaseExec
+Trojan-spy.HTML.Bankfraud.pa
+Trojan-proxy.Win32.Agent.x
+Email-Worm.VBS.Peach
+Virus.Boot-DOS.v.1536
+Macro.ppoint.ShapeShift
+Backdoor.Perl.AEI.16
+Trojan-SMS.J2ME.Redbrowser.a
+Trojan-clicker.Win32.Stix.d
+Trojan-Proxy.Win32.Agent.q
+Trojan-Downloader.BAT.Ftp.ab
+Trojan-SMS.SymbOS.Viver.a
+
+thanx for helpin me i'm really worried about my computer
+
+Stop watching porn
+WOW!
+
+I recommend using Malwarebytes, download that...scan...then ones it's found them click delete.
+Best program to download, and it's free and gets rid of those viruses very simply :)
+
+Good luck :)
+
+http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+Do a Norton Virus Sweep scan for bugs and viruses, then restart the computer
+If you really have that many it will be very hard to get rid of them all.  You could try a good virus scan, or something, but wiping and starting over might be the best thing.
+I doubt it, we've been getting viruses for a while until we got Norton 360 for about 35 bucks. Most ways to get rid of viruses  aren't free, at least the good ones aren't. Also, be careful about the free anti virus software because it may just be a scam or another virus lol
+You are NOT infected with all those malwares.
+
+Let me explain.
+
+Most likely, what happened was that your computer has been infected with a rogue software.  You can find more information about rogue softwares here:  
+http://www.microsoft.com/security/antivirus/rogue.aspx
+
+Also, that's actually a good news, because it means that those reports are FAKE.  So, all you need to do is to remove the rogue software and you'll be fine.
+
+To remove it automatically:
+0: (Yep, step 0) start your computer into Safe Mode with Networking. If you don't know how, here's how: http://www.computerhope.com/issues/chsafe.htm
+
+1. Download Malwarebytes (the free version) at http://www.malwarebytes.org/
+2. Install and UPDATE it (please be sure to update it before scanning).
+
+3. Scan your computer with it (quick scan is okay, but I recommend a full scan).
+7. When scanning is finished click on the ¡°Show Results¡±
+8. Make sure that all detected threats are marked, click on Remove Selected.
+
+If this fails, restart your computer into Safe Mode and do it again. If it still doesn't work, you will have to remove it manually, in which case you will need to provide us with more information. But that's the worst case scenario, most likely it won't come to that--hopefully not.
+you don't have  that many viruses.  First thing to do is make sure your fire wall is locked  down.  If its  not that is what  your whole problem is..  If you have and HP computer you probably have a norton virus  protection on it.
+Your best option would be to wipe and reinstall windows. 
+Even if you manage to get rid of these virus using some sort of anti-virus, they may have already corrupted your system to the point where windows will not operate the way it did before you caught the virus, depending on how threatening certain viruses may be. 
+
+The good news is that viruses usually only attack executable files, meaning some of your data can be transfered before you wipe it. This incudes movies, audios, and text related files. Im not too sure on microsoft office tools, but you can certainly put them in a .txt file and send them off. Though you have to be careful not to transfer the virus into other computers as well. As for programs you may have installed, they will be lost.
+Norton Internet Security. I have that. Even though it is not free, it works extremely well.
+Take out your harddrive and jump up and down on it.
+Problem solved.
+Not to knock the TC's here but you need professional help with that one. If those are actually real threats and not fake threats that a rogue is telling you they are real, I can tell you this much, you need to use another computer and change all passwords and call your bank if you use that computer for any kind business or buy things online your bank account could be in jepordy. You can try Malwarebytes' AntiMalware but you will need more than that to clean your computer
+See here for assistance and do as many of the suggestions as you can, if not, that is alright, the techs will guide you through. They stay real busy so make take a few days to get yours cleaned up, but they never quit and long as you don't. Good Luck with this!
+Link---->http://forums.malwarebytes.org/index.php?showtopic=9573
+If any of these at this link look right try the steps suggested and save the logs and let the techs know what steps you have taken to remove.
+Link--->http://forums.malwarebytes.org/index.php?showforum=39
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com
+

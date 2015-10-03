@@ -1,0 +1,9 @@
+How can I unblock Port 25?
+Comcast recently did an area wide blocking of the outgoing mail port 25 due usage of this port by spammers. I have a mail client that does not allow configuration of outgoing mail ports. I do not need to know how to change Outlook's settings, just how to unblock it manually or contact Comcast with my request (and if they will grant it).
+
+Thank you
+I will repeat: I do not need to know how to change Outlook's settings
+
+comcast will not grant your request to open up port 25 unless you are running a MX server (mail exchange server) more than likely you are using another configuration for an email account other than comcasts. you can try using SSL 443 and not 25.
+Comcast provides you with their SMTP server on port 25 to use. Set your client's smtp server to smtp.comcast.net and tell it to use your Comcast username and password to log onto the smtp server.
+You will need to use a private SMTP service to bypass the port 25 block and not your email server that doesn't support anything beyond port 25. There is no way around this.

@@ -1,0 +1,51 @@
+403 forbidden error Access to this resource on the server is denied!?
+When I try to open www.cerebrals.org on my PC I get the 403 forbidden error which says that Access to this resource on the server is denied! However I can open this site on any other PC. Also all other sites open perfectly well on my PC. Problem is not with this site, some prob with my PC. Can anybody suggest a solution?
+
+either it is offline
+or your blocked so nothing can be done
+The 403 Forbidden Error Simply Indicates That The Resource you tried to acess on the web is temprorarily Unavailable. For Example: If Suppose On loading  An URL   http://in.answers.fanswer?qid=20100224051328AApp6sB
+ You get the message  403 Forbidden Error That means That on the Web Server Which is Hosting the Site www.fanswer.in . The above Page is not available at present. This Might be due to the Fact That the Web Server is Improperly Configured Or The Web Page Is Unable Due to being Updated Etc.
+
+This Problem Is Of WebServer So unless The Error Occurs due to the fact That you Have An Invalid User Name Password Combination To Access The Above Page on your System,The Web Site Will Not Open On Any System.
+
+Best Remedy for such An Error is to clear your Cookies Of your Web Browser And Refresh Page If Problem Still Persists Wait For Some Time Before Retrying.
+
+Hope You are Satisfied By This Answer
+Make sure you're connected to the internet. If you are, then it must be blocked. I went to the site, it worked good for me.
+HI YA
+Your Answer is
+You are unable to access normal web pages and are greeted with the error message Error 403 ? Access Forbidden / Access Denied.
+
+Cause
+
+This is caused by having incorrectly specified a proxy server in your Internet Explorer settings.
+
+Resolution
+
+To resolve this problem if using a broadband connection, you should remove the specified proxy from Internet Options by following these steps:
+
+   1. Click on Start
+   2. Click on Settings
+   3. Click on Control Panel
+   4. Double click on Internet Options
+   5. Click on the Connection Tab
+   6. Click the LAN Settings button and take the tick out of use proxy server.
+   7. Click OK
+
+If you are using a variant of Windows XP and cannot see a proxy specified in the Lan Settings, you may have to tick the checkbox (to use a proxy) and then access the Advanced button and remove advanced proxy entries. Once this has been undertaken, please untick the use proxy server box and close all Internet Explorer windows.
+
+Netscape users should click on Edit > Preferences > Advanced > Proxies. Ensure that you have selected a Direct connection to the Internet.
+
+If you are using a dial-up connection, then each setting specified is specific to that connection. This is the process to specify/remove proxy settings on a dial-up connection.
+
+   1. Click on Start
+   2. Click on Settings
+   3. Click on Control Panel
+   4. Double click on Internet Options
+   5. Click on the Connection Tab
+   6. Click on the dial up connection that you want to apply the settings to
+   7. Click the Settings button on the right
+   8. You can now click on Use a Proxy server and specify or remove the IP and Port used.
+   9. Click OK. Click OK
+Thanks
+Ithink this is the best and useful answer to u

@@ -1,0 +1,11 @@
+Why I am not getting Internet?
+I have two systems both are connected to same LAN (through modem) by a cable. I am getting net on one system and not on the other (I was getting until last two days but now its not coming). why? Is there any settings in the system to be changed to get connection? I looked in control panel>network and internet connection>internet option> connection>lan settings. I cleared proxy server and automatic configeration script option (bcz if some numbers are in proxy server net will not come) but still not getting net. What can I do? I saw some people using DOS command to set it right. How to do it.Please help me
+
+Better is contact with your ISP people... They will give you a proper solution....
+You just called the service provider they will send some body to fixed the problem
+First unplug the Router from the electricity wait few minutes and then plug it again. This time you should connect to the internet if you can't then visit the link http://forums.techarena.in/windows-vista-network/1173184.htm
+Hey, you can use:
+
+Hightechking.com
+
+Hope this helped! For more visit unblockability.com!

@@ -1,0 +1,4 @@
+How do I activate autocomplete (forms, etc) in Firefox 3.6 ?
+I want to use the autocomplete function but I cant find how to turn it on. Help!
+
+download plgins from http://www.mozilla.com/en-US/firefox/personal.html

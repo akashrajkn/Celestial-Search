@@ -1,0 +1,15 @@
+How do I permanently get rid of toolbars in my browser?
+Ok, well i have had this laptop for about a month now, and I have also downloaded a few programs, which also include toolbars for the internet browser. Every time i realize why my screen is smaller, i remove the toolbar by right clicking on it, and the next time, or next few times after i get rid of it, comes back!
+
+How do i stop them from coming back and consuming my screen space?
+
+Uninstall them. You may have to go to Add/Remove programs to do this. Also check the add-ons section in your browser menus (you don't say what browser...), since there may be a way to get rid of them there.
+
+When you download programs in the future, look for the little check boxes that offer you these stupid things. They are always checked. Uncheck them.
+Most of the toolbars comes with uninstaller. You can either go to Control Panel --> Add/Remove Programs to remove the program and you can also check in manage addons and disable those addons
+(if you're using Windows)
+Go to Control Panel, Add/Remove Programs, 
+
+Find out the toolbars and uninstal them (at this step it's recomended that you have Internet Explorer(assuming this is the program) closed)!
+You'll catch a virus in no time.
+UNINSTALLED THE TOOLBAR FROM UR BROWSER GOING TO ADD ONS IN UR BROWSER

@@ -1,0 +1,4 @@
+How do you get rid of the XXX at the end of post numbers in /b/?
+
+
+Highlight over the "203978XXX" or whatever number, and on the bottom of your browser it will show the real number.

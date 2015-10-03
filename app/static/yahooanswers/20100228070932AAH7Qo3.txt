@@ -1,0 +1,8 @@
+I have clicked on something while I was messing about and every progamme has a internet explorer on it?
+Every one of my programmes on the left hand side now has the internet explorer picture on it and does not work.HELP
+
+Have you tried a reboot yet?
+You should go to task manager and close all apps opened and reboot the system....
+I think you might have changed your icon, or somehow send your programs to the recycle bin and your computer has automatically allocated the Internet Explorer icon for the file as it cannot find the correct one. But if all you've done is changed the icon then right click on the picture and click properties. A window should pop up, near the bottom of this window should be a button saying change icon. Click this, then find the correct icon(it will probably give you a list of default icons first). If you cannot find the correct one from this list then, click browse and go to your program files folder(should be on your C: drive somewhere). Locate the folder you want(it should be named after the company who made the program or the program itself), then search in the folders until you find the correct icon. You may not be able to find the correct icon, and should get your computer looked at by some one who knows how to fix this kind of thing. It's always a good idea to back up your computer and files, so when things like this happen you've got a fix for it.
+
+Hope this helps =]

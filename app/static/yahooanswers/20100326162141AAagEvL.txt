@@ -1,0 +1,4 @@
+what happened to slipups.com ?
+when i try and go to the website it asks me to save or open the documented website !
+
+worked for me. Make sure you put in www first if you are using IE

@@ -1,0 +1,15 @@
+RSS feed        help?
+I'd say about every 15-30 minutes or so, I get a box that pops up onto my computer screen while browsing around the internet. Here's a screenshot(it started today) http://www.flickr.com/photos/23964883@N07/4430302255/sizes/m/
+
+
+How do I get this to go away?
+
+Well: (lol)
+
+I don't have a Mac but I've been reading some stuff and (if you haven't already figured it out) you could try disabling the RSS updates feature in Safari -- (Safari)/(Preferences)/ click on the RSS tab and change (Check for updates:) to (Never)
+
+OR I think it has helped some people to delete certain sites from their Top Sites list (i.e. Google Reader), or from their history or bookmarks list.
+
+Hope this helps???
+
+-Jennay

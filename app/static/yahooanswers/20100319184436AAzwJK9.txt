@@ -1,0 +1,12 @@
+Why wont my free rsbot open up? i already downloaded it?
+i downloaded the free rsbot from rsbot.com and now its on my desktop but it wont open up? whats wrong with it? did i do something wrong?
+
+This "free rs bot" is actually a virus, according to a little research I did.  Get anti-virus software and get rid of the virus.  Deleting it off your desktop isn't enough.
+If you don't install RSBot properly, or compile it, you can have a really hard time. http://uppit.com/v/qagaih4p This is a RSbot Jar file, already precompiled with the standard free scripts, if you want to get more or specific scripts you will have to pay for them, check the rsbot.com forums for details.
+Happy Botting. And please sell every item at mid-high to keep botting profitable.
+rsbottng.info is the newest legit botting site, i think from the same makers from rsbot.org, check them out, even has the newest bot that works.
+nah, RsBot is closed down because Jagex sued Qauters (Rsbot Founder).
+Now it's Avalane. 
+http://avalane.org/
+
+have fun botting. :D

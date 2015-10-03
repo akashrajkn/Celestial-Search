@@ -1,0 +1,35 @@
+I cannot download anything on IE.  As far as i know i have not changed any settings.?
+More importantly, i cannot open, uninstall or re-download AVG.  I have checked the internet options and they are o.k.   Any help would be appreciated.
+I have free Norton, I ran a scan and it found tracking cookies, but AVG did to when it worked!!!!
+
+Your computer RAM may be full, frozen, or broken
+It could be that you have a virus.  If you have any sort of virus software, it would be a good idea to do a scan.
+Try resetting your browser back to default settings.
+
+To do this, click on Tools > Internet Options.
+
+Click on the Advanced tab.
+
+At the bottom of the Advanced tab you'll see a button called "Reset".
+
+Click on the button and it will reset the browser back to default settings. Afterwards, close the browser and open it again. Hopefully you'll have full access to your browser again.
+
+
+If it still isn't working, you can open the browser is a special safe mode called "No Addons Mode".
+
+To do this, 
+
+Start Menu > Programs > Accessories > System Tools > Internet Explorer (No Addons)
+
+
+If your browser works in No Addons mode then it means that something like a toolbar or an addon or plugin is preventing your browser from working properly. You can manage addons in your browser by click on the Tools menu > Manage Addons.
+
+You can enable/disable individual addons until you work out which one is causing your issue.
+You don't say what happens when you try to download something (e.g. by clicking on a download button or a link) but if nothing happens I would say it's most likely that you've picked up a virus or IE has been corrupted in some way.
+
+Go here and download the free version, run it and get it to automatically remove any virus:
+http://www.malwarebytes.org/mbam.php
+
+If that doesn't help I would try re-installing IE. Obviously you'll have to download it from another computer and transfer it by burning a CD or poutting it on a USB stick or external drive.
+
+Good luck.

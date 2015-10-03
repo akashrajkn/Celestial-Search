@@ -1,0 +1,83 @@
+I want to use a web host, what should I know and where to start?
+I want to use a web host, what should I know and where to start?
+
+It is very important that your service be uptime (functioning and available for use) . It means you can access your account whenever you want to update your web pages, and users can enter your website whenever they refer to your site address. If your hosting service is not uptime it can be catastrophic!
+
+As an experienced webmaster I recommend BH web hosting which I¡¯m sure it would work for you and fulfill all your requirements. They have a really great offer for hosting & I have used them for over 3 yrs now, and have never had a single problem with them.
+
+You can reach reviews about this web hosting provider and its latest DISCOUNT COUPONS at:
+
+http://www.threehosts.com/reviews/1st
+
+Only $3.95 /month (with discount coupon)
+
+******IMPORTANT********
+* This service was awarded the ¡°Best Web Hosting OF The Year¡±.
+* If you sign up for this service you will have $75 credits to advertise your website with the google & yahoo search engines for free!
+* You Can Register A Free Domain or Use Your Existing Domains. They Support All Domain Names.
+****************************
+
+Another useful link:
+http://www.threehosts.com/build
+There you can find a step-by-step guide to start your website.
+
+Hope this helps.
+Picking a good web host is very crucial these days because there are tons and tons of choices.  I personally use Chime Host.  I was thinking of going with godaddy but chime host offers tons of better features for an amazing price.  You get a site builder if you don't know how to build your website and they also have this cool installer that installs scripts like wordpress, joomla with just few clicks.  Just use their trial and you get to try the service for 30 days without paying for hosting.  If you don't have a domain name, you will be required to pay for it but they give you the option to point your domain to any web hosting company. Good luck
+http://www.redefinehost.com is the best web host Ive used. They offer unlimited disk space, unlimited bandwidth, unlimited databases, and unlimited Email accounts for only $4.95 a mouth!
+http://www.redefinehost.com is the best
+I've been using DreamHost for about a year plus. Previously, I was using another web hosting company that gave me a pretty horrible experience. So my web hosting review (which you can read at: http://theconsciouslife.com/dreamhost-web-hosting-review) is based largely on comparing my previous experience with DreamHost. Here are just some of the things I like and dislike about DreamHost:
+
+Pluses:
+
+1. User-friendly control panel that gives me access to a number of useful settings of my website and domain name, including one-click installation of web applications like WordPress, add new database, change password, add new domain name and pay web hosting bill. It's even friendlier and more intuitive than cPanel.
+             
+2. Comprehensive and easy to understand Wiki site that saves me from having to call the helpdesk! 95% of my questions are answered in the DreamHost wiki site. I prefer to figure things out myself. It's faster and more efficient than emailing support staff.
+    
+3. Unlimited hard disk space and bandwidth. My previous web hosting company limits the number of databases I can create, the number of domains I can park in one account and the maximum amount of bandwidth. But DreamHost has none, well almost. See the minuses below for the catch.
+
+4. Free newsletter service that let your users sign up for newsletter and also allow you to send to unlimited number of subscribers. This service allows you to build a lasting relationship with your users and is an invaluable tool if you want to market your products or services. This service alone is worth more than the web hosting fee you pay per month, but DreamHost gives it to you free.
+       
+5. Green web hosting. Running a web hosting company is not an environment friendly business to be frank as servers need to be on almost forever. So, it's comforting to know that DreamHost takes steps to minimize its impact on Mother Earth.
+
+Possible Minuses: 
+
+1. Not entirely unlimited disk space and bandwidth. Just like all web hosting companies that boast unlimited bandwidth and disk space, there's actually a catch. If you read their Terms of Service carefully, you'll find clauses that allow the company to increase your web hosting fee if your website has massive number of visitors (if you hit millions and millions per month), or utilizes a high amount of CPU processes or harddisk space. This is understandable since they're trying to prevent certain group of people from hogging all the bandwidth, server processes and disk space. But for a start at least, this is very unlikely to be a problem for you if you're just starting a new website. 
+
+2. Untested customer support. To be frank, I've only used the helpdesk twice because what I need can either be done on my own through the Control Panel, or the answers can be found in DreamHost wiki site. And the 2 times I emailed to the helpdesk, I get replies within 24 hours. So no complaint. But if you're someone who rely heavily on helpdesk, instead of preferring to do and figure things out yourself, then your experience may be different form mine.
+       
+I've actually written more about my experience with DreamHost. You can click the link mentioned on top to read more. In my web hosting review, you can even find a promo code CL60 that entitles you to a one-time US$60 discount off your bill. That's equivalent to only $4.95 per month if you sign up for a year.
+the most important things are to look at the bandwidth and space plus make sure if you want your own domain name that you own it, a good place to look and ask question on live chat is http://www.webhostinggeeks.tk . you can talk to them 24/7 threw chat or phone
+To jump start, you can check the web hosting from FatCow. They provide fast servers which can load your database fast. FatCow database operates at its maximum speed, because this web hosting provider knows how to keep up high speed servers. >> http://www.webhostingbreak.com/fat-cow-coupon/
+Hi,
+
+I can only speak from my professional and personal experience and I will not make any negative references to other web hosts that I have found from my experience to be less than acceptable.  My motto is if you don't have something positive to say then don't say anything at all.  Now with that said if a web host is outright lying about the web hosting services that they are claiming to offer than I would be the first person to blow them out of the water.
+
+I'm a professional website designer and developer and have clients that have used 30+ different web hosts.  A lot of my clients end up switching to GoDaddy web hosting after they get sick and tired of problems ranging from poor customer and technical support to their website being down too often.  In my personal and professional opinion GoDaddy web hosting is the best web host.  The only negative thing I have to say about GoDaddy web hosting is that they will try to get you to buy a lot of additional web hosting features that you typically are not going to need.
+
+These are the strongest reasons to use GoDaddy web hosting
+
+GoDaddy states that they have 99.9% uptime
+
+My business website hosted on GoDaddy has never been down and I have never recieved a single complaint from any of my clients that are using GoDaddy web hosting that their websites were down, even for a minute.  The last web host I was using claimed to have 99.9% uptime, but my website was down at least once a month and for hours not minutes.
+
+GoDaddy website page load time is fast and always consistently FAST
+
+Your website pages will load very fast with GoDaddy web hosting - even using shared web hosting.  Having your website pages load as fast as they possibly can is absolutely critical to getting the most amount of visitor traffic that you can possibly get to your website.  In my personal experience if I am waiting more than 3 seconds for a website page to load than I am gone.  I build pretty heavy load websites using embedded Flash movies so they naturally tend to take slightly longer to load.  Take a look at the load time for this client website I did.  They are using GoDaddy web hosting and the Flash movie that is loading is 1.5MB - this file size is off the scale huge by website page size standards. http://www.visionsign.net/vision/  I am using a Flash preloader to handle most of the Flash movie loading time, but the important thing to note is how fast the website page loads itself.  It should have opened in 1-2 seconds.  The old web host they were using before they switched to GoDaddy web hosting took over 6 seconds to load this very same page.
+
+Awesome customer support and extremely well trained and knowledgeable Tech support
+
+It is pretty rare for me to find Techs that know even more than I do.  I am a Microsoft Certified Professional with 14 years of corporate level professional experience.  I've been designing and developing websites professionally for the last 3 years.  I'm not trying to brag here, but when I build a website I have two goals in mind - make money for my clients and of course make money for my company.  Every single GoDaddy Tech (only one exception - everybody is entitled to a bad day here and there) that I have had the pleasure of working with has not only been extremely professional, but also extremely capable.  I have actually learned some very important high level technical information from them that has been very helpful to me professionally.  The most important thing to point out is that I can count on GoDaddy and GoDaddy Tech support 24x7x365 - every time I need them.  ;)
+
+If this info about GoDaddy web hosting wasn't enough to convince you to go with them then then take a look at this additional info.  http://www.ait-pro.com/aitpro-blog/best-web-host-best-webhosting/best-web-host-best-web-hosting-best-web-hosting-company/ I just can't say enough about GoDaddy web hosting.  I went from a nightmare web host that was charging me 2-3 times what I'm paying at GoDaddy and they were costing my business thousands of dollars a month on lost clients, not to mention sleepless nights wondering how much longer my website would be down.
+Check out http://www.freepresshosting.com
+
+UNLIMITED SPACE
+UNLIMITED BANDWIDTH
+FREE TECH SUPPORT
+TONS OF THEMES
+
+100% Free!
+And a free domain name!
+
+Who can beat that?
+You may read an article on what to know when choosing a web host at http://www.webhostinggoodies.com/article_detail.php?id=2

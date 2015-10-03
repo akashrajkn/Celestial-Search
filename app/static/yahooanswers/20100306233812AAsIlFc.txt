@@ -1,0 +1,5 @@
+How do you post a link on a website or a forum like yahoo answers?
+Whenever i copy or paste it it just has the url and u cant click it you have to copy and paste it. Ive seen people do it where you can click the link e.g. http://google.com and ull go straight 2 google.
+
+You have to include both http:// and www.
+Ex: http://www.google.com

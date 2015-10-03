@@ -1,0 +1,11 @@
+Aaahhhh! Why has my internet stopped working!?
+Tonnes to get done on my pc, but internet stopped working, the url for sky broadband comes up but the page stays white for a few seconds, then the page just vanishes. have tried doing system restore, norton anti virus, but the same problem.
+Thanks in advance.
+Myron, this is someone else's computer you chump.
+
+Reset the modem and router
+The fact that you posted here tells me it is working
+Need more info.
+Do other websites work?  If so, then the internet isn't the problem; that particular web page is.
+
+If no sites work, try unplugging the power to your modem (and router, if you've got one) from the wall for about a minute, then plug them back in and give them a minute to reboot.  If that doesn't work, unplug the ethernet cable from your computer for a minute or two and plug that back in.  If neither of those things work, call tech support.

@@ -1,0 +1,9 @@
+plz tell  me how to control download speed in internet explorer//...?
+i want to control my download speed
+
+You cant control the download speed unless you are using a torrent or some download manager. AFAIK download speed of Internet Explorer cant be controlled
+netlimited is wonderful application.
+its not free but then u can try it.
+Stuart is most probably right, but I can't help wondering why.  Never seen such a question before
+Your download speed is determined by the speed of your ISP. Cable internet, dial up, broadband etc.
+If your Downloading Speed varies, then try TCP Optimizer otherwise Net Limiter

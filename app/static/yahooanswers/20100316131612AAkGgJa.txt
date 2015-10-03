@@ -1,0 +1,57 @@
+Can I have multiple blogs under different names at the same blogging website?  Can I protect my identity?
+I have never blogged before, but I have 7 or 8 ideas for subject matter for blogs that I think would be successful.  How many blogs is one person allowed to have on Wordpress?  How many on Blogger?  I would like to have all my blogs on the same blogging website.
+
+I work in a field that I loathe and despise and one of my ideas is to start a blog to expose the abusive practices in this field.  For the time being, I have to keep my job, so I need to make sure my identity will be kept confidential to prevent my boss and coworkers from discovering that I am the one who is writing the blog.  I will not be naming names of any companies or people in this field.  I understand that if I do this, I can be sued and my identity would be revealed.  Are there any other methods people can use to discover my identity?
+
+I want to use different names or aliases on my blogs as I believe that it would turn people off if they know that I am a "professional blogger" with 7 or 8 different blogs on different topics.  Although some of you may not agree with my belief, I still would like to use different names.  Does Wordpress allow its bloggers to use different names on their blogs?  Does Blogger?
+
+My ultimate goal is to be able to support myself by blogging and by building websites to sell various products.  To figure out the bare minimum of income I have to bring in to survive, I have cut my spending to the bone and determined that I will need $2,000 per month (this means no discretionary spending, no new clothing, not wearing clothing that requires drycleaning, sometimes skipping lunch, no health insurance, severely curtailing the use of my car, etc.).  Is $2,000 a month in income possible?  Is it unreasonable to expect to eventually double that amount or is that total pie in the sky?
+
+I would appreciate any responses to one or more of my questions.  Thanks for taking the time to read this and respond.
+
+I'll answer your questions one by one:
+
+How many blogs can a person have per wordpress or Blogger account ?
+
+Ans. There's no limit. one can create as many blogs as one likes.
+
+Which is better -- Wordpress or Blogger ?
+
+Ans. Going by your blogging requirements, I'll recommend your Google's Blogger.com
+
+The points favoring my recommendations are: 
+
+If someone is new to blogging, the blogging site should be easy and doesn't make one disappointed in future, when he/she will be technically far more ahead at implementing things than they're at present. 
+
+Then let I assure you, Blogger.com, a blogging platform by Google is by far the best.
+
+Blogger.com is the best platform for all bloggers, irrespective of their tech expertise. In addition, another benefit of using blogger is that you get traffic from Google search as well.
+
+Google's blogger.com is a pretty versatile blogging platform. The url format of your new blog will be xyz.blogspot.com, where xyz represents your name. But if you want to make the url look xyz.com, blogger allows you to do that as well. You can tweak the looks of your blog, from 1 percent to 100 percent and add much functionality to it as well.
+
+For beginner, getting started is quite easy too, just three steps:
+
+Create an account (if you have an existing gmail account, then you can use that too)
+Name your blog
+Choose a template
+
+In the beginning, one can make a blog, by taking the three above steps. The same blogger can be tweaked in future to resemble in looks and functionality of a professional blog.
+
+One more thing, if someone harbours the idea of making money from the blog; then let I assure you a blog on Blogger.com gives a person most independent revenue making setup.
+
+
+Can I earn money from blogging ? If yes how much ? And what are the factors which decide the  money generation ?
+
+Ans. Before answering to your question, I want to put a fact: majority bloggers earn nothing, a small number earn something equivalent to a cup of coffee a day, rest make either modest or big money.
+
+So when you ask "Can someone make a living out of blogging?" then the true answer is, even if very difficult, it's possible. One can earn a living, and one can earn big money too. But why one limit the scenario to blogging, most professions and careers present the same picture, more or less.
+
+Now let I give a preview of the earning potential of a blog:?
+
+If your idea is to earn by showing ads from ad programs like Adsense, Kontera, Adbrite etc. then your earnings will depend on the number of clicks you manage to get on your displayed ads. On an average, if your blog content is good, means if the content shows good context ads, and if you have 300 blog visitors then you will have 2-6 clicks on your ads. Studies show ads on websites have a click ratio of around 2 percent. Thus for every 100 visitors one can expect to get 2 clicks on ads. Or in other words, out of 100 visitors to a blog, only 2 visitors click on an ad. This translates into, 1 or 1.2 dollars a day for a 300 visitor a day blog.
+
+If your idea is to earn revenue by selling products through affiliate links; or sell your own products/services, then again, the earnings will depend on your blog traffic. And the chances of a visitor going for a buy, is again around 2 percent.
+
+SO whatever be one's medium of earning money, traffic is the primary decider.
+
+Hope I managed to have my say, coherently. Thnx

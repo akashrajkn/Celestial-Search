@@ -1,0 +1,20 @@
+why can't I load some sites?! 5 stars asap today!?
+So I have the crappy Verizon DSL connection. It's raining in my area but I asked my neighbor friends if their DSL works and they said theirs was fine.
+
+Some sites won't load for me like Yahoo! mail, Twitter, etc. Facebook, my search engine, and other sites works for me though. Its like 50% working, the other 50% doesn't. AIM works fine.
+
+what is wrong?
+I scanned my PC for viruses, there's nothing wrong.
+I tested my connection, it seems fine.
+
+I am using windows XP, using mozilla firefox. I tested windows IE and it doesn't load the same pages either. I cleared cookies, cache, etc. My firewall is on. I turned it off to see if anything changes, nothing did.
+
+is my computer the problem, or my internet?
+
+Sometimes it appears that acomputer will especially act up in the rain. I have found that you can reset the Network.
+Shut your computer clear OFF
+Pull the power adapter from both the MODEM and the ROUTER.
+Wait like 5 minutes and then Plug in the Modem and wait at least 1 minute.
+Now Plug in the ROUTER and wait 1 minute.
+Now you can restart your computer. Be sure you let the computer boot all the way up and now give it a whirl.
+I would recommend you to call verizon because the problem may be with the service, it looks like its disconnecting you from the internet, they have a couple tests that can determine if you are getting a stable connection.

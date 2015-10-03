@@ -1,0 +1,12 @@
+Outlook email isn't working properly?
+Seriously I'm stressing out right now, over spring break we had to do a little math powerpoint and we have to send it to our teacher when we we're finished but there's no way I could do that because when I try too a message comes up.
+
+"Outlook Web Access is currently unavailable. If the problem continues, contact technical support for your organization and tell them the following: No Client Access servers of the appropriate version can be accessed from the Internet."
+
+You see, we can't just email it from our regular email. It has to be our school email on outlook.
+
+It's due on Monday and if we don't have it in we get an F. (It's worth more than 300 points.)
+
+Now I'm stressed. Is there anyway I can get it back?
+
+It sounds like your school turned off their email server over the break. If there is anyone at the school tomorrow, call the office and tell them you need to send an email.

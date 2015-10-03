@@ -1,0 +1,5 @@
+Zshare videos won't play in Firefox  anymore. how can i fix that?
+when i click close to play there is just a white screen.
+it works fine in google chrome
+
+u can reinstall firefox

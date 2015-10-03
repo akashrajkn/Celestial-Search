@@ -1,0 +1,8 @@
+Every time i click on something on the mozilla firefox, it opens up in a new window?
+how do i fix this?
+
+Tools>Options>Tabs Menu
+
+Choose to "Open new windows in a Tab instead"
+
+See if that fixes it.

@@ -1,0 +1,10 @@
+Erg. D: Youtube stopping working with IE6!?
+And I need to download IE8, but when I downloaded it last time it gave me error messages everytime I closed out of the internet. D:  How can I fix this problem.
+And I'm not allowed to download anything OTHER than IE8.
+
+Youtube will no longer be supporting IE6, you will need to update to the latest version of IE8, here:
+http://www.microsoft.com/Windows/internet-explorer/
+
+Cheers,
+Kyler
+IE8 Outreach Team

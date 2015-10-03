@@ -1,0 +1,7 @@
+Live cd's for internet cafe.?
+I'm helping a friend start an internet cafe. I was wondering if live cd's would be the best way to go. If computers are setup with live cd's wouldn't they still need a hard drive. The web pages still need to be cached?.
+
+Live Cds will be significantly slower and if there needs to be any software installed, they would need to be reinstall everytime the computer boots up.
+
+Personally I would suggest using small harddrives and set the permissions to prevent people from installing stuff and writing information to areas outside of their allowed areas. (that could be set to delete during shutdown/logout)
+I'd also agree with the other answer. Purchase cheap small SSDs or HDDs, around 20GB, and run Linux (hopefully an even better deterrent) with some strong security settings. Linux would be the best OS at this, seeing as installing applications etc all requires passwords, as does any system altering changes. Not to mention it's free.

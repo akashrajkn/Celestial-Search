@@ -1,0 +1,11 @@
+Paypal wont let me sign in!!?? No email?
+hi I tried signing in to paypal but everytime I get the error message "You must enter both your email address and password. Please try again." I dont understand I put BOTH in. I keep retyping my email address then putting in my password, but it still wont work.
+
+This is probably a result of your security settings within the browser.
+
+Try and turn down the security level and see what you get...
+I'd call or message them, I had a similar problem, they change your password for a temporary one and you change it afterwards to what you want, I used the phone, really easy, idk about the messaging route.
+all sites get some security glitch or you might be putting the wrong password, either ways, contact them.
+You may have been 'phished' or your account otherwise hijacked .. 
+
+Contact PayPal IMMEDIATELY (before some crook empties your bank account / maxes out your linked credit card)

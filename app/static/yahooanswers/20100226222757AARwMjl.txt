@@ -1,0 +1,5 @@
+Does connecting to broadband incur a phone call cost, like dialup does?
+Trying to convince my mother it doesn't cost extra no matter how many times you disconnect and reconnect. I might be wrong.
+
+No.
+They are generally "always on" connections. Unlike dial-up, which dials a phone number to make a connection, cable and dsl do not make phone calls and generally do not charge to make connections. They are always connected separately from the actual phone line. One minute of connection costs just as much as a thousand minutes. You can turn it on and off ad nauseam without additional charges.

@@ -1,0 +1,7 @@
+What can I do if my DNS isn't working?
+I have a problem, i am in another computer, but in my computer my interner explorer doesn't work. My skype works, but is the only thing that works. And it appears that the DNS isn't working. So, what can I do?
+please tell me step by step what I have to do, because I don't know veru much about computers. Thanks
+
+You can check under tools options connections lan settings in Internet explorer.  Make sure automatic settings is check on and everything else should be off, unless you are behind a proxy server.
+
+You can also press the windows key and r and then type cmd and hit enter. you will get a command prompt and type ping yahoo.com and hit enter.  if you get a reply your dns is working correctly.

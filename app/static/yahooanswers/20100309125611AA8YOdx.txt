@@ -1,0 +1,48 @@
+why every time i try to download something note pad pops up?
+every time i try to download stykz note pad opens up and has some weird writing on it.
+
+The 5 Best Ways to Block Popup Advertising
+http://popup-stoping.com
+Choice 1) Switch to Using Firefox Browser with integrated popup blocking
+Choice 2) Install XP Service Pack 2, and use IE Popup Blocker
+Choice 3) Install a Google or Yahoo anti-popup toolbar, if you still use XP SP1
+Choice 4) Your ISP likely offers a free 3rd party popup blocker
+Choice 5) Purchase a 3rd-party popup blocker
+Microsoft Internet Explorer 6.0 users
+1. Open Internet Explorer
+2. Click Tools
+3. Click Options
+4. Click the Privacy tab
+5. At the bottom of the Privacy tab you should have a Pop-up Blocker section. If you wish pop-ups to be blocked check the "Block pop-ups" option.
+Mozilla Firefox users
+1. Open Mozilla Firefox
+2. Click Tools
+3. Click Options
+4. Click the Web features button on the left hand side of the Options window.
+5. By default this feature should be enabled if you wish to disable the feature, uncheck "Block Popup Windows." If you have allowed popups on a site you wish to now block you can also click "Allowed sites" in this window and remove any sites you wish to block any popup on.
+If you notice your computer encounters the problems of unwanted pop up, or if your computer is obviously slower than the normal at performing routine tasks, there may have some Spyware running on your computer without you knowing it! 
+
+Don't Wait Till Spyware Seizes Control of Your Computer!
+
+
+goto: http://registry-checking.com/Pop_UP
+Using Pop-up Blocker
+When you install SP2, Pop-up Blocker is turned on in Internet Explorer and set to the medium setting, which means it will block most automatic pop-ups. The default settings for 
+
+the pop-up blocker allow you to see pop-ups that are opened when you click a link or button on a Web site. Pop-up Blocker will also play a sound and show the Information Bar 
+
+when a pop-up is blocked. You can adjust these settings so that Pop-up Blocker works the way you want it to. 
+To change Pop-up Blocker settings
+1.Open Internet Explorer. 
+2.On the Tools menu, point to Pop-up Blocker, and then click Pop-up Blocker Settings. 
+
+Internet Explorer Tools menu
+If you want to see pop-up windows from a specific Web site, type the address (or URL) of the site in the Address of Web site to allow box, and then click Add. 
+http://slowpc-checking.com/Pop_UP
+Pop-up Blocker Settings window
+Tip To temporarily allow a site to display pop-ups, click the Information Bar when it notifies you that a pop-up has been blocked. Then click Temporarily Allow Pop-ups. 
+To block pop-ups even if they are launched when you click a link or button on a Web site
+1.Open Internet Explorer. 
+2.On the Tools menu, point to Pop-up Blocker, and then click Pop-up Blocker Settings. 
+3.Select the High setting in the box near the bottom of the dialog box. 
+Note If you want to see pop-ups that are blocked when you have this setting turned on, hold down the CTRL key while the window opens.

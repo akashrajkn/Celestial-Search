@@ -1,0 +1,8 @@
+I am unable to open one website- all other pages open fine. Website is not down.?
+My firewall is not blocking it and when I run the troubleshooter  it says that my "broadband modem is experiencing connectivity issues"  I have tried opening from IE, Firefox and Google chrome. This has gone on for days. I have reset the modem and wireless router. I can occasionally open up the site and when I go into "sign up" it gives me the "page can not be displayed" message. AAGGHH.
+
+sounds to me like to website has been closed down or is down for updates or repairs
+That is the website for sure nothing to do with you. If you can open up other websites it means that it's the website you are trying to go to. Try pinging the website.  Just try again tomorrow and the next day.
+
+Good luck :)
+Maybe the Site is under maintenance...... Also try using a Web Filter and see if you can access the site..

@@ -1,0 +1,5 @@
+If I'm following someone on twitter that are set to private do they see my @replies to them?
+If I'm following someone on twitter that are set to private, but they're not following me... Do they see my @replies to them
+
+No
+Nope... here's the official explanation from Twitter: "If your account is protected, we assume that you only want your followers to see your updates. @replies sent to people who aren't following you will not be seen.  If you want to interact with everyone on Twitter, you should not protect your account."

@@ -1,0 +1,11 @@
+Windows Firewall easily disabled by virus?
+This has been bothering me for the past few days. Twice, my Windows Firewall suddenly turned off, then almost instantly I get infected with some rogue software. I have removed the rogue software, including all the keys, but this happened with my firewall three times this year, so I'd like a recommendation for another firewall. The XP one really seems to suck.
+
+I'm afraid you learned the lesson the hard way: Windows Firewall sucks, not matter what version we're talking bout.
+
+Personally I like Comodo's firewall. It's free and it's very powerful, even though it's annoying at first while it's learning the system. 
+
+You can get it from download.com
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

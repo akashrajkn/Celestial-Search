@@ -1,0 +1,13 @@
+internet problems and mozilla firefox problems?
+When I try to open my mozilla firefox 3.6, a crash report instantly pops up telling me to quit firefox or restart firefox. I tried both of those options and neither worked. So then I try to open my I Explorer and that wont even pop and that to comes with a error report telling me to send the error to them. How do I fix this?  I scanned my computer and had nothing found
+
+try a system restore back a week or so
+Try installing both, Internet Explorer and your Firefox back, with newly downloaded setups. You can always switch your browser to anything else if these 2 still don't work.
+
+Try
+
+Apple Safari - http://www.apple.com/safari/download/
+
+Flock Browser - http://flock.com/
+
+Google Chrome - http://www.google.com/chrome

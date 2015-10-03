@@ -1,0 +1,4 @@
+Why do Cell phone providers have a 5gb cap on laptop data?
+Ok, this is a serious question about wireless internet service. I want to know why almost all companies put a 5gb cap on laptop data. "Because they're greedy" and "They're dumb" won't cut it. I want to know if it ACTUALLY costs them more money to provide service if a customer uses more data. Other than a nominal server energy cost, does it really cost THEM more, or is it just a clever money-making tactic? I know putting up the physical tower-network is anything but cheap, but really? My example question is "Does it cost them more money to supply 10mb of data than 1mb?" If so, how much more? I want to have a deeper understanding of how things work. Any real help will be appreciated."
+
+I'm not sure exactly how much, but of course it costs more to send out more. Hence why things like video messages are more than picture messages if you don't have a plan. This is also why some ISP's have a bandwidth cap.

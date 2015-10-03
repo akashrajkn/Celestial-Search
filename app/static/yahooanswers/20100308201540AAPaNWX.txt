@@ -1,0 +1,6 @@
+My computer keeps logging on as a temporary user and nothing will be saved when I log off. How do I fix this?
+I was using my computer and lost my connection so I tried resetting it and after i put my password in it logs me in as a temp user and any info will not be saved. What caused this and how do i fix it? Thanks
+
+you have to sign back in as administrator!!  go to the administrator's icon and log in there, then make adjustments
+If your pc has error, you can check your pc health online:
+http://registry.tpdownload.com/PC_Error

@@ -1,0 +1,33 @@
+Is there a FireFox extension/hack to do this?
+I want to delete files from downloads window.
+I use Mac.
+I DON'T WANT TO CLEAR THE DOWNLOAD MANAGER, I WANT TO DELETE THE FILES COMPLETELY FROM HE COMPUTER!!!
+
+On Windows you hit Control+J to open the download manager and there should be a button at the bottom to clear the list. Maybe MAC version works different.
+
+I don't have a MAC but I find this is the easiest way on Windows to keep the download manager clean.
+
+In the address bar for Firefox type:
+
+about:config
+
+and press enter.
+
+You'll have a page full of text.
+In the filter box at the top type:
+
+browser.download.manager.retention
+
+you should see the entry pop up as you type.
+Double click the entry. The current value should be set to 2. Change it to 1 and click Okay.
+
+Now every time you close Firefox it will clear the download manager.
+
+Edit: Looking back on it, it almost seems like you are asking if you can somehow delete the downloaded file itself from the Firefox download window. If this is the case, I'm not sure I've ever seen an extension to do this.
+Try OnyX to delete all your temporary downloaded files ( which in fact the contents of download window are the same).
+
+You can download it from (http://www.versiontracker.com/dyn/moreinfo/macosx/20070)
+
+and there are also many other Optimization Softwares for Mac : Look at here (http://www.versiontracker.com/macosx/systemutilities/maintenance-optimization)
+
+Good Luck

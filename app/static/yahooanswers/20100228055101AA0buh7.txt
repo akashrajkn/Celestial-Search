@@ -1,0 +1,17 @@
+Why is my internet running so slowly?
+I have wireless internet (my landlord's so I don't know the ISP or anything).  Usually it runs very quickly and I can easily stream videos online, etc.
+
+For the past three days it's been running incredibly slowly, for example the google homepage takes 1-2 minutes to load instead of a few seconds.
+
+The only thing that's changed is that my avast expired so I tried downloading a new one.  It's on my computer with a little stop sign by the icon and windows vista tells me I have no virus protection, though I ran avast last night and it worked fine.  Not sure if this is even related but I thought I'd mention it just in case.
+
+Any advice on how to fix this is very appreciated!!!
+OH - Avast tells me I have no viruses by the way.  I ran norton too and there's nothing wrong in that sense.
+
+if you live in a place where it is overcrowded then it's most probably due to all the other people downloading files. And you could also try a disk cleanup. Just go to My Computer on your Start panel, right click properties and click disk clean up.
+The all kind of softwares like avasti or norton always slow down ur pc and ur internet connection!!
+so it would be nice if u uninstall all of them to get ur speed abck...
+THANKS
+Have you uninstalled the old avast? Maybe it is still installed. You need to uninstall the old one then the new one. And oh, by the way, never run 2 anti-virus at the same time it causes PC slowdown. Choose just 1 of it.
+
+Also, clear your browsing history and cookies. Have a decent registry cleaner, maybe it needs clean-up.

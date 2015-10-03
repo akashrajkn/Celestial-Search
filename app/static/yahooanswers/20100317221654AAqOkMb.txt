@@ -1,0 +1,31 @@
+Firefox works,Internet Explorer doesn't?
+Error:Internet Explorer cannot display the webpage
+
+Firefox works completely smoothly.
+Why will only Firefox work?
+Is there a way to make Internet Explorer work?
+
+And don't give me other internet options,such as Google Chrome or Safari. That's not the point.
+
+-Antonio Banderas
+Questions ,Comments? 
+-SquallLeonhartX@yahoo.com~
+
+obviously the IE settings are incorrect
+let me put it this way: Internet explorer is terrible. microsoft only released a patch for it a few months ago for a 7 year old bug it had. you may just need to re download it, get a new clean un-buggy version.
+my internet explorer is working fine. Do you use frontier as an internet provider? I heard they are having problems with certain things like microsoft stuff. If not, than idk what's wrong.
+In IE, go to Tool->Internet Options and then once there, go into the Connections tab. In there is a button labeled "LAN Settings," click it. In that window that pops up, make sure either everything is unchecked, or that ONLY "Automatically detect settings" is checked.
+
+Say OK to everything and restart IE.
+reset your internet settings to the factory settings by doing this 
+1. In Internet Explorer, click Tools.
+
+2. Select the Advanced tab.
+
+3. Click Restore advanced settings.
+
+4. Click Reset, then Reset again.
+Control panel>Programs and Features>Turn windows features on or off.  Turn off internet explorer.  you will have to restart your computer.  repeat the steps to turn it back on after restarting.  If it still doesn't work, download internet explorer 8 to reinstall the entire program
+What version of IE are you using? A lot of newer sites no longer support IE6 or earlier properly. If it is happening on multiple sites, you will most likely have to either re-install IE.
+
+If you are on a newer version than IE6, first clear your cache and restart IE. If that does not fix the problem (most likely won't), then next check if there is an update to your version. First try and update as that will make you current and also resolve the problem.  Otherwise you will most likely need to reinstall.

@@ -1,0 +1,29 @@
+I need help with Flowplayer?
+I have a php website I designed using dreamweaver (yay just another program to make coding obsolete so I know nothing about it). I entered this DIRECTLY under the <head> tag in my site code:
+
+<script src=http://www.MYWEBSITE.com/flowplayer/extras/flowPlayer.js"></script>
+
+Than I added this directed above my </body> tag in mt script at the end of the page:
+
+
+href=http://www.MYWEBSITE.com/Videos/LastChance/Episode1.flv"
+style="display:block;width:425px;height:300px;"
+id="player">
+
+<script language="JavaScript">
+flowplayer("player", http://www.MYWEBSITE.com/flowplayer/extras/flowPlayer.js");
+</script>
+
+And when I go to the site it shows nothing there at all, but if I cursor over to where the video SHOULD be my cursor turns into the clickable hand icon and when I click a dialog box appears asking if I want to open or save the video (as if I were downloading it) Please help me out! I just want a general idea of getting this to work.
+
+NOTE: I do have my entire flowplayer folder hosted on my server and the URL's in the script are accurate.
+
+If you don't know how to use flowplayer, you can use the easy-to-use program Moyea Web Player - http://www.playerdiy.com/
+
+Moyea Web Player ( http://www.playerdiy.com/ ) is a quick solution to add flash video ( FLV ) to website and an easy-to-use program for creating personalized Web FLV player. With it, creating custom FLV player (flash video player) with scrollable thumbnail playlist for website only needs a few mouse-clicks. And the skin of the web player can be easily customized.
+
+This is an example for easily customizing the flash video player - 
+http://www.playerdiy.com/support/tutorial/customize-flash-video-player.html
+
+Customize the skin and playback options of web FLV player:
+http://www.playerdiy.com/configuration/

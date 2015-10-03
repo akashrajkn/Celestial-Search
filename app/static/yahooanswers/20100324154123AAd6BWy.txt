@@ -1,0 +1,13 @@
+Virus I think....help? Every time I open up my computer, it says that Firefox isn't working 2 or 3 times. I kn?
+Virus I think....help?
+Every time I open up my computer, it says that Firefox isn't working 2 or 3 times. I know this isn't a problem with Firefox, because when I uninstalled it to see, it did the same thing with internet explorer. I think that it is a virus attempting to open up my browser but it fails. McAffee isn't picking up anything.
+
+What is also strange is that when I tried to update firefox, it said that I couldn't because firefox was already running. I popped up task manager and closed the firefox.exe. Then it just popped up again. There were two explorer.exe's running, and one said *32 (32 bit). I guess I'm lucky I have 64 bit or it would have gone undetected. I closed the explorer.exe*32 down, then firefox, and it didn't return.
+
+Basically is this just a problem or a virus? If so, how do I fix it? As far as I can see, it isn't causing any real problems. It just says: "Firefox has stopped working" two or 3 times when I boot up but that's it.
+I have no leads, because nothing is detecting anything. Maybe if I turned on DEP, it would stop...
+What do you think?
+
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

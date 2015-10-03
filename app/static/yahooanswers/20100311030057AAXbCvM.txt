@@ -1,0 +1,13 @@
+Any good free Web Hosts with FTP support?
+I need a free web host that supports FTP for uploading files for my new website. Could anybody point me to any?
+
+try this kwikphp.com, it's free a has a big bandwidth and storage, downside is it places an ad at the bottom of your pages. I've tested this one...
+
+also look for http://www.000webhost.com/ I've never actually tried it but my friend says it's better
+
+http://prodigalconcepts.com/
+Are you looking for a site builder kind of host or no? it does make a difference.
+Try http://www.sky.uk.net, they are free with the promo code
+http://www.freewebhosting.comxa.com/
+
+Lots of disk space and bandwidth and the upload and download speeds were good for a 40MB file I tested.

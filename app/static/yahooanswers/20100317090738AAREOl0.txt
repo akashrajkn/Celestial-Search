@@ -1,0 +1,19 @@
+What do you think about the preview version of Microsoft's Internet Explorer 9?
+I read that Microsoft has come up with a preview version of their Internet Explorer 9:
+http://ie.microsoft.com/testdrive/Default.html
+http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=6b5ed8f6-9bd4-4034-873a-ab6965e7c450#Requirements
+
+It looks like they are leaving out Windows XP in the system requirements to force users to upgrade to at least Windows Vista. Do you think Microsoft will succeed or all the more will it drive loyal Windows XP and IE8 users to switch to other browsers instead?
+
+Still slower than Chrome and Safari, only rudimentary HTML5 support, and a 54 on the Acid3 test when Safari 4.0 even got 100.
+
+I think I'll stick with my real browsers, thank you. No one deserves to be subjected to IE.
+not much safe..
+They don't have to worry about Windows XP. Most users of XP are quite content with using IE8, by the time IE9 becomes mature and is released as a final product, the number of users on XP would have shrunk considerably.
+
+But I feel that there's a good reason for doing so, Windows XP is a pretty outdated OS, it's over 8 years old and having your developers trying to develop a browser that works for both XP and Vista/7 is just extra work. It's a better use of resources and time to work forward rather than trying to support a 8 year old operating system.
+Went they finally start conforming to web standards without all the proprietary bullsh*t, I'll bother to care about IE.  Until then, it can die in a fire.
+Looks better than IE8. But the thing is that IE is not as safe as Firefox. And Firefox looks cooler than any IE version. It is also faster. I am never going to use IE in my life. My IE version is still 6 because i never use it.
+
+:)
+people have already switched to other browser, it's not as fast

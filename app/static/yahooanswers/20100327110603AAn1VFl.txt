@@ -1,0 +1,10 @@
+Why can't I browse the internet, even with internet connection?
+The internet connection is pretty strong. I checked my firewall, it's enabled. What's wrong?
+
+-- 
+
+I did recently got a malware on my computer, which i guess disabled browsing on the internet, even with internet connection. please help me :(
+
+Run an antivirus software.
+And if that doesn't work, try contacting you ISP.
+Try using a Live CD and see if your connection works from there. If it doesn't work from there either there's a problem with the connection, otherwise there's a problem with your OS.

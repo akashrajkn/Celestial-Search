@@ -1,0 +1,16 @@
+Can you help me with firefox?
+Okay, I can start firefox, I can get to websites, they will seem like they're working, then firefox freezes and I have to end the program through task manager. I have cleared out everything. Please help me fix this! It has always worked fine, and now I'm stuck using internet explorer which I'm not fond of! Thanks
+
+I'm sorry. If it doesn't work out, may I suggest Google Chrome, Opera, or Safari? They are very fast, especially compared to Firefox.
+First of all, did you try re-installing it? That can sometimes work. If you did, then there could be a virus possibility, in which case you will have to update your antivirus program and then scan for viruses. It could also be your registry. Download a program called "ccleaner" from www.download.com and run a registry scan with it. Or it might be your hardware. Does it only happen with firefoc, or with other programs as well. I know that any of my programs that access the H: Drive crash immediately because there is a problem with that drive. You might want to get someone to look at the parts of your computer/laptop if it is over a year old.
+Hope I helped
+That is indeed odd behavior for Firefox.  I know it's a pain but have you tried uninstalling, reboot, and reinstalling firefox.  Perhaps an incompatible plugin got added that is causing this. Probably couldn't hurt to do a quick scan to rule out trojans/virus's as well.
+my suggestion is to switch to a different porvider like explorer
+Try updating to the latest version: 
+
+Start firefox
+Help
+Check for updates. 
+
+
+Also, firefox is the fastest browser i thought? cnet.com thinks so.

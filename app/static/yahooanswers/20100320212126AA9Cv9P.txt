@@ -1,0 +1,6 @@
+How do I enable my webcam for Chatroulette?
+Everything seems to be working on it and I can webcam over msn but when I click "New Game" on chat roulette it says my cam needs to be enabled. How do I do that?
+
+If it works everywhere else, then it is not compatible with flash. 
+
+You can use virtual webcam software. It allows to put a video or an image instead of your real web-cam

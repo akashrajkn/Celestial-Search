@@ -1,0 +1,40 @@
+internet download speed?
+hey guys  i was just wondering if my download speed should be 300-400KB/s   
+
+The internet speed im currently paying for is 8meg and 2 computers are connected to it... the download speed is still the same when only one is connected.
+
+im with orange broadband and just wondering if this is the right download speed i should be getting.
+no matter which site / how im downloading stuff its always that speed.
+
+please help me with this :) and i may be switching to plusnet in the future ... thank you
+[URL=http://www.speedtest.net][IMG]http://www.speedtest.net/result/735975506.png[/IMG][/URL]  thats what i got from speedtest :O
+speed test said 
+
+Download 2.05mb/s
+upload 0.49mb/s
+ping 98
+
+Check your speed here: www.speedtest.net
+
+Many sites have slower bandwidth than what your connection may be able to provide, so you'll get slower downloads than what you're technically capable of.  Using the site above will at least tell you whether or not your internet connection is providing the advertised speed.  Hope this helps!
+The speed that you can download things from websites, or on iTunes, etc. isn't necessarily the same as the advertised speed from your internet provider.
+I'm with Orange and they are a good provider, it is just when the websites are busy.
+there are a few things you should know about speed since this the most comical terms used by ISPs the use of a speed is determined by two basic factors, the upload and the download, from a legal terms the speeds only after occupy the amount set in law, the company does not and may not be able to confirm that either factor can be met.
+
+the actual speed is dependant on lots of factors, the type of connection since its common for households to use copper wire connections that are then swapped by kerb side hubs to optoelectronic data from electron to photon, transmission. then again the number of users server capacity, the amount of ""traffic"" to a particular site, the amount of time for downloads from or to a site, and so on.
+
+ISPs such as BT do pump out this idea that pay for this and you ll get super duper fast broadband but they do not tell the factors that are involved and the most obvious one is the computer itself.
+
+kbs means kilobytes per second, depending on what you are using the computer for, and if the computer is running any ""background or ghost applications"" most computers have become slaves to the net, and most in fact will be downloading or uploading something even if the user is not in fact telling the unit to do that, it could virus updates or updates from microsoft. the use of kb/s is to fool you into thinking that the number is huge when of course its only a fraction of the broadband width.
+
+pings, packets, and so on.
+
+computes ""ping"" another system by this its the language of saying hello to another computer if you go to command prompt and then at the drive running type:
+
+ping www.yahoo.com
+
+the computer will show the amount of ping time the site name and the miliseconds it takes to ping the server and round time with packets sent and recived.
+
+ok you can change to what ever server and company you think is best but the speed of a download is affected by a lot of things and its nothing to do with the distance from an exchange or the amount of ariels or microwaves, the speed is decided upon usage and the type of usage.
+
+if you use wireless its slower anyway that fibre optic, optronics are faster since they have few problems with connections, but if you  use a 2.4GHz microwave system to connect to the net the connection again can be affected by ""traffic"" try using a quieter time after midnight and before 7am.

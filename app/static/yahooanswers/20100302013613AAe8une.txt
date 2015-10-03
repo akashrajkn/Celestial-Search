@@ -1,0 +1,6 @@
+How Do I Toggle screen for Internet Explorer 8 or Mozzila Firefox?
+I need help immediately because I don't know which key to press.If can,please give me a shortcut key to the toggle screen on the net.
+
+Thanks.
+
+what i get from the question is you have both the browsers open and you want to toggle between them If I am right the short cut key is Alt+Tab

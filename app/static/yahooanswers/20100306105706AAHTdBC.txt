@@ -1,0 +1,13 @@
+My neighbor told me to go to this website. But when I do it says page not found. So where did it go?
+Please explain in simple terms or analogies.
+
+It went to the vast depths of the Atlantic Ocean. It's up to you to find it.
+There are a number of things which could be causing this:-
+1. The site could have exceeded its monthly bandwidth allocation, and be getting blocked by your ISP (looking for more money). If this is the case, you may have to wait till the end of their billing period for the site to reappear.
+2. There could be a server issue somewhere between you and the site, where one of the intermediate sites is either overloaded with traffic or simply offline. In either case, it's out of your control and you're simply gonna have to wait till the fault is rectified.
+3. The website is question may simply have been removed. This happens from time to time. Have you tried using a webhistory site (like wayback.com) to see whether the URL is accurate?
+As you can see, any/all/any combination of the above could be happening here, and there's nothing (as an end user) you can do to rectify the situation. I'd check again with your neighbour--are they still able to access the site?
+
+Good Luck
+
+Scots

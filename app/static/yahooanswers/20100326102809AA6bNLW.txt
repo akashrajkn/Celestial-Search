@@ -1,0 +1,29 @@
+Is it ok to use Internet Explorer?
+I have firefox and sometimes it woent let me connect to the internet, would it be ok to just use Internet Explorer? I was told you can get a lot of viruses from Internet Explorer.
+
+Who told you that?  Internet Explorer is Microsoft's own browser that is part of the Windows operating system.  Occasionally slow to start (IE8) but fine once it gets going
+Firefox is by far the most secure out of the two, but as long as you have both browsers patched up, and be careful of the sites you visit, you should be ok.
+
+You should also have a good Internet Protection software, I recommend McAfee, which will also help protect you, no matter what you browser you use.
+Lots of virus'?  Who said that?
+You wont get any more virus' from IE then you would firefox.
+Maybe more virus' affect IE.
+
+Dane
+The truth is Internet Explorer is notorious for viruses and security breaches.
+
+"who told you that", whoever said that must have not read anything in the news about the internet in the last 10 years, year after year. Its not just that firefox, chrome, and safari are "cooler" and "faster", but they are much much much more secure.
+
+if you'd like some proof, the government of Germany recommends all citizens stop using IE:
+http://mashable.com/2010/01/15/german-government-stop-using-internet-explorer/
+
+also just google internet explorer and security, you won't find a supportive article in the first 20 pages.
+
+try ANY other browser, but in a recent famous hacking contest, IE went down in seconds but Chrome was the only to remain untouched.
+
+lastly take a look at this:
+http://en.wikipedia.org/wiki/Comparison_of_web_browsers#Vulnerabilities
+
+check the "totals" for internet explorer (even the latest IE8) and compare with the others
+If you have good antivirus protection, then you should be fine. However I suggest using FF and Chrome.
+yes it's okay..you can always used Internet Explorer..unless you don't accept third party website you can't catch virus..or just install anti virus to you pc.

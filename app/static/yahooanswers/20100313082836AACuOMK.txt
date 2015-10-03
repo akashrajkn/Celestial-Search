@@ -1,0 +1,6 @@
+Does paypal hold the money until confirmation?
+i got an email from paypal saying that i must provide the shipment tracking number for the package i sent to release the funds the buyer paid into my account, but the buyer said that he doesn't have the money anymore in his paypal account and i don't either, and in my paypal account it shows nothing about money pending or anything like that, does paypal keep the money until shipment is confirmed?
+
+YES IT DOES.[;
+You as the merchant probably received the money and it was visible? Then the buyer probably filled a claim saying he hasn't received the goods he purchased from you the merchant. So now paypal is asking for the tracking numbers so they can verify that you have sent the package. If you don't provide this information within the given time the buyer will get a refund.
+Thats a scam email. Paypal don't send that.

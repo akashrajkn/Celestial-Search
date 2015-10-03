@@ -1,0 +1,11 @@
+How do we put a pop up word meaning feature (on mouse hovering difficult words) in my website?
+I have a site in which there are a lot of difficult words in the content. Is it possible to add a feature which will let people read meanings of words upon hovering over a word / double clicking it? If yes, how?
+
+The feature your looking for is called a "tooltip",examples in
+HTML (title element) - http://www.w3schools.com/tags/att_standard_title.asp
+or
+Javascript - http://www.dyn-web.com/code/tooltips/
+or
+CSS - http://shurie.com/coder/code_details.asp?codeid=4
+
+When learning to develop web pages I spent an awful lot of time at www.w3schools.com, it's well worth book-marking

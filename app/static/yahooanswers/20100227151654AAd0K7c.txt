@@ -1,0 +1,18 @@
+I have a virus on my computer.. help?
+I have a dell latitude d510. and recently i have a virus on it. it will not let me open my internet browser and pop ups keep coming up saying that it wants me to download some windows software? can someone please help me?
+
+easiest, fastest and safest way to fix this is by doing a clean install and keeping your antivirus, firewall and antispyware updated as your OS should.
+if you don't want to do a clean install then remove the hard drive and install it on another pc with proper security software and run a system check.
+Try downloading Malware Defense, install, and it should clean your computer off all scum...
+just try reinstalling your operating system, if you lost alot of important info this time then get a second hard drive that mirrors the one in your computer so that you wont have to lose all of your data when you re-install.
+Oh boy, that is a fun one isn't it?  Been there done that on my wife's computer.  The best suggestion I can offer is to get on another computer and download some software.  The needed d/l's would are listed below
+
+
+Burn these onto a CD and use install them to your infected computer.  I would suggest changing the executable file names before burning them as your infected computer may recognize the file names as they come.  Leave the .exe extension, just change the first part of the file name. 
+
+hijackthis is another spyware fix but is a little more geek oriented (sorry fellow geeks :O ) so if you have limited skills on a computer you may need to call your local guru for help.  Good luck!
+
+Doc
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

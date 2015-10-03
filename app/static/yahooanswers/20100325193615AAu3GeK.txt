@@ -1,0 +1,5 @@
+Is it possible to mirror your webcam...?
+I prefer having my webcam imagine mirrored, with sites such at tinychat and chatroulette. Is it possible to do this?
+I have an apple Macbook, and in PhotoBooth it automatically mirrors the image. But on tinychat, when I use my iSight camera, it isn't mirrored. If someone could tell me how to get it mirrored i would really appreciate it :)
+
+You can mirror and a lot of other features using http://www.manycam.com/  Remember to change your source in tinychat or chatroulette to be able to use manycam's image.

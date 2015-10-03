@@ -1,0 +1,5 @@
+Why do I always have to refresh my web pages for updated page?
+I have Windows Vista and lately I have to clik on refresh to get the updated page. Even in Ebay I have to refresh old pages whether I log on using favorites or use the web bar. Even when i reboot, I log into yahoo and have to refresh the page every time. I don't remember changing any configuration.
+
+You always have to hit refresh to refresh a page, That is what the refresh button is for.
+i think that your browser is set to cache web pages, you can set the browser to always load the page from scratch. i think that browsers are set to load cached pages to speed up browsing, so if you have already been to a web page it does not have to load all the files again every time. most sites are only updated every few days anyway, so it would normally not effect you.

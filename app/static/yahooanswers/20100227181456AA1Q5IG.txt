@@ -1,0 +1,10 @@
+firefox if i private browse can my neighbor see my history if im connected to her internet?
+
+
+Yes they can, and probably do.  Don't be surprised if you get arrested for stealing internet!
+History is stored on your computer. So unless she hacks your PC or runs a network monitor while your online, you should be safe.
+
+She can easily see that you are using her internet however, just not what your using it for
+
+(Don't be afraid of the term "network monitor" it is an advanced program that deals with ip addresses and packets. Super advanced stuff)
+if it is going through her firewall or router, obviously she can monitor if she want to.

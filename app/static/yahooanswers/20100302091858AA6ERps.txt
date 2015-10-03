@@ -1,0 +1,4 @@
+My twitter search tool works with IE but not with Firefox?
+When I try to use the search feature of twitter, it runs incessantly like it's frozen. This same thing happens trying to find trending topics, yet I am able to make updates okay.  This only happens in Firefox.  When I switch back to Internet Explorer I am able to use the twitter search just fine.  But I prefer the Firefox browser for all other functions.  This just started happening about a week ago. Trying to figure what setting has changed to prevent the Twitter search operation when in Firefox.  Any ideas?
+
+hey leave twitter.... u mite hav heard abt twitter's history.. even now u want to use it??

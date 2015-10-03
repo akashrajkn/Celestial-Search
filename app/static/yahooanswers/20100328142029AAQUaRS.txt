@@ -1,0 +1,4 @@
+Where is the tamper data on Internet Explorer?
+I saw a video were a guy went into the tools section of Firefox and clicked on tamper data. is there such thing on Internet Explorer, because I went to tools and did not find it. If there is explain how to get there, thank you.
+
+tamper data is an addon for firefox. There is, but it needs to be installed.

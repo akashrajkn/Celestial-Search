@@ -1,0 +1,65 @@
+Is Firefox better than Explorer?
+as in speed and operation level(easy, moderat, or for pros only)
+
+i like firefox
+yes
+It's all about personal preference.
+
+
+As for me, Firefox is 10000 times better than explorer
+everything is better than explorer
+
+if you look at the stats google chrome is beast (that's what I'm using right now)
+
+you could go with firefox because of all the add-ons or idk if you've heard of opera but that is apparently pretty good too
+Yes. Firefox is in my opinion is ten times faster. Internet Explorer literally saves everything you look at in temporary files. It takes up a lot of space and is not to good when you don't want others to see what you have been looking at. Firefox is so much safer and easier to use.
+i wouldn't say so, but it does have small benefits and add-ons explorer doesn't.
+Yes, it's better in every conceivable way.
+There is a small learning curve to switch from IE to Firefox. Firefox is rather fast and it works a lot better than IE, in my opinion. It's also a lot more secure than IE.
+1.  In IE the contentEditable property may be applied to any element.  This allows for sophisticated WYSIWYG and in-place editing within HTML pages.  For mysterious reasons Firefox only allows this property to be defined for the entire page, which is a concession that satisfies no one.
+
+ 
+
+2.  IE's window.popup object allows the creation of custom menus and listboxes that exceed frame/window boundaries.  This is a particular must for pages that use framesets (say, an editor with multiple control panes).  There's no way to do anything like this in Firefox short of writing a plug-in.
+
+ 
+
+3.  window.showModalDialog and window.showModelessDialog offer vastly superior functionality to the very drab (and also non-standard) window.confirm or window.prompt.  These methods are part of the icing on the cake that make IE so much more developer-friendly.1
+
+ 
+
+4.  IE's zone-based security model allows trusted sites to take advantage of features that might normally be prohibited, which allows developers the freedom to take advantage of certain browser features for special purpose sites (intranet, content management tools, etc.) without having to worry about what is allowed in the default lockdown mode. With Firefox it is all or nothing 每 it is impossible to permit features like Javascript for one domain but not another.  The implications for the developer should be obvious.  [This item previously referred to event granularity but the point only applied to older versions of the Gecko rendering engine, therefore I've updated it to keep the article relevant.]
+
+ 
+
+5.  IE is less resistant to making useful extensions to standards.  This might sound like a reason to dislike IE, but standards compliance is much like Thoreau's Emerson's2 foolish consistency: the hobgoblin of small minds.  In fact Firefox incorporates a number of non-standard extensions for the sake of compatibility and usability.  See the way it deals with range objects 每 it extends the standard, is bug-ridden, and still doesn't match all of IE's features, so standards-compliance is a weak excuse usually made by neophytes and people still depressed about OS/2.  The result of Firefox's incoherent philosophy (compliant except when it isn't) means that small syntactic improvements in IE (e.g. document.all) are dogmatically resisted for no real reason.  It's like the town slut telling you she's a virgin and enforcing an interminable courtship on you before she finally gives it up, or more likely doesn't.
+
+ 
+
+6.  Firefox makes questionable interpretations of standards.  For example, its childNodes collection assumes that a carriage return between block elements is a text node.  There are very good reasons not to assume this, not least of all the longstanding practice of indenting HTML to enhance its readability.  The result is a requirement for greater code complexity, and requiring more complex code (without providing any benefit) is never a good thing.  Firefox does it a lot.
+
+ 
+
+7.  Lastly, Firefox has spurred the return of the browser button.  Yes, you remember back when every other site had a little graphic reading "best viewed in Netscape Navigator" or "designed for Internet Explorer" or "made with a Mac"?  This really dumb phenomenon 每 only surpassed by sites with lengthy Flash introductions that open themselves in new windows with the address bar hidden 每 was thankfully abated when Netscape's browser fell off the edge of the earth and Gecko development was still in its interminable beta years (Gecko being the rendering engine behind the meaningless Firefox name).  But, alas, it has returned to annoy the world thanks to a new wave of determined morons.  "Take back the web", "Burn down the web", "Stay in the basement" (I paraphrase), accompanied by a "cute" picture of a furry humping the planet,3 now clutter many pages like virtual bumper stickers.  Please get a life, preferably offline, as this cult-like evangelism of a piece of computer software is beyond pathetic.  By the way, people who use bumper stickers are obnoxious idiots.
+It is user friendly and it is less likely to have pop ups, etc.  The problem is that many sites do not work on it and you have to download a lot of plug ins...but this is getting much better over time.
+
+I used it for a while, but I prefer google chrome.
+
+and almost anything is better than explorer.
+FireFox is the best, not only because it is fast to navigate. You can navigate all your favorites website secured without problems and there are a lot of add-on available to make your life more easy.
+
+So, use FireFox.
+Yes
+Reason
+Its OpenSource
+More than 5000 Addons till date
+More Secure, Faster Rendering, Stable
+period
+This is the reason why 'FF' Firefox is better than 'IE' Internet Explorer. 
+http://www.mozilla.com/en-US/firefox/features/
+Firefox is very easy to use. I prefer it over Internet explorer. Just download it and give it a try. You won't hurt anything by having both. Just don't choose it as your default browser before you decide you want to keep it. There have been issues with computers not being able to connect after choosing it as the default, and then uninstalling it.
+IE is possibly the worst piece of software ever written. It's slow as hell. It's crashy. It has horrible standards support. Webmasters hate it. Screw you microsoft. I'm going with Mozilla Phoenix.
+Use Safari
+A whole lot faster than Firefox.
+http://www.apple.com/safari/
+Yeah

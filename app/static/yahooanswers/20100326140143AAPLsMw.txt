@@ -1,0 +1,4 @@
+What's a blogroll? How is it different from just listing links to other sites?
+
+
+Blogrolls are often automated; a common version on Blogger, for instance, uses blog RSS feeds to reorder the blogroll with the most-recently-updated blogs at the top.

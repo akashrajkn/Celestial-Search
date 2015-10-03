@@ -1,0 +1,8 @@
+Problem in downloading in Mozilla Firefox?
+when i was downloading a movie in mozilla, im so glad that it may continue to download even i turn off the pc and continue it tomorrow, but when i continue it, after a hour or a minute, it stops downloading! how about that? what happen? i cannot continue it na,
+
+some servers, like rapidshare, megaupload.... blocks you to continue the download.
+mozilla firefox does not support that resume support.... 
+use downloader software.... like Free download manager... its free.
+
+http://www.freedownloadmanager.org/

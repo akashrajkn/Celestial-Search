@@ -1,0 +1,18 @@
+Internet Download Speed?
+I don't know why but lately my computer has been downloading things slowly. Before it used to download things at about 160 kb/sec,now it downloads things at 10-30 kb/sec. =[ if anyone can help me please help! 10 Ptz.
+
+If you are on limited internet then that could cause this.
+
+Apart from that, check the port is still forwarded properly and that the torrent is still well seeded.
+
+You should also do a full scan for virus and malware.
+
+Could also be the your isp is blocking p2p or just thorttling traffic at certain times of day.
+
+Go to speedtest.net and see if you actual download speed has decreased
+Your download quota has run out. You need to wait for several days or weeks before your download quota replenishes. Make sure you know how much download quota you have before you download so much stuff.
+If you don't ever look at porn it usually helps.
+then contact your ISP and pay them more $$$ for faster speeds
+
+thats the ONLY way they will do anything
+remember they are only in it for the money

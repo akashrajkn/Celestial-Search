@@ -1,0 +1,13 @@
+how to get on the internet outside?
+hi
+
+i want to go on the internet outside but i dont know how.
+
+i have a laptop and i once took it outside and it didnt work the internet.
+
+does anyone know maybe a download to make a internet connection anywhere?
+
+What you will need is a broadband access card.  Usually owned by mobile telephone companies and is a monthly charge.  Last I checked, it ran about $60 a month. You get internet basically everywhere you get cellphone signal since these cards run off the same towers.
+
+If you don't want to pay, you'll have to find hotspots to piggyback off of, but sometimes there aren't any around
+you need a wireless router to transmit the signal. If you connect your laptop to the internet with an Ethernet cord and do not have the a wireless router, you will lose your connection as soon as you unplug the Ethernet cord. and If you are implying that you can download the internet in your last sentence, then no you cannot download something to make it connect anywhere. Make sure your wireless card on your laptop is on and also maybe you can steal someone else's connection if you have neighbors with a wireless router

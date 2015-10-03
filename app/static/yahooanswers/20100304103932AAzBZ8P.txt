@@ -1,0 +1,10 @@
+Firefox bogging down !?
+Firefox;  A few weeks ago I installed the latest updated version of Firefox. Ever since then things have run very slowly. Pages take 10 - 20 seconds to load, the screen will fade to near white and get this washed out look. Sometimes I get a message stating that "a script on this page is running that may prevent.... referencing Firefox (no I didn't save the whole thing) the file it references is;   file:///C:/Users/a/AppData/Roaming/Mozilla/Firefox/Profiles/qtc0ga3l.default/extensions/%7B635abd67-4fe9-1b23-4f01-e679fa7484c1%7D/components/nsYahooFileIO.js:26
+
+You may have all the firefox files filled up with old and new programs which causes it to slow right down. Download a program called speedyfox and it will clean out this mess for you and should speed your connections again
+
+http://www.freewarefiles.com/SpeedyFox_program_51382.html
+Consider some of the add-ons you're running with Firefox. Try disabling them all and restarting your computer, as well as clearing out some of the cache/files.
+That almost sounds like some kind of virus.  Normally when my Firefox browser is bogged down it's because I have way too many tabs open.   Check your task manager (Ctrl+Alt+Del) and see how much RAM firefox.exe is consuming.  If it's using 100,000k+ RAM off jumpstreet while you only have one tab open then there's definitely a problem.  
+
+Also, see if you have the same problem in Internet Explorer.  If not, then the problem points directly at Firefox.  Hope I helped a little.

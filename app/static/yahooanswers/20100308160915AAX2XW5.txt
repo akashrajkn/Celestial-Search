@@ -1,0 +1,22 @@
+I want my computer to access my router's wireless internet, but it doesn't have a wireless card.?
+So i have another computer but its really old, windows xp. It doesn't have wireless internet (it can't detect it) and I don't know what to do. Do I need to buy something or is there something to download?
+
+Windows XP should recognize wireless.  thats what I am using.  In fact, the computer I just got rid of was a 2000 model Dell with windows xp and it worked great with our wireless. My current computer is also Windows xp and but is a 2005 model.  
+Heres a silly question but are you using a USB adapter? because you need one for wireless.
+Sorry if you already know that but many times its the simple things that mess a person up, ya know?
+Look in the instructions that came with your router too because you may have to download something or install something, depending on what kind it is.
+Ok, Firstly if it isn't detecting wireless internet it most likely doesn't have a Wireless card built into it.
+
+Usually the easiest way to check this is to look at the back of the computer, and look at something with a large Signal prong sticking out of it, if there isn't one, then likely it doesn't have one.
+
+There are a couple of ways if you don't have one you can get yourself connected to the wireless network.
+
+Easiest way is 
+
+1 - Use an Ethernet cable - You would need to position your computer so it is close to the wireless router, and use an ethernet cable from your Windows XP network Card into the back of your wireless router.
+
+2 - Usb wireless Card - You can buy wireless cards that fit into your computer's USB slot, these are usually about the size of a pen drive/storage device and they are relatively cheap to buy and easy to install, You can usually trust brands like belkin or netgear for this :)
+
+3 - Most difficult would be to buy a built in Wireless card, this would require you to open up your pc (take off the back cover) and place it into a PCI slot on the motherboard of the PC, these are usually slots at the back where the metal casing is (you plug in the power/Monitor there). If you are unsure on how to do this, I would really reccommend you go for one of the other 2 options.
+
+Good luck!

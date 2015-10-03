@@ -1,0 +1,8 @@
+how to i view historical content of a website?
+ive lost the site that lets you see a website in the past (how is was present and content at the time) , i supposed like getting back issues, so for example i could visit www.abc.com on 1st jan 2010 1st jan 2009 1st jan 2008 etc. if anyone can help that would be great, its kind of annoying me that i cant remember, thanks
+
+Browse through over 150 billion web pages archived from 1996 to a few months ago. To start surfing the Wayback, type in the web address of a site or page where you would like to start, and press enter. Then select from the archived dates available. The resulting pages point to other archived pages at as close a date as possible. Keyword searching is not currently supported.
+
+http://www.archive.org/web/web.php
+
+The Web's archive

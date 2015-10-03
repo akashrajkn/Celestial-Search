@@ -1,0 +1,8 @@
+Internet connection problem, please help?
+My mom's laptop is connected to the internet, but not to our ISP to our neighbor's one. When I click 'Search for Available Wireless Networks' it says that it cannot find any at this time, yet my computer is connected, along with my sister's and I can see our modem is fully connected. 
+Can you guys troubleshoot or maybe help me out, thanks.
+Im not trying to get onto my neighbors. Im trying to connect to MY modem. 
+
+Read the question...
+
+Maybe your neighbour has made their connection private with a password

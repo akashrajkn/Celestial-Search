@@ -1,0 +1,16 @@
+I appear to be banned from a blogging site and know that I did not do anything to warrant it.?
+The error message I receive is:
+
+Forbidden
+You were denied access because:
+Access denied by access control list. 
+
+The number 403 shows up on the bottom tab.  
+
+I checked with my ISP and he went through a few things and a ban was the only other suggestion he could come up with.  I KNOW that I have not done anything to warrant a ban.  Also, I can access it through my BlackBerry so if I was banned, how could that happen?  I'm totally baffled and need some help ASAP.  Thanks!
+
+403 sounds like the HTTP error code for "forbidden" (in other words access denied), so your IP address has probably been banned from the site. If you use a phone over a cellular network to access the site, it will not use the same IP and therefore not be banned.
+
+I would recommend you talking to an administrator or moderator of the site and find out what had happened, and maybe resolve the problem.
+the blogging site name would be useful. perhaps attempting to contact the blog admin to look into the issue.
+I agree with nasty, more details will help you get better answers.

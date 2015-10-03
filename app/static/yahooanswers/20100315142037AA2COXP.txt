@@ -1,0 +1,6 @@
+Having issues rsending an e-mail to an ''aol.com'' address?
+i have an ad on gumtree and people are replying to it via my e-mail, one person who i would like to talk to has sent an e-mail and every time i reply it comes up with a postmaster fail e-mail. any other e-mail address works fine it is just this particular one.
+
+ps iv have tried it on hotmail and googlemail accounts and its still failed
+
+Read the error inside the email. If it's just happening with the ONE email address, chances are that person doesn't actually HAVE an account. Some people are really clever at spoofing emails so it LOOKS like the email is valid, but it's actually not.

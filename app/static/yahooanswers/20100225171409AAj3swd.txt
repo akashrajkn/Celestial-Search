@@ -1,0 +1,9 @@
+How do you put a link for a download on your blog?
+I see people who put links on their blog, and if you click on it, you can download music and such...I think you know what I mean. Like this : http://blog.akutoulovesyou.com/2010/02/dont-cross-streams.html  see the link?
+
+you just posted the link.
+
+?¦Á§Ü¦Ô§ñ¦Á
+You have to upload the music or video to your hosting account.  There is a way to upload in wordpress admin but I prefer just to use FTP.  Once it is uploaded to your site, then you just post a link to it so others can grab it.
+
+If you need more help or tips, be sure to check out http://www.get-pnb.com

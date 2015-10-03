@@ -1,0 +1,19 @@
+What is a good free site to publish a few webpages, easy to use, for more info on an Ebay listing I want to do?
+What is a good free site to publish a few webpages, easy to use, for more info on an Ebay listing I want to do?  I want to provide a link from my auction to list some more pictures for free, instead of paying EBAY to show more pictures, and also to list more info about my auction.
+
+Maybe something like this will suit your needs:
+http://www.dyndns.com/
+If you just want to add more images you can use an image hosting site like imageshack or photobucket - then use HTML to include the images in your auction page on ebay. (imageshack/photobucket will give you the HTML to use)
+I am on virgin media. and you are given web space free. but you never see it or hear about it. you need to ask.. so ask your provider first , you may have web space. 
+
+mine is http://homepage.ntlworld.com/david.horton10/default.html  
+do it in word 2007 and save as web page. upload with FileZilla  
+
+else use ms messanger webspace and blog it there free just take the address from top and paste in ebay.
+yahoo may have profile page and put it there and save the address and paste
+
+hope this helps
+
+or pay ?10 on www.one.com for a web site and domain name like http://www.thegeniuscircle.com/
+
+this is a site I wrote (web master)

@@ -1,0 +1,19 @@
+Antivirus soft virus?
+nothing's working
+i downloaded malwarebytes' anti-malware, i performed both a full scan and a quick scan and it said it removed all threats. it didn't, when i restarted my computer in normal mode, the virus was still there
+i tried following the directions i use mozilla firefox and everytime i go to tools, first there's no internet options button but there is an option button so i click on that, but it doesn't have a connections tab. so i don't know where to go from there
+i can't run rkill in safe mode, everytime i try and download rkill (and avg and antivira) it gets "infected" and i can't run it. in safe mode with networking i can't get the internet so i can't download anything while in safe mode
+i've tried a system restore but for some reason all my restore points were deleted
+finally i downloaded IObit Security 360. i performed a scan and at first it found 18 threats. i restarted the computer and antivirus soft was still there
+
+i don't know what to do
+please please help!!
+
+Before you ran the scans, did you check for updates with malwarebytes? This should be down every time you scan for infections.
+On a clean PC burn Avira Rescue System to CD/DVD and run it on the infected machine. You can also burn Malwarebytes, SuperAntiSpyware, Hitman Pro, ccleaner to CD, being sure to update them, and run them After Avira Rescue System...
+you don't just download free software online. I wouldn't doubt you downloaded a ton more viruses. you have to actually buy anti-virus for it to be good at all. if you are buying it online it has to have https at the top because the S at the end means its secure. NEVER buy anything online until you make sure at the top on the address bar it says https. Try buying exterminate it; it really does the job. here is the link:
+https://www.regnow.com/softsell/nph-softsell.cgi?items=16843-2&sn=
+It only costs 30 dollars. To be exact it was like 29.95. Once you buy it at the end it gives you the code. Click the download link. Once you install it do all the updates. On the left click activate. Go back to the webpage that had the code on it copy and paste and click activate. Now you scan give it a while until it completely scans everything then click exterminate!
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

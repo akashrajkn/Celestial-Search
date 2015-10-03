@@ -1,0 +1,4 @@
+Is there an online forum similar to Y!A that's designed more for conversations?
+I like the format of Y!A, such as the categories it separates topics into. But it's not so great if you want to have conversations.
+
+Internet Relay Chat, or IRC.  Pick a program (http://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients ) pick a network and pick a channel.  If there's no channel about what you're interested in, join it (the server will create it for you) and wait for people to join.

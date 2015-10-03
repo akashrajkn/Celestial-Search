@@ -1,0 +1,4 @@
+When streaming videos off some sights why does it ask for you to verify that your human?
+
+
+Many sites, not just those streaming videos, require human verification. The reason for this is money. It costs them money for you to watch the video (they pay for how much bandwidth they use). They don't want 'bots' to steal the videos, or other sites to embed the videos. By making you verify your humanity they can guarantee that they have a real live person viewing the video on their web site. They get all the advertising revenue for your view while blocking out those trying to steal the video.

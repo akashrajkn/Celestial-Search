@@ -1,0 +1,15 @@
+How to do an eBay search by distance only ?
+I am trying to do an Ebay search for any item near me. 
+It takes a long time to look at each category for items 
+in a small zip range. I know eBay does not like wild card 
+searches, but I am just looking for a good deal. I don't care
+what it is only where it is.
+
+That's a hard one for me. I went tp the main eBay page, and clicked on advanced search. It took me to the page where you can search just about any way you want. I picked a category (DVD), and told it to only search within 100 miles of my zip code.
+
+It pulled up searches that were nowhere near where I live. You can always ask on Live Help, with this link. They should be able to help you better than I can: 
+http://pages.ebay.com/help/basics/n-livehelpemail.html
+
+That's honestly the most help I can offer.
+
+Good luck!

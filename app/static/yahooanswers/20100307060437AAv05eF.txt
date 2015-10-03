@@ -1,0 +1,6 @@
+Audio goes ahead of video?
+I suddenly have this problem where i play some videos and the sound and picture are not synchronized
+together. The video would be seconds ahead of the picture. How do i fix this? mostly from one site
+
+You could try to use VideoLAN's VLC player, it has specific hotkeys designed for resolving Audio Sync issues. If you want to make the change permanent, you would want to open the video in a video editor such as Windows Movie Maker or Adobe Premiere Pro and manually edit the sound timing to match the video. Hope this Helps!
+Yes , i find VLC to be the best at keeping it in sync.

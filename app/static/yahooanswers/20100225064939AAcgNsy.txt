@@ -1,0 +1,4 @@
+Internet explorer problems, Please help me!?
+Ok so i tried using my internet explorer and it shows up as a connection error.... now i have tried firefox also and the same thing happens but when i use safari like i am now i can connect but its really slow. how can i fix this? i already tryed to recover my computer and it still didn't work. Is their a way for me to fix this.
+
+Check your antivirus and firewall software.  It may be choking off your internet connection or giving limited permission to IE and Firefox but letting Safari through.

@@ -1,0 +1,14 @@
+Internet explorer 8 original font name?
+I accidentally changed the font of internet explorer 8 I want to change the font to how it is originally when you downloaded it. Can any of you tell me the name of the font? Just go to the menu bar Click tools scroll down to internet options and then at the bottom Click  Fonts (whats the name of your font) and what is it under language script is under and also the PLAIN TEXT?
+
+To answer your question, here is what the default settings are for Internet Explorer 8 fonts:
+
+The language script: Latin Based.
+Webpage font: Times New Roman
+Plain text font: Courier New
+
+Let me know if you need anymore information.
+
+Cheers,
+Bryn
+IE8 Outreach Team

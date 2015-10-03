@@ -1,0 +1,8 @@
+How do I get wireless internet?
+I just bought a new laptop and I'm connected right now on my desktop through At&t with dsl. My laptop has wireless capabilities but I dont know if I have to get it through a provider or how I'm supposed to go about getting my internet to be wireless.
+
+You need to purchase a wireless router.
+you need to go to a store that sells routers like..radio shack and hook the router up to your internet box and install that cd. radio shack or where ever you go can explain it better than i can.
+First stop by your local electronics store and pick up a wireless router. This device allows your existing DSL from AT&T to broadcast throught your home. That's just the hardware part of the job. Next, if you're good at following instructions your router came with, follow the step by step process of setting up a "network". This is just a fancy name for your wireless Internet that you need to connect to. If you're unsure on the setup of network, there are tons of service providers that set up the network for for a fee. Honestly, if you have a tech savy friend, buy them a case of beer to have them set up the network. Next, your computer will search for available networks and just look for yours and connect to it. Now your pc wirelessly talks to you dsl modemn via the router.
+So in recap, think of water and how it flows in comparison to your internet, Internet comes from the wall to your DSL modemn, then to your router, then hard wired to your desktop and wirelessly to your laptop.
+Hope that helps.

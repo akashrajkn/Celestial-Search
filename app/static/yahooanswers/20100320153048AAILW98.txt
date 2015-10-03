@@ -1,0 +1,8 @@
+SLow internet connection sharing? why?? HELP please!?
+Hello i just set up a network at my house between my two pc's. One is windows 7 and the other windows XP. The problem is that i got internet running on both of them but the internet seems to have gotten much slower than usual. is this normal or could it be that the settings are messed up? i thought that when you do internet sharing it was supposed to be be at the same fast speed.
+
+I will guess that one of the computers is connected to the internet normally. eg. with a Ethernet cable to a modem.
+
+If it is the other computer that has slow internet it may be the way you have connected them, eg. via blue-tooth, remember that if any of the connections aren't very fast, the internet won't be fast either.
+
+Could you please provide more information? how they are connected and which computers have slow internet?

@@ -1,0 +1,8 @@
+Help with deleting a virus?
+Well i just rebooted my whole computer, wiping out everything. Well somehow i got this virus, and when i search anything and click the link, it brings me to the wrong links that are scams, also with my internet pop up blocker put on, pop ups about scams come up. And even if i have internet, my google chrome will not load. I ran my symantec anti virus, and it cant pick it up. neither can malware bytes, or spyware doctor, or avira. can anyone help?
+
+try www.spywareterminator.com   they have a free download, run the scan
+If possible, re-install your operating system.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

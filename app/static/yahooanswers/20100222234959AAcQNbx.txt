@@ -1,0 +1,18 @@
+Everytime I open My Internet  Explorer or Firefox It keeps on  "not responding."?
+It doesnt happen to Google Chrome, and I personally use Google Chrome on this laptop and now my parents are starting to use it cuz internet explorer and firefox wont work, and now their closing tabs that I need to kept open!
+Does anyone know whats happening to my Internet Explorer or Firefox?
+
+IE or Firefox may not work with your internet. What kind of service do you have? Dail-up, DSL, etc?
+This might help. Go the website below, Download Ccleaner. (Make sure you click "Download Latest Version")
+
+http://www.filehippo.com/download_ccleaner
+
+Once it's finished downloading, open it up and once Ccleaner has opened. Click "Analyze" and when it's analyzed everything click "Run Cleaner". This should only take a second to scan since it only erases your internet cache etc.
+
+Next, click on "Registry". Then click "Scan for Issues". Once scan has finished, click "Fix seleted Issues" (don't back files up) and then click "Fix all"
+
+Now, try opening firefox or internet explorer. It should help start it. Before opening Ccleaner make sure you exit your current web browse so it can scan that.
+
+I hope this work.
+
+If you're still having issues, Msg me. I'll try help.

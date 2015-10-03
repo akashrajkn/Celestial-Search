@@ -1,0 +1,4 @@
+How do websites embed Yahoo Answers?
+I've noticed a number of sites that have embedded Yahoo Answers to add content, but I don't see any embed link at YA like they have on YouTube - is their html available?
+
+Please give examples.  Never seen this.  There are many Answers sites, but never seen one with exact Yahoo! Answers content

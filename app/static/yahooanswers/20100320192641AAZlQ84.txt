@@ -1,0 +1,10 @@
+How do you block sites on mozilla firefox?
+Thanks to all who give helpful answers.
+...
+
+you're bette off blocking them in your modem/router...that way no other browser can access them either...
+Yea ther're right ^ just go onto your modem and set blocks. Fire fox requires an app download. I also recommend Google chrome. its faster than firefox
+There's probably an add on for that. Google firefox add ons.
+1. You can download BlockSite addon for Firefox : https://addons.mozilla.org/en-US/firefox/addon/3145
+
+2. If you want to block a site in all browsers and not only Firefox, then use HOSTS file blocking : http://www.trishtech.com/internet/redirect_block_sites_using_hosts_file.php

@@ -1,0 +1,15 @@
+How to download the internet?
+Hey guys I asked this on UK answers but they are all idiots.
+Hey I have 6GB of internet usage a month, I've got about 2GB left this month and I've got tons of stuff to do on the internet. I consider myself pretty tech savvy but I just can't find a website where I can download the internet. I've got 2GB of usage left and like 100GB of hard drive space so size won't be an issue I just wanna download it all now so I don't just load pages wasting tiny bits of usage all the time just download it all at once so I can use the internet without wasting usage. Anyone know any website? Where I can download the internet?
+Please don't link me some retarded website like www.downloadmoreram.com Im not an idiot.
+@koin ......yeah and delete my hard drive? nice attempt...idiot..
+@Xfacta   *sigh* I hate trolls...
+
+do:
+
+apt-get install wget
+wget -l 10000 -r www.archive.org
+Funniest thing I read all day 
+I don't think what you want to do is possible
+no one can "download" the internet the way you seem to be wanting to by the way you ask that question. you can visit web sites and you can add to your "favorites" list as many sites as you may like where you can get there faster, but there is no such thing as "downloading the internet" sorry !
+how about system restore, sound like you messed up some where down the road

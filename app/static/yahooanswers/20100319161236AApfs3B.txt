@@ -1,0 +1,10 @@
+How do I update my Symatec anti-virus?
+Windows XP
+
+It shows the red shield symbol with the X on the task-bar. I click on Windows Security Center and it says the anti-virus is installed but its status is unknown. I open the Symatec anti-virus program and click on Live Update but its still says that its outdated.
+
+You don't. Go to you control panel then add or remove programs and delete Norton. Probably one of the crappiest Anti-Viruses out there.
+000
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

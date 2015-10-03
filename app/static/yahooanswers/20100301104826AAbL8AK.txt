@@ -1,0 +1,6 @@
+Why does my Internet browser pop up after loading a page?
+I click on a link, and while the page is loading I open up my iTunes window, for example, but then once IE has loaded the page i wanted it automatically opens up taking me away from iTunes. It gets annoying when you are in the middle of typing and it suddenly pops up with the page i asked for. Yeah i'm glad you've opened up the page i wanted, but i will open you in my own time!
+
+Could be some form of adwere
+It's something that happens if the page is still a full screen. You can prevent the screen from jumping in front of others if you minimize it. I do the same thing with my msn messengers so if someone nudges me it doesn't pop up in my face and then I end up typing what I want in the message box.
+Just minimize the page before continuing to do other work. That should help.

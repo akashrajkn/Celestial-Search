@@ -1,0 +1,11 @@
+How do I delete my word prompting that appears every time I search?
+
+
+Cleanup your browser of cookies and turn the autocomplete off
+I'm guessing you're using google - if so, just head here 
+
+http://www.google.com/preferences?hl=en 
+
+and then under "Query Suggestions" select "Do not provide query suggestions in the search box".
+
+That should do it.

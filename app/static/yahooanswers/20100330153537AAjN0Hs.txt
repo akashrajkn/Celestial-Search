@@ -1,0 +1,25 @@
+Weird virus please help!? this security tool thingy came up and i never downloaded it. it won't let me open my?
+Weird virus please help!?
+this security tool thingy came up and i never downloaded it. it won't let me open my own anti-virus thing to scan it or anything. i have avg. but it won't work because when i click on it the security tool window comes up. what am i supposed to do? my mom will be so angry. please help how do i get rid of these viruses?
+
+ha the EXACT same thing happened last night, it's a scam
+1. look through files and stuff and delete anything from security tool (if you cant find any it doesn't matter really)
+2. restart your computer and try to run it in safe mode(F8) 
+3.if you got security tool pop-ups when you log back on open task manager (ctrl+shift+esc) or (ctrl+alt+delete) try holding them down and clicking 'end task' like crazy
+4. if that worked pop-ups should be temporarily stopped and its safe to remove
+5. now you can start you stopzilla thingy, system restore, or go under control panel's add/remove thingy, find it & remove it
+
+
+:P stayed up till 5am trying to figure it out
+
+this should temporarily hold it 2gether but i suggest getting an anti virus program in the near future
+if yur internet explorer doesn't work you should use google chrome instead for a while
+
+i also had this on a different computer and my mom made me leave it off for a few weeks(of course i snuck back on a million times a day since i learned it was a virus only last nite, but it eventually left, i dont think recommend that
+
+also try to avoid clicking on the popups that can make it worse, just pull up the task manager
+
+hope i helped, Viel Gl¨¹ck!
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

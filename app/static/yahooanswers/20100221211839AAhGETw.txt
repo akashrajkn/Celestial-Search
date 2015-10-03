@@ -1,0 +1,15 @@
+How do I uninstall the RadioBar addon to firefox?
+I don't know why I downloaded it, but I did? and i want to get rid of it. However I think I did uninstall it, I just don't know how to change the settings? help!?
+
+i dont have it but i think if you right click it it will come up with remove or if theres an x next to it click thats no still there? try uninstalling firefox then installing it again
+If it is an addon, then you can find and uninstall it as follows:
+
+1- go to Tools | Addons
+
+2- in the Extensions tab, there is a list of installed addons.
+
+3- find RadioBar and press the "Uninstall" button below its name.
+
+4- after doing the mentioned process, your firefox should be restarted .
+
+Good Luck

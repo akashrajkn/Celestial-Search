@@ -1,0 +1,10 @@
+Can i use my computer to give my phone internet?
+ok, i have a mac laptop and it has this usb internet thing (not hooked up to wifi or the internet cable) and i have an iphone but i dont have the internet plan (cuz im in india for vacation).... i was wondering if i could use a usb cable or send out a bluetooth connection, etc. to use the internet that i have on the laptop on my iphone....
+
+is it possible?
+
+Short answer: No.
+
+Bluetooth is a technology used for short-range tethering of two compatible devices for streaming or exchanging data. Max range varies, but is typically ~30 feet/10 meters.
+
+You would have to find an open wifi connection around your area (Your laptop needs an internal wifi card, or USB Wifi dongle), and connect that way. Your phone cannot help you in this situation.

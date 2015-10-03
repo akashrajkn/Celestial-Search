@@ -1,0 +1,12 @@
+How do I check my internet download speed?
+I don't want speedtest.net because I don't think it's reliable. So will someone give me the link for a site.
+
+http://lmgtfy.com/?q=speed+test
+http://www.dslreports.com/speedtest
+
+There are tons of speed testing sites here.
+http://www.speakeasy.net/speedtest
+
+This one is usually the most accurate for me.
+http://www.internetfrog.com/mypc/speedtest/
+Always remember that these tests are what give you actual download/upload speeds. The ones your internet Co advertises to you are per second speeds.

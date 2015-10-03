@@ -1,0 +1,14 @@
+Unbelievably awful internet speeds? Download speed LOWER than upload?
+I have TalkTalk broadband, and I get download speeds at an average of 4kb/s most days, up to an absolute maximum of 45kb/s, and I'm not joking... It'll take me a couple of minutes to download a 1mb file on most nights.
+Not only this, but my upload speed is actually hioher than my download?!
+That will often run at around 50kb/s.
+
+Does anyone know the cause of this? I have 100% signal strength (sitting next to router), Belkin N Series router, and even my wired desktop computer is the same.
+
+Thanks in advance, any advice is appreciated.
+About 200 metres away, I know some houses get speeds get download speeds of up to 800kb/s. Although the south west of England isn't exactly known for good internet speeds, mine is just pathetic.
+
+Sometimes your speed depends on your location. Also it has most likely nothing to do with your router. I saw on their website that they offer free support so you should call them.
+Hi, The speed could be low for a variety of reasons, we can look into this for if you could register on the talktalk members website and start a new thread in the speed and web browsing section
+
+Chris

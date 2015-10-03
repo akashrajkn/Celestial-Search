@@ -1,0 +1,16 @@
+Help about tabs in Firefox 3.6?
+I have just installed the latest Firefox, however, I don't like how when you are on a 'middle tab' and you open a new link, a new tab opens next to the tab you are on. I preferred it when the new tab was opened as the last tab!
+
+I've gone on to Tools, Options, and Tabs, but there is no setting there for me to change this. Is there any was I CAN change this?!
+
+Tools > Options > Tabs > Tick open new windows in a new tab instead.
+
+Hope this helps!
+You have to change the code
+
+in the url bar type about:config
+click "I'll be careful"
+go to browser.tabs.insertrelatedaftercurrent
+double click it to false
+
+This will make new tabs appear last

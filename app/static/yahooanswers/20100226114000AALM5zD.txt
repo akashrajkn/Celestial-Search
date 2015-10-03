@@ -1,0 +1,10 @@
+My wireless freezes and disconnects, Why?
+Whenever i play online multiplayer games such as , mabinogi , maplestory , gunz , etc. 
+At some random time, the game freezes, and whenever the game freezes i know that my wireless
+has been frozen , and disconnected. I don't know why this happens. My brother has the router on his computer, and wheneve he plays games, he never disconnects. Im using the wirless usb, (D-Link), and im RIGHT beside my brother and the game still disconnects. Does this happen to people too? Or is something wrong with my computer, or wireless, OR SOMETHING? D:
+HELP PLEASE.
+
+wireless is not suggested for playing mmo's ESPECAILLY NOT ONES LIKE MABINOGI if you want to survive I would suggest either playing SUPER CLOSE to the internet router or using a cord
+1) Something might be interfering with the wireless signal.
+  2) Something is wrong with your driver (software that allows hardware like routers and printers to work properly)
+  3) Defective wireless usb (get it exchanged and see if the problem persists)

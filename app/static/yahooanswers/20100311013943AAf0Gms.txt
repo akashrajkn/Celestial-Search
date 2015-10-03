@@ -1,0 +1,18 @@
+How can I stop Internet Explorer displaying history in new tabs?
+I know how to delete the history afterwards, but how do I prevent the history being shown in the first place? I have Internet Explorer 8 and whenever I open a new tab, the page always shows the history under the guise of: "View tabs that you've closed since starting Internet Explorer." Without even trying, anyone can see exactly what I've been looking at. How can I stop it showing a list or previously visited websites? The information is quite detailed; for example, it doesn't just show answers.yahoo.com; rather it shows the exact title of the question I was looking at. Bah, it's annoying the h*ll out of me. Thanks.
+I tried browsing  using the "InPrivate" function but it doesn't solve the problem.
+I don't have google toolbar; the problem is with internet explorer 8 itself.
+
+use firefox instead. and choose to never remember history. nothing will ever be saved.
+or look for a similar setting in internet explorer.
+Open your internet explore, go to internet options in general tabs on browsing history click setting
+Then set Temporary internet file to never and day to keep history set to 0
+Go into Tools>Internet Options>Tabs>Settings
+From there you can control what the new tab opens with.
+
+For future reference, check out InPrivate Browsing, a feature that allows you to browse without leaving a trace:
+http://windows.microsoft.com/en-GB/windows-vista/What-is-InPrivate-Browsing
+
+Cheers,
+Kyler
+IE8 Outreach Team

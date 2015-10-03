@@ -1,0 +1,13 @@
+What is a music website that will not be blocked at schools?
+
+
+What you need to do is go to a proxy site. A proxy site will allow you to enter any URL through another server and get to any website you wish. I suggest going to Google and searching "proxy sites"
+aol.com try a proxy ino most schools block proxys 2 but you can google at school and keep trying or type in your radio station and press listen live thats wat i do
+School computers are for school work only! Listening to music is not school work!
+www.grooveshark.com isn't blocked at my school,
+
+- those of you who are saying school is for learning, some lessons enable you to listen to music. i.e when you're revising or doing independent work.
+Set your browser to use proxy.cjb.net port 1080 as the SOCKS proxy. Leave the others blank.
+
+Here are the instructions: http://www.cjb.net/proxy.html
+This isn't the answer you are looking for, but when you are at school, it is time to work. Listening to music is probably not permitted.

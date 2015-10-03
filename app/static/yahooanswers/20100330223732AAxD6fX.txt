@@ -1,0 +1,9 @@
+how do i delete the history of things i typed on the computer?
+when im on myspace and i type in people i searched and then i delete the history the list still shows up how do i delete those names? i have a mac apple laptop.
+
+if you are talking about the Finder:
+?  then go to Recent Items then all the way down it says "Clear Menu"
+but i think you are talking about Internet so:
+Look for History in your browser and hit Reset, or delete each file one by one 
+in the same menu, if you are using Safari, go up to Safari in the menu, then Reset Safari, also Empty Cache... and you are done!
+Look, see, we don't know how you can delete names on My Space.. but if you're browser is Firefox, go to "History", "Show all History", find the day, week, or month when you went to "my space" cause there lot of options if you go to "show all history"

@@ -1,0 +1,9 @@
+Is there a way to take off advertisements?
+Like off web pagers? is there a way to block them? not the pop ups, but the ones on the page/site
+
+there is NO way to get rid of them.
+Get the browser called Firefox, then get the add-on called AddBlock.
+
+Mozilla.com
+YEs, adblock pro with Firefox.
+I think you mean the ads that flash across the page. I had the same problem as many do. If you use firefox there's an add on called Adblock plus and you also download the Filter subscription: EasyList (USA) which will kill these intrusive ads plus leave your normal flash usage unaffected.

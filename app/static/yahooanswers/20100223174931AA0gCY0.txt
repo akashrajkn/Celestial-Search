@@ -1,0 +1,4 @@
+firefox doesnt completer my download?
+i download a file and it download then it finishes but the full file is not downloaded.. lets say it 100mb it downloads but when i look at the downloaded file it says 75 mb. not 100
+
+It could just be a firefox thing, I had the same problem, then if i want to download something, I use internet explorer, but for regular browsing i use Firefox

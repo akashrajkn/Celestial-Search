@@ -1,0 +1,9 @@
+Internet on i-Touch isn't working?
+I have had my iTouch now for 3 months, and the internet has worked all three months. For some reason though, tonight it is saying it is connected, but is not working. Anyone know how to fix this? I've already restarted it, and reset al of the settings.
+
+contact your provider
+first off, its called an ipod touch, not itouch; there's no such thing as an itouch
+
+
+it may not be your ipod touch that is the problem; but your router.  unplug your router, wait 30 seconds, then plug it back in.
+Try resetting your wifi at the router. Mine frequently stops working, and resetting it lets me connect.

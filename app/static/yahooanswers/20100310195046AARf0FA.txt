@@ -1,0 +1,12 @@
+how to put pictures on ioffer!!!!?
+i cant figure out how to put a .jpeg picture as my description. ive seen another listing doing it but i cant figure it out. does someone know how? thanks
+
+1. You first have to create a photobucket account at photobucket.com. Its free.
+2. Upload the image to photobucket.com
+3. 'share' the image by copying and pasting the html code from photobucket into the html editor of your listing on ioffer.com
+
+There are other ways to do this, but this is how I do it because its easy
+if you have anymore questions just ask me: atl_angel000@sbcglobal.net
+
+or, send me a message at ioffer.com cuz im a seller: 
+MissV09.Ioffer.com

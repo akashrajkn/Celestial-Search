@@ -1,0 +1,4 @@
+which browser support html 5 perfectly?
+i had gone through all browsers and all of them works nicely on html 5 but i want to know which browser do perfectly in this field.
+
+none as of yet.  The closest you will find is Google Chrome

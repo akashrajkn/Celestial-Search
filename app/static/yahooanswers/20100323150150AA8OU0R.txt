@@ -1,0 +1,7 @@
+i would like to get internet on my tv i have wireless in my house but no wifi on the tv but i do have usb port?
+
+
+You cant really get wifi in your tv, do you mean hooking up your laptop so you can see it on your tv?
+Does your TV support networking? If it doesn't have a built-in Ethernet port or wireless capabilities, that's a definite no. That USB port is not like a computer's USB port. It is used with a special tool only to service the TV. If you have one of those brand new TVs that supports internet services (which isn't web browsing), it will have some way of establishing a network connection.
+
+Plus, do you expect special browsing software to magically appear on your TV? You can't somehow plug in a networking adapter to a television and expect it to "get internet."

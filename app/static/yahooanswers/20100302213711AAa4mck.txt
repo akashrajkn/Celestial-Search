@@ -1,0 +1,4 @@
+how do you make a computer run off of wifi with a wireless adapter usb port?
+i have a ubs adapter for my vista and it wont work and i would like some help with that
+
+usb wireless adapters normally have software that will get you connected easily. Install the software/drivers for that device.

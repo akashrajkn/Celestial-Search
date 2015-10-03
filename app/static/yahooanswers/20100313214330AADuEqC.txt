@@ -1,0 +1,5 @@
+can i use my verizon netbook to get internet on my laptop?
+i have a netbook from verizon and i want to know if there is a way that share the internet with my laptop
+
+Just share the computers with Bluetooth or a usb cord. I would just open your exsisting internet account on your laptop. Unless you dont have a wireless card on your laptop.
+yes there is, i cant remember where to find the software off hand, but it uses you netbooks verizon net, and turns on the wifi so other computers that have wifi can use it for net access

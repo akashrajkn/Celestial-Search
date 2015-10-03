@@ -1,0 +1,19 @@
+I accidentally hid my menu bar on my browser and now I can't figure out how to get it back.?
+I was going to hide some of my tabs but i accidentally clicked on menu bar instead of tool bars so now the bar that had file and tools and view is gone and i don't know how to get it back because normally I would have gone under view to do that. Can anyone please help? This is so frustrating!!
+
+Press F11.
+
+---
+If this solved your problem, don't forget to choose Best Answer!
+right click on a blank area where it used to be and select it again
+F11 possibly?
+Right click with the mouse on the browser and click menu bar and it will come back. 
+Hope i helped!
+right click on the tab.
+then check Menu Bar.
+Try this,
+Press  "alt " key on keyboard. This will bring up menu bar temporarily.
+click on view and select Menu bar.This step  is particularly helpful in respect of browsers other than Internet explorer.
+ha ha. I did the same thing. I even tried right clicking on an empty space next to the tab or on the tab itself but that didn't work. Then I clicked "alt" and it came back up so then I clicked 
+view> toolbar> menu-bar
+:D

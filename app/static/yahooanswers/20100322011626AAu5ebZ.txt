@@ -1,0 +1,6 @@
+Is my ISP watching me?
+Recently my torrent speeds have been really slow. I ran a few speed tests and the average speed was something like 1300kB/s. Regardless of how many seeds or peers I am connected to, it wont download faster than 30kB/s. Do you think my ISP is limiting my speed or am i just being paranoid?
+
+Depends on how many and what quality of seeders there are.  But yea, it is possible for them to be throttling it.  Some have started filtering out popular P2P protocols and limiting the traffic speed they allow on those file types.
+i have comcast internet, i was experiencing the same issue a while back. then a few days after that i got a lovely mail from comcast telling me that if i didnt cease and desist with uploading/downloading illegal torrents i would be canceled and turned in for pirating music and movies! WATCH YOURSELF!
+You need to change the default port your client uses and then use forced encryption. Google how to do this with what ever client you are using.

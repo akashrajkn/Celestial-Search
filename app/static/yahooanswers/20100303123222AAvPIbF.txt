@@ -1,0 +1,12 @@
+I live on a school and I believe that the school's broadband is somehow interfering with my broadband service.?
+I live on the site of a primary school and since I have moved here I have found that my internet runs very slowly, the download speed averages at around 15 kbps. I am unsure as to what is causing this but I believe that the school's network may somehow be interfering with my broadband service. I would like to know if there is any way of finding out whether this is correct and if so how would I go about solving this problem. Thanks in advance.
+
+Not everywhere will have the same broadband "speed" different locations will be further away from the supplier. If it is wireless then there may be many reasons to why it may be slow such as interference from objects or certain material in the walls. Possibly the school has certain types of walls with material preventing the communication.
+
+A company who handles broadband can say "Up to 20mb!" but that doesn't mean you will get 20mb, it depends where abouts you live. A company offered me 5mb where the advert says up to 20mb. It all depends on various types of things.
+
+I am currently with Virgin and am getting 10mb (i dont get 10mb/s i get around 200kb depending where i am downloading from) after a certain amount of data has been downloaded it will be "throttled" and i will recieve half the amount of bandwidth.
+
+Data needs to travel over many obstacles. It isn't just one calm straight line.
+
+You can always contact your broadband provider and ask them what they can do.

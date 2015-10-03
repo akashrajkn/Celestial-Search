@@ -1,0 +1,31 @@
+can anyone help in fixing internet explorer 8?
+so far nothing im trying is having much effect ,  the previous answers i found rather complicated. i'm a computer novice. 
+
+
+
+i downloaded a program called ' quero ' because i thought it might be a good ad blocker for internet explorer 8 , it was useless , so i uninstalled it - i then downloaded a program called '' Privoxy '' - because i heard it was an efficient adblocker , but it proved too difficult to use , i think its for advanced computer experts. - so i uninstalled this to.
+
+round about since i uninstalled these programs, i have noticed changes to the internet explo 8 browser .
+
+the go arrow buttons for '' forward '' and '' back '' have disappeared .
+
+the address bar has disappeared that shows the web page addresses .
+
+the google toolbar , has disappeared from my browser , and when i try to reinstall it , it says '' find '' or '' save '' - i save it to my desktop and then it asks me what program to open the google toolbar installer with ?
+
+and i dont know what to do there ?
+
+
+what should i do to resolve this problem ? im no comp expert .
+
+if i uninstall internet explorer 8 will that work ? 
+
+but what would happen to my '' favourites bar '' if i uninstalled internet explorer 8 ? because i have tons of pages saved in my favourites bar.
+
+
+can anyone help with these questions and help me to restore my internet explorer 8 browser ?
+
+thanks.
+
+Get Firefox instead
+Install Google Chrome.

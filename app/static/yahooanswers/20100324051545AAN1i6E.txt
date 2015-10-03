@@ -1,0 +1,21 @@
+Private blog that shows up on google, and seen when cached?
+I've got a private blogger blog, and being the worried person that I am, looked it up online and found it. If someone just clicks on the link, it says the blog is restricted and won't let them read it. But if someone clicks on the "cached" button underneath the link, it takes them to a cache of a page of my blog that they can read (but they can't click to see more entries)
+
+I don't put full names, and I doubt anyone would even be able to get a specific phrase from my blog to find it in a search, but I still find it creepy. Any way to stop this?
+
+You might want to use a robots.txt file. 
+
+It doesn't always work, but it's pretty effective in most cases.
+
+Read this.
+
+http://en.wikipedia.org/wiki/Robots_exclusion_standard
+cached files are local to your machine. If your blog is private then no one can access it, unless you open it on another machine then it would be cached there too, best thing is to clear all cached files before moving on, but if it's you personal computer then you are the only one who has access to it unless you let someone else use your computer then you have a problem with cache files.
+
+I hope this helps,
+
+http://prodigalconcepts.com/
+If you want to hide the "Cached" link on search results pages for your website(s)then Put this code into the <head> tag of your website: <meta name="robots" content="noarchive"> If you just want to hide the "Cached" link on Google but not on other search engines, use this code: <meta name="googlebot" cont...ent="noarchive">
+
+Jason
+http://autocarloans.net

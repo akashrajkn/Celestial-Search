@@ -1,0 +1,7 @@
+Is there a way to go to desktop from full screen view of firefox?
+Like an addon by which by clicking twice or thrice any key we would go to desktop as there is no minimize key in fullscreen
+
+no
+Just move your cursor up to the top of the screen in full screen mode and the minimize button appears
+Yes, there is.  Press and hold "Alt+tab".  Continue to press tab until "Desktop" is selected.
+If you're on windows hold the windows key and hit M. This will minimize all windows and show the desktop.

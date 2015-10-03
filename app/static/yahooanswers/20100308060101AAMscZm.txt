@@ -1,0 +1,45 @@
+How do you use another internet browser?
+I just asked this question - http://answers.yahoo.com/question/index;_ylt=AqroyFNwVpSipUU3Xe1rRjbsy6IX;_ylv=3?qid=20100308054323AAec9mG
+
+One person told me I could use a different internet browers (like firefox).  How do I get another internet browser on the computer so I can use it?  
+
+Sorry for the dumb questions, I'm not really computer savvy.
+I can't get online to download any of these though....... My web browser won't stay open long enough for me to download it.
+
+Download and install it.
+go to site   firefox.com download that browser & install it in yr PC.... u can even download googlecrome browser... it a nice one
+Here ya go mama:
+http://www.mozilla.com/en-US/firefox/ie.html
+1. first, make sure you have administrative right.
+2. if you have, download firefox and install it. also go to adobe's website and download flash for firefox and install it.
+3. if you do not have administrative right, you can still install firefox(it bypasses this unlike other free browser), but you need to go to the following link to download flash.
+
+http://www.varesano.net/blog/fabio/installing+flash+player+plugin+firefox+without+having+administrator+access+or+premissions
+Uou just download the browser and then install it. Then you simply start that one instead of Internet Explorer.
+
+Here are links to Firefox, Opera and Chrome, feel free to try them all and maybe you will like one of them. My personal recommendation would be Firefox because of its powerful add-on support and Chrome for its speed
+
+Firefox - http://bstdownload.com/reviews/firefox-3/
+
+Chrome - http://bstdownload.com/reviews/google-chrome-4/
+Go to 
+
+http://www.mozilla.org/
+
+and follow the instruction to download the latest version of Firefox. On the site you can also take a tour of Firefox and see how to use it.
+
+Once that's done, when you want to go online just use the Firefox icon on your desktop to launch it.
+
+There's other browsers available such as Google Chrome and Safari. To use these just google them and download from their websites.
+In case you want Firefox in a different language to USA English. - Like Irish maybe, or Welsh, or even 'Real' (UK) English? :-)
+
+http://www.mozilla.com/en-US/firefox/all.html
+Ok, all those are great ideas...but if she can't get onto the internet because her only brower IE isn't working, there is no way she can download another program if she can't get to the internet!!
+
+Sounds silly, but shut your computer down and leave it totally off for a few minutes, then reboot and see if that fixed it.   Sometimes our internet connection messes up, and does what your browser did and rebooting seems to fix it.
+
+If that doesn't work, run your anti-virus program to see if you have some sort of virus or bug.
+
+If neither of those work, and you still can't get on to the internet, I don't know!
+
+Hopefully something works!

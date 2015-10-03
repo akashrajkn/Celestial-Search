@@ -1,0 +1,16 @@
+My internet explorer #8 says not responding way too much.?
+so i switch to firefox but it is doing the same thing.also with explore 8 or firefox my computer Response is too slow (i have 5 gb of ram) 
+my main concern is i have a virus but i ran both window defender and my mcafee and both say no virus.
+Now im thinking it could be my dsl ?Does anybody have an idea what can be causing it ?
+thank you
+
+I was going to suggest F/fox but you're using it.  Have you 'defragged' yr hard drive lately?
+
+Do a clean up of all unnecessary temp files, downloaded files & history.   5Gb Ram is heaps I'm only using 1 GB Ram with my old XP D/T & 2 Gb Ram with Win 7 & not having any probs.  Are you sure Mcafee isn't taking up too many resources?
+
+Change some of yr start up programs too (not everything needs to boot on start up).  If you've tried all of that then perhaps check with yr ISP.  Sometimes mine (wireless dongle) runs a little slow (due to weather conditions in Aust.)  
+
+Have you tried ccleaner, or malwarebytes or spybot search & destroy (all free fr filehippo.com) - might be worth downloading just to check once & if you don't find anything remove. 
+
+ I use a full internet security suite not just anti-virus, hope I've given you a couple of ideas.    Good luck
+Doenload, update, run Malwarebytes, Hitman Pro, ccleaner, Reset IE8 to Defaults in Options, Advanced and restart PC...You can also reset router or unplug it for 10 sec and plug it back in, if the other does not help...

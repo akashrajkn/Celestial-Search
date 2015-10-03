@@ -1,0 +1,9 @@
+does mobile network has any affect on wireless broadband  connection?
+here there is very poor network of reliance so will it have any effect on reliance net connect
+actually inside my home there is no network i cant make calls or sms i have to go outside
+so plz tell me will my net connect work properly
+thanks
+
+Those are two different frequencies, so one should not affect the other.
+No it will not have an effect if you are using a good router.
+Mobile Network and Wireless Network does not depend on each other. But If you use the devices which uses the mobile network tower. Then it will be a problem.

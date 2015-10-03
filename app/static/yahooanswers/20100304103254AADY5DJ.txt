@@ -1,0 +1,30 @@
+What's a good ad blocker program that works on deviantart and myspace?
+I'd be willing to pay if it's decent.
+I already have AdBlock Plus for Firefox, but it's not working on deviantart
+
+Here is what you want to do:
+1. Install Firefox browser:
+http://www.mozilla.com/en-US/firefox/personal.html
+2. Install adblock plus(open link in firefox):
+https://addons.mozilla.org/en-US/firefox/addon/1865
+3. select easylist and then ok.
+
+Done, 99% ads gone and for free
+
+
+Please select the best answer, kinda sucks to give a good answer and have it go to a vote where people just end up voting for themselves.
+-----------------------------------------------------------------------------------
+
+Works just fine for me, do you have the latest update?
+Also are you talking about the page they send you to when you have viewed a few pages? You can't get around being sent to that page. It would normally have a big advertisement on it but ad block plus does block that.
+
+Also adblock plus removes the advertisement from the top of the page.  (i have tested it on deviant art)
+
+You can also go into your addons menu, go to the options of adblock plus and then go to filters and then go update all subscriptions
+
+Do you have Deviant art under the "My exception rules"?
+
+What lists are you subscribed to?
+
+
+I can assure you that it does work on that site and there must be a problem with your configuration. If all else fails try uninstalling and reinstalling adblock.

@@ -1,0 +1,6 @@
+Major kindle readability problem!!!!!! All geeks are invited.?
+Ok, i have like tons of ebooks and most of them are above 50mb all in pdf. And when i upload these files into kindle through my computer using usb cable, it shows some of the files. Like 5 out of 10. Second the font size is too small, and the option that allows you to change size of font isn't appearing gray for my uploaded book. I found out that many pdf files need to be converted to kindle pdf but you need to email those files as attachment. The problem, you can't email file big as 50mb. and even if you do you need whole day for 200mb equivalent size files to upload and then download them.
+
+So how can i read my ebooks on kindle, in a readable size, and not send amazon all big bulky files.
+
+Try calibre. You can dowload it for free and convert them to the appropriate files pretty easily. Its what we use for all my husbands work documents and he can read them on his kindle just fine once they're converted.

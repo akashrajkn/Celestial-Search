@@ -1,0 +1,26 @@
+My Firefox is running really slow, and i can't see drop boxes. Ex: file, edit, history, bookmark.?
+so the explorer on my computer works, like files and programs, but fire ox is just super slow, and i cant even see the options when i right click... idk whats going on. my guess is a virus, or spyware =[
+
+i use windows 7, and a Toshiba laptop. Thanks
+
+give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine "experts" say is impossible
+Most computers actually run slow because of a hidden part of your system, which is constantly being used by Windows. This part of your PC is called the "registry" and is the central database for Windows, which stores everything from your latest emails to your desktop wallpaper. It's one of the most important parts of Windows and can easily make your PC run slow.The more corrupt registry files your computer has, the more it struggles to read them.The files which makes it run slower and slower. To fix this, you simply need to use a registry cleaner http://computer-e-book-money.com/     . These are small software tools which actually work by scanning through the registry and fixing any bad files that are in there. This then allows Windows to read as many files as it wants, when it wants to.
+If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://registry.tpdownload.com/Slow_PC
+For running slow there are many causes:
+Microsoft Registry Problems
+RAM
+De-Fragmenting
+Etc. 
+
+Clean windows registry can speed up the computer.
+Registry Cleaner can fix your pc errors.
+Over time, you install new programs, uninstalled unimportant programs, update software's, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://registry-computer-cleaner.com

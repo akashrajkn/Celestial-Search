@@ -1,0 +1,5 @@
+I hit the F7 button by mistake?
+I hit the F7 button and now my Internet screen is bigger. How do I fix this? Hitting F7 again doesn't work.
+
+Try hitting F11
+It would help to know what browser you're using and on what operating system (e.g., "Firefox 3 on Windows Vista)

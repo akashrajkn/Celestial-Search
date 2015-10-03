@@ -1,0 +1,10 @@
+cant find files i downloaded with firefox?
+i have mozilla firefox i downloaded a movie  and they always go to firefox download after they are finish downloading i dont know were they go 
+does anybosy have any idea were they might go
+sorry everybody
+i dont need help anymore 
+i found them
+
+Search your entire harddrive for the file using search function in your pc. U should have used a downlaod manager when downlaoding a huge file like Flashget, etc. XD
+Open firefox downloads manager: Tools->Download or use Ctrl + J.
+right click your downloaded file, select Open Containing Folder.

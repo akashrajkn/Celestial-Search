@@ -1,0 +1,9 @@
+Is microsoft security essentials a complete anti virus? do i need any other software to download also?
+I want to know about the antivirus, malware, firewall and spyware. What  r their functions? Is ms security essentials a good av, does it protect from all these or i need to install any additional protection if yes which one & where from (FREE). How long it will protect my PC. I have got my new dell inspiron 15 PC, PLEASE let me know if i need to download any softwares or programmes? THANKS
+
+Yes : http://www.malwarebytes.org/
+No. its not a complete anti-virus.
+It only provides support for malware detection and removal and lacks centralized management features.
+
+It includes the same anti-malware engine and virus definitions that all other Microsoft desktop antimalware products share, including Forefront Client Security, Windows Live OneCare, and Windows Defender (Defender excludes the antivirus definitions which are separate from the antispyware definitions).
+Yes microsoft security essentials is a complete anti virus and i am also using the same and has'nt created any problems till now, so don't worry and use it bindass.........

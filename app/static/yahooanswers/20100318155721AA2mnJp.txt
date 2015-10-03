@@ -1,0 +1,21 @@
+How to remove a Virus blocked by AVG?
+hi there. i have AVG 8 year version.i downloaded some files which contained trojans.AVG told me about the trojans.i moved them to vault.then i deleted those files which had trojans.then i scanned the whole computer and there were no virus.the next day,a online shield alert started coming from AVG that a threat was blocked!The information was:
+File name:91.212.226.33/sc.exe
+Threat name:trojan horse BackDoor.Generic9.BBYX.dropper
+then when i clicked Show detalis.it showed:
+Process name:C:\Windows\system32\svchost.exe
+Process ID:1924
+after every 1 or 2 minutes.it shows me this error.i am very angry of this error.i want to get rid of it.is there any way i can remove this error or virus?please help me.please.thanks in advance.good answers gets best answer.
+
+Dont remove it manually..that is ur computer hardcore (main setting)
+download the files from here
+
+Come to http://everythingius.webs.com/home.htm
+and follow steps and sign up in the website for thx
+
+It works on viruses too
+This doesn't sound like an AVG error, but you may have something the AVG is not picking up.  Try downloading from superantispyware.com
+It has helped me when AVG has failed.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

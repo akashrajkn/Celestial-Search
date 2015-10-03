@@ -1,0 +1,22 @@
+Browser doesn't load (5mins broken-5 mins works-...) while I do have internet connection?
+I'm having this problem for a pretty long time now. Any browser I try can't load any pages during some time (usually +-5 min). After that it runs fine for about 5 mins and then stops loading any new page for another period of +-5 min, this cycle keeps repeating.
+
+I do have internet connections in the moments the browsers are not working (I can talk to people on msn messenger etc).
+
+Anyone got any idea on how to solve this?
+
+tried these browsers (all are running and down at same periods of time): IE, firefox, chrome, cometbird
+
+its not my overall speed thats bad, its periods it doesnt work at all and periods it works really good
+
+check to ensure your computer is not infected with any type of browser malware, try something like malwarebytes
+it's ur connection. You probably don't have high speed internet that's why it is taking that long to load. If you are under a router then maybe it is because your. Router is too far from your computer.
+Go to your command prompt(type cmd in Run) and type    ping  4.2.2.4
+if the server respond you in sensible time( FOR EXAMPLE 254ms), you internet connection work properly.
+
+get in touch with me . my email is eh_aminian@yahoo.com
+I'd try an IP release first or try flushing your DNS.
+
+I'd then try resetting my router completely. You can do this by pushing in the little button on the back and holding it in for 10-30 seconds.
+
+I was going to say try clearing the cache, but I don't think that'd fix the issue. However, might as well to get all the old pages out.

@@ -1,0 +1,4 @@
+"Firefox is already running, but not responding"?
+When I try to open Firefox but a message pops up & says "Firefox is already running, but not responding" i've tried restarting my computer but it didn't work. I've also tried going to the task manager but firefox wasn't listed there. I also tried to unistall it but it's not listed their either! Help!
+
+I googled that quoted string and found this article:

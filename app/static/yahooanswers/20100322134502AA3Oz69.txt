@@ -1,0 +1,19 @@
+How to get Firefox's address bar to show up again?
+My little sister came into my room when I wasn't looking and screwed with the keyboard; leading to Firefox looking a bit plainer than usual with the result of a missing address bar and no toolbars.  Help?
+
+There should be a "oval-looking" button in the right corner of the window. Click it. :)
+Try F11 I believe that key will bring back the toolbars.
+hit the F11 key
+put the mouse pointer on top and right click uncheck hide tool bar
+Is it in full screen mode? Try pressing escape, Ctrl Alt Delete (if in Windows), or F11.
+Go to the top of you Firefox Browser and right Click it. Check on the menu bar and the Navigation bar.
+This should get it back to where you were.
+Press Alt and F at the same time to open the File menu. Move your mouse over to View then Toolbars then Navigation.
+
+Choose Navigation and it should reappear.
+Hold down the {ALT} key ({Cmd} key in OSX) and press the following letters in this exact order: V T M 
+The Menu Bar should now be displayed permanently, unless you turn it off again (View > Toolbars). Turning the Menu Bar on and off is a new feature in version 3.6. 
+See other bars under View > Toolbars. Click on one of them will place a check mark (display) or remove the check mark (not displayed). 
+To display the Status Bar, View, then click Status bar to place a check mark (display) or remove the check mark (not displayed).
+
+hope it helped !

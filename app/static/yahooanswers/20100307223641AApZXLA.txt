@@ -1,0 +1,5 @@
+Why do none of my browsers work except firefox?
+I have IE, Chrome, and Safari and none of them work. They all say that they can't load the page. Same thing with apps like Yahoo. The only thing that works is Firefox. I thought it might be a virus, but I've scanned (with trial version of Norton) and found nothing. I've also tried to install SpyBot but it won't install without connecting to the internet. Any ideas as to what's going on and how to fix it?
+
+Your computer does not have Internet access. It only has web access, and that only through a proxy. Firefox is configured to use the proxy and the other applications aren't.
+it's not virous because i had the same problem. i think somewhere in the internet option it says proxy server and i think it's enabled so you can't use it. just go to internet option and then connections and lan setting and where it says use a proxy server for your lan jus unmark it. nd there you go.

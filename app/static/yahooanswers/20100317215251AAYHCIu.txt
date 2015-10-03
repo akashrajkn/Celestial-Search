@@ -1,0 +1,79 @@
+does anybody know of a good free web hosting sites?
+Does anybody know of any free web hosting sites?
+
+I'm looking for one that allows you to have your domain like this: yourdomainhere.com 
+It's fine if it has ads.
+It needs to be "bloggish"
+
+If your looking for a site with just your domain, like yourdomainhere.com, and no .com/web for example, you will most likely have to pay.
+I know you said free and I hope you don't mind me saying, but I personally would just use a site like http://order.1and1.com that just charges $4 per month. It's a lot better than all the crap you have to go through with a free hosting service. If you want a free one, I'd just tell you to google "free web hosting" but most of the sites you get will probably be cluttered and won't allow you to use some features.
+
+If you do end up using the free one, go to this website:
+http://www.dot.tk/en/index.html?lang=en
+If it still works like it used to it should let you change your website's index page to "www.___.tk" or something close to it.
+http://hostbd.tk
+i dont know any free ones, but for very little money you can host your domain as you like it to appear. check out www.hosting-picks.com, its pretty affordable.
+If you are just wanting to set up a personal blog I can recommend either google blogger or Wordpress they both run free hosting accounts for your blog. It really depends on whether you are looking to monetize your blog or not, if you are wanting to make money with your blog you do really do need to have a paid hosting account but these are really cheap these days.
+really this is a best hosting 
+
+unlimited bandwidth
+unlimited disk space
+and more
+and just 1,99$/month
+
+the site in the recourse
+Hi,
+Don't go for free web hosting.They are not reliable....
+
+I would recommend "Web Hosting Pad" for your Web Hosting because it's cheap and very reliable.With their web hosting package, you'll get free domain. Their support service is awesome. This company offers site building tools, application vault, web mail, antivirus, Php, MysQL ,e-commerce and hosts unlimited websites in one plan.Check out personal reviews direct from the users here :
+
+http://top50webhosting.org
+I'd use the 1 click Word Press install offered by Just Host - you will need to pay for hosting unfortunately but it is very reasonable at $3.45 pm
+You must pay for it. Free services offer a sub-domain, not a real domain name. This means your site address will be something like  http://yoursite.freewebs.com, not www.yoursite.com. This way your website doesn¡¯t look professional. On the other hand, there are some limitations with free web hosting services. In a word, if you want to have a serious presence on the web, you must pay for it. I recommend get a reliable company to do that in return for a few dollars.
+
+As you may know a domain name is just a name, not a real website/weblog. If you are going to create your blog website: 1- Buy a domain name. A domain name is a name you want to call your website (ex: www.yahoo.com).  To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your blog online at your purchased domain name.
+
+If you¡¯re going to start your blog at your own domain with different pages, you need a web host providing wordpress.
+
+Take a look at:
+http://www.threehosts.com/blog
+There you can reach the three reputable companies that are leaders in the blog/wordpress website hosting industry.
+
+Another useful link:
+http://www.threehosts.com/build
+There you can find a step-by-step guide to start your website.
+
+Hope this helps.
+Sounds like you need a blog with your own domain.
+
+You need to:
+1. Register a domain name. Go to http://webdomainregistration.org and select one that suits you. They cost about $10.
+
+2. Get a free account at Hostgator. This is the best web hosting company and most people would agree. To get free account, go to: http://freehostingsites.org/hostgator
+
+3. Install Wordpress using one-click installer in Hostgator's cPanel.
+
+Good luck.
+If you like to create websites (usually you will end up more than 1 website, I got more than 100 websites in about 6 months' time), go for multiple web hosting services where you could host all your websites in one account.
+
+I would like to suggest following webhosting which I use, they are excellent.
+
+Hostmonster http://www.hostmonster.com/track/ryukenden/
+
+They offer hosting of "unlimited domains" and you will get massive webspace of 1500000 MB (1500 GB ). They only charge $5.95/month and they offer "a free Domain Name" and installing service called "Fantastico". By using Fantastico, you could create own forum, photo gallery, shopping cart (e-commerce),your own auction site and your own blogs within few seconds. They also offer "Free Website Builder" as well.
+Visit the site to check details.
+
+Hostmonster http://www.hostmonster.com/track/ryukenden/
+
+
+More the list of BEST WEB HOSTING sites visit
+
+http://www.nicewebhosts.com
+I think this information can be useful for you. If you plan to get your website, here is one good free web hosting provider to choose - 000webhost.com
+
+They provide hosting absolutely free, there is no catch. You get 1500 MB of disk space and 100 GB bandwidth. They also have cPanel control panel which is amazing and easy to use website builder. Moreover, there is no any kind of advertising on your pages.
+
+You can register here: http://www.000webhost.com/234571.html
+http://liberty.buyhostnow.com no adds
+wetpaint. google it.
+Thanks

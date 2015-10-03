@@ -1,0 +1,7 @@
+Wireless Internet keeps dropping?
+Recently my wireless internet connection randomly drops then reconnects a few seconds to a minute later.  Its a 2wire router, and the internet drops on my laptop and on my PS3.  I've had this wireless internet for a few years now, and this problem did happen until recently. Anyone know what i can do to fix this?
+
+I think you should call the company where you bought the router from and see if they have recalls on it. and what could be wrong with it. that is your best bet.
+Try resetting your modem and router. I also included a guide to common internet problems in the source which you can check out.
+pull the power cord from router and there is reset button . press that reset button with pin for 30 seconds and restart again............i hope this works
+contact your isp ( internet service provider) and ask them to do a line test they can do it over the phone. If they tell you everything is ok try to get hold of a friends router you can test.

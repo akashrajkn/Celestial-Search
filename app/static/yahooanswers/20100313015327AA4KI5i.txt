@@ -1,0 +1,20 @@
+How does China's internet filter work?
+I was curious as to how China's internet filter works.  I know that some internet filters work by having a list of existing sites that are blocked, but I was told by someone that in China, all websites needed to be aproved before they can be accessed.  Is this true?
+
+Thanks.
+
+I decided to do a bit of research on this question, and found a couple of sites with significant information on the issue. China is creating a whitelist of 'registered' websites, and will probably eventually start blocking all but these websites ( according to http://surlz.net/7 ). Currently, however, China maintains a secret blacklist of websites they do not like, containing explicit images, politically sensitive topics, and other information they don't want their citizens to see. These websites are then filtered down at the DNS level. China's schools and internet cafes are also required to run "Green Dam Youth Escort" on their computers, which also blocks websites the government doesn't want citizens to see. ( http://surlz.net/8 ) I shortened the links of some reference websites about the filter for you :)
+
+EDIT: And a star for an interesting question :)
+There's no whitelist, and they're not creating one. The previous poster is mixing up websites in general with domain names under the .CN top-level domain.
+
+For websites in general:
+- Default is: allow.
+- Some websites/ISP's are blocked on IP address level.
+- Some websites are blocked in the DNS, meaning when you type twitter.com you don't get a twitter IP address, but some dead server which doesn't respond.
+- Some websites are keyword filtered. Meaning that you can access the website but that pages containing certain words are blocked.
+
+For websites under the .CN domain:
+- These are currently being white-listed. This is not a new development though. Websites *hosted* in China have always required and so-called "ICP" license. They are now extending this license requirement to any domain under .CN. Actually this requirement was always there, but never enforced.
+- You can still host a website in China without an ICP license, but technically it's illegal and when you're shut down you have no legal recourse.
+- Foreign domain names/websites will still be allowed by default and only blocked if objectionable content is found.

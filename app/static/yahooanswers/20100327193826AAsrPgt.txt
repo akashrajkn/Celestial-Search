@@ -1,0 +1,5 @@
+What does hideme.in do?
+does it literally hide everything you do from the computer, never to be found out?
+Or does it just let you on blocked stuff?
+
+It let's you on blocked sites if you are being filtered.  Your browsing history will only show visits to that site, which is basically an administration to guilt.  The bad thing is you are going through someones server to browse the web, which means they can capture passwords,etc you enter while you are using it.

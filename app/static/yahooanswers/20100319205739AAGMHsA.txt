@@ -1,0 +1,12 @@
+Slow download speed with Firefox?
+For the past couple weeks my downloads have been taking absolutely ages with Firefox. It's taking up to 2 and a half hours to download software and albums which used to take 20 minutes at the most a few months ago. I do regular registry checks and things like that, plus my internet itself is really quite fast. Does anybody know what could be causing the slow download speed?
+
+thats been happening with me too. The updates are screwed up
+Try Google Chrome
+Could be a number of reasons, mainly I would have thought that your broadband provider are upgrading their systems which seems to be happening a lot just lately especially if your using ADSL and the BT phone network.
+
+Damage has been done to the system and you are being routed through different exchanges and servers.
+
+If your phone line has developed line noise that will also drag your speed down. Ask for a line test.
+
+Also check your providers service status which is usually on their home page.

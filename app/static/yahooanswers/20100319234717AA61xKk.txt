@@ -1,0 +1,41 @@
+Is this site offline for you?
+I already asked this question 1 hour ago, but it appears to not be working again. 
+http://gamingrant.com/
+I tried updating the site, and for some reason it is offline.. again. 
+Does it work for you?
+My host is Yahoo, and they shouldn't be messing up, should they? 
+I mean, they should be reliable, so it has to be something I did, right? 
+Last time I asked this question it magically started working again, lol..  That is why I did it again, hoping it might start working.
+@Tony: 
+Thanks for including a link to my other question..
+
+Yep, it's timing out.
+
+Call your host and chew them out.
+Yes it is offline dude ! (im in mexico)
+it wont let me open it D:
+No, when you work offline it means you don't have a good online connection. And mine always works which is odd
+Yes, it is offline
+site is loading extremely slowly and then quits. I only get a partial load. my browser shows only a blank page. the source shows only this much loaded:
+
+<!--$sitebuilder version="2.6" extra="Java(1.6.0_18)" md5="499efd5781de15d992c1c2a625be3f58"$-->
+<!--$templateKey Blank||1.0.0$-->
+<html>
+  <head>
+    <title>GamingRant</title>
+    <meta name="generator" content="Yahoo! SiteBuilder/2.6/1.6.0_18">
+    <meta name="author" content="GamingRant.com">
+    <meta name="description" content="What is better - Xbox 360, PlayStation 3 or PC for gaming?  Rant about what you like more, and what you hate!  The ultimate fanboy battle has begun, who will win?">
+    <meta name="keywords" content="Gaming, Rant, Fanboy, Game, PC, Computer, Xbox, X, 360, X360, PlayStation, 3, PS3, PS, Live, win">
+    <!--$page size 1351, 3000$-->
+    <!--$page margin 0, 0, 20, 0$-->
+    <!--$fontFamily Arial$-->
+    <!--$fontSize 14$-->
+    <style type="text/css"><!--
+
+
+
+And here is Google's cache of the site from 21 February:
+http://74.125.47.132/search?q=cache:Qf87whrtvs8J:gamingrant.com/+gamingrant.com&cd=1&hl=en&ct=clnk&gl=us
+Yes. It doesn't even load!
+No

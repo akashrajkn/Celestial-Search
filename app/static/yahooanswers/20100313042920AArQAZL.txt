@@ -1,0 +1,11 @@
+Cannot access ubisoft.com or any other ubi sites?
+for some reason i cant access ubi sites and even if i do if i click anything it says page cannot be displayed on almost everything i click even forums. wtf's wrong? tried internet explorer, firefox and safari, it wont open in any
+
+It looks like there is a redirect on that page that is broken.
+
+Try www.ubi.com/enca/ instead
+
+If you still have problems, it's likely that pirates are maliciously attacking ubi servers due to the unpopular decision to make new games unplayable unless you have a good online connection with their servers.
+Try using a proxy server,  and do the click things again .
+see if the error pups up again.
+if it doesn't then there is something wrong about your internet ip address location, service or etc.

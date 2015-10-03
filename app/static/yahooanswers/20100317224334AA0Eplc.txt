@@ -1,0 +1,11 @@
+mozilla firefox question?
+i removed my search bar and another bar by accident all i have now is my bookmarks i need to put both toolbars back up how can i do that?
+i tried both answers none work
+oh yean and where it says menu view and all that is gone 2 may i suggest you remove your toolbars and find a solution then tell me =]
+
+put the curser in the position where the toolbars were >right click  >tick something
+click on VIEW
+
+hover and click on TOOLBARS
+
+put a checkmark on Menu, Navigation or Bookmarks. Or whichever one you want.

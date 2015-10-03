@@ -1,0 +1,31 @@
+itunes cannot connect,neither can msn or avg or anything!?
+every time i try to download itunes or avg or msn or lime wire etc i get  message telling me i have no internet connection, which i obviously have as i can access everything else online i just cant download anything. i have tried doing a system reset, tried disabling the firewall in my laptop and my router, tried clearing the cache tried everything.
+please can someone tell me what to do to fix this. im running vista business, on a toshiba pro Satellite laptop with a virgin modem and netgear router. on broadband.
+i have been trying to fix this for 6 months!
+hi thanks. ihave tried all those previously and they dont work, and as for firefox, i cant download it as i get the not connected to the internet message!
+
+Hi,
+so this has been happening for the last 6 months ??
+
+please check this :-
+your systems firewall settings
+your admin rights (you are an admin on your system)
+your routers firewall settings
+
+what else !!!!
+
+also scan your system with malwarebytes for mailware
+http://malwarebytes.org/
+
+install firefox and use that to download (look in the update box if it blocks the download)
+are you on an Internal internet system which you have limited rights (works system)
+
+hope this all helps you if you
+
+update :-
+use a friends system to download firefox (use filehippo site) onto a USB flash drive then install it from the flash drive back onto your system
+now when you download a file etc
+look at the bottom left corner status bar
+and find out WHY you are blocked
+
+hope this helps again

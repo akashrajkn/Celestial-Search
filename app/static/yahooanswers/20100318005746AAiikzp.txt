@@ -1,0 +1,8 @@
+Skype help! It thinks im already signed in!?
+Skype wont let me log in, as it says that im already logged on, on that computer. how can i fix this?
+Thanks!
+
+only thing i can think of is have you tried the task manager? maybe you have skype open twice
+
+or if there is more than one user account on your computer? is it possible you are signed in on the other user account?
+Restart your computer

@@ -1,0 +1,8 @@
+when you send money through paypal or xoom, will your full name and address appear to the recipient?
+I want to send money to a person but I don't want him to know my complete name or address.
+
+Will it be visible to the recipient?
+
+Yes.
+
+They'll be able to see your name, and your address if you have sent the payment for "goods".

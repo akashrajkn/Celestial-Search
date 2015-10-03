@@ -1,0 +1,51 @@
+Internet Explorer Vs Safari?
+My computer has both Internet Exploror and Safari, Im just curios to know whats the difference?
+I know Safari is run by Apple
+and there internet is run by ....... well i dont know but not apple.
+So Whats better/faster/easier and is there even any difference between them?
+
+If you have a Mac, definitely use Safari. 
+And if you use a PC, I would recommend Moxilla Firefox. Safari doesn't work as good on PC's as Macs, but you could still use it if you like it. 
+Internet Explorer goes so much slower in my opinion to Firefox or Safari, so don't use that either way.
+Firefox is completely safe, even my schools use it. Its so much faster than Internet Explorer and it's free.
+Internet Explorer:
+* slow
+* crashy
+* doesn't follow standards.
+* is by Microsoft
+
+Safari:
+* not particularly fast
+* does not have addons or themes
+* follows *most* standards (but not some mathematical ones)
+* is open source.
+* is by Apple
+
+Firefox:
+* not particularly fast
+* has addons and themes
+* follows almost all standards
+* is open source.
+* is by Mozilla
+
+Google Chrome: 
+* blazingly fast
+* has addons and themes
+* follows the same standards as Safari and uses the same rendering engine
+* is by Google
+
+Opera:
+* is UNBELIEVABLE fast on a Mac
+* has a meh interface
+* follows standards really well
+* doesn't have addons
+* is by Opera
+
+All in all, I'd vote for Google Chrome.
+Internet Explorer and Safari are examples of what are called Internet Browsers, which basically show the website that you visit through your Internet Connection. Some are faster than others at rendering pages, and others offer more security, as well as additional add-on features such as those found in the recommended Mozilla Firefox. Safari is very good on Mac's as has been said, but for pc I'd personally recommend Google Chrome.
+
+If you're after an easier, simpler and quicker experience than the rather sluggish Internet Explorer, any of the other browsers will do. Google Chrome has been proven to be one of the quickest browsers out there, and it is very simple to use. It is supposed to be a simple browser - it does not include as many additional features as say other browsers like Opera and Firefox, but offers a really easy experience for those who literally only want to view the web.
+
+At the end of the day, any of the big browsers (such as Internet Explorer, Safari, Chrome, Firefox, Opera etc.) are all going to open up most of the web pages successfully, because the people who make web pages have designed them to make sure they 'work'. What browser you choose is a personal preference, but I would recommend Chrome if you want an easy time.
+
+Out of Safari and Internet Explorer, I'd say Safari would be the better browser to use as it is in general a lot quicker and renders pages better. If you are willing to download another browser, give Chrome a go, its easy enough to do :) http://www.google.co.uk/chrome

@@ -1,0 +1,17 @@
+Why would you use BIT.LY instead of TINYURL?
+
+
+i guess it really doesn't matter.
+both of them offer the same features, making long URLs short, they both offer custom addresses, they both work fine in my opinion.
+i personally use Tinyurl, its one of my most visited sites (according to Firefox) and both sites are very useful for Twitter.
+Making short link
+Does it matter? Whatever site will get the job done.
+
+
+
+Cheers
+That would be a tough answer. Bit.ly has a tracking system, but tinyurl has a custom link tool. So you can change tinyurl.com/29388fh9 to -----> tinyurl.com/exampleforyou
+
+The cruddy thing is they don't permanently HIDE the link. They disguise it but then when they click it it shows the actual website link. In my opinion it doesn't matter.  
+
+I will have some even better ones below, go check it out.

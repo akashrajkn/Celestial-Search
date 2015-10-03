@@ -1,0 +1,7 @@
+Is it possible to host a piece of text on the internet quickly and easily without signing up to anything?
+i want to post a link on someones wall on facebook to a long conversation i've wirtten but it wont fi ton there. Are there any website which allow you to just copy text onto it and then you can just send people the link?
+
+http://paste-it.net/
+
+Type/ copy your conversation into the large text-area, give any name for the username and then give it a subject. Press the paste button and then it will give you a URL you can copy into facebook.
+http://www.oldversion.com/Mozilla-Firefox.html

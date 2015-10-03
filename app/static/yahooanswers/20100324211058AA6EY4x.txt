@@ -1,0 +1,10 @@
+can downloads still be tracked even if its not from a torrent?
+for example megaupload or sites like that
+
+Your ISP knows. 
+~
+Yes, ISP can do that.
+Although ISP normally don't bother monitoring user internet use unless they find something suspicious or are forced by some watchdog group looking for pirates..
+You can reroute ur traffic thru Identity protector websites like www.ctunnel.com, www.anonymouse.com.
+
+Instead of urs, their IPs will be visible.

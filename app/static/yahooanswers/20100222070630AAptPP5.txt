@@ -1,0 +1,7 @@
+How do you apply the z-index property to iFrames?
+
+
+It ll be a long answer so i ll direct you to what helped me... kindly visit http://support.microsoft.com/kb/177378 ... it is explained with example how it is applied and its behaviour in different IE versions
+Avoid it if you can... I spent days at my last job trying to get this to work in older browsers. If you absolutely have to I found it works better if you give z-indexes to all the parents of the element you want to give the z-index too as well.  good luck!
+
+If you are using it to pop up some sort of window with an iframe in it there are jQuery plugins like fancybox and stuff like that, they will work in other browsers, just google jquery lightbox.

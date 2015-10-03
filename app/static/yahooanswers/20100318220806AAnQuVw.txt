@@ -1,0 +1,10 @@
+stagevu and divx videos don't work? but other videos load fast?
+whenever i try to watch movies on stagevu and divx links, the video buffers ridiculously slow. It takes about 30 minutes to load 1%. but when I load movies on other sites, they load fast.
+
+Do you have the correct CODEC or player?
+
+It could also be that the servers are jammed up.
+
+*
+*
+*

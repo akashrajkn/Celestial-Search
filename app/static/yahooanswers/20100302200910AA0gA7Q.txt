@@ -1,0 +1,6 @@
+how to remove the search tab that located in the right corner in firefox?
+
+
+This link explains how you can do that.
+
+http://support.mozilla.com/en-US/kb/How+to+customize+the+toolbar#Adding_removing_and_rearranging_items

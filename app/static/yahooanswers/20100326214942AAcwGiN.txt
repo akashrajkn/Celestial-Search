@@ -1,0 +1,14 @@
+How to create buttons in HTML code?
+I have a blog, but it doesnt have enough buttons in the layout. Its missing a home button and the next and last blog buttons. You know to go to the persons blog before you or after you? The home for your profile log in thingy place lol
+Does anyone know how to edit HTML code to add buttons for this?
+How do I know where to place it within the code, to correspond to the place I want it on the page?
+Also, how does it know I want it to take me Home? Do I have to upload text for that too?
+
+Well you are NOT creating buttons in HTML. You can draw them in PAINT and then use html to load them into your page. Here's how.
+
+Let's say we made a HOME button. and we named it HOMEBUTTON.JPG or BMP, the way we would use this image as a button is like this.
+
+<a href="http://yourlinkhere"><img src="homebutton.jpg"></a>
+The first part (A HREF tag) sets the link. Then anything in between the <a href and </a> tag will be a clickable link. The IMG tag tells the computer to load your minage as a clickable link instead of using text.
+r u my mommy
+yea i said it again, WUT UP

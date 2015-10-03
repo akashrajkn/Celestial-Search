@@ -1,0 +1,9 @@
+I need computer Help. I can ping but I can not browse?
+I am trying to reach a certain site. Sometimes the homepage will comeup but I still can not browse it. At time the homepage also refuses to come up. I followed advice on how to ping but I am now lost. I am operating on windows XP. I rebooted both my computer and router. This problem has been ongoing for about a week. Please help me in kindergarden language.
+I kinda tried what you said but got lost. This is all new to me I searched the web previously and all answers prompted me to ping, I just followed directions.
+
+I have never done more than clean my cookies on my computer before.
+how do I release my IP address?
+Can someone please help me
+
+in your cmd prompt. start>run>type cmd,  open your ipconfig utility and release your IP address, then renew your IP address. You may need to again reset your router. If you have any business pinging then you should know what I'm talking about, not saying this will solve your problem, just try it.

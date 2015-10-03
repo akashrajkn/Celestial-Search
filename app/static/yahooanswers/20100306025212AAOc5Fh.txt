@@ -1,0 +1,7 @@
+WPA2-PSK to WEP??? help please!!?
+so i bought a d-link router and recently found out that the key type it is using is WPA2-PSK... which my nds cannot read... (my nds reads WEP keys only...) so i cant use the wifi... does anyone know how to convert WPA2-PSK to WEP? please help :D
+
+There is nothing wrong with your router and you can change security settings from WPA to WEP. 
+I think ( Wi-Fi Protected Access) WPA2-PSK is default security setting in your d-link router,check through the SET UP configuration in your router and change security from WPA2 to WEP.
+
+have a nice time.

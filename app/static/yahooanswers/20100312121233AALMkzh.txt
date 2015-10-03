@@ -1,0 +1,12 @@
+can you provide a link that shows a visual comparison of the top 5 or 6 web-browsers ie: how a typical page...?
+is displayed by each browser....i am particularly concerned with how much space [number of bars] each browser typically displays. i need to upgrade, but after an aborted attempt with IE8 [it took up 5 bars of space, which currently i have compacted down to 3.....and it seemingly wouldnt let me customise and compact all the useless extravagant empty space in each bar!
+
+i need a visual example of the same page as displayed by each browser, to know which allow me to maintain the sparse compact minimalist look i have at present.
+
+i dont want the browser taking up even 1mm more than is necessary.
+
+the example below is on a different topic, but gives a clue as to the kind of comparison i'd like.
+
+http://apcmag.com/images/safari-top-sites.jpg
+
+I will go one better...

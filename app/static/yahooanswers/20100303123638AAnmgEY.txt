@@ -1,0 +1,4 @@
+How can I download several podcasts or MP3 files from NPR all at once without having to do it one by one?
+I started downloading Talk of the Nation programs from 2008 but I want to download several months that I missed on that year.
+
+Try using tabbed browsing. Open a new tab for each show you want and download it separately that way.

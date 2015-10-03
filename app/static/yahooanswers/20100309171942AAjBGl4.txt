@@ -1,0 +1,8 @@
+how can i disable flash adverts without impairing my access 2 websites. i'm absolutely sick of adverts nibblin?
+g away trying to hijack my attention.
+its like a bunch of piranas insidiously  eating away your mind.
+
+If you have Firefox, you should get the add-on called "AdBlocker". Then, whenever you see an ad, just use AdBlocker to disable it. You can also let AdBlocker turn off on certain sites, etc.
+Imagine having to pay to go on every website you visit.
+Every website costs money to set up and maintain.  The money has to come from somewhere.
+You are accessing the site for free, so it is the ads that pay for the site

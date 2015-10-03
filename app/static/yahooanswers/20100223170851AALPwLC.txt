@@ -1,0 +1,10 @@
+Firefox keeps upgrading itself when I don't want it to?
+I'd decided long ago not to upgrade to the new version of Firefox.  I'm required to use Firefox for my work, & many of my colleagues reported the new version sometimes clashed with our work's toolbar.  Last week I accidentally upgraded.  Sure enough, my pc kept on taking turns crashing & freezing.
+
+I got my pc repaired & I downloaded the old version of Firefox.  However, it seems to suddenly "morph" from the old look to the new look without any prompting.  What is causing this?  And how can I stop it?  I actually prefer the old look & I'm scared the new one will cause problems again.  Please help!
+
+Do what you did before and reinstall the old version of Firefox. 
+
+To stop automatic updating of Firefox, go to "Tools, select "Options", select the "Advanced" tab, select the "Update" tab. Under "When updates to Firefox are found", select the dot beside "Ask me what to do."
+
+Firefox will prompt/nag you when a update is available, but you have the option to install it or not install it.

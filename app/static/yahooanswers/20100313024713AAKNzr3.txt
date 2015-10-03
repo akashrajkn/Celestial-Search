@@ -1,0 +1,8 @@
+How do I rid my browser (Firefox) of the e-snips homepage?
+I installed e-snips the other day to download a file. The installation changed my homepage settings to http://search.esnips.com/ . I have tried changing the browser settings, but its of no avail: opening fresh browser still gives me that e-snips search page! :@ However many times a set a new homepage the settings do not change.
+Only thing that allows me not to find that stupid page every time I go online is if I change the 'when Firefox starts' setting to 'show a blank page'. But, I don't want a blank page, I want my previous settings back.
+Somebody please please tell me what to do.
+
+Sounds like a rootkit virus it can hijack your browser but without any windows open it can send you to advertising sites etc.These things can disable normal antiviruses and anti malware. Download "rootkit revealer" from Microsoft or Sysinternals and run it, Go to Task manager and under processes see if there is an oddnamed process sometimes just random letters and or numbers and end process. Then go to Start>run and type in msconfig and click OK, Look under the "startup" tab and uncheck the same process name if it appears there. The registry will need to be cleaned up but normal programs should be able to do that when you have disabled the rogue program.
+
+These things can disable recognised anti-malware programs and system tools like task manager, so you may have to download process explorer or killprocess to stop the process, you need also to rename the malware bytes .exe file to, say for example, xxxx.exe or just copy it to the same folder when it will produce a copy called "copy of..." and run that. Instructions on the malwarebytes.org site

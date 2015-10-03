@@ -1,0 +1,22 @@
+how do i uninstall internet explorer?
+internet explorer stoped working and i can not close out the blank page
+
+Drag all of the program files to the trash.
+Click start on the taskbar. Click control panel. Then click add or remove programs. Then scroll through the list and select Windows Internet Explorer and click remove on the right. Then follow the steps.
+Ignore Prof. Carl PhD's comment. 
+
+
+Anyway internet explorer can't be uninstalled, expect on windows 7 (due to EU's lawsuit)
+However it can be disabled and you can choose a different internet browser to be used as the default internet browser.
+turn the computer off manually
+waite 10 seconds and turn it on
+it should be OK
+You can't. Leave it alone.
+
+Go to control panel and try repairing it.
+
+Or use another browser.
+Just use another browser... I suggest you Mozilla FireFox!
+Us ethe ADD/REMOVE Programme Option in Windows Control Panel. If that does not remove ALL the Files, then dowload REVO for free and use that software.
+I agree with Aaron, you can not remove Internet Explorer for it is part of the Windows,
+all you can do if you have XP / Vista is remove the current version which you have on the computer and the previous explorer will be replaced automatically for you.

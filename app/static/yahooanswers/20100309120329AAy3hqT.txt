@@ -1,0 +1,16 @@
+my Firefox freezes ? it's killing me ?
+After each movement, Firefox freezes for two seconds.
+Everything else works fine in my computer.
+Where is the problem?
+Is it version 3.6?
+ Themes?
+Add-ons?
+Windows 7?
+What do you think?
+Bingalee .... what to do ? fierfox is all I like and know
+
+i think it might be some kind of glitch becuse mine frezzez after i try to add bookmarks to yahoo
+Firefox is still under heavy testing for Windows 7.
+
+You might be able to identify the culprit by searching through the list of reported bugs if you have the time: https://bugzilla.mozilla.org/buglist.cgi?op_sys=Windows%207;query_format=advanced;longdesc=hang%20freeze%20crash;product=Firefox;longdesc_type=anywords
+I too, have been having problems with it.I thought it was our computer.

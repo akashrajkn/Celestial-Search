@@ -1,0 +1,5 @@
+Whenever I play an internet video fullscreen, my computer crashes within a few minutes.?
+Any ideas about what's causing the crash? It doesn't matter which site I'm on (Youtube, Hulu, etc.) my computer always freezes after a few minutes and then I have to restart it.
+
+I have Windows 7 and I use Firefox as my web browser.
+

@@ -1,0 +1,13 @@
+Why do my websites not update themselves?
+When I go to a previous website I always have to refresh otherwise I'm reading old news or weather. Is there a way to refresh them automatically?
+When I log on to the internet, no matter what site I go to, normally the same ones every day, news, weather, ebay, etc. I always have to clik the refresh icon to update it. I am using windows vista and this just started happening a week ago.
+
+Something odd is going on. Can you give an example or two of websites you have this issue on? Also, what browser are you using? And do you know if you are using a proxy of some kind?
+
+How exactly do you "go to a previous website"? Do you click on a link? Click on a shortcut? Enter the site name into your address bar?
+Create a bookmark to go there rather than going back via previous button. When you use the previous button it is assumed you want the old data from the web site. When you go forward it is assumed you want new data.
+When you go to the previous site (I am assuming you are clicking on the Back button), the page is served from the local cache (temporary copy) on your computer and that is why you are seeing old content.
+
+You have to revisit the site either by typing the URL again or by clicking on a bookmarked link. This will load the page again, picking up fresh contents.
+
+Arun

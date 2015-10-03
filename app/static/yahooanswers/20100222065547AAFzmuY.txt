@@ -1,0 +1,14 @@
+Why I cannot connect to the Web using any browser but can connect using the My Computer icon?
+My computer running XP was infected with a spyware a couple weeks ago (XP SecurityCenter). I manually removed it or blocked it but now my neither IE or Firefox can connect to the Web. I can connect using the My Computer icon (I think is Windows explorer) and can browse the web but can not use any browser. Any suggestions? When my computer was infected the fake XP SecurityCenter spyware blocked my browser and force it to go run their malware program.
+
+Go to 
+Control Panel 
+Internet Options 
+Click on the Connections tab.
+Click the button that says LAN Settings. 
+
+If the Proxy Server section has a check in the Use proxy server... box, uncheck it. 
+
+Okay out of everything and try your connection again. 
+
+A lot of these programs are setting a proxy now to redirect all internet traffic to their own sites to make you buy the product.

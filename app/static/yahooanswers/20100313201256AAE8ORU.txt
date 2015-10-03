@@ -1,0 +1,23 @@
+Problem with internet browsing?
+Hey i have been having problems with my internet on one of my computers.  I have a LAN set up between my 2 desktop computers and then my laptop.  The 2nd of the 2 desktops and the laptop always work fine however my main desktop computer sometimes will just be unable to load pages.  It will be running fine and then suddenly it will time out and i won't be able to browse anymore.  I know it isn't my ISP or a virus issue.  I have a feeling i am forgetting to open up some firewall ports or something but i don't really know how to do that.  Any help is greatly appreciated
+
+Also, i have been using Mozilla Firefox for about a month but i was still having a problem when using Explorer.
+
+your computer hates you, you have to love it for it to work
+
+
+LOVE YOUR SUCKY COMPUTER, LOVE IT!
+Jacob, it is really hard to determine without looking at the machine.
+
+However considering the other computers are OK - I suspect your ISP is OK, your router / switch is OK.
+
+It's likely not the firewall as it stops browsing everything suddenly
+
+Try changing the network cable that goes from your bad desktop to the router.The cable may be bad
+If that fails, then try connecting the network cable to another free port on the back of the router - the port may be bad
+
+The problem could be deeper with that one machine but hard to troubleshoot online
+
+Worst case - back up your data and re-install everything
+
+Good luck

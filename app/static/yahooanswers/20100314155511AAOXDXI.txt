@@ -1,0 +1,38 @@
+My Internet Connection suddenly got slower?
+Yup. All of a sudden. I haven't downloaded anything but music and short little videos for a long time. And its making my iTouch go slower. 
+I took a speed test and i got a 3024 kbps..and my connection is..well..i don't really know. Its Quest ._.' Thats really all i know. And i think its connected with the phone..but we can still use the phone while on the computer..soo...
+
+But anyway. I need it to be faster so i don't throw my iTouch to the wall when it takes 5 minutes to open a web page. Free plz. Hopfully no uploading any software.
+The slowness is making youtube reject my videos..I keep getting "error" even though they are the same file type as the rest of my videos..and it says like i hour remaining on a 2 minute video.
+I tried uploading on Firefox..but it was just as slow and still said "error" so i went back to IE.
+Please help :(
+
+You should check the download and upload speed in speed test. It should say some value. With that you should check what plan you have and why it's slowing down your speed. Talk to your ISP about the speed. 
+
+If the speed test matches your ISP speed then you should see if some back groud process is eating internet speed in your task manger.
+Do you have a download limit?
+
+if so then you may have used up all of your bandwidth and thus your isp restrict usage hugely. I went over my 10gb limit and they restricted my usage from 1mb/s to less than 50kb/s download speed
+
+If all else fails then ring your isp and tell them what has happened and they may have a solution
+
+It might even be down to problems/maintenance on your isps behalf
+Using a registry cleaner can clean up your computer and then make your computer faster,Why?the reason is that there may be some registry errors and remnant,corrupt files and temp files in your computer to cause "computer slow".
+Every time you install and uninstall software on your computer and surfing online you create junk in the computer registry.over time, the registry can grow to enormous proportions, especially if the various programs you've installed do not do a good job of deleting and/or updating it's Registry entries.You need to scan and clean your computer with registry cleaner to make it fast.Good Registry Cleaner will improve your computer and Internet performance dramatically!
+There are some comparison and review of TOP 5 registry cleaners.
+http://www.make-computer-faster.com
+You can download and scan your computer for free.
+For running slow there are many causes:
+Microsoft Registry Problems
+RAM
+De-Fragmenting
+Etc. 
+
+Clean windows registry can speed up the computer.
+Registry Cleaner can fix your pc errors.
+Over time, you install new programs, uninstalled unimportant programs, update software's, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://clean-computer-registry.com

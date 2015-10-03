@@ -1,0 +1,11 @@
+Problem with chatroulette?
+When it says video is enabled, about 90% of the time the other persons webcam spot is black and nothing shows up. I ticked the box that enables to receive webcam.
+
+When a webcam does show up it only works for about a second then appears to pause, it's not as if my browser is freezing up, computer is fine. I would say my internet connection is slow, but that doesn't seem right either as I can usually watch videos on youtube and they load about twice as fast as they play.
+
+Is this a website problem then?
+
+just means they don't have a webcam
+Mine does the same thing. I have not figured it out yet.
+May be the their server is over loaded.
+It means the user is not using a webcam of that is webcam is not enabled. You can try Facebuzz.com. Most of the people there are using a webcam! Also, it's a bit faster!

@@ -1,0 +1,6 @@
+Why can I connect to the internet through real player but no other browser?
+I can not understand why when I try Internet Explorer, Firefox and Opera none of them will display a web page and get the standard error message when there is no connection, although I have established a wireless connection, yet when I open Real Player it works fine.  Also I tried Ubuntu and Firefox and I can also get internet this way.  How might I get internet through other browsers in Windows?
+
+SORRY!!! I am not an expert on this and hope others will offer the knowhow and I also can learn, TKS.
+If you need other help in knowledge on CURRENCY, Customer Service, Productivity and Community Service, email to me.......I will help.
+You have got a Browser Hijack due to malware.clean it and everything will work fine

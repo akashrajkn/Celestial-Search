@@ -1,0 +1,5 @@
+How can you browse or enter a website which is locked or blocked by the administrator?
+
+
+you use proxy sites such as coffeefence.com or shinytooth.info. tey are various proxy sites that allow you to go on a blocked website. however it is the best option without tampering with passwords and such
+Well If you can go on the administrator account go to the source such as mcafee,norton,avg so on and go to parental controls and delete blocked sites if it is a windows parental control go to control panel and select parental control blocked websites and turn on or off if you need more help

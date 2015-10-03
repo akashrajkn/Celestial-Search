@@ -1,0 +1,17 @@
+how to bring back text you typed?
+i typed a huge resume and then i accidentally refreshed the page, i was on google chrome and the resume was deleted. the website was boyersfood.com. Is there any program or way to bring back that text i typed about 1 hour ago??
+
+No.  If information is not saved then the data is lost forever.
+
+The information was stored in your computers RAM.
+
+RAM = Random Access Memory.
+It is volatile memory that holds temporary data.
+It allows your computer to run.
+
+Dane
+You cannot bring it back, it's gone forever. 
+
+In the future, compose your large text files in Word or NotePad or other word processor, then use copy & paste to insert it
+
+...

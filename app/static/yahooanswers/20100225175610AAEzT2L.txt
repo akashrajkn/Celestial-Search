@@ -1,0 +1,22 @@
+How can I view a website that has been taken offline?
+To do research for a project, I need to be able to see a webpage that I know used to exist but has now been taken offline.  One of my friends knew there was a way to see it but that he didn't know how to do it.
+
+You should be able to locate it through the internet archives, although keep in mind it is probably not going to be a credible source if it is offline.
+
+Just type in "internet archives" in your search engine, follow the link and type in the website address in the address bar the website gives you.
+
+OR go to this link: http://www.archive.org/web/web.php
+http://www.archive.org/web/web.php
+There are 3 ways to do this, generally.
+
+Only 2 of them are applicable in your current status of affairs.
+
+In short:
+
+1. Go to archive.org as was mentioned by others.
+
+2. Google the website and click the "Cached" link beside the URL it displays in the results (the URL should be in green.
+
+The third option is to prepare beforehand. I know this is the internet and people view websites as gods, but they're vulnerable to things like power outages, network and hardware failures, human errors, and still require funds to be kept online. You can always download a program to, or manually, save the site to your computer, so you can view it if the site goes down, or even if you don't have internet at some point.
+
+Good luck.

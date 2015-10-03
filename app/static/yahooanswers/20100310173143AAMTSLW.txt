@@ -1,0 +1,16 @@
+iamwired.net redirect for any website. how do i get it to go away?
+the only thing that i can think of that would cause this would be a download, but the only thing that was downloaded was a chacha toolbar, but, i undownloaded this and it still redirects any page i go to to that website.  any kind of help would be appreciated. also there could be something else downloaded that i am unaware of but i do not know
+
+You've been hit by adware.
+
+First place to check is your HOSTS file:
+Notepad > Open > %SYSTEMROOT%\System32\drivers\etc
+
+The only entry should be the one with 'localhost' (unless you have SpyBot, which also adds 'immunization' entries here).
+
+If you can download and run SpyBot, it can help clean up other bad Internet settings:
+http://www.safer-networking.org/
+
+May also help to follow the steps here:
+http://answers.yahoo.com/question/index?qid=20090901222421AAzEfch
+http://www.threatexpert.com/report.aspx?md5=a486e305394923a7d189d1ea7106c26a

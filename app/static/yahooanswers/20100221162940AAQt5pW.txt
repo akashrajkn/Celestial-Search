@@ -1,0 +1,22 @@
+I often use Firefox web browser, from time to time this browser gets extremely slow, what I can do to fix it?
+I use Firefox web browser and suddenly this Internet web browser gets extremely slow and finally starts to get back to normal speed when I get a message warning that a script on this web page is causing Firefox to run slower and gives me the option to stop running that script, is there an option or settings that would beforehand stop Firefox to run scripts that might slow the browser or do I have other options / settings to keep Firefox running normally at all times?
+
+Try google chrome.  Works way faster than firefox.
+Did you try deleting your temporary internet files, cookies and history?  Those typically make it run slower, although all of your passwords will be deleted and you'll have to log in again.  I am personally using Google Chrome, and I like it much better than Firefox.
+Upgrade your computer's memory.
+I finally got tired of uninstall-reinstalling Firefox to speed it up a little again and finally ditched it for SRWare Iron and am a happy surfer again...
+IE hospital tool can fix your computer IE Browser
+<--http://registry-computer-cleaner.com/IEHospital/
+I can suggest you to try the following program:
+
+"CCleaner " : download it free from "http://download.cnet.com/ccleaner/"
+
+After installing the program, run it and click on "Analyze" and then "Run Cleaner". The default options are usually good, but you can change the default settings by clicking on every option you want.
+
+This program cleans your computer from any type of temporary and privacy data that are saved on your computer, including temporary and unnecessary files .
+
+Note that temporary files can reduce your browser speed.
+
+Good Luck
+Fix web browser:
+http://registry-checking.com/WebBrowser

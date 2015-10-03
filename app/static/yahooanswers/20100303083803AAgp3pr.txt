@@ -1,0 +1,4 @@
+Fonts not being shown in IE 8?
+While using Mozilla Firefox, if a code is used in the page ie : font="forte" ABC /font it is shown as ABC written in Forte font. But in Internet Explorer 8, no matter what codes are put in, it always shows in Times New Roman. What should I do to see the intended fonts.
+
+Use CSS instead of HTML.

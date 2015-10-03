@@ -1,0 +1,11 @@
+Can you get a computer virus? can you get a virus while in a proxy browser? cause tech. ur its not ur internet?
+Can you get a computer virus?
+can you get a virus while in a proxy browser? cause tech. ur its not ur internet, it could be in china or something? if u go to a website with a virus, will it go to ur computer or to the browser where it actually is? please help thank u
+
+Yes, Viruses can do anything.
+A proxy is not a browser. A proxy is simply another computer that acts as a buffer of sorts between you and the site you're trying to visit, in order for you to surf anonymously or from another location. Proxies do not protect you from viruses. As long as you are on the receiving end of the data stream, and your system has some security vulnerability open, you're at risk.
+
+There's no such thing as "my" Internet or "your" Internet (the word is "your" not "ur", and it's "you" not "u" -- text-messaging shorthand is used by idiots). The Internet is one big network.
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

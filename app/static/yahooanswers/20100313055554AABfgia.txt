@@ -1,0 +1,34 @@
+Internet problem connecting to one site?
+I am at work, and use GOOGLE alot for my job because I am a receptionist, and it helps get numbers and such for my customers. But as of late I can get almost every site except that. It says it cannot connect to the internet. Even if i type in GMAIL. I was thinking maybe it was blocked in my company, but other employees on the same network get it with no problem. I don't have administrative rights on this computer. Is there a simple solution to this? I tried restarting the computer, and unplugging the router to reset it with no luck. 
+
+Any help is greatly appreciated!
+I tried to do the flush DNS, but when I even try and open IPCONFIG window it just closes out and disappears. I don't know why....
+
+try pressing the windows button and r together, once this is done type in 'cmd'
+
+a command box will open up.
+
+type into the command box that opens:
+
+ipconfig /flushdns
+
+exactly as it is typed on the above line.
+
+What this does is clear the cache of IP addresses held locally (what you are describing can happen if this cache gets corrupted)
+
+Once you have flushed the cache, the PC will begin to re-build your local cache.
+
+This means that it will re-index the google web page and send you to the correct page rather than the corrupted destination that is help on your local cache.
+
+I know it sounds complex but its a really easy solution.
+It is may be due to some IP problems.
+
+Try to use some kind of antifilters, such as Ultrasurf (www.ultrasearch.com).
+
+Download it free and install it. Then go to your Internet Explorer and try to visit the Google web pages.
+
+If the problem got solved, then you can use 127.0.0.1 (for IP) and 9666 (for port) in the Proxy settings on firefox ( Tools | Options| Advanced | Networks| settings. In the "settings" dialog box, enter the mentioned IP and Port digits)
+
+if you decide to use this antifilter, then dont forget to do something after you want to close it. Go back to proxy settings which I told you earlier and remove that digits). Otherwise firefox cant connects to internet
+
+Good Luck

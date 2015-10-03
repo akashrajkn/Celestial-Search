@@ -1,0 +1,4 @@
+Can i get my bookmarks back from the firefox from the old mozilla foler from the previous os?
+I manage to get mozilla firefox folder completely(from program files) but i dont know if I can get my bookmarks from there...
+
+I believe by default that Firefox stores your bookmarks in a different folder, but if you can search that folder you can look for files with the extension .json

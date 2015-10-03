@@ -1,0 +1,6 @@
+Why is it that when you type sky news in google, the first link never works!!?
+The very first link to the homepage says..Content Encoding Error
+The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.
+But the second link in google to sky news works..but takes you to the UK page, not the home page.
+
+Not sure what you mean.  Sky is a UK company.  I just told you the first link works fine for me

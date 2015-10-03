@@ -1,0 +1,24 @@
+Computer virus please help?
+Im not at all good with computers, so i need help.
+I've got a few things on my computer that i think are viruses, one is call SpyEraser and the other i think is call Internet Security 2010. I cant find them in the add or remove programs thing, and i dont know how to get a rid of them. They are causing all sorts of problems with my computer, i want to know are these two things worth having on my computer or should i get a rid of them? And if i should get a rid of them how would i go about doing that?
+
+www.bleepingcomputer.com has full instructions
+I'm sure you'll get plenty of answers with many different methods to remove these pests, but it is certain that you do not want the malware..
+
+Here is a site specifically about SpyEraser and how to remove it:
+http://www.2-spyware.com/remove-spyeraser.html
+
+You should be running real-time malware protection, and if you don't have that, you should at least install some good anti-malware programs to detect and remove the bad stuff.
+
+One good program is Malwarebytes, available for free:
+http://www.malwarebytes.org/
+
+There are a lot of good programs available, and whichever ones you choose, be sure to use them regularly.  I use Agnitum's Outpost Security Suite Pro and simply do not have any malware problems anymore, but you can choose some that look best to you.
+
+Good luck.
+Seems like lots of folks are getting infected with this Internet Security 2010.  You should do what I did, get yourself a top flight antivirus program that specializes in rogue viruses.  It is well worth it not to skimp out on great virus protection because the really nasty ones can completely destroy your computer and steal your identity.  The one I use can be downloaded at:
+
+http://www.spyware-fix.net
+Here I found something about Intenret Security 2010:
+http://www.2-spyware.com/remove-internet-security-2010.html
+When I had the same malware, I managed to delete it with Spyware Doctor. Before that started safe mode (using F8 button)

@@ -1,0 +1,18 @@
+What is causing all of these internet problems?
+I currently have a WRK54G v1 Linksys router and a Motorola Surfboard 30mbps modem, but my internet... isn't the best. It goes down like 2-3 times a day, and some programs that require internet (like xfire or ventrilo) tend to go down every hour. My download speed is ridiculously slow as well (80-120kbps). My ISP is earthlink. I've been trying to find out what in God's name is causing all of these frustrating issues for a long time now. There isn't anything listed in the "Network Connections" section of the Control Panel, and there hasn't been for years. What could that mean?
+
+Also: My router is not directly connected to my computer. I have it connected to a switch, where my computer and my Xbox 360 both share the connection. There are also two other computers in the house. Could this cause any issues?
+
+Can anyone tell me exactly what the problem here is? Possibly the router/modem? Bad ISP?
+There is absolutely nothing listed in "Network Connections"
+Now that I think of it... every time the internet goes down (on the 2-3 times a day intervals), the internet is down in the whole house. The switch may very well be slowing the connection down, but perhaps it is the router?
+
+Can you try connecting directly to the modem for a few hours? And monitoring to see if doing the activities that usually cause the problem trigger the connection to drop? 
+
+I doubt Earthlink would be doing anything to your line though (ie. throttling). 
+
+I suppose it could be the switch. But for that matter it could also be the router. That's why I suggest connecting directly to the modem for some time and trying to trigger the problems intentionally. 
+
+Does your Ethernet NIC not even show up in `Network Connections` though? Because that would be...odd. 
+
+I don't think this would be causing the problem, but you may want to reinstall/update the driver for your NIC if it doesn't show up at all in `Network Connections`. I don't think this has anything to do with your problem though, since if there were a driver issue, you wouldn't be able to connect at all.

@@ -1,0 +1,27 @@
+How do I make a Livejournal Layout?
+Where can I find a website that will help me create a Livejournal layout, or maybe a place where some can make it for me? I've tried googling it, but the tutorials I've looked at are confusing and I wasn't able to do anything with them orz
+I want a Simple/Clean layout. I'd also like to stick with S2!
+
+1.Login to your account and go to "Journal Display." This page can be reached by going to "Customize" under "Your Settings."
+
+
+2.Set your Journal to "S1 System Style." This is found on the first page of the "Journal Settings" page at the bottom of the text box. This allows you to change the HTML of your journal.
+
+
+
+3.Click on the "Custom Options" tab. This will take you to the area for the HTML code for your journal. The HTML Code is in the "Overrides" box.
+
+
+4.Carefully read through the HTML Code. Most of the Code is self explanatory. Text-family deals with the text style you want to use. Background-color or background-image deals with how the background behind the text is going to look.
+
+
+5.Take the picture that you want to use for the Journal. With a website like Photobucket, create your own http:// link to the picture. Don't link to pictures on other people's web pages.
+
+
+6.Create a theme around the picture that you've chosen. The comment links on each Journal entry can be changed to fit this theme. For example if your using the picture of a star you can make the background color around the picture black, use a star color for the text, like white or gold, and have your "Friends Comment Link" say "Catch a Shooting Star" and the Link to comments be "# Star Caught."
+
+
+7.Change your Journal HTML bit by bit. Change something and then view your Journal to see how that change affected the Journal and the theme.
+
+
+Hope I Helped. Good Luck! :)

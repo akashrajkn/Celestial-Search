@@ -1,0 +1,8 @@
+How do I get back to Firefox 3.5?
+I came back to my computer to find that 3.6 was up, tried it, and my skin wasn't compatible with it. Along with other troubles, I don't see it being worth it. How can I set it so that I can get back on previous versions of firefox?
+
+go to http://www.oldversion.com/Mozilla-Firefox.html scroll down to the bottom
+download the file to your desktop
+remove the current version and 
+finally
+install the new(old) version

@@ -1,0 +1,13 @@
+What happens if customers download illegally on our Wi-Fi?
+The British government has proposed a bill that will allow internet connections to be slowed, or even temporarily cut, if illegal downloads have been performed using that connection.
+
+Our family business is about to start providing free Wi-Fi as a service to customers, but our home uses the same connection - if customers illegally download music, movies etc on our connection, will it be possible to prove that it was not us and/or take measures to stop customers from doing so?
+
+You can block internet traffic similar to how schools and businesses do.  I am not familiar with how this is done, but it involves buying an expensive router that can be customized to block ports, programs, and .exe's like BitTorrent and LimeWire.
+Yes. It will be very possible to prove it.
+
+BUT, the legal bill will be paid by you to prove your innocence.
+
+*
+*
+*

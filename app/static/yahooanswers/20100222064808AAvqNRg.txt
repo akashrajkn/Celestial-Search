@@ -1,0 +1,10 @@
+How do I overlap my drop down menu?
+We're doing a website for a computer project.
+I've already created a navigation bar.
+When I mouse over the tab, a drop down menu appears.
+The problem is, the drop menu appears behind the iFrame below the navigation bar.
+It's like, "underlaped" instead of overlapped.
+How do I solve this problem??
+i saw the answer. how do I use the z-index?
+
+try giving the menus a z-index

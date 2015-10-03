@@ -1,0 +1,10 @@
+Firefox doesn't fill in passwords after update to 3.6?
+Yesterday I upgraded from Mozilla Firefox version 2.0 to version 3.6.  Now whenever I go to a website that previously already had my username and password in there for me, those fields are blank.  I have to retype my username and password in and then it asked me if I want it to save my password...as though I don't have a password already saved for that site.
+
+It seems as though somehow it "forgot" how to find my old passwords even though I simply chose the upgrade option for Firefox when I upgraded to version 3.6.
+I found out what the problem was.  There were a few sites that I had saved passwords at that I had to force the saving of and those were the only passwords that weren't auto filling in.
+
+Firefox v2.x and 3.x uses the different storages for saved passwords.
+
+Try this freeware tool:
+http://www.nirsoft.net/utils/passwordfox.html

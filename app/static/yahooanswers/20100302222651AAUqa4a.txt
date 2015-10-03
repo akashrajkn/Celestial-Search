@@ -1,0 +1,7 @@
+where could i find the setting for my internet browser?
+
+my edit doesn't have a Preferences button
+
+1-On Firefox: go to  Edit>Preferences
+
+2.On Internet Explorer: go to Tools>Internet Options

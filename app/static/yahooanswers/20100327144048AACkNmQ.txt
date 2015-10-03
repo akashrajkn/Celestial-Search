@@ -1,0 +1,21 @@
+Can Someone Guide me through this?
+http://www.widgetbox.com/make/
+
+using that site im trying to make a
+
+Contact Box For my website 
+
+like With button links that will take people to my myspace page and my facebook page and my twitter and all of that etc 
+
+can someone provide me steps on how to do this im comfused on how to do this
+
+You would be far better off using a site like 123 contactform
+Its free and very reliable. You can customize it to match your website colours and to add it to your site or web page is a simple copy and paste of the provided code.
+
+http://www.123contactform.com/
+
+Widget box also has contact forms already made for you. just register and add your details.
+
+http://www.widgetbox.com/widget/thunderbird-contact-form
+
+123contactform is far better than widgetbox in my opinion.

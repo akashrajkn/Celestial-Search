@@ -1,0 +1,11 @@
+I need Email Help. Please?
+Hi I have 4 yahoo email accounts and 1 hotmail. I am sick of having to check all of them, how do I use them all and connect them through outlook? What I mean, when I go to set it up, which do I select. Microsoft Exchange Server, POP3, IMAP, HTTP or Additional Server type. I need to know which to check and what else to do. Please help I cant figure this out. Thanks
+
+You have to look into something called YPOPS!
+
+Yahoo doesn't allow you to natively forward or use a 3rd party mail client to manage the email and hotmail doesn't allow forwarding altogether, but you can use POP3 to access that one through outlook.
+Yahoo requires you to have a Yahoo mail plus account which is $19.99 for a year. I do not know if one account would work for all 4 email accounts or not...
+
+If you have a Yahoo mail plus account, or if you are going to get one, here is how to set it up to Outlook:
+
+http://help.yahoo.com/l/us/yahoo/mail/original/mailplus/pop/pop-08.html

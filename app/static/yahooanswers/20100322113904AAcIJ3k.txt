@@ -1,0 +1,40 @@
+Can You Help Me With Microsoft OfficeLive & Adobe Dreamweaver?
+I have been trying for three days...
+To figure out how to add another page to my website ( http://bradleyhowington.com )
+Okay...
+
+So I am using a Website Template (already created for me.)
+I am using Adobe Dreamweaver as my site design software.
+And Microsoft OfficeLive is my hosting site. 
+
+My Question is:
+When you have the Template opened in Dreamweaver, how do you link your pages/create them to work with OfficeLive? Your "Contact, Blog, Photos, ...etc" pages.
+
+How do you upload another web page?
+Say you have your homepage...
+How would you upload the "Contact" page to OfficeLive?
+
+I am so sorry if I have confused you with this crap.
+:/
+
+To setup your blog you must install wordpress to your web hosting plan. Does your web host support wordpress?
+
+http://www.threehosts.com/video-tutorial/wordpress.html
+A video tutorial to learn how to install wordpress to your web hosting account.
+
+
+http://www.threehosts.com/publish/iweb.html
+A video tutorial to learn how to publish your website created with iWeb.
+
+
+Another useful link:
+http://www.threehosts.com/publish
+There you can find a step-by-step guide to start your website.
+
+
+Hope this helps.
+Well to start - get rid of Microsoft Office Live Hosting. 
+
+It is extremely restricted and especially if you are using Dreamweaver because they don't work together well.  
+
+There are so many easier ways to setup exactly what you need.  I would start by buying a hosting server (for great choices http://thehostjudge.com/fullcomparison.html ), then using Dreamweaver alone without Microsoft to create your site. Then work from there with wordpress as your blog.  I hope this helps..let me know if you have any other questions I'd be happy to answer them.

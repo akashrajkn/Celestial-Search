@@ -1,0 +1,5 @@
+Is it possible to find who put a torrent or a video on a website?
+
+
+It is possible only if the website/server owner gives the details, because server logs each activity of the user.
+Only unless they created the site, then you can use whois. Otherwise, no, unless it is your own site, then you can trace the IP.

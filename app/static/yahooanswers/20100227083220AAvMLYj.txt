@@ -1,0 +1,10 @@
+My internet browsers do not connect to the internet when I connect my laptop through wifi...what should I do?
+It says I have a strong wireless connection. Works fine when I connect through wires though. By the way I am using xp.
+
+OK this could be a number of things.
+
+Go to network settings and disable the firewall for the wireless connection.
+
+Check your wireless router for a MAC Authentication button, your laptop might be connected to the router but not authenticated.
+
+Check your browsers 'proxy' settings, they may be tied to an address in the wired range of yor router.

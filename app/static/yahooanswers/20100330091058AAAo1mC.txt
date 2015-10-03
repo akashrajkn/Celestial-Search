@@ -1,0 +1,55 @@
+How the hell to torrents work?
+I've never got how they work.
+I would also like some good sites where i can find them. (and plz dont post sites with which if you try to download i get 8452607243651 viruses...)
+
+http://www.torrentz.com/
+
+http://www.bt-chat.com/index.php   
+
+http://www.demonoid.com/
+
+You need to download a torrents client
+http://www.bittorrent.com/btusers/download
+
+Then download and open with bittorrent or another client.
+That's a problem.
+
+Torrenting is not illegal: it's simply a technology;
+a way to transfer files by sharing it's parts. What
+you torrent may be illegal, but that's another
+question.
+
+Imagine that everyone wants a puzzle that
+when put together, looks like Pamela Andersen.
+Really.
+
+Then imagine people collecting pieces of the
+puzzle and sharing the pieces they have for
+exchange of the pieces they don't have.
+
+That's it in a nutshell. I'm sure others here
+have posted a load-o-links for their favorite
+apps and The Pirate Bay.
+
+Just remember to scan with an antivirus
+every time.
+For downloading torrents, use uTorrent. Torrents here: thepiratebay.org or btjunkie.org
+In a nutshell, it allows data transfer between several networks.
+You get data from on person and vice versa. There are limitations (how fast you can transfer data) on the free one, and the paid for one relinquishes these taxes.
+
+People can only "take" called download on their end, or upload on your end, if you share the file. So do not have access to your whole computer.
+
+Make sure you have a good firewall because this program opens your computer up to intruders (hackers).
+
+And a good Anti-virus program, because you will get viruses.
+
+I am assuming you are going to download legally, right?
+ThePirateBay
+ISOhunt
+
+Dane
+ummm... you really should think about torrents.. 1 reason is that you could get in trouble by the police.. and 2nd reason it could damage your computer or phone or laptop because of viruses.. so think about it... so here is a torrent site http://www.bittorrent.com/... but download it and download other stuff on it at your own riskk...
+Here's how they work. Let's say you're downloading a file. For simplicity's sake, let's say this file is simply a text file that contains the sentence, "The quick grey fox jumps over the lazy brown dog." You download "fox jumps". Now let's say that John has "The quick grey" and Jane has "over the lazy brown dog." Each of you has part of the file, and you download the parts of the file you don't have from John and Jane. Similarly, John and Jane download the parts of the file they don't have from each other, and from you. This is why it's called "Peer to Peer" software. Everybody is a peer downloading parts of files from each other.
+
+As for safe torrents, well it all depends on the reputation of what you're downloading. Bootlegged software and pirated movies and music are unscrupulous things, so they're likely to be full of viruses. On the other hand, Bit Torrent is often use to download very large legitimate files, such as Linux operating systems. If you download an Ubuntu Disk torrent from http://ubuntu.com then you are pretty safe that it has no viruses. Anything you find on the Pirate Bay or whatever is going to be suspect.
+use kaspersky internet security and download bittorrents

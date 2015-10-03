@@ -1,0 +1,28 @@
+Cannot stream videos or play games on sites like miniclip etc.!!?
+I don't know what happened, but one fine day - yesterday - I turned my computer on, went on Firefox
+(I have version 3.6.2) and wanted to watch a YouTube Video... Firefox just crashed.
+
+Then I went on Miniclip.com, tried to play a game, and Firefox just crashed again.
+
+On ANY site I go, if there is any flash game or a video, Firefox crashes. The same goes with the Internet Explorer.
+
+I thought it could be a problem with the Adobe Flash Player, so I downloaded it again, successfully installed it(at least that's what it said)...
+but still the same is happening!
+
+Can anyone please help me?
+
+Thanks a lot!
+Dude I'm on Windows 7, not Ubuntu, sorry.
+
+The problem lies with a bug in firefox that is triggered by flash programs. 
+
+Check out this site for a fix 
+
+http://www.ubuntugeek.com/fix-for-firefox-crashes-on-flash-contents-when-using-libflashsupport-in-hardy.html
+
+Download the nspluginwrapper and run the commands shown on that page 
+
+Hope it helps
+Make sure the followings are installed on your computer
+*Adobe Flash Player 10- Active X
+*Adobe Flash Player 10- Plugin

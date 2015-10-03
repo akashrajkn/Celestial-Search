@@ -1,0 +1,4 @@
+My login account on sites not remembered in firefox?
+When I sign in to youtube I would always check the box always sign in, also with my yahoo account etc.  but when I shut down the computer and turn it back on I would always have to sign in again which I don't want, it started happening about a day ago, I never did anything on the firefox options, anyway to fix this?
+
+You can see at: Tool --> Option --> Security --> Setting and you uncheck at "I leave an encrypted page for one that isn't encrypted".

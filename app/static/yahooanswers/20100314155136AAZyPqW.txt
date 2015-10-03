@@ -1,0 +1,5 @@
+Firefox is acting weird?
+I'm trying to view a page on www.ultimate-guitar.com, but firefox refuses to load it. Does anyone know what's wrong?
+
+It has virus on the website and firefox is blocking it
+it's not FF it's the site, it must be down or closed because I just check with 3 browsers and no luck. I used FF, IE and Chrome .....no luck it's the site

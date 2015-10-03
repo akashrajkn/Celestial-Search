@@ -1,0 +1,15 @@
+Is JavaScript turned on? (mozilla firefox)?
+I wanna know if JaveScript is turned on. How can I check it? (<- on mozilla firefox)
+
+by doing this ...
+
+Select 'Tools' from the top menu 
+Choose 'Options' 
+Choose 'Web Features' from the left navigation panel 
+Select the checkbox next to 'Enable JavaScript' and click 'OK'
+
+gl
+windows: tools>options>content>(check) Enable Javascript
+
+check out http://www.mediascape.com/clientdetect/cd1.html to see if its working!!!
+by default it will be ON

@@ -1,0 +1,10 @@
+HOW TO GET WIRELESS INTERNET WITHOUT THE PASSWORD?
+PLEASE HELP
+
+get backtrack
+That's called stealing, so unless the wireless network doesn't require a password and open to all users, you are stealing someone's internet. It's call hacking.
+If you have forgotten the WEP or WPA key, please log into the web interface to your router firmware by typing the IP address of the router into the addressbar of your web browser and hitting the <enter> key. Enter your administrative username and password. Once you have logged in, you can change the WEP or WPA key to a new one.
+
+Note that if you do not know the IP address of your router and you do not have an instruction manual, you can find it easily if you have access to a properly configured computer on the network. You can just grab the address (default gateway) off of one of those machines. If you don't have any machines that are connected and properly configured at all though, then either read the instruction manual PDF available at the manufacturer's website or just try some random addresses in private address space, such as http://192.168.1.1 http://192.168.0.1 http://192.168.0.254 and http://192.168.1.254
+
+If, however, you don't know the WEP or WPA key *or* the administrative username and password, then you will have no choice but to restore the router to factory settings and come up with a new username, new password and new passphrase. Once you've done this, you can then set a new WEP or WPA key as well. Remember to save your settings when finished.

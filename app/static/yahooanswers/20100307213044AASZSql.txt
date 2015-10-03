@@ -1,0 +1,5 @@
+FireFox AddOn Problem?
+sometimes when i restart firefox all my addons are gone and i have to install the again but my settings is still there how can i make them not uninstall themself ?
+
+What version of Firefox do you have? If you do not have the latest just download the new one.
+http://www.mozilla.com/en-US/products/download.html?product=firefox-3.6&os=win&lang=en-US

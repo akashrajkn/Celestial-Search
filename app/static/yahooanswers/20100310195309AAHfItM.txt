@@ -1,0 +1,19 @@
+How do I uninstall internet explorer 8?
+I need to uninstall Internet Explorer 8 and I have windows vista. I have looked in the uninstall list and it is not there. It is not in the view installed updates option either. If I can't get rid of Internet Explorer 8, I need to get rid of security things that keep popping up.
+There are these pop ups that keep coming up and they keep telling me that my computer is infected with viruses but when I download the stuff it tells me to, it tells me that I have to pay for it to work. Ever since I downloaded google chrome this has been happening. I set google chrome as my default browser.
+
+why don't you use firefox... is is better, faster, and you can customize it. you can change skins, add flowers, colors etc. and did i mentioned FASTER.
+
+the only draw back is that you have to install the add ons that don't come with it such as flash player to see youtube videos, but that only takes 5 sec and trust me is worth it...
+
+by the way you can't uninstall internet 8, but i think ( i am not sure) you can downgrade from it to internet 7. but internet 8 is better than 7, is faster and safer. 
+
+What security thing keeps poping upp, explain what it is and i'll see if i can solve it for you.
+
+
+About the pop ups... never download anything from the internet that says you have virus... Let me explain why. A website CAN NOT see into you hard drive, therefore it can not see if you have viruses or not. They just say you do so you download, install and buy their product... if you installed something you should uninstall it right away. some of these programs actually install viruses on your computer so you buy them. 
+Please uninstall them and if you can't i recommend you restore your computer to an earlier point in time before you had installed it.
+Try deleting all of your cookies, internet files, history, etc. also try running a scan with your antivirus, ( if you have 1) and if you don't get 1. It is very important you have an anti virus since you are not very computer literate. 
+I hope you fix your problem, and I still insist you get firefox, you will thank me for it.
+Hi, maybe you can check this link: http://support.microsoft.com/?scid=kb;en-us;957700&x=9&y=13
+hope it helps.

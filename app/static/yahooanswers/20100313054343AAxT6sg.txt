@@ -1,0 +1,5 @@
+I use Mozilla Firefox browser. When i want to send attachments on Gmail, they dont get attached.?
+
+
+certain extensions are now barred from many webmail sites because they can contain malware or viruses, .com, .exe, .bat, .doc, .bat are all excluded, to send an attachment try changing the extension to .txt or .pdf and tell the recipient to change it back
+

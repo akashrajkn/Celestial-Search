@@ -1,0 +1,15 @@
+Firefox hasn't been working ever since I updated it to version 3.6. Why?
+The window itself won't open. Every single time I try to open it, even after trying to open as administrator (I'm running it on Windows Vista), there's always a window that pops up saying "We're Sorry. Firefox had a problem and crashed. We'll try to restore your tabs and windows when it restarts," to quote directly. I've even my email several times over to have them send me more information when they "figure out" this problem, but nothing after 3 weeks now. So what could it be? Am I missing something here? Believe me, I've even tried looking for someone who has had the same problem as me on the mozilla forums and FAQ on their site. Any suggestions would be fantastic, because I really despise using anything OTHER than Firefox; plus, the fact that I can't access my bookmarks I had in Firefox until I can open the program again makes me extremely upset as well.
+
+Firefox 3.6 is kind of problematic as many told (me included). Try uninstalling firefox from your system and reinstall the previous version. That will work
+cuz it sucks   you run microsoft windows use a microsoft browser   wouldnt that make sence
+firefox firefox firefox thats all i see on here i never see explorer  why cause it works great
+And don't have yahoo toolbar running. That was major probs in 3.5
+
+Give Google's chrome a go ? I've not looked back !!!
+There is now a patch that was released very recently. Update your FF from 3.6 to 3.6.2:
+http://www.mozilla.com/en-US/firefox/personal.html
+
+Version 3.6.2 has fixed a critical security issue that could potentially allow remote code execution, several additional security issues and several stability issues.  It might include the fix for your problem.
+
+If the problem persists, try to disable all addons and start with nothing. Then enable them one at a time. It could also be one of those.

@@ -1,0 +1,17 @@
+Internet Problem - Why do I need to keep refreshing?
+Hey, I've noticed an odd happening with my browser recently (Firefox). Almost every time I click on a link, for example, signing in to this website - the page reloads but nothing has happened. Then, when I refresh the page it acknowledges that I am signed in and shows me the appropriate updated page. Pretty much all links have been behaving like this. Any one know what the problem could be?
+
+you have to much things or a virus in your pc ,
+Same thing happens me sometimes:
+
+try this
+
+
+Go to control panel.
+Then Internet Options
+Browsing History - Settings
+
+Make sure the dot is on "Automatically"
+
+
+Davy

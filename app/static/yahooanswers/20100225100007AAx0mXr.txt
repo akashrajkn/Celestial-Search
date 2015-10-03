@@ -1,0 +1,58 @@
+How do you unblock myspace and other stuff from school?
+Myspace, youtube and more ......................
+
+This Question Has Been Asked For Years Now,
+Personally I Am Normal Good At Hacking [Msn/Facebook] But The School Sofware/Virus Protecter Is 2 Strong To Hack Into, Contact me The School Program They use That Stops You From Goin On Them And I Will See What I can Do 4 Ya
+As stated before, there have been questions like this been asked before you.
+
+The best way to unblock your schools filter and get on sites like Facebook, Myspace etc, is a proxy server.
+
+Here is an up to date list of proxy servers:
+
+http://www.digitalcybersoft.com/ProxyList/fresh-proxy-list.shtml
+
+If your school has blocked proxy servers (like mine for instance) there is no possible way.
+
+Anyways, you shouldn't be on Myspace etc at school. The school's computers are there for learning, not for Facebook MSN and what not.
+You have to go through a proxy otherwise you're going to have to hack your school's network and they're not going to be real happy with you if you do that.
+
+Search for proxy servers on the net. There's plenty of them and tutorials out there but do be advised that any sysadmin worth their salt, which I'm guessing most HS ones aren't since they're not paid enough, is going to block a proxy as soon as they discover it being used but you'll be able to use it for a bit.
+
+Good luck!
+All proxies are the same and all get blocked by the web filters just as easily.
+My favorite proxy to use is http://www.guardtunnel.com - works at my school.
+
+It has like everything - Facebook/YouTube/MySpace support, SSL Encryption (very hard to block, and safe to use), not too many ads, and its really fast!  Plus it has an ad-free version that I use, you just gotta fill out a quick 2 minute survey - http://www.guardtunnel.com/ad-free/
+
+Hope I helped you out!
+use 1 of the below
+
+redlock.info
+greenlock.info
+musicweapon.info
+yahooisfun.info
+googleisfun.info
+newcampus.info
+oldcampus.info
+
+proxies get blocked very fast..to get Fresh Proxies right to 
+
+your mail
+ join the group
+http://tech.groups.yahoo.com/group/getaproxy/join
+here are some random proxies
+
+
+freelight.ueuo.com
+
+spaceship.6te.net
+
+darkninja.coolpage.biz
+
+lovelywind.orgfree.com
+
+littlestar.freeoda.com
+
+
+
+I hope it would be helpfully for you

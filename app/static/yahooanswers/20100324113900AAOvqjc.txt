@@ -1,0 +1,8 @@
+I cannot access internet but can call with skype.What is the problem?
+I use Windows Vista in my Compaq laptop.Last time I am going to install Norton anti-virus I failed.After that time I cannot access internet but can call with Skype.What is the problem?Please solve my problem.
+
+Sometimes Skype is just showing you that you are online and you can chat or call someone but the real think is that your internet is down.It might be a bug from Skype Co.
+For the internet you should try going to My Computer>My Network Places>Network Connections 
+and click on the network connection than you go to support and press repair.If this won't work you should call your internet co.
+I installed Skype awhile back to check it out. Everything started acting up. I did a little research and found out it my be the Skype. Uninstalled it and sure enough that was the problem. Hope this helps. Good Luck.
+The network connections can be 'repaired'. There is an option in Windows Vista to solve problems with connections. If you apply it to the network connection you use to access the internet, it will most surely solve your problem.

@@ -1,0 +1,16 @@
+I have a virus on my computer and it won't go away.. how do i get rid of it?
+i'm not very good at this sort of thing..
+
+Try to download One Button Checkup. It has like a little black hat and magician wand on the icon. Its a scanner and it scans all virus' on the computer and other really bad stuff on it. I have it and it works great and some of my virus' were gone! I hope this helps :)
+Use working computer and do this. make a bootable cd  from here. http://www.techmixer.com/free-bootable-antivirus-rescue-cds-download-list/   ~
+Do you have an antivirus software installed?  if you don't you first need to install one, I recommend avg free.  If you do check it to make sure it is up to date and then restart your computer and as soon as it shows the screen with all the tech info, the first one that comes up start hitting f8. Keep pressing it till it offers you a menu then use the arrow buttons and enter button to select safemode.
+Safemode basically disables everything which isn't needed for windows to run and makes sure the virus cant put up a fight when you try to remove it because some viruses cant be removed while they are running.  Then run your antivirus program and make it scan the whole computer. delete anything it flags up.  Hope this helps you.
+I find mccafee is a good protector. So here is what you do. Download McCafee (Norton works too) and do a full scan of your computer. Then, a message will pop up saying; 1 virus/trojan has been found. Do you wish to delete it? Check yes. If that doesn't work, you will need to get a new computer :(
+You can use SpywareNoMore. 
+As we all know Computer hackers seeking financial gain rather than thrills or notoriety are increasingly flooding the Internet with malicious software code (spyware, adware, key loggers, trojans). They are infecting computers with highly sophisticated programs that record surfing habits, bank passwords and other key financial data and send them to crooks over the Internet. These programs can be hard to spot, disguised in downloads such as toolbars, search engines, browser accessories, screen savers and other seemingly helpful utilities.
+
+SpyNoMore anti-spyware safeguards your identity and restores system performance through fast, smart and powerful spyware protection.
+http://www.dvd-rip-software.com/Other-Software/Other_Tools/SpyNoMore.html
+antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com

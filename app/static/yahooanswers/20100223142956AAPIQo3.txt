@@ -1,0 +1,49 @@
+How do I get my own '.com' website without spending much money?
+I'm trying to set up a non-profit website and I've been looking up domains and things like that but most of it seems like it's going to cost about $10 a month or more. I don't really want to spend $100 a year on this website, although it is important to me to start it. Any advice?
+
+Web Hosting and your domain name costs a bit over $50 per year.
+
+http://www.godaddy.com
+Sorry, But www.godaddy.com is very cheap domains good luck!
+dfdhgswghfshdbhg
+freewebs.com its free!
+You get what you pay for.
+
+To have your own domain inside .com or .org, you have to pay a registration fee. These are typically around $15/year and you can't get around them. This reserves the name for your use but doesn't supply anything to actually do anything with it.
+
+GoDaddy offers hosting for as little as $5/month, see my first link. With registration, that would cost you about $72 for a year.
+
+Another possibility is to start out with free hosting without your own domain name and then use a domain registrar who provides free URL redirection (second link). The way this works is as follows:
+
+1) You register for a free web site at any service you like. (Search for 'free web hosting'.) Note that most of these are ad supported.
+
+2) You get the URL for your web site, it will be something like http://www.somehostingcomapny.com/mywebsitename/
+
+3) You then register for a .com or .org address with a provider that offers URL redirection and configure their redirection service to redirect http://www.yourwebsitenet.com/ to http://www.somehostingcomapny.com/mywebsitename/
+
+This will allow people to get to your web site by entering your domain name, although their address bar will immediately change to the longer, uglier address.
+
+You can upgrade to paid hosting later, and people will still be able to find your site assuming they didn't bookmark the inside pages.
+
+This will get your cost down to $15/year. But the huge downside is that any links inside your web site that become popular will be lost if you move to paid hosting.
+You need both a domain name and hosting in order to create a website.
+
+I recommend one of these: http://www.tophostingpicks.com
+
+iPage has the best offer right now.
+Their standard price is $84/year ($6.95) but they have
+a 50% sale, one year of hosting for $42.00.
+
+Their plan includes:
+
+Unlimited disk space
+Unlimited bandwidth
+Free domain name
+
+Price: $42/year ($3.50)
+
+They have one of the most popular hosting platforms, which currently hosts over a million websites. They're also one of the oldest hosting companies, founded in 1998.
+
+They include a free point & click online site builder so you can create a website without any programming (easily, just by drag and drop) or you could install Wordpress (they include easy, one click install from their control panel), choose a theme that you like, and start adding content.
+
+They also have a great custom control panel with OneClick installs of all the popular software like Wordpress, Joomla, Forums, Chat, Galleries, Online stores and a lot more.

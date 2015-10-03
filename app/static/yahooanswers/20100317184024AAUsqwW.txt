@@ -1,0 +1,11 @@
+How to edit a blog, and add music?
+Ive just started a blog, and I'd like to be able to make it my own. How do I do things like add music to my page, or upload a new background for the blog itself? Please and Thanks. 
+Pretend I know nothing and walk me thru it please. I have no idea what Im doing.
+blogspot.com
+Does that help any?
+
+It all depends on the blogging platform you're using.  blogger has a plug-in (or a software) that you can just add onto the blog and it will automatically play music after you upload it onto blogger
+
+Wordpress, however, is another story.  You'll need to, again, download a plug in that will allow you to put music on the website.
+
+Hope this helps!

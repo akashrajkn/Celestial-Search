@@ -1,0 +1,21 @@
+How do I add a picture into the Description on my tumblr?
+I love my layout on tumblr but I would like to add a picture into my description can anyone help me?
+this is my tumblr, www.dirrty-little-secrets.tumblr.com
+
+Thanks xo
+
+Login to your tumblr account
+http://www.tumblr.com/login
+
+from the dashboard select photo and upload from your computer; there is also a built-in app to take a snap of yourself.
+
+Have fun.
+
+OK Sorry! I think I misread your question. You need to edit your Description by visiting the Customize area and clicking the info tab
+see here
+http://www.upload3r.com/serve/230310/1269335722.jpg
+
+you can add HTML code directly to the description box (or upload a photo) but you will need to host the photo somewhere - most free hosts will also add an advertising banner. Remember to choose your theme before clicking SAVE.
+
+Try uploadr to host your PIC - you can copy the HTML code directly and paste it into the description box 
+http://www.upload3r.com/index.php

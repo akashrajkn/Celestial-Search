@@ -1,0 +1,16 @@
+I keep getting email scams sent to me?
+I have a hotmail account, and every day I get 3-4 emails from different addresses saying that I have payment transfers of a few million $ waiting for me. Unless I have gotten incredibly lucky all of a sudden, how can I stop this type of bullsh*t coming through?
+
+Welcome to the Internet. Mark it as spam or otherwise ignore it. You can't stop them.
+Block the senders! Welcome to the internet!
+There's really not much you can do. Anytime you use your email address somewhere, it will end up on a spam list of some sorts.  But whatever you do - never open the emails and especially click on the links.  Some spam sites thrive off of users that try to "unsubscribe" by taking the email addresses and putting them on even more spam lists.
+You def didn't get lucky lol.... there are some browsers that help to block phising emails and websites, pretty sure internet explorer has that option. If they are from the same address, put the address on the spam/junk email senders list. and that would fix the problem too.
+There is an option to mark them as SPAM, hotmail will stop them to appear in your inbox. I use GMAIL as its very good is keeping off the spam mails, it has great filters but then hotmail has to be educated, once done it will keep away the junk.
+
+You have to select the mail and mark it as SPAM
+
+Regards
+Nobody knows. Sorry. Everyone has this problem.
+
+I have a small mail server just for my family members. We get about 56,000 spam emails totaling 220MB in an average month.
+Get rid of hotmail. Really. It's old and busted. Try gmail. I use gmail and yahoo mail, and both do a decent job of filtering spam. In yahoo mail, I always identify the spam, I don't know if it helps or not.

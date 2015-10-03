@@ -1,0 +1,46 @@
+How do I register just the domain name?
+Hi everyone, 
+Firstly, this is is my first question on yahoo answers, so I don't know how to deal with its system properly, so forgive me for that!
+
+Coming to my question, now - I have a blog which is hosted on blogger - And the link to the blog is - http://virgin-blogging.blogspot.com/  - Now, the problem/or the query is, that I want to get myself JUST THE NAME for my blog, specifically a domain name. Example: thevirginblog.co.in, or similar domain name! And I do NOT want my blog to be hosted else where, I want to continue posting on my blogger account, and also use the domain without any issue. 
+
+I know, I am sounding some what unclear, but, I'm sure once the answers start coming in, maybe... I'll be able to release what I actually want to convey! And if you've actually understood, what I'm trying to say, just help me with it!
+
+Just go to http://www.domain.com and register your domain. You can link it to your site hosted anywhere you like.
+hey just go to godaddy.com...
+
+u will get all domain names...
+its the biggest regestra
+Don¡¯t trust any cheap service, many of them don¡¯t allow you to have full control on your domain name. If you¡¯re going to buy domain names,  refer to:
+
+http://www.goldpuma.com/
+
+GoldPuma is the lowest cost service which is full-featured and really works for you ($9.99 /year). They offer free extras with every domain name:
+
+Quick Blogcast
+Hosting with Web site builder
+Personalized Email Account
+Starter Web Page For Sale/ Parked Page
+Domain Parking
+Domain Forwarding
+Domain Masking
+100-Pack Email Forwarding
+Total DNS Control
+Change of Registration
+Status Alerts
+Domain Locking
+¡­
+Hi this not a big problem just register a domain name. once you have your domain just do a domain name forwarding. step by step instruction
+Go to www.net4gains.com
+They will take care of everything.
+Going by your query, i think you need to know a non-technical answer to your problem.So here it's:
+
+If you choose to buy just the domain name and not the hosting. Then what will happen is-- although your new name virgin-blogging.com will be with the company from where you buy the name, but the hosting part will still remain with blogger or more correctly GHS(Google Hosting Service).
+
+So, when you put the new name to your present blogspot blog ,every time someone loads your blog-- the browser will search for the server of the name providing company for the files i.e. the hosting aspect. But as you know, they are not with the name provider they are with blogger or GHS.
+
+So after buying the domain, tell the company of purchase to point your CNAME to GHS.
+
+Once done, you have to change the publishing tab in your blogger account. And within 48 hours you're new blog starts showing.
+
+Hope you find the answer useful.

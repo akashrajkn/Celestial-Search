@@ -1,0 +1,6 @@
+why won't my internet explorer play internet radio station PANDORA?
+
+
+Download, run Malwarebytes, ccleaner, reset IE8 to Default in Options, Advanced and restart PC...Go to Adobe Flash Player website and make sure you have it installed and it's working...
+Use another browser.
+Go to filehippo.com and download Firefox

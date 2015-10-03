@@ -1,0 +1,15 @@
+Can someone help me with my internet issue?
+The computer I'm using in my room is really far away from the router (on the other side of the house and on the floor above it), so the connection is almost always unstable, slow or both. Even the kitchen computer is always stable and many times faster, I prefer the one in my room for studying since there's no noise. The thing is that this instability makes it so difficult to accomplish anything, so I've pretty much given up on using the internet upstairs. However, when I use the internet on my ipod from the same location, the connection is fairly slow, but still a lot more stable.
+
+There's a phone line in my room. I've already tried hooking up a modem to it, but I haven't had any luck with that because according to a representative of my internet provider, it's meant for a phone only, unlike the phone lines in my kitchen. I was just wondering if there are any adapters that I could use to make my modem work with this phone line. I'm mainly looking for an answer to the modem part, but other tips regarding internet access and connection in my room would also be helpful.
+
+Thanks in advance.
+
+get a wireless adapter with an antenna
+http://images.google.com/images?hl=en&source=hp&q=wireless%20adapter%20antenna
+mine will pick up a wireless signal about a mile away
+hmmm ur predicament is troubling
+ur ISP rep meant that it's a totally different line, in other words u don't have a net connection on that one.
+I'd recommend either moving the router u have or getting a wireless repeater, little bit of trouble either way but worth it :P
+If u have wireless G wait a couple more months, the wireless N standard has been fully ratified now which should see the advent of some great advances in wireless tech + price drops :P
+if theres more than one computer being used at the same time then it will be slow, routers are designed to run one computer at a time not the whole house full at the same time.

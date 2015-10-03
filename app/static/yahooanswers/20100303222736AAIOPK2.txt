@@ -1,0 +1,8 @@
+Please help me out in this.?
+I got metacafe installed on my hdd and when my window was corrupted and all the videos were gone but they are still present in my hard drive.Is there any way i can get my videos back in metacafe?
+
+if the videos are still present in you harddisk. 
+go get a good live cd and boot up using it./
+then goto the partition where the videos are stored then copy it to any portable storage device, like flash drives.
+
+Take your harddisk, goto any of ur frnds with a computer, attache this harddisk as secondary, then bootup their system, then copy it to wherever u want.

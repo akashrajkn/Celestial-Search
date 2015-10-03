@@ -1,0 +1,15 @@
+Can You Solve The Riddle Of The Weird Address?
+A college classroom is filled with students for the 1st day of the course. The professor walks into the room for the first time. He hands out some paperwork for them to complete, including their names, addresses, and telephone numbers, and level (freshman, sophomore, junior, or senior).
+
+The students complete the paperwork and the professor collects it. The professor looks puzzled. One paper says, under "Address", it says. . .
+
+"128.112.203.#  LOL !!"
+
+The professor says, "OK, who's the smart aleck in here? No jokes, please."
+
+What kind of course is the teacher probably teaching?
+
+And, for the smart ppl in here, which university is probably hosting this course?
+
+computer science, and MIT or harvard
+Princeton owns the 128.112.203.xxx IP address block.

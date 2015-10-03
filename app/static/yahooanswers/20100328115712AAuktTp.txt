@@ -1,0 +1,4 @@
+What's wrong with my Mozilla Firefox?
+I've just been logging in to check my emails (Hotmail and Yahoo) and on both occasions Firefox is telling me these are untrusted sites. I also went on a well known football team's site to buy tickets and again when logging in I was told the site cannot be trusted. I have been on these sites many times before - why is it coming up as the sites being untrusted? I've run my anti-virus/spyware software and no threats have been found.
+
+Check your security setting within Firefox and you can add both sites to your trusted list. I am not sure what version of Firefox you're running but I've heard from a few people now about some bugs in the latest version 3.6.2. You also might have plugins installed that either need to be updated or removed for compatibility issues.

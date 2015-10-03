@@ -1,0 +1,4 @@
+"Top Sites" feature disappeared from safari browser?
+running it on pc.. top sites option is suddenly gone, tried reinstall no use.. tsk, I liked this browser.
+
+Try going to Safari's settings, and set your homepage as 'top sites'. Everytime you open the browser it should appear

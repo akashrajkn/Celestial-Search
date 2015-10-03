@@ -1,0 +1,27 @@
+How do I delete Internet Explorer 8?
+I just downloaded Internet Explorer 8 onto my laptop, but now I want to delete it, so I can Download Google Chrome (which I hear is better)... Can someone help me?
+                             Thanks :)
+
+Uninstall it MAYBE?!
+Go to Control Panel, then to Add And Remove Programs. IE8 should be there.
+Internet Explorer can not be deleted. No matter how much you want it gone, its never going away.
+you can't delete IE (of any version)
+
+after you install Chrome it will become your primary browser, so IE will never bother you.
+You don't need to delete it.  Actually, in newer versions of Windows, you can't.  Just download Google Chrome and use it instead of Internet Explorer, and say "Yes" when it asks you if you want to make it your default browser.
+To uninstall Internet Explorer 8, follow these steps:
+
+   1. Close all programs.
+   2. Click Start button, and then click Control Panel.
+   3. Under Programs, click Uninstall a program.
+   4. In the tasks pane, click Turn Windows features on or off.
+   5. In the list of windows features, clear the check box next to Internet Explorer 8.
+   6. You receive a warning message in a pop-up window. Click Yes.
+If you have Windows XP, you can revert back to version 7. Windows 7 originally comes with IE8 so you cant remove it.
+
+In Windows XP, go to Add/Remove programs...Check the box that says "Show Updates" and you will see Internet Explorer 8 in the list of updates, if you uninstall it, you will be reverted to version 7 (or the previous version you had. But you cannot fully uninstall Internet Explorer from WIndows, it is a core componenent for a lot of functions in the OS
+You go to Windows Update > View Update History (on the left-hand side of the dialog box). Then at the top, click the "Installed Updates" link right next to the 'To remove an update' prompt. Then search for the Internet Explorer 8 update (you won't find it in the Add/Remove Program because it's an update to IE 7). *
+
+P.S. - You might need to restart your laptop after uninstalling IE 8 to revert back to IE 7 :)
+
+* If you have Windows Vista; while Windows 7 is default and cannot be removed.

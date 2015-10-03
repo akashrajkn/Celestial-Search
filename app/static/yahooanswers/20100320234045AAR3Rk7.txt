@@ -1,0 +1,9 @@
+Internet- Browser problems!?
+My internet service provider is Bell, and last week I switched from the 60GB per month to 40 GB per month, and apparently it was supposed to be faster with the 40 GB.
+I've noticed it isnt faster, and actually slower, and to make matters worse, every time I have my P2P program running (utorrent) (it doesnt matter the download rate), every time I try to open a web browser it says, 'server not found: problem loading page'
+Have any of you had the same problem..because if its just me, then it mught be my interenet or firewall setting or soemthing.
+Any suggestions?
+
+P2P clients like utottents choke the networks.
+Try to exit then surf on browser !
+update browser

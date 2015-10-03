@@ -1,0 +1,24 @@
+How to fix this problem on Internet Explorer browser?
+It just happened today. When I search web pages on Google, yahoo etc , and when I click " Back "  or " " Forward " arrow on the Toolbar nothing happens. I just can not return to te Previous page nor can i go to the next page. Is there any Shortcut on the keyboard which i could use for going back or forward?
+---------------------------
+Windows 7 Ultimate
+Internet Explorer
+
+Alright, start by getting firefox.
+
+
+.. And now you're all good.
+yes, you can return to previous page pressing backspace key. to go next page press right arrow key but without clicking on the page........................................
+Chrome and the newly released Opera 10.5 are THE best.
+Opera 10.5 is the fastest browser along with chrome..It also sports a great number of features.
+Chrome is just soo simple and fast.
+Delete System32.
+Get Google Chrome, Its the best browser out there.
+If your pc has error, you can check your pc health online:
+http://pc-check-tools.com/PC_Error
+If your pc has error, you can check your pc health online:
+http://registry.tp5pro.com/PC_Error
+If your pc has error, you can check your pc health online:
+http://registry.tp5pro.com/PC_Error
+If your pc has error, you can check your pc health online:
+http://registry.tp5pro.com/PC_Error

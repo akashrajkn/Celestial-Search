@@ -1,0 +1,13 @@
+Can my IP address be found this way?
+If I speak to you on youtube through a youtube account and then close that youtube account, can an ordinary person trace the IP address of the computer that opened that account?  I already asked this question on here and a couple of people answered and said they could.  But when I type someone's youtube address into a ip tracker online, it either says invalid, because I type in the exact web address of the youtube profile, or it only gives me youtube's ip address.
+
+So, can you trace the ip address of a computer through youtube even if that youtube account is now closed?  I'm not talking about people that work at youtube, because they obviously know, I'm talking about everyday internet users.
+
+You  can't get it through the YouTube web address because the IP address you get from that is the IP where the website is hosted, in this case YouTube. You need access to YouTube's server logs in order to find the IP addresses of the people using YouTube. Which means that no, normal users can't track your IP address, even if you kept the account open.
+No , because on youtube you are not directly connected to the users computer that you are chatting to , You are both connected through the youtube server , the only IP you will see is the IP of youtube.com .
+
+Users IP addresses are hidden , and only youtube themselves can see them .
+This information is not publicly available, although I'm sure youtube.com keeps track of it. If someone were to hack into a youtube server and were actively looking for it, yes, it's possible. However, it's quite far-fetched and very unlikely.
+If you have a warrant from a legitimate law enforcement agency, you can get the IP. 
+
+If you are an average Joe, no, you can't get that information.

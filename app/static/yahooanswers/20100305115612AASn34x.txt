@@ -1,0 +1,6 @@
+How do I change the look of my Firefox browser.?
+I started a short while ago & set the "skin"? to be AVATAR which is getting annoying as the eyes on it are getting distracting. How can I change this to something else?
+
+Firefox has many "Themes" for your browser. See the page with the options below.
+
+http://customize.org/firefox

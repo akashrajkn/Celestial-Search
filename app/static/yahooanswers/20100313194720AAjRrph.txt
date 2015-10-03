@@ -1,0 +1,29 @@
+why does Firefox keep redirecting me to myspace or facebook?
+everytime i open a new tab from google search, it leads to myspace of facebook or something else and i have to close it and re-open the link 
+
+is it a virus?
+
+:/
+
+Aww, poor Sora-chan. I had a similar problem recently, where I click a link and it redirects me to some other website. :-(
+I found out that it was a hijacker virus. I was worried since it was my first time removing a virus all by myself. But I finally erased it!
+
+In my case, it didn't redirect me to MySpace or Facebook, but just to some spam site. But I used this program called Malwarebytes. It really works when removing viruses and stuff. Here's the site to download it:
+http://malwarebytes.org/
+Just click "Download free version."
+
+When you finish downloading it,
+
+1) Open the program.
+2) Click Perform Full Scan. It's best to close out all programs that are running, including this Firefox page.
+3) Now wait... a very long time, sadly.
+4) When it's finished, it should tell you how many objects are infected. Click Show Results, and it should lead you to the Quarantine tab.
+5) Select them all (if they are not selected already), and click Delete All. All the viruses should be gone.
+
+By the way, a notepad might pop up during the time. It's just a log, so don't worry about it.
+
+If you don't have one already, I recommend you get a anti-virus software. I have McAfee now, and it's pretty good. But you have to pay for it... >_>
+
+Well, I hope this helps! Sorry if I spoke too "technical." >.< 
+If you need more help, just Email me! :D
+Good luck!

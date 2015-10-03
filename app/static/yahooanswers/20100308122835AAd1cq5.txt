@@ -1,0 +1,9 @@
+Embedding videos on my blog?
+I know how to get the youtube embedding code and post it but when I do it cuts off one half of the video - it is blocked by my side bars. 
+
+I'm using eblogger?
+
+All you need to do is copy the "embed code" above the description of the video, then when adding a post in eblogger click the "html" tab and copy and paste the code wherever you would like to video, then it will come up when you publish the post!
+You might want to know these two tutorials that tell you how to add video to blog - 
+http://www.flash-video-mx.com/webplayer-resources/add-videos-to-blog.html
+http://www.playerdiy.com/blog/make-youtube-video-auto-play-in-myspace-profile/

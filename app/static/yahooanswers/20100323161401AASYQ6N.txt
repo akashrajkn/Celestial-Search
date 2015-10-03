@@ -1,0 +1,4 @@
+How do I save a frame from YouTube video and save to desktop?
+I'm not very computer savy --
+
+This is quite simple. First, go to the video and make it full screen (if you want). if you are using a mac, you press and hold command-shift-3 to take a shot of the whole screen. To take a shot of just a portion of the screen hold command-shift-4 and drag the mouse to where you want the shot to be.      If you are using a pc, look at the top right corner of your keyboard and you should see a button called print screen. When pressed it will take a picture of the screen. You will have to find where it saves though as I'm not 100% sure it will save to your desktop. Hope this helps :D

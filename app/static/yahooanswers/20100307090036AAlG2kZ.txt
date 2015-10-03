@@ -1,0 +1,5 @@
+internet explorer 8 please help.?
+im running firefox browser at the moment but i need to run internet explorer 8 to do a on line course. ive don loaded exploer 8 onto my xp lap top. but i cant get it to work. please help. thanks. ive clicked the work of line tab but it still wont work.. help
+
+Have you tried rebooting since you installed it?
+you have not really explained the problem your having very well to start with the work offline option in file menu should not have a tick beside it when you installed IE8 have you been able to load any web pages at all ? if your running firefox has IE8 asked you if you want it to be the default browser if so try saying yes try uninstalling IE8 and reinstalling it if firefox works then it should not be your internet connection that is the problem sorry i could not help more here without more information. good luck.

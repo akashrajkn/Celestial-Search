@@ -1,0 +1,16 @@
+How to send large amounts of emails/newsletters without them being seen as spam?
+I have gathered quite a lot of contacts in my database (around 20,000) and I want to start sending monthly Newsletters to everyone. Could you please tell me how to do it fast and without being perceived as spam (I do not intend to add any attachements in my emails). I am using MS Outlook software. Any tips or free software links are welcome. Thanks
+
+There should be a check box section at the side of your contacts, mark them all and click send ( some accounts require you to compose the email after you have added the contacts.
+You can send an email but it does not matter how many people you send the email to.
+
+It depends on what the spam filter at the other end sees as spam.
+
+One way to stop it going into people's spam filters is to tell them to add your email address to their contact address book.
+If it's not actual spam, it won't be seen as spam. If it's spam, it will be seen as spam and there's nothing you do about it.
+
+Is your newsletter commercial? Do you have permission to contact these people by email?
+
+Here's a good tip: If you're not sending spam, state specifically in the email how (and ideally, when) you got permission to email that person. That way, they won't send a spam complaint. For example: "You are receiving this email because a computer with the IP address 1.2.3.4 requested our newsletter at the website www.example.com. We sent a confirmation email to <foo@example.com> and received an opt-in from IP address 4.3.2.1 on 3/16/2010. If you wish to receive no further emails, click this link. ..."
+
+It is *very* important to keep track of exactly how you got each email and how you obtained the right to send emails to it. That way, if anyone does complain about spam, you can prove it's not.

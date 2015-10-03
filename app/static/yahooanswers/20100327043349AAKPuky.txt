@@ -1,0 +1,17 @@
+How fast are your FILE downloads with Verizon DSL 1Mbps or 3Mbps?
+My friend is interested in getting Verizon DSL.  
+
+He can't get cable because he's getting free cable  TV.  He didn't switch it on himself, it was just like that when he moved in.  If the cable company goes to install internet at his house, they will figure out he's getting cable for free.  (I know, it's kind of wrong, but that's not the point of this question.)  
+
+I have cable and I know it's fast.  But a file only downloads at about 800kbps on cable (a fraction of the overall speed).  So if he can get somewhere near that with DSL I know he'll be fine.  I want to know how fast a file downloads from Verizon DSL on their 1Mbps or 3Mbps plan.  I'm pretty sure just "surfing the internet" won't be a problem. 
+
+I'm sure some of you guys can help.  If you know the speed, don't forget to say whether it's the 1Mb or 3Mb plan.
+
+Did u notice that 1 Mb(megabits) not 1 MB( mega bytes)
+
+so 1 Mb/s = 1/8 MB/s =125KB/s[actual speed because smallest meaningful unit in computer is a byte(8 bits)] . computer uses ascii which is an 8 bit code
+
+similarly 3Mb/s=3/8 MB/s=375KB/s
+
+again 800kbps= 100KB/s (close to 125KB/s) =1Mb plan
+which takes 10sec to download a 1MB file

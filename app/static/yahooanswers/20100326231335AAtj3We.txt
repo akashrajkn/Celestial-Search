@@ -1,0 +1,44 @@
+How do I send video files over 30MB via email?
+Is there a website that allows you to host them for free other than youtube, something more exclusive and personal that you don't have to be a member of to view the videos? Or is there a program that will make the files smaller so I don't have to split the video up? I tried converting it to something else but it's still too big to send through email and it's only 7 minutes long.
+
+Here's a way to share your large (video) files with your friends:
+
+It's easy, use this simple to use program called  HJSplit.
+
+Split your video file into easily managed chunks,  
+for example, split it into chunks of about 10MB each or 20MB each,  then you may
+email these smaller chunks in separate emails to your friend.
+
+Invite your friend to download HJSplit to recombine them together.
+
+The download link for HJSplit:
+http://www.freebyte.com/hjsplit/
+OR:
+http://hjsplit.en.softonic.com/download
+
+As an alternate option, you may install the ZumoDrive software, 
+ZumoDrive allows you to upload and share (the links) your files with others.
+
+( The recipient does not need to have ZumoDrive installed to receive your files.)
+
+http://www.zumodrive.com/
+
+As an alternative, you may use Rapidshare instead, 
+but, Rapidshare is not free in the premium version.
+http://rapidshare.com/
+Upload your file to Rapishare. Send the link that Rapidshare gives you to your friends. Now they can easily download the file. You do not need to be a premium user to upload files onto or download from Radipshare.
+I recommend you use this software £ºE.M. Total Video Converter.
+It¡¯s a piece of extremely powerful and full-featured converter software that supports almost all video and audio  formats. The software is designed to convert video for your mobile video player as 3gp, mp4, PSP, PS3, iPod, iPhone etc and also VCD or DVD player, XBOX360
+http://www.google.com/search?q=Total+Video+Converter+&rls=com.microsoft:*:IE-SearchBox&ie=UTF-8&oe=UTF-8&sourceid=ie7&rlz=1I7GGLL_zh-CN
+http://www.effectmatrix.com/total-video-converter/index.htm
+Hi, to reduce your video size, you can try a video converter program to help you do this, i share Total Video Converter 
+Download here:
+http://www.macsoftreviews.com/aiseesoft-total-video-converter.html
+
+Step 1: Install and Run the Converter
+Step 2: Click "Add File" to add your video files.
+Step 3: you can find one format that meets your requirement from the "Profile" drop-down list 
+Step 4: Click the "Setting" button at the right of the "profile" drop-down list to set the important parameters: Video Bitrate, Audio Bitrate, Frame Rate and Video Size.
+For a high image/sound quality you can increase the value of Video/Audio Bitirate and for a compressed file you can decrease the value.
+After doing the steps above, you can click "start" button to start conversion.
+hope this helps.

@@ -1,0 +1,15 @@
+we are unable to install new internet explorer 8-9?
+we are trying to install internet explorer 8 what to do?
+
+If you're on an older computer like myself (Windows 2000), you won't be able to install.  The platform won't support it.  I had to load Firefox.  My only other option was to update my platform to XP.
+I never uninstalled my present one, I just downloaded this one.
+
+                       Internet Explorer 8
+ http://www.microsoft.com/windows/internet-explorer/
+http://support.microsoft.com/kb/956586  try here
+I read some where that xp is out dated and IE 8 will not run on it If you are bumping in to dynamic link library, it is refusing to download, and until you pass the WGA, it wont download.
+ IE6 will download, though, and with fire fox, I get plenty of speed.
+It would help to know what version of Windows you are running, and if you have a previous version of IE already installed.  Then we can diagnose the problem more succesfully.
+Thanks,
+Kyler
+IE8 Outreach Team

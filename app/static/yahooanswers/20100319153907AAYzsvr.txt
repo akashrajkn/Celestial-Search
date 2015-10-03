@@ -1,0 +1,4 @@
+Chat Roulette keeps shutting down!!?
+This is the first time I've tried to use chat roulette and when it asks me if i want to allow webcams, on the left hand side of the page in a little box, i click allow and firefox shuts down. I've also tried with IE and the same happens. Help anyone?
+
+Try to update flash to the new version, this should hopefully fix it..

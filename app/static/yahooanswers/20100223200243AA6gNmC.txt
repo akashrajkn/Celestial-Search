@@ -1,0 +1,27 @@
+Cannnot browse specifics internet sites?
+hi, i have a Macbook Pro, and im having problems with the internet. It happens that there are -some- internet pages that my computer doesn?t load, but most of them it does. It has nothing to do with the browser that i use, ?cause it happens with both, safari and firefox. Does anybody can help me pleaaseeee???? what should i do??? thanx a lot!! stefi
+thanx Alexander for your answer. But my roommate has the same computer and he has no problems with that. And my problems started a par weeks ago. So it doesn?t help me much what you?r saying. But thanx anyway!
+thanx, But it looks that its just me!!! And its off  a lot sites that i cant visit!! 
+What can i do?!?!?
+Thanx Balakrishnan!!! It shows me this message, for example with this page
+Safari can¡¯t open the page ¡°http://www.ficg.mx/¡± because Safari can¡¯t connect to the server ¡°www.ficg.mx¡±.
+
+Im living in Mexico, and i cant open some mexican pages too. I dont why. I think it has to be something with the setup, cause like i said, my roommate can open everything without problems (with the same computer model, the same browser, etc), and i cant. 
+Where should i look in the setups? because i?ve tried but i cant find the problem. thanx again!!
+
+This is all part of Steve Job's plan. It has started with only being able to use apple programs with apple products (iTunes). Eventually all Macs will only be able to access apple.com, but only if you use safari, some new apple internet service, from your apple made home.
+Believe it or not, the site could actually be down.  You can check that hypothesis here.
+http://downforeveryoneorjustme.com
+Which websites fail to load? Do you get any error messages or is it just a blank page?
+It could be any number of reasons, like maybe you need some plugin or extension like java or flash for the site to work, or it might be a webpage coded to work only with Internet Explorer(though such sites are relatively rare now). You could try to access the pages from a different computer/OS, using Firefox/IE so that you can rule out if something is wrong with your Macbook Pro setup.
+
+Other possibilities:
+Perhaps the sites are no longer operational. There are also websites that check your IP address and block requests from certain countries due to issues like copyright concerns. If you're in Australia or China or Iran, the relevant pages may be blocked by your ISP as part of government mandated internet censorship; certain sites are blocked by some ISPs in the UK as per recommendations by the Internet Watch Foundation, usually if suspected of containing material the IWF considers child pornography. In Australia, the labor government is determined to totally censor the internet(apparently they admire the Chinese model), but I don't know for sure to what extent these plans have been implemented at present.
+In most of these cases you ought to get an error message though or be redirected to a page with the info that the site is blocked, though I think in Australia silent blocking is planned, the list of banned sites is secret and you just won't be able to access the site.
+Try to use some kind of antifilters, such as Ultrasurf (www.ultrasearch.com). 
+
+Download it free and install it. Then go to your Internet Explorer and try to visit the mentioned web sites.
+
+If the problem got sold, then you can use 127.0.0.1 (for IP) and 9666 (for port) in the Proxy settings on other browsers ( eg. firefox and .. ).
+
+Good Luck

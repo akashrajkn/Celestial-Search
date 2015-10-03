@@ -1,0 +1,6 @@
+what is error #124 when I loaded  a website?
+when http://chatroulette.com/ was loaded i got error #124 Error 124 this is what i got: (net::ERR_WINSOCK_UNEXPECTED_WRITTEN_BYTES): Unknown error.
+
+this website has now moved to :
+
+www.chatroulette.com

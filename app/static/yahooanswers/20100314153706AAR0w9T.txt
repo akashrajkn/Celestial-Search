@@ -1,0 +1,11 @@
+is there a way to trace the origins of a picture...?
+I don't really know how to ask this...but...I suppose I'll start by trying to give a scenario;
+
+let's say...someone steals a picture of mine of off facebook or myspace or WHATEVER. they show it to someone else who has no connections to me whatsoever.
+
+is there a way for that person to trace that picture and find it somewhere on the internet? only having that said picture as a resource.
+
+
+like...you know?
+
+Try http://tineye.com. It will do a reverse image search for you.

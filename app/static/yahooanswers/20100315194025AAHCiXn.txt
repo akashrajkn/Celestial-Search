@@ -1,0 +1,4 @@
+How do I connect to the internet?
+I used to have a laptop using wifi.I had a problem,so I rebooted it.Now I can't connect to the internet via direct line nor wifi(No wifi icon on the computer).I need help in the two conditions(connection via cable and via wifi)
+
+go to connect to and find internet connnections that r not locked

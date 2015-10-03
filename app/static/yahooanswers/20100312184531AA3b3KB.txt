@@ -1,0 +1,69 @@
+My Internet Explorer Won't Work?
+Well, whenever I open it up, it tries to load but then it opens another window and it would say "Would You Like to Run or Save This File?" and whenever i try run, it won't work and if i click save, it won't work either. I try it several times but still nothin. I need it to access other sites and my itunes store but can't.
+
+your shortcut to internet explorer is corrupted use the all programs menu from the start button and see if that works
+It sounds like you've become victim to a browser Hi-jack. Also for future
+record don't click on 'run' when something like this happens. Basically
+when the browser opened the Hi-jack tried to download/save a file. When
+you click 'run' it automatically runs w/e the Hi-jacker wanted you to
+download. If it was a virus then you're now even more heavily infected
+then you were before.
+
+If you're able to transfer any files onto the computer then you will need
+to download and transfer the following files onto the machine. The links
+are labeled with short details about each. They're all trusted and none
+will harm your computer.
+
+FireFox - A powerful web browser built on security and reliability in mind.
+It's been nominated the best and most secure web browser for more than
+4 years running. There's a lot of competition out there but FireFox still
+stands as my personal favorite:
+
+To download FireFox click the link below. You should be prompted to
+download after the page loads.
+http://www.mozilla.com/en-US/products/download.html?product=firefox-3.6&os=win&lang=en-US
+
+
+A-Squared. A very powerful anti-virus and anti-malware application that's
+shown amazing results on even the most infected machines. It's easy
+to install and very easy to use. Run a full system scan and wait for it
+to complete. Click on the "Download Now" button and save it to your
+hard drive like the link before.
+http://download.cnet.com/A-squared-Free/3000-8022_4-10262215.html?part=dl-6251182&subj=dl&tag=button
+
+
+
+ZoneAlarm Free and Basic firewall. Although it's free that doesn't mean
+it's going to crap out on you. With sleek looking alerts and plenty of
+advisory tips you're going to love this firewall. If you get an alert and you
+don't know what it is? Or if you're sure it's a threat. Then simply click
+decline.It takes a little getting used to but you can count on ZoneAlarm
+to always be up to date.
+
+Download ZoneAlarm
+http://download.cnet.com/ZoneAlarm/3000-10435_4-10039884.html?part=dl-69168&subj=dl&tag=button
+
+
+For added security you can also get the ZoneAlarm SpyBlocker which
+is from the same creator of ZoneAlarm, Check Point. This way you
+can block threats and help navigate from websites before any damage
+can be done.
+
+Download Spy Blocker:
+http://www.zonealarm.com/security/en-us/spyblocker-download.htm
+
+
+
+
+Keep in mind that with all of this security you will notice a small
+to medium decrease in performance. If you feel your computer
+is running too slow then feel free to disable the firewall by right
+clicking on the 'Z' icon ( also looks like red/green bars ) on the
+bottom right of your screen and click on 'Disable ZoneAlarm'.
+
+All of the software is free and has proven to be the most effective
+in the working environment. If you have any questions feel free
+to ask.
+
+
+ - Hex

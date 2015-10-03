@@ -1,0 +1,16 @@
+internet  can't browse the internet?
+my mom has dsl xp dsektop well she say she can check her emails can;t browse the web. she called her isp went into some settings that did not fix it. any ideals ? thanks
+internet explorer 7 no proxy
+
+Well. It would help if you went and told people what browser you were using. Chances are if she can check her email than she is using an email client and is not really online. 
+
+First check your internet connection. 
+If it is fine than make sure that your computer is hooked up directly to the internet NOT through a proxy.
+People get all pissed of at their ISP's but this is hardly ever the cause. Can other computers in your house browse the web?
+
+Finally download and install another web-browser. If this doesn't work than you proably have a registry problem.
+With the little information provided, it is impossible to determine the problem. 
+
+Most ISPs provide a self support tool (program) that was installed on your computer when you did the initial set up. That will test your set up & tell you what's wrong. Look in the Start menu or Start > Programs. Mine is called SBC Self Support Tool because I have SBC DSL. Click it & it will run a wizard & test your system & then provide possible solutions. If those solutions fail to solve the problem, a call to your ISP is the next step. You may have to pay to have someone come out to fix it, if it can't be solved over the phone.
+
+...

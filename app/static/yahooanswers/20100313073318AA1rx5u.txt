@@ -1,0 +1,26 @@
+What's going on with Babblesex now?
+It won't even pull up the site for me, it goes to a godaddy.com page and says this website is parked for free. I checked throughout the day and the site came up twice for me but it still won't come up. Does anyone else have this problem?
+
+Yea I'm having the same problem. Maybe they forgot to pay their bills. Guess all we can do is check back every now and then to see if anything has changed. Dunno what else to do...
+Yeah i'm having the exact same problem, really fricken annoying to be honest :3
+hope it's fixed soon =/
+Edit: The issue has been resolved but may still temporarily affect you locally. 
+
+If you have made the temporary change I gave, I would suggest removing it and seeing if you can still connect to the site. (You may want to reboot to clear out any local caching.) 
+
+The WHOIS registration on GoDaddy (the domain registrar) for the babblesex.com domain is cited below. It shows that the domain was renewed 15-Mar-2010. Using Kloth.Net's NSLOOKUP for babblesex.com returned the correct IP address -- 174.37.22.18. (server: localhost, Query: A (IP address))
+
+Original answer:
+The domain expired.
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: BABBLESEX.COM
+      Created on: 11-Mar-07
+      Expires on: 11-Mar-10
+      Last Updated on: 14-Oct-08
+
+Add these three lines temporarily to your hosts file under C:\WINDOWS\system32\drivers\etc\
+
+174.37.22.18 www.babblesex.com
+174.36.228.186 babblesex.com
+174.36.228.186 livehubs.com

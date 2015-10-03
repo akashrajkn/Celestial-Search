@@ -1,0 +1,24 @@
+Disconnecting from internet?
+I'm having trouble disconnecting from my internet. Usually I turn my computer on, type in my password and I'm connected. Then I can click 'disconnect' and it will disconnect. Now it asks for my password but I can still get onto the internet without it and MSN logs on automatically. This is bad because I want to log out so I can get into a proxy internet thing which is a faster connection. 
+
+I have tired going to 'my computer' - 'network connections' - 'local area connection' and disconnect but that just cuts me off completely. I have also tried turning it off and pulling out the network cord. Can any one help at all? I hope I made the situation clear enough.
+What proxy internet thing? 
+Ok, its hard to explain. I live in university accommodation and am connected to the network. I pay for my own internet (the one that wont disconnect) but can also access my internet account through the uni. Ive used up all my quota for my internet so want to use the uni's which is faster.
+
+ 
+What does the screen look like when it asks for your password?
+Just - Username :
+          Password:
+
+Are you connecting to a wireless network?
+Nope I have a ethernet cable
+ 
+What is the difference between disabling local area connection and your normal 'disconnect'?
+Well ones under the heading of 'boradband' while the other is under 'LAN'
+
+You do not have enough information here.
+What proxy internet thing?
+What does the screen look like when it asks for your password?
+Are you connecting to a wireless network?
+What is the difference between disabling local area connection and your normal 'disconnect'?
+Contact your local ISP

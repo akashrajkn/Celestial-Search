@@ -1,0 +1,16 @@
+Why won't my internet work?
+I have a Dell Inspiron 9 Mini Netbook with the Ubuntu Linux operating system. I work off of a WIFI network for Shasta College. I try to click on my browser icon and it says that my internet is loading but then stops and disappears. Its getting very frustrating and I need to figure out why it is doing that.
+
+It could be a myriad of issues. 
+
+Assuming it has worked before, I will rule out incompatible drivers and anything having to do with the actual hardware (but you never know).
+
+I'm also assuming that you're receiving a full signal on the wifi.
+
+Software settings are probably the issue. 
+
+Check your connection settings. Are you TCP/IP settings set to dynamic or static? Are you running any firewall/antivirus that is blocking certain ports?
+
+Most College campuses require that you install some additional software before being allowed to connect to their wifi network. You might be missing that software (again, you never know). I would give Shasta IT department a quick call to see if they have any recommendations for you.
+Install Mozilla  Firefox  and an other browsing software.
+Click on the network icon (upper-right hand corner) and make sure you are indeed connected to your college's wireless network.

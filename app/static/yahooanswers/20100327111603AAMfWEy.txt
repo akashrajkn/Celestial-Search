@@ -1,0 +1,9 @@
+mozilla firefox crashes at certain websites?
+I'm using Windows XP SP2 and my browser in Firefox, after i installed FF, some websites are always crashing. it always show about the send to microsoft or don't send then it automatically closes FF. I updated my flash player, but still it crashes. even IE8 crashes.. what should I do ? my FF version is 3.6.2
+
+Websites that crashes:
+nba.com
+yahoo.com
+gmanews.tv
+
+Try install windows service pack 3

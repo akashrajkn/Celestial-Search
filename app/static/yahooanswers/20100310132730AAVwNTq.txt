@@ -1,0 +1,12 @@
+Does the County Board Of Education know what ur doing all the time?
+Do they know when ur on a computer at school? (Before and after school).... Like getting past the school web filter? :/
+
+most schools have spyware and keyloggers on their computers.
+in other words, every keystroke you make is recorded.
+The LAN Administrator has FULL access to all the computers logs on that Network.  The log CAN (if setup and properly configured) tell which web site any computer on that Network has visited or attempted to access, and all the e-mail sent and received by the computer. (normally Headers only).  
+
+The log will show all attempts to get around the schools filter and which computer the attempt came from.  
+
+If you are on a school computer just figure EVERYTHING you do on the computer CAN be monitored.  
+
+Reality check-- It CAN be monitored but school IT personnel have a lot more important things to do than see if a student is trying to access his/her My Space or Facebook account.   But if they have a reason to look it WILL show up.

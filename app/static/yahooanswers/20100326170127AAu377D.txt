@@ -1,0 +1,25 @@
+Why does the wrong website come up?
+I type what web site I want in my browser and when the results come up I then clink on the link and a different web site comes up. I then have to click the back button and click the link again and then it will take me where I wanted to go in the first place. This is happening a lot now. Why?
+
+You may have malware on your computer that is hijacking your browser. Run a scan with Malwarebytes. 
+
+http://www.malwarebytes.org/
+Dear Friend,
+
+Your system may have infected by a Malware, so the problem persits. You may try the following steps:
+
+1. Disconnect to the internet.
+
+2. Open Microsoft Internet Explorer.
+
+3. Click Tools -> Manage Add-Ons.
+
+4. In the "Show" drop-down box, select "All Add-Ons".
+
+5. Disable all the suspicious add-ons, mostly those who does not have any Publisher Name.
+
+6. Restart Microsoft Internet Explorer and connect to the internet.
+
+* * * * *
+If you need assitance, mail at: vikas.jnpt@yahoo.in
+* * * * *

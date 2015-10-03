@@ -1,0 +1,18 @@
+Why does Internet Explorer freeze up?
+I constantly get a IE is Not responding message. Why is it freezing up and not responding so often?
+
+my guess would be that you have a virus
+
+scan your PC
+Sometimes IE8 needs to be Reset back to Default in Options, Advanced. I would also use Malwarebytes, Hitman Pro, ccleaner and Restart PC...
+The Windows operating system constantly refers to the registry to get information about all of the components such as hardware and software which are installed on the computer. The registry tells Windows what to do and how to access the various programs, files, and processes.However, the registry can contain bad information which sends Windows off doing useless tasks or running unneeded routines. Sometimes errors occur including the freezeing. Other times the system slows down. Because of the sheer number of factors that can affect the registry, there¡¯s no one size fits all approach. You can¡¯t just go into the registry and remove the bad information because it¡¯s nearly impossible to decipher which information is good and which information is bad. That¡¯s a job better suited for software. I should like to commend Registry Easy http://computer-e-book-money.com            to you ! You can try ! Good luck!
+The most common cause of computer freezes is a corrupt registry.
+Corruption within your registry keys, registry classes, and registry settings are the most common causes of Windows error messages.
+ The Computer registry is a database that stores all of your computer
+settings. The computer registry becomes more complex as you use your computer. The more programs you use the greater the chance your
+computer registry will develop errors and become bloated over time. Without cleaning the registry on a regular basis it is very likely that your PC will freeze.
+
+Cleaning the Windows registry improves the performance of your computer and will reduce the number of PC freezes. The Registry cleaner cleans the registry and frees up Windows registry space.
+ 
+Completely clean your windows registry with a few clicks of the mouse
+http://fix-computer-freezing.com

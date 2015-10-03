@@ -1,0 +1,16 @@
+Chatroulette problem - webcam only fills 1/4 of the box?
+Chatroulette used to work fine. It was completely good and normal. 
+I'm not sure why it changed, but now my webcam only fills up 1/4 of the black box. Ive tried asking people if my webcam fills the entire box on their screen, but no one will answer, they just stare at the screen blankly like morons.
+
+I've tried editing my settings to make it bigger to fill the box but it won't let me change it.
+
+I'm not sure why, but I think it may be because I installed Skype. However earlier today it wasn't working properly, and when I restarted my laptop and tried again, it filled the entire box. I've restarted my laptop 3 times in the last half an hour and tried both IE and Google Chrome but its the same on both.
+
+I also think it may be happening since they updated the website. It was down for maintenance and I think it could be since then that it hasn't been working. 
+
+Has this happened to anyone else? And how can I fix it? Any ideas?
+
+I haven't had this problem, but I have had other issues.
+If you look to the bottom of the page you will see an option to go to the "old version" try this link it works for me every time
+Hope this helps 
+Good luck

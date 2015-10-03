@@ -1,0 +1,10 @@
+HELP ROUTER, INTERNET, VERIZON!!!!!?
+Hello I have  a problem with my internet connection and i am completely lost. I have two desktop and my father's desktop is connected to the Verizon Internet, and the router( idk if its that) the one that connect with the phone cable. So its downstair, i live on the second floor and i am currently using Netgear wireless-G Usb 2.0 adapter. But i am not sure why but the internet on the second floor is a lot slower(maybe because wireless) but sometimes its very slow. Is there anyway to make the internet connection on the second floor faster? Can you tell me if i  should buy a better wireless router ? If i do can you please tell me which type i should buy? Thanks for your time for reading my problem and have a great day..
+I dont mind buying the cable but i live on the second floor so the ethernet cable wouldn't reach there unless i drill holes in my house. and i cant put the modem thingy in my room because there is no phone line that s connecting to my room. is there anythning i can buy to make my internet faster? should i buy a wireless router? is the wireless router same as my netgear usb adapter? thanks for the answer and hv a great day!
+
+if that's possible ,change connection to LAN cable . That way you'll have the best performance .
+
+but if you can't ,you can use a signal repeater that can power the wireless signal up !!
+If your PC is useing XP..that's most likely the issue..
+I just rebuilt my XP-Professional computer into a Windows 7 PC.
+Radio slow, LAN fast. Measure the run, go buy a cable.

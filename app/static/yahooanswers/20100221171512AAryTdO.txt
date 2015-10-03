@@ -1,0 +1,8 @@
+Can my parents see that I am using their internet connection?
+I am currently using a computer that I enabled with a wifi adapter that he doesn't know has internet connectivity. I'm afraid to log onto our house's network (I know the password) that has the best signal strength just because when I was on the computer I'm supposed to be using he could enable or disenable internet via *his* computer. Does this give him the ability to see what computers are on the connection, including foreign computers? He is using Windows Vista Parental Controls (or something that comes with windows Vista)
+
+He will be able to see the IP address and the computer name of computers using it but not what you are looking at on the web.
+Well I have uverse and the wireless gateway, I can see who's on my network, so yes he probably could. And he could also lock you out, which you probably deserve being such a sneaky little b_____d.
+Yes.
+
+Why don't you just talk to him?  What are you afraid of???

@@ -1,0 +1,12 @@
+What is PHP warning??!?
+Every time I try to open page I get this:
+
+PHP Warning: include(classes/box.php) [function.include]: failed to open stream: No such file or directory in D:\websites\ukwwwroot\product.php on line 50 PHP Warning: include() [function.include]: Failed opening 'classes/box.php' for inclusion (include_path='C:\php528nts\pear;d:\websites\ukwwwroot') in D:\websites\ukwwwroot\product.php on line 50 PHP Warning: include(classes/category.php) [function.include]: failed to open stream: No such file or directory in D:\websites\ukwwwroot\product.php on line 51 PHP Warning: include() [function.include]: Failed opening 'classes/category.php' for inclusion (include_path='C:\php528nts\pear;d:\websites\ukwwwroot') in D:\websites\ukwwwroot\product.php on line 51 PHP Warning: include(includes/functions/language_functions.inc.php) [function.include]: failed to open stream: No such file or directory in D:\websites\ukwwwroot\product.php on line 58 PHP Warning: include() [function.include]: Failed opening 'includes/functions/language_functions.inc.php' for inclusion (include_path='C:\php528nts\pear;d:\websites\ukwwwroot') in D:\websites\ukwwwroot\product.php on line 58
+
+It's because it cant find the file. Make sure the file exists in the relative path (so if D:\websites\ukwwwroot\classes\box.php) . If it fail, you can type the absolute path ( Like D:\websites\ukwwwroot\product.php )
+Also, to verify the relative path, you can use the dir function in php to see if the path exists ( directory / and /classes )
+
+Seeing the source can help me to help you ... !
+Server side scripting is 'broken' .. I would guess the site you are visiting is 'under construction' and the owner has left it in a non-working state .. 
+
+By the look of it, the site code has been uploaded with 'absolute' instead of 'relative' path names .. (easy thing to do if you can't be bothered to pay for proper site maintenance)

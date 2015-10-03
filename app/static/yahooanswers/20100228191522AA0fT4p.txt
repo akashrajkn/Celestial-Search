@@ -1,0 +1,13 @@
+How do you get that add-on in firefox that "shuffles"  and goes to a different website?
+I got firefox and my friend had it before and she had this thing at the top that said a word that made it go to a random website. Ithink it started w/ d... also how do you get the like/dislike button?
+
+I'm pretty sure this is what you are talking about: http://www.stumbleupon.com/ .  Here is a direct link to the add-on installation (click on Accept on the pop-up/dialog/toolbar that comes up): http://www.stumbleupon.com/stumbleupon.xpi .
+I love Stumbleupon...
+but if it started with a d, it's probably de.lic.ious
+
+Direct link to one of the delicious addons below.
+https://addons.mozilla.org/en-US/firefox/addon/3615
+
+To discover new addons for yourself go to the addons.mozilla.org page, and look for things of interest. Or search for keywords.
+Stumble upon.
+add on link http://www.stumbleupon.com/

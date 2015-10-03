@@ -1,0 +1,4 @@
+if you send money via xoom, will the recipient see your address and full name?
+i don't want the recipient to see my name and address, is that possible?
+
+all they see is the name of your account which does not have to be your real name.

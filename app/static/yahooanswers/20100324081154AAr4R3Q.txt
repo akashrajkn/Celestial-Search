@@ -1,0 +1,20 @@
+Why does Firefox use less data than Explorer?
+I have an internet service that charges for amount of data used or downloaded monthly. I have noticed that using Firefox to browse uses significantly less data than using Windows Explorer.
+Can anyone explain this or how to get Explorer to run as efficiently as Firefox?
+
+You might be using Adblock plus (Firefox extension), which prevents advertising in webpages from being downloaded and displayed in your browser. 
+
+IE8 has no adblocking utility of the sort, so every time you view a page (MSN for example) it loads up all the annoying flash ads which chews up your valuable download quota.
+Fire fox is designed to run better than internet explorer...that's why everyone is switching...
+fire fox uses less data because it saves images often used when browsing in its cache..and explorer loads the same image every time u refresh the page...
+
+in order for Firefox to fully reload an image fire you would have to click the refresh botton 2- 3 time back to back..
+Firefox may download less than Internet Explorer because Explorer uses a technique called "prefetching", which automatically downloads some of the links on the page so that they look like they load faster.  This is fine on a connection that isn't metered, but on one that charges for data amounts, yeah, it's a bit of a problem.
+
+I don't think there's specifically a way to get Explorer to run more efficiently (I am a Firefox/Opera user and haven't opened up IE in ages), but here are some tips for further reducing your data usage:
+
+*Use the Firefox addon "Ad Block Plus".  It, plus a "list subscription" (most people recommend Easylist), will prevent your computer from downloading advertisements.  Since a lot of advertisements are really large files (and some may contain viruses! viruses like using your bandwidth too), this will reduce your data usage.
+
+*Opera comes with a feature called "Turbo" which compresses pages and images before it sends them to you.  If you can spare the bandwidth to download Opera in the first place, this can save you a significant amount of data usage, too.  If you want to switch to another browser, of course!  :P
+You can't do anything with Explorer. As with all Microsoft Programs they work relatively fine but they are cumbersome and overdone with eminence amounts of code and programming that isn't necessary. Whereas Firefox is Open source, and is Streamlined for efficiency, and workability.
+I am a little bit confused as to why you would choose an Internet Service Provider that charges by the amount of data sent. I am not aware of any providers in the US that do this, It is a rip off if they do.

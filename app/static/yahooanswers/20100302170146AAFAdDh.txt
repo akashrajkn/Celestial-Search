@@ -1,0 +1,23 @@
+Why is z-index working in Firefox and Chrome but not in IE?
+I have a DIV that "drops down" when you click on a link using JavaScript. It works exactly as it is supposed to in Firefox and Chrome. In IE, the DIV displays beneath the elements after it in the markup.
+
+The Z-index is set to 10000...
+
+This is the URL
+http://www.calientetropics.com/palm-springs-pool.php
+Click on the navigation link that says "Site Search" and notice the white box that appears beneath it.
+
+Any suggestions?
+***I haven't tried in Safari or Opera because I don't have those browsers installed on my work comp, so would also be great if someone could let me know how it looks in them.
+
+I looked at your source.
+
+Have you tried just changing the positioning to relative and then positioning it with a relative position with your JS call?  I see you are using absolute positioning and this might cause an issue with IE even though you are Z indexing it.
+Watch out with the javascript in Opera. The word on th street (okay, maybe not the street, the forums) is that they're gonna be using a different engine than they have in the past. It should be a non-issue,,but you never know.
+
+I don't have the technical knwledge of javascript to help you with your problem, but I just thought I'd give you the heads-up.
+
+Regards,
+
+Lucien Briscoe
+OK listen up everyone! Micro$oft IE is a piece of Sh!t, but people still use it, so developers have to adapt. We don't like it and IE users don't ether because most website look like when you are using IE. Why does Micro$ft do it to us? Because they can!!! Why don't they just adopt Web-Kit (like everyone else) I don't know. They have a fully functional IE with web-kit. But they won't release it. IE 9 lets hope. As for the answer to your question try this http://brenelz.com/blog/squish-the-internet-explorer-z-index-bug/ I apologize for my rant.

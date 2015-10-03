@@ -1,0 +1,9 @@
+How long does paypal hold your money?
+I sold a item on ebay and was wondering when it wont be on "hold" or "pending"?
+
+Thanks,
+
+It should be right away. There might be a small problem, you should send an email to PayPal.
+Youre a new seller Im assuming?
+They will release the funds when 1) 21 days have passed since the auction has ended 2) when the buyer leaves you feedback or 3) if you send paypal the tracking info
+It could also be an echeque if its 'pending' These take anywhere from 5-10 days to clear

@@ -1,0 +1,7 @@
+I am having an irritating problem with my Internet.  (Please see below).?
+It doesn't matter which search engine I use (yahoo, google, msn etc) when I click on something for example Barclays Bank, the page always redirects to something different, I then have to click "back" to the search engine and click on Barclays for a second time, then it goes to the correct page. I have defragged the laptop, ccleaned it, virus and malware scanned it (no problems are reported) and nothing seems to work. Any suggestions? Thanks!
+
+Sounds like a browser hijack
+Do them as saved cookies / favourites instead when you have got to the correct page
+Look in your installed programmes there may be a browser add on appeared that is interfering with your browser
+check for a pop-up blocker

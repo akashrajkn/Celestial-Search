@@ -1,0 +1,5 @@
+browser redirecting me to different site?
+every time i try to search
+
+Browsers just read a webpage and display it for you. They in themselves don't re-direct. If you're being re-directed it will be because the website you are visiting is telling your browser to re-direct you. I can't tell you anything more than that without you giving more details as to what site this is happening on and where you're being re-directed to.
+If your web browser is redirecting you to a different site, most likely it's caused by some sort of Spyware, Malware, etc. Scan your computer, if nothing is detected try uninstalling & reinstalling your browser.Check your firewall settings & spam filter settings.

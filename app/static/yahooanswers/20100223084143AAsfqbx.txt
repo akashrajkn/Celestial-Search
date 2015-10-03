@@ -1,0 +1,4 @@
+In Firefox how do you customize tabs to open up to your home page on each tab?
+
+
+Open your tabs exactly as you want it to look when you open Firefox.  Click on Tools --> Options.  Click on General.  Click on "Use Current Page/s".  Click OK.  Done :).

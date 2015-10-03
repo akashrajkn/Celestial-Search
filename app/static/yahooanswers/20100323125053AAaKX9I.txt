@@ -1,0 +1,13 @@
+Internet explorer problem !?
+okay, so everytime I go to google and type in something and then click on a site i want to go to, another page pops up and go to different ads and definatley not the site i wanted in the first place.
+its really frustrating because I am trying to write an essay but every site I want to go to for research doesnt work. 
+Please help !!
+
+do not use internet explorer. it's a terrible browser.
+downloaded google chrome or mozilla firefox.
+spyware attckkkkkkkkkkkkkkk or melaware..........
+try this good info 
+http://www.eppleblogs.com/how-to-stop-annyoing-popups.html
+It sounds to me like your computer has a nasty case of malware infections.  Likely, there is some malicious program running in the background that is automatically redirecting you to other sites.  I'd suggest downloading Malwarebytes Anti-Malware and/or Spybot Search & Destroy.  Install and run those utilities to clear up the root problem.
+
+Second, quit using Internet Explorer.  Use Firefox instead.  Using Internet Explorer and complaining about problems is like driving a car without a steering wheel and complaining when you run off the road.

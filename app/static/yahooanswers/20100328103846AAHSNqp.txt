@@ -1,0 +1,16 @@
+Cant browse internet??
+Recently, my computer was infected by a couple of Trojan horses, but AVG got rid of them. now whenever I try to open up internet explorer or firefox, it shows an error message. None of my programs can connect to the internet. When i go to Control Panel > Network Conections, It says that i am connected to the internet. All my other computers and ps3 and iphone can connect to the internet, It is just that computer that cant connect. How do I fix this?
+
+Try downloading google chrome or opera and reinstall ie and firefox. Try superantispyware to get rid or other stuff hidding in your system. Asquared found a virus that was hidden in my computer for 3 years try that as well. It is ranked #1 and can find 99.8% percent or malware.
+Start > Run > type "cmd"> Black window appears> type ipconfig > check the ip address should not be 169.....
+1) restart the computer
+2) keep tapping F8 button till you get adv boot options
+3) select Safe Mode With Networking
+4) and try connecting to internet then will definately get thru
+5) If it gets thru boot up again Normally and scan the computer again and chk if other softwares like Yahoo messenger work
+6) Open Internet Explorer and goto tools> Internet Options> Advanced Tab> Reset Internet Explorer 
+5) Also remove AVG (http://www.avg.com/in-en/download-tools) as AVG is not a good antivirus soft 
+7) Download Avast from www.avast.com
+8) Also register it from (www.avast.com/registration-free-antivirus.php) and you'll get a free 1 year licence key and believe me it works better than any other antivirus coz i've practically experienced it
+
+You can write to me on my mail address if the problem persists "iamzuberkhan@yahoo.com"

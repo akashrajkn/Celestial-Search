@@ -1,0 +1,16 @@
+Why does my firefox take so long to load?
+I am a tech guru, but I cannot figure out why firefox takes so long to load! It takes 45 seconds!!!!
+
+i7 860 2.93GHz
+4GB DDR3 1600MHz
+x2 (crossfire) HD 2600 Pro 512MB
+firefox just takes forever to open up as in the program itself. Internet is 20Mbps down, no prob there. IE is much faster.
+
+THAT IS ALMOST NORMAL USE SAFARI
+Nice specs. I used to have a dell Inspiron 5100 that took about 5 minutes to open anything. Does everything else open properly? You could try re installing firefox.
+is it actually firefox doesn't appear or that ur net's uber slow?
+in the latter case check ur modem/router, net connection an firewall,
+also may wanna reset ur tcp ip stack
+
+try using ie? any difference? once positive firefox is screwed, attempt a re-install (backup bookmarks/add ons b4 doing this).
+maybe its ur computer my firefox only takes 15 seconds to open

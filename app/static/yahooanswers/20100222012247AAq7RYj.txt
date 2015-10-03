@@ -1,0 +1,14 @@
+Is there a way to make Internet Explorer start when I log in?
+When I log in can I make Internet Explorer (8) start straight away? Also I have XP.
+
+Thanks
+
+Go to START -> Programs -> Startup
+Right click on Startup then click explore.
+Now just drag your Internet Explorer shortcut to that folder.
+
+Now Internet Explorer will start every time you log in :)
+Yes, simply copy the shortcut for Internet Explorer to Start > All Programms > Startup.
+Right-click the Internet Explorer shortcut and select copy, click Start>> programs>> start up menu and paste in there.
+Yes, Copy Internet-Explorer to Start --> All Programs --> Start-up.
+But it sill slow you computer down

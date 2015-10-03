@@ -1,0 +1,15 @@
+i have an internet connection but internet explorer wont work, help?
+when i open up internet explorer it says "this page cannot be displayed" but i can sign into msn messenger, i dont understand why i cant use internet explorer, any ideas?
+i tried to download mozila but u need a browser to download another one
+
+ping some numerical IP address and see if works. 
+
+eg: ping 66.249.91.104
+
+If it works, you just need to fix your nameserver addresses. You most likely made a typographical error when entering them or something. Or maybe you have DHCP enabled in your OS but turned off in your router or something trivial like that.
+download Firefox. it is much better than explorer and its free, and much more user friendly, u can customize it however you want. 
+http://www.mozilla.com/en-US/firefox/upgrade.html
+http://www.mozilla.com
+
+--P. Swain
+Try to restore your computer back before it happened. If all fails use your software to reboot. If you delete that file it will cost you about $125 to buy it at Office Max, etc because its not a free down load

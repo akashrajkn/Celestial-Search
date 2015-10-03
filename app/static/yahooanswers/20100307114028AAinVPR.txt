@@ -1,0 +1,5 @@
+Why does microsoft internet explorer window keep popping up?
+It's my dads laptop. It is a windows xp I believe. It doesn't have a link it's one of those "help" pages I would say, the icon to the left of the title has a paper and a yellow question mark to the right of it and next to it, it reads "Microsoft Internet Explorer" and inside the screen would say "Setting up an Internet connection" I do not understand because the internet connection is set up. I have no clue what to do please help, I'm not to savy with computers.
+
+security is warning you are in a unsafe web-site or something is trying to down-load something unsafe on to the site?
+I can only suggest using a different browser. What is popping up may be Malware on the computer. I have never seen this kind of message, so I have no answer.
