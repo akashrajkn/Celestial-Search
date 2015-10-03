@@ -10,7 +10,7 @@ import timeit
 import html2text
 
 # Number of documents to be indexed. None for indexing all documents.
-LIMIT = 100
+LIMIT = 50
 
 IGNORE_STOPWORDS = True
 IGNORE_NUMBERS = True
