@@ -186,13 +186,13 @@ params:
 """
 def boolean_NOT(right_operand, indexed_docIDs):
     if (not right_operand):
-        return indexed_docIDs
+        return [(id, 0) for id in indexed_docIDs]
 
     result = []
     r_index = 0
     for item in indexed_docIDs:
-        if (item != right_operand[r_index]):
-            result.append(item)
+        if (item != right_operand[r_index][0]):
+            result.append((item, 0))
         elif (r_index + 1 < len(right_operand)):
             r_index += 1
     return result

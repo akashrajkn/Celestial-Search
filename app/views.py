@@ -26,11 +26,21 @@ def query():
 
         results = sorted(results, key=lambda x: x[1], reverse=True)
 
-        output = ''
+        output = []
         for docID, count in results:
-            output += 'DocID: ' + str(docID) + ' Count: ' + str(count) + ' Link: ' + '<a href=".' + corpus_path + docs[int(docID)] + '">' + docs[int(docID)] + '</a>' + '</br>'
+            res = {}
+            res['docID'] = str(docID)
+            res['count'] = str(count)
+            res['link'] = corpus_path + docs[int(docID)]
+            res['caption'] = docs[int(docID)]
+            output.append(res)
+            #output += 'DocID: ' + str(docID) + ' Count: ' + str(count) + ' Link: ' + '<a href=".' + corpus_path + docs[int(docID)] + '">' + docs[int(docID)] + '</a>' + '</br>'
 
-        return qstring + '<br/><br/>Search Results: ' + output
+        #return qstring + '<br/><br/>Search Results: ' + output
+
+        return render_template('results.html', form=form, output=output)
+
+        
 
 if __name__ == '__main__':
     app.run(debug = True)

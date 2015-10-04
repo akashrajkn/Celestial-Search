@@ -4,7 +4,7 @@
       <link rel="stylesheet" href="static/pure.css">
       <link rel="stylesheet" href="static/style.css">
   </head>
-  
+
   <body style="background:#1f8dd6">
       <div>
 	  <div class="splash">
@@ -15,6 +15,21 @@
 		      {{form.hidden_tag()}} {{form.querytext.label}} &nbsp;&nbsp;&nbsp;&nbsp; {{form.querytext}} &nbsp;&nbsp;&nbsp;&nbsp;
 		      <button type="submit" class="pure-button pure-button-primary">Search</button>
 		  </form>
+	      </div>
+
+	      <div class="list-div">
+		  <h2 align="left" style="color:white;">Results: </h2>
+		  <ul>
+		      {% for item in output %}
+		      <li align="left">
+			  <b><a href="{{ item.link }}">{{ item.caption }}</a></b> </br>
+			  DocID: {{item.docID}} </br>
+			  Count: {{item.count}} </br>
+			  </br>
+			  </br>
+		      </li>
+		      {% endfor %}
+		  </ul>
 	      </div>
 	  </div>
       </div>
